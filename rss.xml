@@ -4,11 +4,514 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Wed, 17 Feb 2021 15:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2021 16:47:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[德国DAX 30指数初步收跌1.20%，报13896.52点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7214563.d.html</link>
+            <guid>2029030</guid>
+            <pubDate>Wed, 17 Feb 2021 16:36:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收跌0.84%，报415.62点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7214554.d.html</link>
+            <guid>2029029</guid>
+            <pubDate>Wed, 17 Feb 2021 16:36:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约检察官起诉CoinSeed。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6231415.d.html</link>
+            <guid>2029028</guid>
+            <pubDate>Wed, 17 Feb 2021 16:35:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京重点商企春节入账超54亿，同比增长43.1%】北京市商务局公布的统计数据显示，今年春节7天假期，重点监测的百家企业(涵盖百货、超市、专业专卖店、餐饮、电商等业态)实现销售额54.7亿元，同比(农历日)增长43.1%，较2019年增长15.5%，其中实体业态(涵盖百货、超市、专业专卖店、餐饮)同比增长59.5%，较2019年增长14.4%。北京市文化和旅游局公布的数据显示，今年春节假期，北京市接待旅游总人数663.2万人次，同比增长3.5倍；旅游总收入42.5亿元，同比增长2.9倍。值得注意的是，“就地过年”使得市民在京游人数显著攀升，达到491.1万人次，同比增长7.3倍；接待外省来京旅游者172.1万人次，同比增长96.5%。（新京报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7214496.d.html</link>
+            <guid>2029027</guid>
+            <pubDate>Wed, 17 Feb 2021 16:35:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  AT&T：受冬季风暴影响的地区网络运行良好，接近正常水平的99%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7214059.d.html</link>
+            <guid>2029026</guid>
+            <pubDate>Wed, 17 Feb 2021 16:30:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  委内瑞拉总统马杜罗：将从明天开始为医务人员接种新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6230789.d.html</link>
+            <guid>2029025</guid>
+            <pubDate>Wed, 17 Feb 2021 16:28:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫新冠检测协调员约翰逊：政府拨款6.5亿美元用于检测病毒以推进学校重新开学。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6230781.d.html</link>
+            <guid>2029024</guid>
+            <pubDate>Wed, 17 Feb 2021 16:28:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫新冠检测协调员约翰逊：联邦政府将在三个领域投资160亿美元进行病毒检测。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6230701.d.html</link>
+            <guid>2029023</guid>
+            <pubDate>Wed, 17 Feb 2021 16:27:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[空白支票公司SportsTek Acquisition上市首日开盘价报10.35美元，IPO价为每股10美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7213753.d.html</link>
+            <guid>2029022</guid>
+            <pubDate>Wed, 17 Feb 2021 16:26:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICE美元指数上涨逾0.4%，刷新2月8日以来高位至91.00上方。英镑兑美元下跌0.5%，刷新2月12日以来低点至1.3830。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7213742.d.html</link>
+            <guid>2029021</guid>
+            <pubDate>Wed, 17 Feb 2021 16:25:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[17日，外交部长王毅在北京以视频方式出席联合国安理会新冠疫苗问题部长级公开会。王毅说，中方言出必行，决定向“新冠疫苗实施计划”先提供1000万剂国产疫苗，已向53个提出要求的发展中国家提供疫苗援助，已经和正在向22个国家出口疫苗。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6230548.d.html</link>
+            <guid>2029020</guid>
+            <pubDate>Wed, 17 Feb 2021 16:25:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国家过敏症和传染病研究所所长福奇：疫苗对于降低疾病严重程度和减少传染有重要作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6230434.d.html</link>
+            <guid>2029019</guid>
+            <pubDate>Wed, 17 Feb 2021 16:23:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  现货白银快速回升0.2美元，现报27.075美元/盎司，跌幅缩窄至0.62%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6230421.d.html</link>
+            <guid>2029018</guid>
+            <pubDate>Wed, 17 Feb 2021 16:23:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中金公司支招：跟着公募买港股，最爱新经济龙头】中金公司首席策略分析师王汉锋指出，公募基金已成为港股投资的重要力量，从投资偏好来看，相比港股通南向资金整体，公募基金更加偏好新经济，且持仓逐年提升。展望未来，预期港股的新经济龙头特别是优质稀缺标的仍将受到青睐。一是优质互联网及科技新经济龙头公司；二是两地上市但港股大幅折价、估值偏低、基本面稳健或改善的公司；三是A股相对稀缺或在港股具备特色的独特公司；四是一些近期受事件影响而估值较低的龙头蓝筹公司。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6230364.d.html</link>
+            <guid>2029017</guid>
+            <pubDate>Wed, 17 Feb 2021 16:22:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国家过敏症和传染病研究所所长福奇：有关疫苗和病毒传播的疫苗指向有利的方向。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6230070.d.html</link>
+            <guid>2029016</guid>
+            <pubDate>Wed, 17 Feb 2021 16:19:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾病控制与预防中心主任瓦伦斯基（Rochelle Walensky）：美国检测到首例发现于英国布里斯托尔港口城市的新冠肺炎变异毒株感染者。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6230003.d.html</link>
+            <guid>2029015</guid>
+            <pubDate>Wed, 17 Feb 2021 16:18:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  现货白银一度下挫0.2美元，跌幅扩大到1.38%，至26.866美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6229985.d.html</link>
+            <guid>2029014</guid>
+            <pubDate>Wed, 17 Feb 2021 16:18:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金持续下挫跌破1770美元/盎司，美股黄金股普跌，巴里克黄金跌超4%，金罗斯黄金跌3.61%，金田跌3.59%，哈莫尼黄金跌3.16%，赫克拉矿业跌3.10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6229968.d.html</link>
+            <guid>2029013</guid>
+            <pubDate>Wed, 17 Feb 2021 16:18:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心主管Walensky：建议普通民众无需频繁使用N95口罩。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7213107.d.html</link>
+            <guid>2029012</guid>
+            <pubDate>Wed, 17 Feb 2021 16:17:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[
+现货黄金跌破1770关口，跌幅扩大到1.38%，续刷去年11月30日以来低点至1769.65美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7213101.d.html</link>
+            <guid>2029011</guid>
+            <pubDate>Wed, 17 Feb 2021 16:17:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银跌穿26.87美元/盎司，日内当前跌幅超过1.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7213002.d.html</link>
+            <guid>2029010</guid>
+            <pubDate>Wed, 17 Feb 2021 16:15:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新冠应对协调员齐恩斯表示，到7月底，将有足够的疫苗供3亿美国人使用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6229766.d.html</link>
+            <guid>2029009</guid>
+            <pubDate>Wed, 17 Feb 2021 16:14:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金持续下挫跌破1770美元/盎司，日内跌超1.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7212950.d.html</link>
+            <guid>2029008</guid>
+            <pubDate>Wed, 17 Feb 2021 16:14:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  微软：已确认位于南美的用户也可能会遇到收到微软团队的聊天信息时出现延迟这一问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7212911.d.html</link>
+            <guid>2029007</guid>
+            <pubDate>Wed, 17 Feb 2021 16:13:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心主管Walensky：新冠肺炎病例连续五周下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7212836.d.html</link>
+            <guid>2029006</guid>
+            <pubDate>Wed, 17 Feb 2021 16:12:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美无铅汽油期货主力刚刚刺穿1.7800美元/加仑关口，最新报1.7794美元/加仑，日图涨0.37%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7212818.d.html</link>
+            <guid>2029005</guid>
+            <pubDate>Wed, 17 Feb 2021 16:12:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[工行国际原油RMB主力期货刚刚刺穿410.00元/桶关口，最新报409.76元/桶，日图跌0.44%；工行国际原油USD主力期货最新报63.48美元/桶，日图跌0.38%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7212764.d.html</link>
+            <guid>2029004</guid>
+            <pubDate>Wed, 17 Feb 2021 16:11:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国央行副行长拉姆斯登：主要的前景是放缓量化宽松步伐。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6229529.d.html</link>
+            <guid>2029003</guid>
+            <pubDate>Wed, 17 Feb 2021 16:11:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国央行副行长拉姆斯登：乐见疫苗接种进展扫除诸多不确定性和风险，但这些不确定性和风险还没有完全消退。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6229435.d.html</link>
+            <guid>2029002</guid>
+            <pubDate>Wed, 17 Feb 2021 16:10:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伊朗总统鲁哈尼与德国总理默克尔通话讨论伊核协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7212488.d.html</link>
+            <guid>2029001</guid>
+            <pubDate>Wed, 17 Feb 2021 16:09:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国新增12718例新冠肺炎确诊病例，新增738例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6229276.d.html</link>
+            <guid>2029000</guid>
+            <pubDate>Wed, 17 Feb 2021 16:08:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行副行长拉姆斯登：如有必要，英国央行可以重新评估对于购债的部分自我设限，并创造更多（政策）空间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6229185.d.html</link>
+            <guid>2028999</guid>
+            <pubDate>Wed, 17 Feb 2021 16:07:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股激光雷达板块跌幅居前，维视图像(MVIS.O)跌近14%，Luminar(LAZR.O)跌4.56%，Velodyne(VLDR.O)跌超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7212313.d.html</link>
+            <guid>2028998</guid>
+            <pubDate>Wed, 17 Feb 2021 16:06:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行副行长拉姆斯登：英国央行继续仔细研究并沟通政策干预的潜在副作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7212295.d.html</link>
+            <guid>2028997</guid>
+            <pubDate>Wed, 17 Feb 2021 16:06:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿联酋取消对波音737MAX系列客机的禁令】当地时间2月17日，阿联酋民航总局局长赛义夫·苏瓦迪宣布取消对波音737MAX系列客机的禁令，并发布相关适航指令，允许上述机型在阿联酋领空复飞。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6229115.d.html</link>
+            <guid>2028996</guid>
+            <pubDate>Wed, 17 Feb 2021 16:06:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行副行长拉姆斯登：对负利率的研究是应急计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7212228.d.html</link>
+            <guid>2028995</guid>
+            <pubDate>Wed, 17 Feb 2021 16:05:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行副行长拉姆斯登：对我而言，量化宽松是目前边际货币工具。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6228911.d.html</link>
+            <guid>2028994</guid>
+            <pubDate>Wed, 17 Feb 2021 16:04:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约联邦储备银行数据显示，第四季度美国家庭债务总额增加2060亿美元，达到14.56万亿美元，部分原因是经济衰退。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7212065.d.html</link>
+            <guid>2028993</guid>
+            <pubDate>Wed, 17 Feb 2021 16:04:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行副行长拉姆斯登：对于量化宽松作为货币政策工具的效果有信心。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6228875.d.html</link>
+            <guid>2028992</guid>
+            <pubDate>Wed, 17 Feb 2021 16:03:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行副行长拉姆斯登：利用政策防范前景的下行风险仍是合适的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7212026.d.html</link>
+            <guid>2028991</guid>
+            <pubDate>Wed, 17 Feb 2021 16:03:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际金融协会：2020年全球债务规模飙升24万亿美元，创下281万亿美元的历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7212000.d.html</link>
+            <guid>2028990</guid>
+            <pubDate>Wed, 17 Feb 2021 16:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行副行长拉姆斯登：鉴于当前卫生和经济前景的不确定性，我仍认为当前的政策立场是合适的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7211974.d.html</link>
+            <guid>2028989</guid>
+            <pubDate>Wed, 17 Feb 2021 16:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国2月17日新增12718例新冠肺炎病例，七天增幅滚动均值为12332例。新增738例死亡病例，七天增幅滚动均值为621例。英国已经有15940972人接种了新冠肺炎疫苗的第一剂。2月15日，医院收治病例为20944例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7211940.d.html</link>
+            <guid>2028988</guid>
+            <pubDate>Wed, 17 Feb 2021 16:02:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际金融协会：预计全球政府债务再增长10万亿美元，到2021年底前总债务规模将超过92万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6228677.d.html</link>
+            <guid>2028987</guid>
+            <pubDate>Wed, 17 Feb 2021 16:01:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利新增12074例新冠肺炎确诊病例，新增369例死亡病例。]]></title>
+            <guid>2028986</guid>
+            <pubDate>Wed, 17 Feb 2021 16:01:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金快速下行逾6美元至1770.83美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6228445.d.html</link>
+            <guid>2028985</guid>
+            <pubDate>Wed, 17 Feb 2021 15:59:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  推特将员工奖金降至2020年奖金目标的7％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7211633.d.html</link>
+            <guid>2028984</guid>
+            <pubDate>Wed, 17 Feb 2021 15:58:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【南非开始首批疫苗接种】据南非政府当天消息，南非总统拉马福萨和卫生部长穆凯兹将与医疗人员成为本国第一批接受新冠肺炎疫苗接种的人。这批获得南非卫生产品管理局批准的疫苗于16日晚抵达豪登省国际机场。第一批共计8万剂强生疫苗正准备在南非各地分发。另外50万剂疫苗预计将在未来四周内送达，以及2000万剂辉瑞疫苗预计将在2021年3月底到达南非。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7211619.d.html</link>
+            <guid>2028983</guid>
+            <pubDate>Wed, 17 Feb 2021 15:57:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[跟谁学盘中跳水，现跌超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7211606.d.html</link>
+            <guid>2028982</guid>
+            <pubDate>Wed, 17 Feb 2021 15:57:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金跌逾20美元，跌幅扩大到1.17%，续刷11月30日以来低点至1773.48美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6228343.d.html</link>
+            <guid>2028981</guid>
+            <pubDate>Wed, 17 Feb 2021 15:55:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  亿航智能盘中涨幅缩窄至35%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6228325.d.html</link>
+            <guid>2028980</guid>
+            <pubDate>Wed, 17 Feb 2021 15:55:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金刷新日低，目前下跌1.16%，报1773.82美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7211506.d.html</link>
+            <guid>2028979</guid>
+            <pubDate>Wed, 17 Feb 2021 15:55:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  微软：正在调查北美用户在收到微软团队的聊天信息时出现延迟的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7211497.d.html</link>
+            <guid>2028978</guid>
+            <pubDate>Wed, 17 Feb 2021 15:54:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Youtube下月美国推测试版Youtube Shorts 现时日观看量35亿次】为与TikTok竞争，Youtube宣布3月开始将在美国推出Youtube Shorts的测试版本。Youtube去年9月已在印度市场推出Youtube Shorts，目前每日的观看量达35亿次。TikTok用户高速增长，预计今年月活跃用户将超过10亿。除了Youtube外，Facebook旗下的Instagram去年也推出15秒影片制作功能Reels，与TikTok竞争。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6228251.d.html</link>
+            <guid>2028977</guid>
+            <pubDate>Wed, 17 Feb 2021 15:54:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利新增12074例新冠肺炎确诊病例，新增369例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6228196.d.html</link>
+            <guid>2028976</guid>
+            <pubDate>Wed, 17 Feb 2021 15:53:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国休斯敦航运通道全部恢复正常通行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6228082.d.html</link>
+            <guid>2028975</guid>
+            <pubDate>Wed, 17 Feb 2021 15:51:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富国银行盘中涨幅扩大至7%，美联储据悉接受了公司关于资产上限的改革计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6228000.d.html</link>
+            <guid>2028974</guid>
+            <pubDate>Wed, 17 Feb 2021 15:49:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国最大的天然气生产商EQT公司注意到，夏季液化天然气需求将很快超过预期的市场情绪正在增长。]]></title>
+            <guid>2028973</guid>
+            <pubDate>Wed, 17 Feb 2021 15:49:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴里克黄金跌近4%，第四季度遭伯克希尔哈撒韦清仓。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7211137.d.html</link>
+            <guid>2028972</guid>
+            <pubDate>Wed, 17 Feb 2021 15:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Verizon涨4.5%，据13F文件显示，伯克希尔哈撒韦于第四季度增持该股近1400万股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6227916.d.html</link>
+            <guid>2028971</guid>
+            <pubDate>Wed, 17 Feb 2021 15:47:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国最大的天然气生产商EQT公司注意到，夏季液化天然气需求将很快超过预期的市场情绪正在增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7211084.d.html</link>
+            <guid>2028970</guid>
+            <pubDate>Wed, 17 Feb 2021 15:46:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Counterpoint Research分析公司研究显示，小米已经超越三星和苹果，成为俄罗斯2020年第四季度在线销售量最高的手机品牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7211061.d.html</link>
+            <guid>2028969</guid>
+            <pubDate>Wed, 17 Feb 2021 15:45:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【尽管建筑成本上升威胁需求前景，美国住宅建筑商信心略微上升】① 尽管建筑成本上涨可能导致需求放缓，但因低利率吸引了更多潜在买家，美国住宅建筑商信心在2月略微上升。全美住宅建筑商协会(NAHB)周三公布的数据显示，住宅建筑商信心指数从1月的83升至84，彭博调查得到的分析师预估中值为83；② 30年期抵押贷款利率自7月底以来平均不到3%，构成楼市坚挺的主要动力。同时NAHB成员表示，建筑材料尤其是木材价格飞涨，使新建住宅超出了很多人的购买能力；③ NAHB首席经济学家Robert Dietz在声明中称，由于人口结构、低抵押贷款率以及郊区向低成本市场转移，需求状况依然稳定，但我们预计2021年住宅建筑增长率将有所下降；④ 潜在买家流量指标在2月上升4点至72。同时，衡量建筑商对未来六个月预期的指数降至80的六个月低点。建筑商还报告称，目前单户型住宅销售持平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6227859.d.html</link>
+            <guid>2028968</guid>
+            <pubDate>Wed, 17 Feb 2021 15:45:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[百度盘中跌幅扩大至5%，公司将于盘后公布最新季度财报。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210930.d.html</link>
+            <guid>2028967</guid>
+            <pubDate>Wed, 17 Feb 2021 15:44:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞幸咖啡盘中涨超20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6227744.d.html</link>
+            <guid>2028966</guid>
+            <pubDate>Wed, 17 Feb 2021 15:43:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[对冲基金（行业）四季度对公用设施类股持仓市值为312亿美元，在其总体股票持仓中占比为1.5%；三季度公用设施类股的仓位占比为2.2%。其中，对Evergy增持68%，至2640万股，市值14.7亿美元，对太平洋瓦电减持24%，至46980万股，市值58.6亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6227693.d.html</link>
+            <guid>2028965</guid>
+            <pubDate>Wed, 17 Feb 2021 15:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[对冲基金（行业）四季度对通信/交通类股持仓市值为2637亿美元，在其总体股票持仓中占比为12.0%；三季度通信类股的仓位占比为9.6%。其中，对优步（Uber）增持36%，至18730万股，市值95.5亿美元，对Sirius XM控股减持44%，至5260万股，市值3.362亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6227673.d.html</link>
+            <guid>2028964</guid>
+            <pubDate>Wed, 17 Feb 2021 15:42:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[对冲基金（行业）四季度对医疗保健类股持仓市值为3100亿美元，在其总体股票持仓中占比15.0%；三季度医疗保健类股的仓位占比为13.0%。其中，对Elanco Animal Health增持341%，至5290万股，市值16.2亿美元，对Clover Health Investments减持72%，至949万股，市值1.713亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210847.d.html</link>
+            <guid>2028963</guid>
+            <pubDate>Wed, 17 Feb 2021 15:42:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[对冲基金（行业）四季度对可选消费类股持仓市值为2787亿美元，在其总体股票持仓中占比13.0%；三季度可选消费类股的仓位占比为11.0%。其中，对邮轮公司嘉年华增持273%，至5510万股，市值12.0亿美元，对蔚来汽车减持32%，至4040万股，市值19.7亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210826.d.html</link>
+            <guid>2028962</guid>
+            <pubDate>Wed, 17 Feb 2021 15:42:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[对冲基金（行业）四季度对必需消费类股持仓市值为840亿美元，在其总体股票持仓中占比3.9%；三季度必需消费类股的仓位占比为5.1%。其中，对Albertsons Cos增持1528%，至21850万股，市值38.4亿美元，对Ambev减持48%，至3990万股，市值1.222亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210804.d.html</link>
+            <guid>2028961</guid>
+            <pubDate>Wed, 17 Feb 2021 15:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[对冲基金（行业）四季度对工业类股持仓市值为1396亿美元，在其总体股票持仓中占比6.5%；三季度工业类股的仓位占比为7.8%。其中，对通用电气增持59%，至2367万股，市值25.6亿美元，对雷神科技减持27%，至3500万股，市值25.0亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210766.d.html</link>
+            <guid>2028960</guid>
+            <pubDate>Wed, 17 Feb 2021 15:41:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[对冲基金（行业）四季度对原材料类股持仓市值为711亿美元，在其总体股票持仓中占比3.3%；三季度原材料类股的仓位占比为3.0%。其中，对MP Materials增持573%，至8330万股，市值26.8亿美元，对淡水河谷减持17%，至8060万股，市值13.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210745.d.html</link>
+            <guid>2028959</guid>
+            <pubDate>Wed, 17 Feb 2021 15:41:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[对冲基金（行业）四季度对能源类股持仓市值为487亿美元，在其总体股票持仓中占比2.3%；三季度能源股的仓位占比为2.4%。其中，对NexTier Oilfield增持154%，至6170万股，市值2.123亿美元，对Southwestern Energy减持66%，至2120万股，市值0.668亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6227523.d.html</link>
+            <guid>2028958</guid>
+            <pubDate>Wed, 17 Feb 2021 15:41:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[对冲基金（行业）四季度对科技类股持股4838亿美元，在其总体股票持仓中占比23%；三季度科技股头寸占比为21%。其中，对Slack Technologies增持889%，至9980万股，市值42.2亿美元，对Palantir减持41%，至4420万股，市值10.4亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6227495.d.html</link>
+            <guid>2028957</guid>
+            <pubDate>Wed, 17 Feb 2021 15:40:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富国银行短线拉升，现涨超5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210579.d.html</link>
+            <guid>2028956</guid>
+            <pubDate>Wed, 17 Feb 2021 15:40:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[音频社交应用Clubhouse被马斯克带火之后，代码为“CMGR”的一家同名公司ClubHouse Media Group Inc.股价意外飙涨，今年以来股价已飙升1000％以上。据报道，该公司是一家“针对社交媒体网红的营销和媒体公司”，市值从1月初的2.25亿美元激增至25亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6227393.d.html</link>
+            <guid>2028955</guid>
+            <pubDate>Wed, 17 Feb 2021 15:39:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亿航智能逐条回应做空机构Wolfpack的做空报告，盘中一度拉升60%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210551.d.html</link>
+            <guid>2028954</guid>
+            <pubDate>Wed, 17 Feb 2021 15:39:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美联储接受了富国银行关于资产上限的改革计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6227329.d.html</link>
+            <guid>2028953</guid>
+            <pubDate>Wed, 17 Feb 2021 15:39:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[希腊雅典证交所综合指数收跌0.90%，报788.75点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6227324.d.html</link>
+            <guid>2028952</guid>
+            <pubDate>Wed, 17 Feb 2021 15:38:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯交易系统现金指数RTS（美元计价）初步收跌2.14%，报1462.63点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6227321.d.html</link>
+            <guid>2028951</guid>
+            <pubDate>Wed, 17 Feb 2021 15:38:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通美债客户调查显示空头比例减少，中性增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210385.d.html</link>
+            <guid>2028950</guid>
+            <pubDate>Wed, 17 Feb 2021 15:36:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑挪威克朗涨逾1%，创2月8日以来新高至8.5386。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6227176.d.html</link>
+            <guid>2028949</guid>
+            <pubDate>Wed, 17 Feb 2021 15:35:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股科技股普遍下跌，FAANMG中只有亚马逊勉强维持涨幅，Zoom跌超4%，推特跌超3%，苹果、特斯拉跌超2%；芯片股集体下跌，英伟达、AMD跌超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210318.d.html</link>
+            <guid>2028948</guid>
+            <pubDate>Wed, 17 Feb 2021 15:35:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富国银行盘中拉升，现涨近3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6227114.d.html</link>
+            <guid>2028947</guid>
+            <pubDate>Wed, 17 Feb 2021 15:34:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[对冲基金四季度增持ETF、科技股、原材料、可选消费、医疗保健、通信类股，减持能源、工业、必需消费品、公用设施类股。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210045.d.html</link>
@@ -102,503 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7209139.d.html</link>
             <guid>2028931</guid>
             <pubDate>Wed, 17 Feb 2021 15:17:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[希尔顿首席执行官：1月份集团新需求有了明显的上升，预计今年下半年将出现更明显的复苏，这将受到休闲需求增加以及集团业务大幅反弹的推动；预计基本面将在春季有所改善，在第二季度结束前，基本上所有系统范围的房间都将重新开放，但总体需求依然低迷。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7209089.d.html</link>
-            <guid>2028930</guid>
-            <pubDate>Wed, 17 Feb 2021 15:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储罗森格伦：预计在未来一两年内，通胀无法持续保持在2%左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6225909.d.html</link>
-            <guid>2028929</guid>
-            <pubDate>Wed, 17 Feb 2021 15:15:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储罗森格伦：如果通货膨胀成为一个问题，“美联储会解决它”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7209045.d.html</link>
-            <guid>2028928</guid>
-            <pubDate>Wed, 17 Feb 2021 15:15:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国得克萨斯州电网官员：希望今天能减少断电情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6225896.d.html</link>
-            <guid>2028927</guid>
-            <pubDate>Wed, 17 Feb 2021 15:15:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印度贸易部长：印度对包括美国公司在内的大型科技公司的行为感到担忧，希望保护隐私空间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6225890.d.html</link>
-            <guid>2028926</guid>
-            <pubDate>Wed, 17 Feb 2021 15:15:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【意大利那不勒斯报告该国首例“B1525”变异新冠病毒感染病例】据安莎社报道，意大利坎帕尼亚大区政府部门表示，位于那不勒斯的腓特烈二世大学及帕斯卡莱研究所在合作进行的样本检测中发现了被命名为“B1525”的变异新冠病毒，为意大利首例，但目前尚不明确其传染性及具体特征。报道称，此前英国、美国、丹麦、尼日利亚等国已出现了该变异新冠病毒的感染病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7209024.d.html</link>
-            <guid>2028925</guid>
-            <pubDate>Wed, 17 Feb 2021 15:15:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【携程春节数据：高星酒店入住订单均价超2000元 租车本地出行订单增超8成】携程发布春节大数据称，“本地游”、“酒店度假”等成为新消费趋势。数据显示，高星酒店（4星、5星）订单占比约60%，高星酒店入住订单平均价格为2906元；本地景区热度攀升，本地预订门票的订单量增长超300%；租车本地出行订单量增长82%，租车平均使用天数增长至5天，长假平均花费超过1700元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6225849.d.html</link>
-            <guid>2028924</guid>
-            <pubDate>Wed, 17 Feb 2021 15:14:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股工业大麻板块下挫】美股工业大麻板块大幅下挫，Sundial Growers跌超17%，Tilray跌超8%，极光大麻跌超6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7208982.d.html</link>
-            <guid>2028923</guid>
-            <pubDate>Wed, 17 Feb 2021 15:14:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储罗森格伦：预计通胀数据将在将在今年随着时间推移有所改善。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6225755.d.html</link>
-            <guid>2028922</guid>
-            <pubDate>Wed, 17 Feb 2021 15:13:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为64，表明市场处在贪婪状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7208916.d.html</link>
-            <guid>2028921</guid>
-            <pubDate>Wed, 17 Feb 2021 15:13:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储罗森格伦：预计未来几个月的消费将受到已经采取和可能出台的财政措施的提振。]]></title>
-            <guid>2028920</guid>
-            <pubDate>Wed, 17 Feb 2021 15:12:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国纽约市长白思豪：纽约目前拥有少于3万剂第一剂新冠肺炎疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6225665.d.html</link>
-            <guid>2028919</guid>
-            <pubDate>Wed, 17 Feb 2021 15:12:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储罗森格伦：预计未来几个月的消费将受到已经采取和可能出台的财政措施的提振。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6225544.d.html</link>
-            <guid>2028918</guid>
-            <pubDate>Wed, 17 Feb 2021 15:10:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国纽约市市长白思豪：恶劣天气正影响疫苗的供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7208702.d.html</link>
-            <guid>2028917</guid>
-            <pubDate>Wed, 17 Feb 2021 15:10:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Piper Sandler：将Moderna目标价从170美元升至208美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6225400.d.html</link>
-            <guid>2028916</guid>
-            <pubDate>Wed, 17 Feb 2021 15:09:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货铂金刚刚刺穿1250.00美元/盎司关口，最新报1248.47美元/盎司，日图跌1.32%；Nymex铂金期货主力最新报1256.5美元/盎司，日图跌1.81%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7208550.d.html</link>
-            <guid>2028915</guid>
-            <pubDate>Wed, 17 Feb 2021 15:08:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储罗森格伦：美国10年期国债增长表明市场预期美国经济将在下半年表现得更好。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7208507.d.html</link>
-            <guid>2028914</guid>
-            <pubDate>Wed, 17 Feb 2021 15:07:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亿航智能：自2017年以来，我们的AAV在41个城市和8个国家/地区进行了10,000多次试飞。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6225308.d.html</link>
-            <guid>2028913</guid>
-            <pubDate>Wed, 17 Feb 2021 15:07:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储罗森格伦：消费者将保持谨慎。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7208392.d.html</link>
-            <guid>2028912</guid>
-            <pubDate>Wed, 17 Feb 2021 15:06:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果盘中跌超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7208359.d.html</link>
-            <guid>2028911</guid>
-            <pubDate>Wed, 17 Feb 2021 15:05:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储罗森格伦：目前所有主要通胀指标都“相当低”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7208329.d.html</link>
-            <guid>2028910</guid>
-            <pubDate>Wed, 17 Feb 2021 15:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储罗森格伦：1月份的就业人数增长相对疲软。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6225106.d.html</link>
-            <guid>2028909</guid>
-            <pubDate>Wed, 17 Feb 2021 15:05:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洛克希德马丁：自去年10月以来，公司已将3年期现金预期上调9亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7208280.d.html</link>
-            <guid>2028908</guid>
-            <pubDate>Wed, 17 Feb 2021 15:04:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储罗森格伦：美国在解决劳动力市场问题上“还有很多工作要做”，差距“相当大”。]]></title>
-            <guid>2028907</guid>
-            <pubDate>Wed, 17 Feb 2021 15:04:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储罗森格伦：下半年的经济形势将有所好转，劳动力市场仍然在困境中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7208159.d.html</link>
-            <guid>2028906</guid>
-            <pubDate>Wed, 17 Feb 2021 15:03:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储罗森格伦：疫情和疫苗接种仍然决定着经济前景。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6224951.d.html</link>
-            <guid>2028905</guid>
-            <pubDate>Wed, 17 Feb 2021 15:03:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【贝莱德高管：我们已经开始涉足比特币了】2月17日，据媒体消息，全球资管巨擘贝莱德（BlackRock）固定收益首席投资官RickRieder在SquawkBox中表示，BlackRock已经开始涉足比特币了。此前报道，1月21日，贝莱德旗下至少两只基金公司正在关注加密货币领域，且该公司已批准至少两只基金可投资比特币期货产品。]]></title>
-            <guid>2028904</guid>
-            <pubDate>Wed, 17 Feb 2021 15:03:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国12月商业库存月率：前值0.50%，预期0.50%，公布0.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6224810.d.html</link>
-            <guid>2028903</guid>
-            <pubDate>Wed, 17 Feb 2021 15:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国2月NAHB房产市场指数：前值83，预期83，公布84。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7207956.d.html</link>
-            <guid>2028902</guid>
-            <pubDate>Wed, 17 Feb 2021 15:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洛克希德马丁：喷气机、卫星是未来网络的“节点”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6224655.d.html</link>
-            <guid>2028901</guid>
-            <pubDate>Wed, 17 Feb 2021 14:59:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登希望其2万亿美元基础设施支出计划将使美国经济更加绿色。如果获得通过，这也将使该国一些最大的公司受益，特别是那些从事建筑业的公司。分析指出，拜登面临的挑战将是扩大建设规模，而又不加剧工业板块中本已高企的碳排放量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6224612.d.html</link>
-            <guid>2028900</guid>
-            <pubDate>Wed, 17 Feb 2021 14:58:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  拼多多(PDD.O)盘中涨超3%，报209.06美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7207767.d.html</link>
-            <guid>2028899</guid>
-            <pubDate>Wed, 17 Feb 2021 14:58:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亿航智能：自2014年以来，我们一直专注于AAV研发。我们已经获得了来自全球领先风险投资公司的资金支持，自2017年以来，我们已在研发方面进行了约3700万美元的投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6224586.d.html</link>
-            <guid>2028898</guid>
-            <pubDate>Wed, 17 Feb 2021 14:58:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  洛克希德马丁(LMT.N)CFO Tanner：洛克希德计划向网络中心模式过渡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6224530.d.html</link>
-            <guid>2028897</guid>
-            <pubDate>Wed, 17 Feb 2021 14:57:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据《纽约时报》报道，美国州县因严寒天气造成的死亡人数升至29人。（卫星新闻）]]></title>
-            <guid>2028896</guid>
-            <pubDate>Wed, 17 Feb 2021 14:57:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【18日法、德、英、美四国将就伊朗及中东安全问题召开会议】当地时间17日，法国外交部发表公告称，法国外长勒德里昂、德国外长马斯和英国外交大臣拉布将于18日在巴黎召开会议，共同谈判伊朗问题和中东安全问题。而美国新任国务卿布林肯将通过视频的方式参加会议。2018年5月，特朗普政府单方面宣布退出伊核协议，重新对伊朗进行制裁。2019年5月，伊朗逐步中止执行伊核协议的部分条款，但承诺所采取的措施是“可逆转”的。欧洲一直希望充当美伊双方的调停者，升级现有伊核协议。（央视新闻客户端）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6224507.d.html</link>
-            <guid>2028895</guid>
-            <pubDate>Wed, 17 Feb 2021 14:57:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  天地荟(PETZ.O)盘中触发熔断，此前涨超149%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7207619.d.html</link>
-            <guid>2028894</guid>
-            <pubDate>Wed, 17 Feb 2021 14:56:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：印度向联合国所有维和人员提供新冠疫苗，这些维和人员有近9.5万名士兵，在世界各地执行12项任务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6224418.d.html</link>
-            <guid>2028893</guid>
-            <pubDate>Wed, 17 Feb 2021 14:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[油价短线上扬0.5美元，美油现报60.20美元/桶，涨0.25%；布油现报63.70美元/桶，涨0.55%。]]></title>
-            <guid>2028892</guid>
-            <pubDate>Wed, 17 Feb 2021 14:55:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  洛克希德马丁(LMT.N)CFO Tanner：公司获得了128架F-16战斗机的订单。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6224342.d.html</link>
-            <guid>2028891</guid>
-            <pubDate>Wed, 17 Feb 2021 14:55:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【贝莱德高管：我们已经开始涉足比特币了】2月17日，据CNBC消息，全球资管巨擘贝莱德(BLK.N)固定收益首席投资官RickRieder在SquawkBox中表示，BlackRock已经开始涉足比特币了。 此前报道，1月21日，贝莱德旗下至少两只基金公司正在关注加密货币领域，且该公司已批准至少两只基金可投资比特币期货产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7207546.d.html</link>
-            <guid>2028890</guid>
-            <pubDate>Wed, 17 Feb 2021 14:54:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亿航智能持续走高，现涨超50%。其回应沽空报告称鹍翔在公司IPO之前和之后都不是亿航的股东，所有与鹍翔的合同都是基于正常交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7207401.d.html</link>
-            <guid>2028889</guid>
-            <pubDate>Wed, 17 Feb 2021 14:53:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  WTI原油期货转涨，短线回升近0.4美元，此前曾一度跌超0.6%，现报60.15美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7207364.d.html</link>
-            <guid>2028888</guid>
-            <pubDate>Wed, 17 Feb 2021 14:52:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亿航智能(EH.O)复牌后涨超40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7207360.d.html</link>
-            <guid>2028887</guid>
-            <pubDate>Wed, 17 Feb 2021 14:52:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金较日低回升逾10美元，现报1784.71美元/盎司，跌幅缩窄到0.54%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6224128.d.html</link>
-            <guid>2028886</guid>
-            <pubDate>Wed, 17 Feb 2021 14:52:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  道指持续拉升，现转涨，此前一度跌约0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6224060.d.html</link>
-            <guid>2028885</guid>
-            <pubDate>Wed, 17 Feb 2021 14:51:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货铂金刚刚刺穿1260.00美元/盎司关口，最新报1260.18美元/盎司，日图跌0.40%；Nymex铂金期货主力最新报1267.3美元/盎司，日图跌0.96%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7207263.d.html</link>
-            <guid>2028884</guid>
-            <pubDate>Wed, 17 Feb 2021 14:51:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亿航智能(EH.O)盘中停牌，此前一度涨33%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7207082.d.html</link>
-            <guid>2028883</guid>
-            <pubDate>Wed, 17 Feb 2021 14:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  道琼斯工业平均指数刚刚刺穿31500.00关口，最新报31500.77，日图跌0.07%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6223592.d.html</link>
-            <guid>2028882</guid>
-            <pubDate>Wed, 17 Feb 2021 14:46:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亿航智能(EH.O)盘中涨超30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7206828.d.html</link>
-            <guid>2028881</guid>
-            <pubDate>Wed, 17 Feb 2021 14:46:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  黑莓(BB.N)跌超6%，此前遭加通贝祥下调评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6223551.d.html</link>
-            <guid>2028880</guid>
-            <pubDate>Wed, 17 Feb 2021 14:46:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国务卿布林肯：美国将在月底前向世界卫生组织支付超过2亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7206726.d.html</link>
-            <guid>2028879</guid>
-            <pubDate>Wed, 17 Feb 2021 14:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亿航智能(EH.O)涨幅扩大至20%，回应沽空报告称鹍翔在公司IPO之前和之后都不是亿航的股东，所有与鹍翔的合同都是基于正常交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7206668.d.html</link>
-            <guid>2028878</guid>
-            <pubDate>Wed, 17 Feb 2021 14:44:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国最大ATM网络LINK数据显示，自动取款机的使用在新冠疫情期间出现大幅下滑。分析指出，疫情期间体现了非接触式交易的重要性，这是一个趋势，一旦危机结束，这种趋势就不太可能扭转。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6223418.d.html</link>
-            <guid>2028877</guid>
-            <pubDate>Wed, 17 Feb 2021 14:44:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴林开始大规模接种俄罗斯人造卫星V新冠肺炎疫苗。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6223340.d.html</link>
-            <guid>2028876</guid>
-            <pubDate>Wed, 17 Feb 2021 14:43:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股工业大麻板块集体下挫，Sundial Grower跌16%，Tilray跌7.5%，极光大麻跌近4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7206362.d.html</link>
-            <guid>2028875</guid>
-            <pubDate>Wed, 17 Feb 2021 14:41:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德国DAX指数日内跌1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6222809.d.html</link>
-            <guid>2028874</guid>
-            <pubDate>Wed, 17 Feb 2021 14:39:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【摩根资产管理首席投资官：别怕市场过热 通货再膨胀交易还有很大空间】对于那些对资产泡沫感到警觉的华尔街人士，Bob Michele有一个坏消息：信用市场的兴奋情绪将会延续。这位摩根资产管理的首席投资官预计，由于新刺激举措出台在即，垃圾债、新兴市场债券和风险较高的银行证券将会掀起更加剧烈的涨幅。该机构总计管理着2.3万亿美元的资产。Michele表示，美国垃圾债券平均息差势将下跌至300个基点，未来一年，可能测试金融危机前的低点250个基点。他并不担心估值高企，而是建议客户参与此轮涨势，不要理会市场过热的警告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7206031.d.html</link>
-            <guid>2028873</guid>
-            <pubDate>Wed, 17 Feb 2021 14:38:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亿航智能(EH.O)发布对做空机构Wolfpack做空报告的回应：鹍翔在公司IPO之前和上市之后都不是亿航的股东，所有与鹍翔的合同都是基于正常交易的。亿航现有的广州生产基地占地面积达8750平方米，监控录像捕捉到一名伪装成送货员的人员进入了公司的一个设施。亿航广州不是报告中提及相关诉讼的被告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6222715.d.html</link>
-            <guid>2028872</guid>
-            <pubDate>Wed, 17 Feb 2021 14:38:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【春节前6日全国春运共发送旅客7724.3万人次，较往年降幅明显】2月17日，记者从交通运输部获悉，统计显示，今年春节前6日(除夕至初五)，全国铁路、公路、水路、民航共发送旅客7724.3万人次，比2019年同期下降76.4%，比2020年同期下降43.1%。（证券日报网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6222677.d.html</link>
-            <guid>2028871</guid>
-            <pubDate>Wed, 17 Feb 2021 14:37:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新能源车板块下挫，小牛电动跌超6%，小鹏汽车、蔚来汽车、特斯拉、百度跌超3%，理想汽车跌近2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6222638.d.html</link>
-            <guid>2028870</guid>
-            <pubDate>Wed, 17 Feb 2021 14:37:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国1月零售销售创下七个月来最大增幅，表明得益于政府应对疫情影响的纾困支票等因素，家庭需求继第四季度表现疲软后出现反弹。数据显示，整体零售销售额环比增长5.3%，所有主要类别均大幅增长，分析师预估中值为增长1.1%，12月下降1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6222336.d.html</link>
-            <guid>2028869</guid>
-            <pubDate>Wed, 17 Feb 2021 14:35:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  QuantumScape(QS.N)涨超10%，公司宣布将在加州建立电池工厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6222237.d.html</link>
-            <guid>2028868</guid>
-            <pubDate>Wed, 17 Feb 2021 14:35:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亿邦国际(EBON.O)涨超40%，公司据悉将推出比特币挖矿业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7205503.d.html</link>
-            <guid>2028867</guid>
-            <pubDate>Wed, 17 Feb 2021 14:35:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国金证券给予传音控股买进的初始评级。目标价364元人民币，即上涨46%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7205446.d.html</link>
-            <guid>2028866</guid>
-            <pubDate>Wed, 17 Feb 2021 14:34:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国金银矿业公司Comstock Mining(LODE)大涨250%，此前一度涨超300%，公司获得锂离子电池回收公司的多数股权。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7205316.d.html</link>
-            <guid>2028865</guid>
-            <pubDate>Wed, 17 Feb 2021 14:34:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纳斯达克指数刚刚刺穿13900.00关口，最新报13899.23，日图跌1.06%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7205298.d.html</link>
-            <guid>2028864</guid>
-            <pubDate>Wed, 17 Feb 2021 14:33:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Palantir(PLTR.N)涨1%，近日获ARK基金抄底买入162万股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7205240.d.html</link>
-            <guid>2028863</guid>
-            <pubDate>Wed, 17 Feb 2021 14:33:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  fuboTV(FUBO.N)涨超2%，绿光资本最新13F文件显示，公司新建仓fuboTV。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6221899.d.html</link>
-            <guid>2028862</guid>
-            <pubDate>Wed, 17 Feb 2021 14:33:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股区块链板块大涨，中网载线(CNET.O)涨超25%，SOS(SOS.N)涨24%，Riot Blockchain(RIOT.O)涨15%。]]></title>
-            <guid>2028861</guid>
-            <pubDate>Wed, 17 Feb 2021 14:32:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Shopify(SHOP.N)跌超7%，公司预计2021年增速放缓。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7205036.d.html</link>
-            <guid>2028860</guid>
-            <pubDate>Wed, 17 Feb 2021 14:31:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  京东(JD.O)涨超4%，旗下京东物流昨日递交香港上市申请，今日其港股收涨6.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6221703.d.html</link>
-            <guid>2028859</guid>
-            <pubDate>Wed, 17 Feb 2021 14:31:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货铂金刚刚刺穿1250.00美元/盎司关口，最新报1250.42美元/盎司，日图跌1.17%；Nymex铂金期货主力最新报1257.1美元/盎司，日图跌1.76%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6221687.d.html</link>
-            <guid>2028858</guid>
-            <pubDate>Wed, 17 Feb 2021 14:31:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道琼斯工业平均指数刚刚刺穿31400.00关口，最新报31397.82，日图跌0.40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6221671.d.html</link>
-            <guid>2028857</guid>
-            <pubDate>Wed, 17 Feb 2021 14:31:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道指开盘跌0.4%，标普500跌0.5%，纳指跌1.0%】亿航智能涨8.0%，今日回应Wolfpack做空报告称，报告包含大量错误、未经证实的陈述和对信息的误读。Verizon涨4.1%，据13F文件，伯克希尔哈撒韦于第四季度增持该股近1400万股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7204946.d.html</link>
-            <guid>2028856</guid>
-            <pubDate>Wed, 17 Feb 2021 14:30:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美油短线回升近0.5美元，现报59.97美元/桶，跌幅缩窄至0.13%；布油现报63.58美元/桶，涨0.36%。]]></title>
-            <guid>2028855</guid>
-            <pubDate>Wed, 17 Feb 2021 14:28:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞士财政部长：2021年可能仍需要额外的支出措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7204662.d.html</link>
-            <guid>2028854</guid>
-            <pubDate>Wed, 17 Feb 2021 14:27:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  根据灯塔实时数据，截至2月17日22时，2021年春节档总票房累计超78亿，总观影人次1.6亿，累计场次285.8万，创中国影史春节档累计票房、人次新纪录。其中档期内票房排名前三为《唐探3》35.5亿、《你好，李焕英》27.2亿、《刺杀小说家》5.4亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7204592.d.html</link>
-            <guid>2028853</guid>
-            <pubDate>Wed, 17 Feb 2021 14:27:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿斯利康新冠疫苗在德接种进度缓慢】①几周前欧盟还在喧嚣着希望获得阿斯利康公司的新冠疫苗。现在，该疫苗在德国推出已经有一小段时间，但使用数量尚不足付给该国数量的十分之一。一些医疗卫生从业者表示对这种疫苗的副作用感到担心；②德国并不仅仅是个例。一些法国的医疗工作者也在力推使用Moderna Inc．以及辉瑞-BioNTech SE疫苗。在上个月，由于阿斯利康疫苗发货延迟，欧盟还曾因是否会公平获得该公司疫苗发生过冲突；③欧盟的疫苗接种行动已经远远落后于美国和英国，除非人们愿意接受欧盟向阿斯利康订购的3亿支疫苗，否则在短期内不可能追上这两个国家。媒体有关阿斯利康疫苗强烈副作用的报道促使德国卫生部长Jens Spahn周三表示，免疫接种“安全有效”，他自己会毫不犹豫地接种疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7204498.d.html</link>
-            <guid>2028852</guid>
-            <pubDate>Wed, 17 Feb 2021 14:26:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美油、布油双双快速跳水】此前华尔街日报称，沙特阿拉伯或将在油价回升之际提高石油产量。美油短线跌超1美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7204330.d.html</link>
-            <guid>2028851</guid>
-            <pubDate>Wed, 17 Feb 2021 14:24:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Shopify(SHOP.N)：基于现有立足点，专注于国际业务增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7204299.d.html</link>
-            <guid>2028850</guid>
-            <pubDate>Wed, 17 Feb 2021 14:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Shopify(SHOP.N)：新冠肺炎疫情后，预计新业务将继续繁荣。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6220727.d.html</link>
-            <guid>2028849</guid>
-            <pubDate>Wed, 17 Feb 2021 14:22:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  WTI原油期货短线回升0.4美元，报59.84美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7204020.d.html</link>
-            <guid>2028848</guid>
-            <pubDate>Wed, 17 Feb 2021 14:22:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  莱特币走高，日内涨幅10%，现报231.64美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7203929.d.html</link>
-            <guid>2028847</guid>
-            <pubDate>Wed, 17 Feb 2021 14:21:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
