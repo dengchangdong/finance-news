@@ -4,11 +4,407 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Thu, 18 Feb 2021 01:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2021 01:49:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【快讯：创业板次新股大幅走强 C曼卡龙大涨60%】曼卡龙大涨60%，较开盘价涨幅达30%触发临停。创识科技、春晖智控、易瑞生物、德必集团、恒而达等纷纷走高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6281230.d.html</link>
+            <guid>2029508</guid>
+            <pubDate>Thu, 18 Feb 2021 01:49:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达40亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6281185.d.html</link>
+            <guid>2029507</guid>
+            <pubDate>Thu, 18 Feb 2021 01:48:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时中国A50指数期货跌幅扩大至1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6280918.d.html</link>
+            <guid>2029506</guid>
+            <pubDate>Thu, 18 Feb 2021 01:48:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【快讯：医美概念股继续走强】爱美客涨超5%，总市值突破1500亿。华东医药涨停，华熙生物、朗姿股份、鲁商发展等继续走高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6280887.d.html</link>
+            <guid>2029505</guid>
+            <pubDate>Thu, 18 Feb 2021 01:47:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【看图论市：再通胀交易背景之下 亚洲银行股还有上涨空间】在投资者针对利率上升和经济加速增长寻找投资目标之际，亚洲金融类股正作为再通胀交易的一个选项浮出水面。虽然MSCI亚太金融指数从大流行病期间的低点反弹了62%，但仍远落后于该地区基准指数同期82%的涨幅。尽管全球范围内收益率曲线走陡，提高了银行的获利潜力，但亚洲的银行却落后于更广泛市场所见的盈利回升，从而导致估值严重折让。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7263098.d.html</link>
+            <guid>2029504</guid>
+            <pubDate>Thu, 18 Feb 2021 01:45:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒生科技指数高开低走，跌幅扩大至超1%，比亚迪电子跌4%，猫眼娱乐跌超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6279403.d.html</link>
+            <guid>2029503</guid>
+            <pubDate>Thu, 18 Feb 2021 01:43:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股锂电池板块持续走低，天能动力跌超4%，比亚迪电子、赣锋锂业、超威动力等跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7262382.d.html</link>
+            <guid>2029502</guid>
+            <pubDate>Thu, 18 Feb 2021 01:42:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【卫士通：公司在区块链及量子密码方面一直在进行前瞻性研究】卫士通在互动平台表示，公司在区块链及量子密码方面一直在进行前瞻性研究。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7262118.d.html</link>
+            <guid>2029501</guid>
+            <pubDate>Thu, 18 Feb 2021 01:42:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股特斯拉概念板块下挫。福耀玻璃跌5%，赣锋锂业、雅迪控股跌3%，比亚迪股份跌1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7261898.d.html</link>
+            <guid>2029500</guid>
+            <pubDate>Thu, 18 Feb 2021 01:41:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【成都首家市内免税店有望年内落地锦江区】 成都市锦江区正积极对接中国旅游集团中免股份有限公司，引入市内免税店消费新模式。目前，项目载体及周边环境正在提升改造，后续待国家市内免税店专项政策正式批准后，成都力争2021年内呈现市内免税店项目。（川观新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6278467.d.html</link>
+            <guid>2029498</guid>
+            <pubDate>Thu, 18 Feb 2021 01:40:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股腾讯概念板块普跌。恒腾网络跌12%，众安在线跌6%，中国有赞跌4.6%，同程艺龙跌超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7261241.d.html</link>
+            <guid>2029497</guid>
+            <pubDate>Thu, 18 Feb 2021 01:39:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚财政部长弗莱登伯格：Facebook的媒体禁令是错误的，过于严厉。阻止政府网站的访问与新闻媒体守则完全无关。将继续致力于媒体法的立法。媒体谈判法改革是非常重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7260788.d.html</link>
+            <guid>2029496</guid>
+            <pubDate>Thu, 18 Feb 2021 01:38:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[数字货币板块走高，智度股份封板，拉卡拉、数字认证、奥马电器、四方精创等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6277611.d.html</link>
+            <guid>2029495</guid>
+            <pubDate>Thu, 18 Feb 2021 01:37:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金早盘持续流入，截至目前，净流入超30亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6277465.d.html</link>
+            <guid>2029494</guid>
+            <pubDate>Thu, 18 Feb 2021 01:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南向资金净流入达30亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7260300.d.html</link>
+            <guid>2029493</guid>
+            <pubDate>Thu, 18 Feb 2021 01:36:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日经225指数刚刚刺穿30300.00关口，最新报30299.22，日图涨0.02%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6277244.d.html</link>
+            <guid>2029492</guid>
+            <pubDate>Thu, 18 Feb 2021 01:35:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美团港股涨约1.8%，股价报460港元，刷新历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7260160.d.html</link>
+            <guid>2029491</guid>
+            <pubDate>Thu, 18 Feb 2021 01:35:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上交所公告，紫金转债（113041）盘中临时停牌，停牌前涨20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6277013.d.html</link>
+            <guid>2029490</guid>
+            <pubDate>Thu, 18 Feb 2021 01:35:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[创业板指翻绿，此前一度涨近2％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7259997.d.html</link>
+            <guid>2029489</guid>
+            <pubDate>Thu, 18 Feb 2021 01:34:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[深证成指刺穿16100.00关口，最新报16098.33，日图涨0.85%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7259990.d.html</link>
+            <guid>2029488</guid>
+            <pubDate>Thu, 18 Feb 2021 01:34:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【快讯：春节档票房创纪录 影视股全线高开】欢瑞世纪5连板，北京文化一字涨停，万达电影、中国电影、横店影视等涨超5%。春节档总票房逾78亿元创新高，《唐探3》破单日票房等13项中国影视记录，《李焕英》单日票房逆袭。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6276884.d.html</link>
+            <guid>2029487</guid>
+            <pubDate>Thu, 18 Feb 2021 01:34:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登和劳工领袖进行了会谈，谈及了可持续的基础设施。拜登和劳工领袖讨论了天气、气候变化在基础设施建设中的作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6276761.d.html</link>
+            <guid>2029485</guid>
+            <pubDate>Thu, 18 Feb 2021 01:33:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白银T+D跌破5500元/千克，日内跌0.36%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7259576.d.html</link>
+            <guid>2029484</guid>
+            <pubDate>Thu, 18 Feb 2021 01:33:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股腾讯控股涨2%，股价报773港元，续刷历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7259485.d.html</link>
+            <guid>2029482</guid>
+            <pubDate>Thu, 18 Feb 2021 01:32:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[创业板指快速回落，涨幅缩窄至0.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6276376.d.html</link>
+            <guid>2029481</guid>
+            <pubDate>Thu, 18 Feb 2021 01:32:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[主力上海原油期货涨逾7%，燃料油期货涨4.5%，低硫燃料油期货涨5.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6276157.d.html</link>
+            <guid>2029480</guid>
+            <pubDate>Thu, 18 Feb 2021 01:31:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪指、深成指涨超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6276027.d.html</link>
+            <guid>2029479</guid>
+            <pubDate>Thu, 18 Feb 2021 01:30:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【快讯：有色板块开盘大涨 逾10股一字涨停】紫金矿业、洛阳钼业、云南铜业、江西铜业、天山铝业等逾10股开盘一字涨停。逻辑上，铜价创八年以来新高，全球供需缺口或将逐步扩大，港股紫金矿业春节假期大涨20%，在美国释放流动性的背景下，有色、石油等大宗商品价格大涨，核心逻辑是经济复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6275975.d.html</link>
+            <guid>2029478</guid>
+            <pubDate>Thu, 18 Feb 2021 01:30:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国债期货低开，10年期主力合约跌0.14%，5年期主力合约跌0.12%，2年期主力合约跌0.04%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7258968.d.html</link>
+            <guid>2029477</guid>
+            <pubDate>Thu, 18 Feb 2021 01:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[紫金矿业A股一字涨停，封单达355万手。公司H股近两日涨幅达21%。同时中信证券将公司A股目标市值调升至5500亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7258784.d.html</link>
+            <guid>2029476</guid>
+            <pubDate>Thu, 18 Feb 2021 01:30:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪深300指数突破前高5891.72点，创历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6275203.d.html</link>
+            <guid>2029475</guid>
+            <pubDate>Thu, 18 Feb 2021 01:28:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[钴板块大涨，洛阳钼业涨停，厦门钨业封板，盛屯矿业、华友钴业、格林美等集体高开。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6275035.d.html</link>
+            <guid>2029474</guid>
+            <pubDate>Thu, 18 Feb 2021 01:27:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币以太币价格涨逾2%，至纪录新高1900美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6274959.d.html</link>
+            <guid>2029473</guid>
+            <pubDate>Thu, 18 Feb 2021 01:27:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【A股石油、周期股开盘大涨】中国石油涨5.5%，中国石化涨6.7%，紫金矿业涨停。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7257833.d.html</link>
+            <guid>2029472</guid>
+            <pubDate>Thu, 18 Feb 2021 01:26:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[影视传媒板块高开，北京文化开盘涨停，万达电影、中国电影涨超6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6274788.d.html</link>
+            <guid>2029471</guid>
+            <pubDate>Thu, 18 Feb 2021 01:26:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科创50指数开盘报1457.80点，涨1.45%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7257685.d.html</link>
+            <guid>2029470</guid>
+            <pubDate>Thu, 18 Feb 2021 01:26:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LME期铜涨至每吨8515.50 美元，为2012年4月以来最高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6274624.d.html</link>
+            <guid>2029469</guid>
+            <pubDate>Thu, 18 Feb 2021 01:25:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A股开门红：三大股指高开，沪指涨1.81％，深成指涨1.97％，创业板涨1.82％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7257582.d.html</link>
+            <guid>2029468</guid>
+            <pubDate>Thu, 18 Feb 2021 01:25:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股区块链板块表现强势。火币科技涨15%，欧科云链涨14.67%，雄岸科技涨11.67%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6274167.d.html</link>
+            <guid>2029467</guid>
+            <pubDate>Thu, 18 Feb 2021 01:24:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  NYMEX原油在周四亚市早盘创出逾一年高位62.26美元之后短时快速回落0.5美元，因有消息称OPEC最大产油国沙特正考虑增加石油产出。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6273920.d.html</link>
+            <guid>2029466</guid>
+            <pubDate>Thu, 18 Feb 2021 01:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺辉健康香港上市首日开盘涨185.1％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7256858.d.html</link>
+            <guid>2029465</guid>
+            <pubDate>Thu, 18 Feb 2021 01:22:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国央行：今日MLF操作为一年期，利率为2.95%，与此前一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7256780.d.html</link>
+            <guid>2029464</guid>
+            <pubDate>Thu, 18 Feb 2021 01:22:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  港股恒指高开0.32%，区块链板块走高，火币科技涨15%，欧科云链涨超14%，雄岸科技涨超11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6273573.d.html</link>
+            <guid>2029463</guid>
+            <pubDate>Thu, 18 Feb 2021 01:22:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股恒指高开涨0.32％，国企指数涨0.32％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6273526.d.html</link>
+            <guid>2029462</guid>
+            <pubDate>Thu, 18 Feb 2021 01:22:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国央行今日进行2000亿元中期借贷便利（MLF）操作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6273393.d.html</link>
+            <guid>2029461</guid>
+            <pubDate>Thu, 18 Feb 2021 01:21:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  大连焦炭上涨3%，大连焦煤上涨3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7256336.d.html</link>
+            <guid>2029460</guid>
+            <pubDate>Thu, 18 Feb 2021 01:21:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【李彦宏财报信：不做创新“气氛组” 要做就做“实干组”】财报发布后，百度董事长兼CEO李彦宏发布全员信，他表示在技术研发上长期坚定的投入，使百度成为领先的AI生态型公司，未来百度将继续在基础研究、基础技术和底层创新上肯下硬功夫，“不做创新‘气氛组’，要做就做‘实干组’。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7256282.d.html</link>
+            <guid>2029459</guid>
+            <pubDate>Thu, 18 Feb 2021 01:21:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  日本今天将出售3.5万亿日元的短期票据。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7256052.d.html</link>
+            <guid>2029458</guid>
+            <pubDate>Thu, 18 Feb 2021 01:20:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  以太坊站上1890美元/枚，日内涨2.09%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7255492.d.html</link>
+            <guid>2029457</guid>
+            <pubDate>Thu, 18 Feb 2021 01:19:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  HASHIMOTO已准备好成为东京奥运会奥组委会的主席。（共同社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7255259.d.html</link>
+            <guid>2029456</guid>
+            <pubDate>Thu, 18 Feb 2021 01:17:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【墨西哥希望美国不要影响其天然气供应】墨西哥经济部长Tatiana Clouthier在社交媒体表示，墨西哥已经向美国大使提出要求，美国德克萨斯州禁止跨州出售天然气的做法不要影响其供应。墨西哥力求“不影响该行业并保证墨西哥的天然气供应”，其称，“我们理解他们正在经历的情况，但是如果我们不共同采取行动，结果可能会更加复杂。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7255177.d.html</link>
+            <guid>2029455</guid>
+            <pubDate>Thu, 18 Feb 2021 01:17:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[人民币中间价报6.4536，下调145点，上一交易日中间价报6.4391，在岸人民币上一交易日收报6.4380。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6271981.d.html</link>
+            <guid>2029454</guid>
+            <pubDate>Thu, 18 Feb 2021 01:16:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美元/人民币报6.4536，上调（人民币贬值）145点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6271944.d.html</link>
+            <guid>2029453</guid>
+            <pubDate>Thu, 18 Feb 2021 01:16:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  现货黄金小幅拉升，创日内新高至1783.14美元/盎司，涨幅0.39%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7254669.d.html</link>
+            <guid>2029452</guid>
+            <pubDate>Thu, 18 Feb 2021 01:15:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[紫光集团：因公司流动性紧张，“19紫光02”利息和回售资金的兑付存在不确定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6271604.d.html</link>
+            <guid>2029451</guid>
+            <pubDate>Thu, 18 Feb 2021 01:14:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中金：中资航空股迎来买点 疫苗接种进展料推动国际线下半年起复苏 上调中国国航、东方航空等目标价】中金报告表示，随着疫苗有效性得到验证，中资航空股的国际线业务今年下半年有望复苏，未来两年航空需求复苏确定性高，板块迎来买点。高收入国家预计将在2021年夏完成接种，预计国际线明年恢复至2019年水平的九成。中金上调中国国航A股目标价17%至10.4元，上调H股目标价20%至8.4港元；上调东方航空H股目标价23%至4.3港元，维持A股目标价5.8元不变；维持南方航空A/H股目标价9.1元人民币/6.5港元不变；上调吉祥航空目标价11%至14元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6271574.d.html</link>
+            <guid>2029450</guid>
+            <pubDate>Thu, 18 Feb 2021 01:14:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  沪铜涨3.9%，沪锌涨4.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7254393.d.html</link>
+            <guid>2029449</guid>
+            <pubDate>Thu, 18 Feb 2021 01:13:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国得州电网运营商：本州已有160万户家庭恢复供电。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7253979.d.html</link>
+            <guid>2029448</guid>
+            <pubDate>Thu, 18 Feb 2021 01:12:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  上期所原油期货主力合约涨幅扩大至超8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6270833.d.html</link>
+            <guid>2029447</guid>
+            <pubDate>Thu, 18 Feb 2021 01:11:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国8州至少31人因严寒天气死亡 疫苗配送延迟】美媒报道，美国近日遭遇极寒天气侵袭，多地气温创近年新低，其中得州灾情最严重，达拉斯部分地区室外气温跌至零下45度，暴风雪导致电网在酷寒中瘫痪，约400万居民家中长时间停电。《纽约时报》报道称，目前已有8个州的至少31人死亡。 同时，恶劣天气也影响到新冠疫苗的配送工作，包括得州和科罗拉多州在内的多个州表示，疫苗配送将出现延迟。休斯敦一处疫苗仓库还因为后备电源故障，8000剂新冠疫苗可能报废。 目前，极端天气的影响仍在持续。据美国国家气象局预计，在未来三天，从得州到密西西比州，以及北至维吉尼亚州的地区，将迎来新一轮恶劣天气。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7253503.d.html</link>
+            <guid>2029446</guid>
+            <pubDate>Thu, 18 Feb 2021 01:10:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中信证券上调紫金矿业A股目标市值至5500亿元】 中信证券认为，伴随着金属价格上涨创近年来新高，打开进一步向上的价格预期，龙头矿业公司的估值逻辑可能由盈利估值向资源维度切换。在目标金属价格下，预计紫金矿业A/H股市值可达5500亿元和5000亿港元，上调A/H股目标价至21元/ 19港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7253257.d.html</link>
+            <guid>2029445</guid>
+            <pubDate>Thu, 18 Feb 2021 01:10:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  现货白银站上27.5美元/盎司，日内涨0.66%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7252615.d.html</link>
+            <guid>2029444</guid>
+            <pubDate>Thu, 18 Feb 2021 01:07:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  新西兰出售5亿纽元债券。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7252391.d.html</link>
+            <guid>2029443</guid>
+            <pubDate>Thu, 18 Feb 2021 01:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  花旗将美元兑日元的参考汇率设在105.71水平，上涨0.43日元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7252157.d.html</link>
+            <guid>2029442</guid>
+            <pubDate>Thu, 18 Feb 2021 01:05:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  墨西哥新增1075例新冠死亡病例，总计177061例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7252114.d.html</link>
+            <guid>2029441</guid>
+            <pubDate>Thu, 18 Feb 2021 01:05:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根士丹利：上调顺丰控股目标价36% 收购嘉里物流计划料提振估值】摩根士丹利将顺丰控股目标提高36%，目标价由101.5元上调至138元，重申超配评级。该机构称，顺丰拟获得对嘉里物流的控股权等战略举措，以及竞争对手京东物流的筹备上市等将进一步提振估值。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6269083.d.html</link>
+            <guid>2029440</guid>
+            <pubDate>Thu, 18 Feb 2021 01:05:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  INE原油开盘暴涨破400，现报401.5元/桶，涨幅7.93%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7251823.d.html</link>
@@ -34,7 +430,7 @@
             <pubDate>Thu, 18 Feb 2021 01:01:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【央行逆回购今日净回笼2600亿元】中国央行公开市场进行200亿元7天期逆回购操作，今日有2800亿元逆回购到期，还有2000亿元MLF到期。]]></title>
+            <title><![CDATA[【央行逆回购今日净回笼2600亿元】中国央行公开市场进行200亿元7天期逆回购操作，今日有2800亿元逆回购到期。此外，今日还有2000亿元MLF到期。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7251300.d.html</link>
             <guid>2029435</guid>
             <pubDate>Thu, 18 Feb 2021 01:01:30 GMT</pubDate>
@@ -210,398 +606,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7246913.d.html</link>
             <guid>2029405</guid>
             <pubDate>Thu, 18 Feb 2021 00:42:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥经济部长称与美国就天然气问题进行了沟通。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6262972.d.html</link>
-            <guid>2029404</guid>
-            <pubDate>Thu, 18 Feb 2021 00:38:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国网春节运行平稳，全国日均发电同比增长1.73％】 春节期间，国家电网运行平稳，来自国家电力调度控制中心的数据显示，2021年2月11日～16日，全国日均发电量153.38亿千瓦时，农历同比增长1.73%。2月16日发电量最高，为160.22亿千瓦时，较去年农历同期最高值（156.53亿千瓦时，腊月三十）增长2.35%。（电网头条）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6262937.d.html</link>
-            <guid>2029403</guid>
-            <pubDate>Thu, 18 Feb 2021 00:38:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中信证券：春节消费繁荣 持续推荐白酒板块】中信证券研报指出，春节期间食品饮料需求景气，礼品消费、聚饮消费等场景均呈现出较为繁荣的景象。其中白酒、啤酒餐饮渠道表现强劲，乳制品高景气依旧，调味品零售出色/餐饮恢复。考虑节前备货时间较长，预计1-2月板块整体表现较为出色。在此背景下，食品饮料板块投资建议如下：1）持续推荐白酒板块，首推贵州茅台、五粮液、泸州老窖、山西汾酒；推荐酒鬼酒、今世缘、洋河股份、古井贡酒。2）坚定推荐卤味&奶粉龙头、期待份额持续提升，推荐绝味食品、中国飞鹤。3）持续看好其他优质赛道龙头，推荐伊利股份、蒙牛乳业、华润啤酒、重庆啤酒、安井食品、颐海国际、海天味业、恒顺醋业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7245833.d.html</link>
-            <guid>2029402</guid>
-            <pubDate>Thu, 18 Feb 2021 00:37:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中金：服装珠宝春节销售料催化股价 上调李宁和申洲国际等目标价】中金报告称，今年春节期间零售企业的珠宝首饰、服装销售额同比分别增长161%和107%，或将成为股价催化剂，同时看好纺织服装及珠宝板块龙头公司的中长期投资价值。调升安踏体育、申洲国际和李宁目标价最多31%。考虑港股市场估值中枢上移及运动鞋服板块的高景气度，中金调升安踏体育目标价16%至172.3港元，调升申洲国际目标价31%至210.31港元，调升李宁目标价26%至59.43港元。珠宝板块推荐周大福、老凤祥、周大生。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6262768.d.html</link>
-            <guid>2029401</guid>
-            <pubDate>Thu, 18 Feb 2021 00:37:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中金：A股有望积极开局 市场短期仍具有惯性】中金公司发文称，节前A股的走势比此前预期的积极。节假日期间海外市场复苏交易仍占主导，估计对A股节后的短期走势也形成一定支持；同时，中国“就地过节”的政策可能会使得偏东部沿海地区的节日消费数据呈现偏强态势；局部零星疫情也在逐步得到控制；节前披露的一月份社融信贷数据都强于预期，预计经济增长将保持相对较强的惯性。综合来看，估计节后A股有望积极开局，市场短期仍具有惯性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7245544.d.html</link>
-            <guid>2029400</guid>
-            <pubDate>Thu, 18 Feb 2021 00:36:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  韩国财长洪南基：需要保持扩张性的财政和货币政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7245143.d.html</link>
-            <guid>2029399</guid>
-            <pubDate>Thu, 18 Feb 2021 00:35:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货铂金刚刚刺穿1280.00美元/盎司关口，最新报1280.06美元/盎司，日图涨2.00%；Nymex铂金期货主力最新报1288.0美元/盎司，日图涨2.41%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6262126.d.html</link>
-            <guid>2029398</guid>
-            <pubDate>Thu, 18 Feb 2021 00:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国10年期国债买价收益率上涨4.85个基点至3.292%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6262068.d.html</link>
-            <guid>2029397</guid>
-            <pubDate>Thu, 18 Feb 2021 00:34:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国2年期国债收益率跌至0.1049%的历史低点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6262037.d.html</link>
-            <guid>2029396</guid>
-            <pubDate>Thu, 18 Feb 2021 00:34:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  韩国新增621例新冠肺炎确诊病例。]]></title>
-            <guid>2029395</guid>
-            <pubDate>Thu, 18 Feb 2021 00:32:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福特拟2030年欧洲销售新车实现全面电动化】福特汽车周三表示，到2030年其在欧洲市场销售的汽车将实现全电动化，赶在欧洲二氧化碳减排目标和一些国家即将出台的燃油车禁令之前。福特表示，计划未来两年半投资10亿美元改造位于德国科隆的组装厂，使之成为该公司在欧洲的首个电动汽车工厂。]]></title>
-            <guid>2029394</guid>
-            <pubDate>Thu, 18 Feb 2021 00:32:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纽元兑美元刚刚触及0.7200关口，最新报0.7200，日图涨0.13%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6261424.d.html</link>
-            <guid>2029393</guid>
-            <pubDate>Thu, 18 Feb 2021 00:31:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海证交所上日融资余额下跌1.2%至7875.2亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7244210.d.html</link>
-            <guid>2029392</guid>
-            <pubDate>Thu, 18 Feb 2021 00:30:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚1月份失业率6.4%，预估6.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7244047.d.html</link>
-            <guid>2029391</guid>
-            <pubDate>Thu, 18 Feb 2021 00:30:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚1月份就业人数增加29,100人，预估增加30,000人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6260966.d.html</link>
-            <guid>2029390</guid>
-            <pubDate>Thu, 18 Feb 2021 00:30:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  广东省卫健委：2月17日0-24时，全省新增境外输入确诊病例3例，新增境外输入无症状感染者14例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7243905.d.html</link>
-            <guid>2029389</guid>
-            <pubDate>Thu, 18 Feb 2021 00:29:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德州禁止跨州出售天然气 极寒天气加剧能源危机】在前所未有的能源危机下，德克萨斯州出手介入该州的天然气行业，禁止天然气生产商跨州输送用于发电和供暖的天然气。德州州长Greg Abbott周三在媒体简报会上表示，他已颁布命令禁止将天然气出售给德州以外的发电企业，并一直持续到2月21日，要求天然气生产企业将天然气卖给本州电厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7243755.d.html</link>
-            <guid>2029388</guid>
-            <pubDate>Thu, 18 Feb 2021 00:29:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[牛年首个交易日，银行间现券盘初收益率大幅上行，10年期国开活跃券200215收益率上行4bp报3.7550%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6260531.d.html</link>
-            <guid>2029387</guid>
-            <pubDate>Thu, 18 Feb 2021 00:27:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【浙江一电影院发生事故63人送医，初判为一氧化碳浓度超标】据“东阳发布”微信公众号消息，2月17日18时许，浙江东阳市巍山镇新天地电影院一影厅有数人在观影时出现头晕、呕吐等身体不适情况。东阳市立即安排上述人员前往医院进行检查治疗，并组织影厅内的63人全部前往医院进行健康检查。结合现场环境检测和身体不适者血液检测结果，初步判断为一氧化碳浓度超标引起。目前，就医检查人员均无生命危险，涉事场所已暂停营业，具体原因正在进一步调查中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6260487.d.html</link>
-            <guid>2029386</guid>
-            <pubDate>Thu, 18 Feb 2021 00:27:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【媒体社论：全面应对出生人口大幅下降问题】根据公安部发布的报告，2020年出生并已经到公安机关进行户籍登记的新生儿共1003.5万，较2019年的1179万大幅下降14.9%。目前急需配套措施扭转城市居民低生育率。从住房层面看，需构建多层次的住房供应体系，重点是增加有效住宅用地供应和租赁住房建设，让身在大城市的已婚年轻人能够多渠道满足住房需求。此外，有条件的地区还可以推行基本生育免费，延长产假、配偶陪产假（护理假），增加产科、儿科医护力量，等等。毋庸置疑，出生人口大幅下降后很快就会出现总人口的下降，目前在日本、中国台湾地区均已出现，严重制约了经济发展和社会活力。目前这一迹象开始显现，需要决策层正视并全面应对。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7243042.d.html</link>
-            <guid>2029385</guid>
-            <pubDate>Thu, 18 Feb 2021 00:25:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美油上涨创逾一年新高，现报61.85美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7242507.d.html</link>
-            <guid>2029384</guid>
-            <pubDate>Thu, 18 Feb 2021 00:22:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  墨西哥经济部长：已经与美国驻墨西哥代表取得联系，寻求保证墨西哥的天然气供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7242359.d.html</link>
-            <guid>2029383</guid>
-            <pubDate>Thu, 18 Feb 2021 00:21:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【17日河北省无新增】2021年2月17日0—24时，河北省无新增新型冠状病毒肺炎确诊病例，无新增无症状感染者。新增治愈出院4例。 截至2月17日24时，河北省现有本地确诊病例149例（普通型130例、轻型19例）；尚在医学观察本地无症状感染者9例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6259331.d.html</link>
-            <guid>2029382</guid>
-            <pubDate>Thu, 18 Feb 2021 00:21:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[四川省卫健委：2月17日0-24时，四川新增新型冠状病毒肺炎确诊病例2例（境外输入，均为2月4日自阿尔及利亚乘机抵蓉，2月17日确诊），新增治愈出院病例1例，无新增疑似病例，无新增死亡病例。全省新增无症状感染者1例（境外输入，2月13日自埃及乘机抵蓉，2月17日核酸检测阳性）。]]></title>
-            <guid>2029381</guid>
-            <pubDate>Thu, 18 Feb 2021 00:21:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国泰君安：电影产业曙光已现，重点关注万达电影等】① 国泰君安指出，2021年春节档票房有望达80亿元左右，“史上最强春节档”名副其实。“量价齐升”驱动票房成绩亮眼，就地过年政策推动一线城市票房占比提高；② 《唐人街探案3》票房领跑，《你好，李焕英》口碑逆袭，万达院线优势明显。暑期档票房可期，电影产业曙光已现；③ 2021年暑期档叠加建党百年，多部重磅影片将会登陆影院，推动7-8月票房增长。且疫情后，观众观影热情高涨，对优质电影的需求更加凸显。我们重点推荐春节档拥有爆款影片上映的万达电影、北京文化，其中万达电影出品的《外太空的莫扎特》、北京文化出品的《封神三部曲》均有望在暑期档上映；④ 此外受益标的包括光线传媒、中国电影、上海电影、华谊兄弟、金逸影视、横店影视、猫眼娱乐、阅文集团、阿里影业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6259159.d.html</link>
-            <guid>2029380</guid>
-            <pubDate>Thu, 18 Feb 2021 00:20:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美无铅汽油期货主力刚刚刺穿1.8300美元/加仑关口，最新报1.8324美元/加仑，日图涨1.21%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6258949.d.html</link>
-            <guid>2029379</guid>
-            <pubDate>Thu, 18 Feb 2021 00:19:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东北证券：A股节后将震荡上行 3800点指日可待】东北证券策略分析师邓利军等表示，A股节后将震荡上行，3800点指日可待，核心逻辑在于春节期间全球市场风险偏好上行，市场之前担心的流动性和疫情及中美关系的风险都没有发生；节后资金回流和风险偏好上升将继续推升指数上行。行业配置上继续偏均衡：短期角度周期成长、新能源、军工景气度较高，值得重点关注；中期通胀预期上行，制造业龙头和周期成长可能是主线；长期维度下政策和产业趋势仍是关键。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6258865.d.html</link>
-            <guid>2029378</guid>
-            <pubDate>Thu, 18 Feb 2021 00:19:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  工行纸钯金RMB刚刚刺穿490.0000元/克关口，最新报490.3300元/克，日图涨0.32%；工行纸钯金USD最新报2361.12美元/盎司，日图涨0.23%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6258413.d.html</link>
-            <guid>2029376</guid>
-            <pubDate>Thu, 18 Feb 2021 00:16:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国得州要求所有的天然气首先用于为本州发电】美国得州规定，在出口至其他地区前，所有的天然气都必须先为本州供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6258350.d.html</link>
-            <guid>2029375</guid>
-            <pubDate>Thu, 18 Feb 2021 00:15:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【巴西研究机构：中国科兴疫苗能有效抵抗两种变异新冠病毒】据路透社报道，巴西一研究机构表示，由中国北京科兴生物制品有限公司研发的新冠疫苗对于抵抗两种变异新冠病毒有效。当地时间17日，巴西圣保罗州的布坦坦研究所负责人迪马斯·科瓦斯（Dimas Covas）指出，在经过测试后，发现中国科兴新冠疫苗对于抵抗来自英国和南非的变异新冠病毒有效。科瓦斯透露，布坦坦研究所于17日开始实施大规模疫苗接种运动，该接种工作针对整个成年人群体，并测试其是否降低了感染率。（海外网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7241021.d.html</link>
-            <guid>2029374</guid>
-            <pubDate>Thu, 18 Feb 2021 00:14:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国资证券化发力 国企混改上市提速】专家认为，随着国企改革三年行动计划的推进，将会有一批优质国有企业上市。通过企业核心业务或整体上市，调整和优化股权结构，健全公司治理机制，优化市场化用人用工考核评价机制和薪酬分配机制，形成市场化的运营和创新创业的国企新机制，最大化激活企业内生发展动力。“随着改革的提速，今年部分省份国企上市或出现爆发式增长。”牛牛金融研究中心研究总监刘迪寰表示，随着湖北等地提出上市公司倍增计划，国企上市有很大增长空间。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6258093.d.html</link>
-            <guid>2029373</guid>
-            <pubDate>Thu, 18 Feb 2021 00:14:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南离岛免税店春节7天总销售额超过15亿元】 从海南省商务厅了解到，今年春节期间，海南消费市场活跃，商品供应充足，价格运行平稳，离岛免税购物人气旺盛。2月11日至17日，海南离岛免税店销售额超15亿元，较新冠肺炎疫情发生之前的2019年春节假期实现翻番，其中免税销售额约14亿元，接待购物超过20万人次。部分旅客选择采取“邮寄送达”方式来提货，2月11日至16日，中国邮政共邮寄离岛免税品1046件。（南海网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6257953.d.html</link>
-            <guid>2029372</guid>
-            <pubDate>Thu, 18 Feb 2021 00:13:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  广电运通：中标南航服务外包项目，中标金额合计1.338亿元人民币，约占公司2019年度经审计营业收入的2.06%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7240511.d.html</link>
-            <guid>2029371</guid>
-            <pubDate>Thu, 18 Feb 2021 00:12:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国得州断电让芯片供应雪上加霜 三星、恩智浦停止奥斯汀工厂生产】美国得克萨斯州因严寒天气引发的断电导致奥斯汀附近的一些半导体工厂停工，从而进一步扰乱了本已无法满足客户需求的供应链。汽车芯片最大制造商之一的恩智浦半导体2月17日表示，已将奥斯汀地区的两家工厂停工。全球第二大半导体制造商三星电子表示，其也中断了奥斯汀工厂的生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6257098.d.html</link>
-            <guid>2029370</guid>
-            <pubDate>Thu, 18 Feb 2021 00:09:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国网民逼近10亿，意味着啥？】近日，中国互联网络信息中心（CNNIC）发布的第47次中国互联网络发展状况统计报告显示，截至2020年12月，中国网民规模已达9.89亿，占全球网民人数的1/5，距离10亿网民大关仅有“一步之遥”。与此同时，中国互联网普及率已达70.4%，高于全球平均水平。即将到来的10亿网民意味着什么？随着“门槛”的临近，中国互联网迎来了更强劲的发展动能和更广阔的发展空间。更多人民群众得以享受到互联网带来的便利，全球最大网民群体逐步形成。（人民日报海外版）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6256891.d.html</link>
-            <guid>2029369</guid>
-            <pubDate>Thu, 18 Feb 2021 00:07:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新西兰新冠疫情应对部长Chris Hipkins：乘坐公共交通必须佩戴口罩。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7239529.d.html</link>
-            <guid>2029368</guid>
-            <pubDate>Thu, 18 Feb 2021 00:06:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东北证券：节后市场顺势联动高开、开门红概率大 继续坚定看好港股价值】① 东北证券指出，春节期间全球大类资产呈现出明显的交易“后疫情时代”的经济复苏和通胀水平上升的逻辑。春节期间国内信息面也相对平稳，局部疫情得到有效控制，彰显了中国力量；② 就后市而言，考虑到假期境外市场保持平稳且多数稳中有升、沪深港通的再度恢复等原因，节后市场顺势联动高开、开门红的概率较大；市场结构性行情特征明显且预计超跌绩优中小盘股的修复行情正在展开中、继续注重高低轮动（高估值消费科技和低估值金融周期、高位置抱团股和低位置绩优中小盘股之间的轮动），市场重点交易经济复苏尤其是疫情受损行业的修复行情，债市利率上升且大宗商品涨价下的金融资源股行情以及布局两会政策主题的相关安全发展等主线；③ 另外，考虑到节后资金南下通道恢复、沪深港通资金更偏向于持续南下等因素，港股指数仍占优；一般在恒生指数市盈率恢复至18-20倍（目前17倍）、AH溢价率回落至120附近（目前130）之前，继续坚定看好港股价值。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6256678.d.html</link>
-            <guid>2029367</guid>
-            <pubDate>Thu, 18 Feb 2021 00:06:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日经225指数刚刚刺穿30400.00关口，最新报30400.06，日图涨0.36%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6256207.d.html</link>
-            <guid>2029366</guid>
-            <pubDate>Thu, 18 Feb 2021 00:02:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日韩股市开盘涨跌不一】日经225指数开盘上涨0.07%，报30311.98点。韩国KOSPI指数开盘下跌0.21%，报3133.73点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6255875.d.html</link>
-            <guid>2029365</guid>
-            <pubDate>Thu, 18 Feb 2021 00:00:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国版“漂亮50”高潮已至】国泰君安证券搭建中国版漂亮50名单，认为当前中国版漂亮50与美股漂亮50“高潮”阶段相近，我们认为抱团行情短期难瓦解但已有泡沫风险。当下需重视50之外的新选择，积极布局中盘蓝筹组合。国君认为结合横向与纵向比较，中国版漂亮50目前的估值已经在历史极高位，估值包含的盈利预期已高。但当前中国版漂亮50估值的不断攀升仍有其基本面基础，中国版漂亮50估值泡沫未到最严峻之时。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6255636.d.html</link>
-            <guid>2029363</guid>
-            <pubDate>Wed, 17 Feb 2021 23:58:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nymex美原油期货主力日内涨幅达到1.01%，报61.76美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7238260.d.html</link>
-            <guid>2029362</guid>
-            <pubDate>Wed, 17 Feb 2021 23:57:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北京银行近日在城市副中心设立金融创新实验室。同时，北京银行正在与中科院自动化所商谈合作，拟在人工智能、大数据等领域开展联合创新。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6255366.d.html</link>
-            <guid>2029361</guid>
-            <pubDate>Wed, 17 Feb 2021 23:57:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京200多万国企退休人员纳入社会化管理】从北京市人社局获悉，2020年年底，北京市将123.5万名国企退休人员纳入属地社会化管理服务范围。目前，该市企业退休人员社会化管理服务总量已达到212.3万人。（工人日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7238158.d.html</link>
-            <guid>2029360</guid>
-            <pubDate>Wed, 17 Feb 2021 23:56:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[   在贵州茅台节前市值首次突破3万亿元的背景下，前海开源基金首席经济学家杨德龙更看好消费白马节后的持续表现，此外也青睐代表新经济方向的新能源龙头。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6255186.d.html</link>
-            <guid>2029359</guid>
-            <pubDate>Wed, 17 Feb 2021 23:55:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[   东吴证券首席经济学家陈李表示，A股开盘应与港股类似，偏周期股票会有较好表现，主要原因是中国一季度经济有望超预期增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7237954.d.html</link>
-            <guid>2029358</guid>
-            <pubDate>Wed, 17 Feb 2021 23:54:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京连续19天本地确诊零新增】2月17日0时至24时，北京无新增本地确诊病例、疑似病例和无症状感染者；无新增境外输入确诊病例、疑似病例和无症状感染者；治愈出院6例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7237876.d.html</link>
-            <guid>2029357</guid>
-            <pubDate>Wed, 17 Feb 2021 23:53:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货铂金刚刚刺穿1270.00美元/盎司关口，最新报1270.05美元/盎司，日图涨1.20%；Nymex铂金期货主力最新报1277.0美元/盎司，日图涨1.53%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6254955.d.html</link>
-            <guid>2029356</guid>
-            <pubDate>Wed, 17 Feb 2021 23:52:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【分析师：预计MLF会等量续作 后续流动性环境可能不会进一步收紧】东吴证券宏观分析师邵翔表示，今年年初政府债券融资压力相较前两年明显下降等因素，也使央行大幅投放流动性的必要性下降。预计MLF会等量续作。由于节后政府融资压力依旧不大，而居民现金需求大幅回落，预计14天逆回购不再续作，而7天逆回购的投放量将不超过700亿元。邵翔认为，后续流动性环境可能不会进一步收紧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7237571.d.html</link>
-            <guid>2029355</guid>
-            <pubDate>Wed, 17 Feb 2021 23:50:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广发策略：经济修复再通胀确立A股“第三波”顺周期行情】广发策略分析师戴康等发布研报称，当前A股呈现“经济持续修复+信用紧缩初期”的组合，美股则呈现“经济加速修复+利率回升初期”的组合。经济修复再通胀确立A股“第三波”顺周期行情。建议配置：1.出口链和“内需”共振的可选消费（汽车/家电）；2.“涨价”主线的顺周期及科技（有色金属/化工/半导体/面板/新能源）；3.景气拐点确认的低估低配大金融（银行、保险）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6254719.d.html</link>
-            <guid>2029354</guid>
-            <pubDate>Wed, 17 Feb 2021 23:50:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【险资春节后如何布局 机构节前调研露端倪】春节假期收尾，节后机构投资者的投资方向颇受关注。作为机构投资者中的主力军之一，保险机构节前对上市公司的密集调研，其实已经显露出节后调整布局的端倪。今年1月以来，已有79家保险机构调研了111家上市公司，调研热情高于以往，调研方向也出现变化，对化工、机械设备、电子、国防军工等板块的兴趣大增。（上海证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7237175.d.html</link>
-            <guid>2029353</guid>
-            <pubDate>Wed, 17 Feb 2021 23:47:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【港股上市公司拟改名蹭茅台热度惹争议】港股上市公司信阳毛尖日前发布公告表示，董事会建议将公司现有名称“信阳毛尖集团有限公司”更改为“中国国龙茅台集团有限公司”。翻看这家上市公司近年来的公告，其频频因更名进入公众视野，甚至被网友调侃为“改名专业户”。不过，目前改名“中国国龙茅台集团有限公司”仅是董事会建议，并未被真正采纳。更名还需要股东特别大会通过，以及百慕大公司注册处处长批准更改。 这家业绩不佳的公司连年处于亏损状态。从股价看，2016年年初公司股价跌破1港元后，已连续 4年多在1港元以下，沦为“仙股”。截至昨日收盘，信阳毛尖最新股价为0.5港元，市值为7.45亿港元。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6254276.d.html</link>
-            <guid>2029352</guid>
-            <pubDate>Wed, 17 Feb 2021 23:46:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  昨天上海无新增本地新冠肺炎确诊病例，新增4例境外输入病例。（上海发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7237024.d.html</link>
-            <guid>2029350</guid>
-            <pubDate>Wed, 17 Feb 2021 23:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  黑龙江17日新增新冠肺炎境外输入确诊病例1例。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7237019.d.html</link>
-            <guid>2029349</guid>
-            <pubDate>Wed, 17 Feb 2021 23:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信建投：随着复苏和通胀预期上行，顺周期资产热度或不断催化】中信建投指出，总体来看，全球疫情边际缓解，财政刺激仍在路上，国内春节运行良好，拜登上台后国际关系趋稳，都对风险偏好起到提振，随着复苏和通胀预期上行，顺周期资产热度或不断催化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6253865.d.html</link>
-            <guid>2029348</guid>
-            <pubDate>Wed, 17 Feb 2021 23:42:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国内油价或七连涨：春节后首调上涨预期大】春节假期后首个国内成品油调价窗口将于18日24时开启。机构分析，进入2月后，国际原油市场继续保持强劲走势，国内油价本轮上调预期较浓。2020年国内成品油价格经历25轮调整，以“四连涨”收官。这意味着，若按上调落实，本轮调价过后国内成品油价格将“七连涨”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6253839.d.html</link>
-            <guid>2029347</guid>
-            <pubDate>Wed, 17 Feb 2021 23:42:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Cambridge Global Payments首席市场策略师Karl Schamotta：美联储凌晨公布的会议纪要显示，尽管通胀预期开始上升，各方一致认为有必要将利率保持在低位并继续实施资产购买计划。然而，部分投资者正在为美联储被迫比此前预期更早收紧货币政策的情况做准备，他们正在进行的押注有助于推动一种“美国例外主义”(American exceptionalism)交易，从而提振美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7236698.d.html</link>
-            <guid>2029346</guid>
-            <pubDate>Wed, 17 Feb 2021 23:42:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【近20只候场 行业主题ETF基金发行热】今年以来，行业主题型品种受到资金的青睐，尤其是ETF基金将在农历新年后迎来发行热潮。据不完全统计，从牛年的首个交易日开始，平安基金、建信基金、华夏基金等公司旗下的近20只ETF基金陆续启动发行，涵盖不少热点行业板块。以今年大热板块化工行业为例，就有鹏华中证细分化工产业ETF、富国中证细分化工产业主题ETF、国泰中证细分化工产业主题ETF、华宝化工ETF共4只基金陆续发行。（上海证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7236684.d.html</link>
-            <guid>2029345</guid>
-            <pubDate>Wed, 17 Feb 2021 23:41:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中泰证券：食品饮料很多子行业具备定价权，很多赛道的龙头很适合做长期投资】① 中泰证券认为，食品饮料很多子行业具备定价权，很多赛道的龙头很适合做长期投资，目前国际的疫情控制出现明显的好转，全球经济有望复苏；② 股票我们建议从三个角度关注：确定性配置角度：贵州茅台、五粮液、伊利股份、海天味业、双汇发展、涪陵榨菜等行业龙头；③ 成长弹性角度：安井食品、绝味食品、天味食品、古井贡酒、今世缘、中炬高新、顺鑫农业、晨光生物等；④ 收益风险比（假定明年恢复正常，当下估值很便宜）：口子窖、洋河股份、元祖股份、汤臣倍健等。短期春节受益的卤味、高档酒、复合调味料、啤酒等值得重点关注。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7236274.d.html</link>
-            <guid>2029344</guid>
-            <pubDate>Wed, 17 Feb 2021 23:38:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒指站上31000点 多只H股“贵”过A股】港股牛年开市连涨两日，喜迎“开门红”。恒生指数两日合计上涨3.02%，最新收报31084.94点，为2018年6月以来首次重返31000点。随着今年以来南向资金的不断流入，港股持续上涨。在港股近两日的大涨后，多只H股已较A股出现溢价。如招商银行H股最新收报67.75港元，相比A股溢价3.5%。今年以来，招商银行H股涨幅已超38%。目前，金风科技、鞍钢股份的H股也都较A股有小幅溢价。 （上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6253275.d.html</link>
-            <guid>2029343</guid>
-            <pubDate>Wed, 17 Feb 2021 23:37:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【订单暴涨、企业扩产、原材料供不应求 这些高景气行业春节都在加班】春节不打烊“火了”很多行业，比如快递、外卖、电影。同样，春节不打烊也可能是这个行业太火热，锂电池、光伏、半导体等行业的大批企业这个春节都在加班加点赶订单。“订单确实非常多，过年大家都在加班，也提前有一些反应机制。”大年初一，某上市公司负责人接受记者采访时表示，去年下半年以来订单情况就很好，预计今年的市场也会不错。（上海证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7235851.d.html</link>
-            <guid>2029342</guid>
-            <pubDate>Wed, 17 Feb 2021 23:34:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【分析人士预测春节后MLF操作大概率等量续作】多位接受记者采访的分析人士预测，央行节后操作仍将以稳为主，大概率等额对冲到期量，资金面将保持紧平衡格局。（上海证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6252942.d.html</link>
-            <guid>2029341</guid>
-            <pubDate>Wed, 17 Feb 2021 23:33:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【去年城镇老旧小区改造超预期 电梯和物管行业增长空间进一步打开】记者日前走访了北京多个实施改造的老旧小区，不少小区装了电梯、换上了智能门锁、增加了智能停车位、安装了人脸识别系统等。机构认为，老旧小区改造将带动电梯需求和物管行业的市场扩容。中信证券认为，预计3-5年物业管理市场总体规模将增加至24080亿元。从电梯需求方面来看，招商证券研报预计2021年住宅需求（含加装）为84.4万台，若以每台20万元的单价计算，市场规模将达到1688亿元。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6252890.d.html</link>
-            <guid>2029340</guid>
-            <pubDate>Wed, 17 Feb 2021 23:33:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[绿叶制药：与东和药品在日本订立独家开发协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6252854.d.html</link>
-            <guid>2029339</guid>
-            <pubDate>Wed, 17 Feb 2021 23:32:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【春节假期消费热情高涨 多个行业受益】春节期间，记者走访发现，外卖、快递、影院、市内旅游成为最繁忙的行业。这些行业企业员工加班加点提供服务，为春节期间高涨的消费热情“保驾护航”。（中国证券报）]]></title>
-            <guid>2029338</guid>
-            <pubDate>Wed, 17 Feb 2021 23:32:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【券商牛年“点金”：聚焦A股三大领域 适时布局港股市场】A股在春节长假前震荡走高、热点不断轮动，哪些主线后市更有掘金价值？记者梳理后发现，各大券商对化工、消费以及成长三大领域的投资机会更为看好。对于港股市场，券商比较看好周期性板块、新兴经济板块以及金融地产龙头等。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7235594.d.html</link>
-            <guid>2029337</guid>
-            <pubDate>Wed, 17 Feb 2021 23:31:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【私募期待A股牛年开门红】在春节长假期间海外股市与大宗商品价格普遍走高的背景下，来自私募业的最新策略观点显示，多数私募机构看好A股市场将在牛年迎来开门红。私募机构指出，短期内A股市场在结构层面可能出现更大范围的个股普涨行情，其中与经济复苏主题相关的板块值得重点关注。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7235536.d.html</link>
-            <guid>2029336</guid>
-            <pubDate>Wed, 17 Feb 2021 23:31:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
