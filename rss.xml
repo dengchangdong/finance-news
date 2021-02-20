@@ -4,11 +4,41 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 20 Feb 2021 16:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2021 17:31:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：三枚火箭弹击中伊拉克首都巴格达附近的美国巴拉德空军基地，造成一人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8770883.d.html</link>
+            <guid>2033183</guid>
+            <pubDate>Sat, 20 Feb 2021 17:30:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫：拜登和特鲁多将就双方在应对新冠疫情、气候变化和经济关系方面的共同努力进行讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7784847.d.html</link>
+            <guid>2033182</guid>
+            <pubDate>Sat, 20 Feb 2021 17:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加拿大总理特鲁多和美国总统拜登将于2月23日进行视讯会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7781953.d.html</link>
+            <guid>2033180</guid>
+            <pubDate>Sat, 20 Feb 2021 17:14:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  丹斯克银行：美国总统拜登的刺激计划巩固了美国经济周期的早期扩张阶段，这一阶段受到具有高度扩张性货币政策、疫苗推广，以及被压抑需求的支持。预计美股无惧十年期美债收益率上行影响。美元则成为反映美国相对强劲的宏观经济的镜子，美股方面关注价值股和周期股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8764440.d.html</link>
+            <guid>2033179</guid>
+            <pubDate>Sat, 20 Feb 2021 17:10:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据央视新闻：土耳其新增7857例新冠肺炎确诊病例，累计确诊2631876例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7773103.d.html</link>
+            <guid>2033178</guid>
+            <pubDate>Sat, 20 Feb 2021 16:47:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【土耳其新增7857例新冠肺炎确诊病例 累计确诊2631876例】当地时间2月20日晚，土耳其卫生部网站更新的数据显示，当天进行了118911次新冠病毒检测，其中7857人检测结果呈阳性，至此，土耳其新冠肺炎累计确诊2631876例。当天新增80例死亡病例，累计死亡27983例。当天治愈7210例，累计治愈2518758例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8754168.d.html</link>
@@ -572,36 +602,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftssap7631860.d.html</link>
             <guid>2033072</guid>
             <pubDate>Sat, 20 Feb 2021 09:02:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯新增新冠肺炎确诊病例12953例，累计确诊超415万例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftssap7631395.d.html</link>
-            <guid>2033071</guid>
-            <pubDate>Sat, 20 Feb 2021 09:00:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[狗狗币日内涨幅扩大至7.66％，现报0.060346美元/枚。此前特斯拉CEO马斯克推特上称和孩子们一起搭建了一些狗狗币矿机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftpnny8615034.d.html</link>
-            <guid>2033069</guid>
-            <pubDate>Sat, 20 Feb 2021 08:56:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO埃隆·马斯克：我刚才和孩子们一起搭建了一些狗狗币矿机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftssap7629921.d.html</link>
-            <guid>2033067</guid>
-            <pubDate>Sat, 20 Feb 2021 08:50:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【外汇管理局：1月份外资净增持境内债券和股票416亿美元】国家外汇管理局副局长、新闻发言人王春英表示，1月份资本项下涉外收支双向交易均保持较高规模，总体均衡。直接投资涉外收支延续净流入。证券投资总体呈现净流出，其中外资净增持境内债券和股票416亿美元，港股通项下境内主体净买入香港股票折合401亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftpnny8611542.d.html</link>
-            <guid>2033066</guid>
-            <pubDate>Sat, 20 Feb 2021 08:38:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国家外汇管理局副局长王春英：展望未来，外部环境依然错综复杂，世界经济复苏过程中的不稳定、不确定性因素依然较多，我国建设更高水平开放型经济新体制，经济持续健康发展基础没有改变，外汇市场有望保持平稳运行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftpnny8610684.d.html</link>
-            <guid>2033065</guid>
-            <pubDate>Sat, 20 Feb 2021 08:35:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
