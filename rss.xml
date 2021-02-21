@@ -4,11 +4,41 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sun, 21 Feb 2021 20:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2021 21:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[比特币短线走低超600美元，现报57721美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-22/detail-ikftssap7978494.d.html</link>
+            <guid>2034316</guid>
+            <pubDate>Sun, 21 Feb 2021 20:56:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据法新社：国际原子能机构（IAEA）表示，在伊朗核问题最后期限前找到临时解决方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-22/detail-ikftpnny8961881.d.html</link>
+            <guid>2034315</guid>
+            <pubDate>Sun, 21 Feb 2021 20:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  几内亚因恶劣天气推迟埃博拉疫苗接种。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-22/detail-ikftssap7978069.d.html</link>
+            <guid>2034314</guid>
+            <pubDate>Sun, 21 Feb 2021 20:47:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【民生证券：行情第三阶段继续加配周期和低位价值股】民生证券指出，A股市场已处于以风险偏好对冲流动性收缩的行情第三阶段，科技股、消费股如果没有出现明显回调，继续上涨的空间就比较有限，资金会开始从抱团向其他相对估值洼地的板块流动，风格上会向价值和周期倾斜。12月下旬以来的港股行情就是典型迹象，年后以来可以观察到资金加速向周期和低位价值个股调仓。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-22/detail-ikftpnny8961539.d.html</link>
+            <guid>2034310</guid>
+            <pubDate>Sun, 21 Feb 2021 20:45:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：墨西哥韦拉克鲁斯州一军用飞机发生事故，造成6人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-22/detail-ikftssap7977439.d.html</link>
+            <guid>2034299</guid>
+            <pubDate>Sun, 21 Feb 2021 20:31:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  南非累计新冠肺炎确诊病例达1503796例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-22/detail-ikftpnny8960540.d.html</link>
@@ -571,35 +601,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7939023.d.html</link>
             <guid>2033488</guid>
             <pubDate>Sun, 21 Feb 2021 11:55:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  根据世卫组织最新实时统计数据，截至欧洲中部时间2月21日9时56分（北京时间2月21日16时56分），全球累计新冠肺炎确诊病例110609979例，累计死亡病例2452510例。]]></title>
-            <guid>2033487</guid>
-            <pubDate>Sun, 21 Feb 2021 11:54:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：辉瑞疫苗限制了89.4％新冠病毒传播率。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7938805.d.html</link>
-            <guid>2033486</guid>
-            <pubDate>Sun, 21 Feb 2021 11:54:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【津巴布韦首个暴发新冠疫情省份收到首批中国疫苗】据泛非通讯社下属的全非洲（allAfrica）网站报道，津巴布韦的北马塔莱兰贝省是该国第一个出现新冠肺炎疫情的省份，目前该省已收到第一批中国援津疫苗。本周六（20日），疫苗已分发至当地七个地区。（海外网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7938370.d.html</link>
-            <guid>2033485</guid>
-            <pubDate>Sun, 21 Feb 2021 11:52:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小米集团：注意到近日若干媒体有关本集团拟进入电动汽车制造行业的报导。本集团一直关注电动汽车生态的发展，并就相关行业态势进行持续评估及研究。本集团就电动汽车制造业务的研究还没有到正式立项阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8920418.d.html</link>
-            <guid>2033483</guid>
-            <pubDate>Sun, 21 Feb 2021 11:42:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国务院新闻办公室定于2月22日（星期一）10时举行新闻发布会，请中央农办主任、农业农村部部长唐仁健介绍全面推进乡村振兴加快农业农村现代化有关情况并答记者问。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8919759.d.html</link>
-            <guid>2033482</guid>
-            <pubDate>Sun, 21 Feb 2021 11:39:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
