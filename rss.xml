@@ -4,11 +4,163 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Fri, 26 Feb 2021 20:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 21:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  标普500指数11大板块中，3大板块收涨，8大板块收跌；其中，信息技术板块领涨，其次是非日常生活消费品板块；能源板块领跌，其次是金融板块。]]></title>
+            <guid>2045022</guid>
+            <pubDate>Fri, 26 Feb 2021 21:20:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【比特币热降温 全球最大比特币基金跌至创纪录折价】规模316亿美元的Grayscale Bitcoin Trust（GBTC）本周暴跌21%，超过比特币18%的跌幅。GBTC相对于标的资产曾经的大幅溢价已消失无踪，周四收盘价较标的资产低3.8%，折价创下纪录最大幅度。对于GBTC来说，这是一种不寻常的情况，自2013年成立以来，GBTC一直以高于其资产净值的价格进行交易。彭博行业研究分析师James Seyffart称：“这更多表明了流通中份额太多的事实，也表明以当前价格买入比特币的需求正在下降。”]]></title>
+            <guid>2045021</guid>
+            <pubDate>Fri, 26 Feb 2021 21:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股各大类资产类ETF中，美国国债20+年ETF领涨，其次是美国投资级公司债-iShares；恐慌指数做多ETF领跌，其次是黄金ETF。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8985860.d.html</link>
+            <guid>2045020</guid>
+            <pubDate>Fri, 26 Feb 2021 21:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股各行业ETF中，半导体板块ETF领涨，其次是网络股指数ETF；能源业ETF领跌，其次是区域银行ETF。]]></title>
+            <guid>2045019</guid>
+            <pubDate>Fri, 26 Feb 2021 21:11:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 美国10年期国债收益率下跌14个基点，至1.38%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8985630.d.html</link>
+            <guid>2045018</guid>
+            <pubDate>Fri, 26 Feb 2021 21:07:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西新增65169例新冠肺炎确诊病例，新增1337例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9969666.d.html</link>
+            <guid>2045017</guid>
+            <pubDate>Fri, 26 Feb 2021 21:06:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  热门中概股多数下跌，网易涨超1%，京东、拼多多、蔚来小幅收涨；虎牙跌超5%，微博、哔哩哔哩、小鹏汽车跌超3%。]]></title>
+            <guid>2045016</guid>
+            <pubDate>Fri, 26 Feb 2021 21:04:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  科技股中，爱彼迎涨超13%，推特涨超4%，Facebook涨超1%。芯片股普涨，半导体板块ETF涨超2%，应用材料、美光科技涨超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8985517.d.html</link>
+            <guid>2045015</guid>
+            <pubDate>Fri, 26 Feb 2021 21:03:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据沙特通讯社：沙特方面表示，美国关于卡舒吉的情报报告是错误的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8985472.d.html</link>
+            <guid>2045014</guid>
+            <pubDate>Fri, 26 Feb 2021 21:01:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据沙特通讯社：沙特希望继续保持与美国的战略伙伴关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8985471.d.html</link>
+            <guid>2045013</guid>
+            <pubDate>Fri, 26 Feb 2021 21:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美股收盘三大指数走势分化 贵金属板块大跌】美股收盘，三大指数走势分化，道指跌1.51%，标普500指数跌0.48%，纳指涨0.56%。贵金属板块大跌，埃氏金业跌超9%，泛美白银跌超6%，大型科技股普遍反弹，苹果、微软、亚马逊均涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9969484.d.html</link>
+            <guid>2045012</guid>
+            <pubDate>Fri, 26 Feb 2021 21:01:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[券商Robinhood：美国证券交易委员会（SEC）正调查本公司1月限制游戏驿站（GME）等特定股票交易一事。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8985244.d.html</link>
+            <guid>2045011</guid>
+            <pubDate>Fri, 26 Feb 2021 20:54:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫表示将为推进航空公司的气候目标提供支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8985225.d.html</link>
+            <guid>2045010</guid>
+            <pubDate>Fri, 26 Feb 2021 20:53:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据沙特通讯社：沙特政府否认美国关于卡舒吉被杀事件的报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9969193.d.html</link>
+            <guid>2045009</guid>
+            <pubDate>Fri, 26 Feb 2021 20:50:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【谭德塞建议可暂时放弃新冠疫苗知识产权】当地时间2月26日，世卫组织举行新冠肺炎例行发布会，世卫组织总干事谭德塞表示，如果新冠疫苗不能公平分配，则无法击败新冠肺炎，世界也不能迅速恢复，分享疫苗是让生命和生计回归正常的最佳方式，所以各国应展开合作。谭德塞强调，当提出暂时放弃新冠肺炎疫苗知识产权时，出现了缺乏合作和严重抵制的现象。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8984967.d.html</link>
+            <guid>2045008</guid>
+            <pubDate>Fri, 26 Feb 2021 20:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  机构测算：截至2月23日当周，美国商品期货交易委员会（CFTC）投机者的美元空头押注增加至293.3亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9968910.d.html</link>
+            <guid>2045007</guid>
+            <pubDate>Fri, 26 Feb 2021 20:40:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至2月23日当周，NYMEX和ICE的天然气期货净多头头寸减少12811手至343487手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8984603.d.html</link>
+            <guid>2045006</guid>
+            <pubDate>Fri, 26 Feb 2021 20:35:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至2月23日当周，COMEX铜期货投机性净多头头寸减少16781手至70531手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9968640.d.html</link>
+            <guid>2045005</guid>
+            <pubDate>Fri, 26 Feb 2021 20:34:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至2月23日当周，COMEX白银期货投机性净多头头寸减少1569手至39421手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9968637.d.html</link>
+            <guid>2045004</guid>
+            <pubDate>Fri, 26 Feb 2021 20:34:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至2月23日当周，COMEX黄金期货投机性净多头头寸减少186手至83395手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8984536.d.html</link>
+            <guid>2045003</guid>
+            <pubDate>Fri, 26 Feb 2021 20:33:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至2月23日当周，WTI原油期货投机性净多头头寸增加2607手至402543手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9968563.d.html</link>
+            <guid>2045002</guid>
+            <pubDate>Fri, 26 Feb 2021 20:32:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：至2月23日当周，CBOT美国2年期国债期货投机性净空头持仓减少102618手至39871手，美国5年期国债期货转向净多头，持仓规模95406手，美国10年期国债期货净多头持仓减少100624手至2789手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9968509.d.html</link>
+            <guid>2045001</guid>
+            <pubDate>Fri, 26 Feb 2021 20:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会(CFTC)：截至2月23日当周，股票基金投机者将标普500指数CME净空头持仓减少12751手至34052手，股票基金经理将标普500指数CME净多头持仓减少3177手至162111手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9968500.d.html</link>
+            <guid>2045000</guid>
+            <pubDate>Fri, 26 Feb 2021 20:30:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【节后66只公募基金发“限购令”，混合型基金占比近38%】梳理后发现，春节假期结束以来，已有66只公募基金发布暂停或限制申购业务，以混合型基金、债券型基金、货币市场型基金为主。宣布限购的债券型基金数量共有15只，货币市场型基金数量共有11只，股票型基金数量共有9只，其中股票型基金中宣布限购的产品类型多为LOF、ETF基金。此外，还有部分由于境外市场节假日而暂停申购的QDII基金。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9968438.d.html</link>
+            <guid>2044999</guid>
+            <pubDate>Fri, 26 Feb 2021 20:27:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世卫组织：H5N8型禽流感人传人风险较低】当地时间26日，世卫组织通报H5N8型禽流感相关信息。世卫组织于18日收到俄罗斯在人类临床样本中发现了7例H5N8型禽流感病例的报告，病例年龄介于29-60岁之间，其中5例为女性，均为无症状感染者，其密切接触者也没有出现任何明显的临床症状。 世卫组织通报指出，需要更多的遗传学和血清相关信息以全面评估风险，目前信息显示，H5N8型禽流感出现人传人的风险较低，不建议对进出俄罗斯的旅行者进行相关检查或采取贸易及旅行限制。世卫组织建议继续加强全球范围内的监测，并分享病毒信息。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9968434.d.html</link>
+            <guid>2044998</guid>
+            <pubDate>Fri, 26 Feb 2021 20:26:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国众议院民主党人将于当地时间17:00（北京时间6:00）在经济刺激方案投票前举行简报会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9968424.d.html</link>
+            <guid>2044997</guid>
+            <pubDate>Fri, 26 Feb 2021 20:26:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【世卫组织总干事谭德塞呼吁尽快扩大新冠疫苗生产规模】当地时间2月26日，世卫组织举行新冠肺炎例行发布会，世卫组织总干事谭德塞表示，目前“新冠肺炎疫苗实施计划”取得了一些进展，但还很脆弱，需要加快新冠疫苗的供应和分配。如果一些国家继续联系“新冠肺炎疫苗实施计划”所依赖的疫苗厂商来采购疫苗，则难以实现目标。这些行为破坏了“新冠肺炎疫苗实施计划”，并导致世界各地的卫生工作者和脆弱人群无法获得疫苗。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9967992.d.html</link>
@@ -451,161 +603,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9958177.d.html</link>
             <guid>2044923</guid>
             <pubDate>Fri, 26 Feb 2021 16:36:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收跌1.37%，报406.10点。 德国DAX 30指数初步收跌0.43%，报13818.99点。 英国富时100指数初步收跌2.17%，法国CAC 40指数跌1.16%，意大利富时MIB指数跌0.74%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9957834.d.html</link>
-            <guid>2044922</guid>
-            <pubDate>Fri, 26 Feb 2021 16:32:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东莞深夜发布楼市调控政策，再次调整限购年限】2月27日凌晨，东莞市住房和城乡建设局官网发布《关于进一步加强房地产市场调控的通知（东建〔2021〕6号）》，提出：非本市户籍居民家庭在本市购买第二套商品住房（新建商品住房或二手商品住房），须在购房之日前四年内在本市逐月连续缴纳社保满三年。新入户居民家庭购买第一套新建商品住房的，须在本市落户满半年、且在购房前两年内逐月连续缴纳社保满半年。这是继去年7月，东莞出台楼市限购、限转让政策以来，东莞再出楼市重磅新政。（南方Plus）]]></title>
-            <guid>2044921</guid>
-            <pubDate>Fri, 26 Feb 2021 16:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国两党参议员寻求限制总统的紧急权力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9957652.d.html</link>
-            <guid>2044920</guid>
-            <pubDate>Fri, 26 Feb 2021 16:30:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  意大利财长FRANCO：G20同意开发额外的工具来满足低收入国家的融资需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8973467.d.html</link>
-            <guid>2044919</guid>
-            <pubDate>Fri, 26 Feb 2021 16:29:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  意大利新增20499例新冠肺炎确诊病例，新增253例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8973463.d.html</link>
-            <guid>2044918</guid>
-            <pubDate>Fri, 26 Feb 2021 16:28:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美元指数DXY持续走高，短线上扬14点，日内涨幅达0.53%，现报90.80。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9956912.d.html</link>
-            <guid>2044917</guid>
-            <pubDate>Fri, 26 Feb 2021 16:24:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金跌破1720美元/盎司，日内跌幅达2.73%；美股黄金股普跌，埃氏金业跌9.76%，科尔戴伦矿业跌8.76%，金罗斯黄金跌5.4%，赫克拉矿业(HL.N)跌5.37%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8972763.d.html</link>
-            <guid>2044916</guid>
-            <pubDate>Fri, 26 Feb 2021 16:23:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  G20金融领导人一致认为，多边主义比以往任何时候都重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9956737.d.html</link>
-            <guid>2044915</guid>
-            <pubDate>Fri, 26 Feb 2021 16:22:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳元兑美元AUD/USD跌幅扩大至2%，现报0.7718。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9956725.d.html</link>
-            <guid>2044914</guid>
-            <pubDate>Fri, 26 Feb 2021 16:22:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  大和证券SMBC株式会社首次覆盖晶盛机电，并给予其买入评级，目标价为45元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8972625.d.html</link>
-            <guid>2044913</guid>
-            <pubDate>Fri, 26 Feb 2021 16:21:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  意大利财长FRANCO：G20重申致力于扩大财政努力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9956560.d.html</link>
-            <guid>2044912</guid>
-            <pubDate>Fri, 26 Feb 2021 16:20:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国财政大臣苏纳克：英国支持国际货币基金组织关于新的特别提款权分配方案的工作，该方案将为低收入国家提供额外的资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8972369.d.html</link>
-            <guid>2044911</guid>
-            <pubDate>Fri, 26 Feb 2021 16:19:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【风水轮流转，油气类QDII年内最高涨幅已超40%】油价超级周期还在持续，助推油气类QDII在今年取得不错的业绩，成为今年全市场基金中当之无愧的领头羊。连续几年年度业绩为负的油气类QDII，在今年终于迎来春天。东方财富Choice数据显示，截至2月24日，华宝标普油气上游股票（QDII）美元A今年以来净值涨幅达到40.74%，排在全市场所有基金之首，华宝标普油气上游股票（QDII）人民币A/C净值涨幅均达到40%以上。（国际金融报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9956314.d.html</link>
-            <guid>2044910</guid>
-            <pubDate>Fri, 26 Feb 2021 16:17:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【陈薇：单针疫苗打完半年后再打一针 免疫反应可有10倍、20倍的增高】陈薇团队所研发的疫苗的有效性如何？对此，陈薇表示，一针疫苗的持久性至少达6个月，半年后再打一针增强型，可以有10倍、20倍的免疫反应的增高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8972074.d.html</link>
-            <guid>2044909</guid>
-            <pubDate>Fri, 26 Feb 2021 16:14:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英镑兑美元GBP/USD短线下挫50点，日内跌幅再次扩大至0.5%，现报1.3940。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8972067.d.html</link>
-            <guid>2044908</guid>
-            <pubDate>Fri, 26 Feb 2021 16:14:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  法国财长勒梅尔：在今年夏天之前就跨境企业税改革达成协议是可能的，特别是在美国放弃其安全港要求之后。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9955910.d.html</link>
-            <guid>2044907</guid>
-            <pubDate>Fri, 26 Feb 2021 16:11:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美元指数DXY短线上扬13点，现报90.65，欧元兑美元EUR/USD短线下挫23点，现报1.2121。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8971745.d.html</link>
-            <guid>2044906</guid>
-            <pubDate>Fri, 26 Feb 2021 16:10:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  比特币站上48000美元/枚，现涨1.85%，刷新日高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8971542.d.html</link>
-            <guid>2044905</guid>
-            <pubDate>Fri, 26 Feb 2021 16:08:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦在G20金融领导人会议上收回了美国反对向谷歌、亚马逊和脸书等数字巨头征税的意见。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8971320.d.html</link>
-            <guid>2044904</guid>
-            <pubDate>Fri, 26 Feb 2021 16:06:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纳指涨幅重新扩大至超1%，道指跌幅收窄至不足200点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9955257.d.html</link>
-            <guid>2044903</guid>
-            <pubDate>Fri, 26 Feb 2021 16:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[猫眼专业版实时数据显示，电影《你好，李焕英》总票房破46亿元人民币。《唐人街探案3》超过42亿元，《刺杀小说家》超过8亿元，《猫和老鼠》超过3717万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8971049.d.html</link>
-            <guid>2044902</guid>
-            <pubDate>Fri, 26 Feb 2021 16:03:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国新增8523例新冠肺炎确诊病例，新增345例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9954999.d.html</link>
-            <guid>2044901</guid>
-            <pubDate>Fri, 26 Feb 2021 16:02:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  淡水河谷洽谈在欧洲参与电池供应链。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8970853.d.html</link>
-            <guid>2044900</guid>
-            <pubDate>Fri, 26 Feb 2021 16:01:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英镑兑美元GBP/USD短线上扬约40点，现报1.3982。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8970727.d.html</link>
-            <guid>2044899</guid>
-            <pubDate>Fri, 26 Feb 2021 16:00:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【英国金融时报：美国消除了数字税全球协议的绊脚石】美国财政部长耶伦告诉G20集团财长，华盛顿将放弃其全球数字税收规则改革提议中有争议的部分，那些提议是达成协议的主要障碍。此举可能开启经合组织长期停滞的多边谈判。特朗普政府于2019年底坚持“安全港”措施，令谈判难以取得进展。知情官员表示，美国将积极参与解决经合组织项目的两大问题，包括应对数字化带来的税收挑战和建立强有力的全球最低税收。另一位接近国际税收谈判的官员表示，美国“希望在7月前就提案达成协议，未来几周将至关重要，但形势从未如此积极。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8970568.d.html</link>
-            <guid>2044898</guid>
-            <pubDate>Fri, 26 Feb 2021 15:58:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：美国将积极参与解决经合组织税收项目的两大支柱问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9954539.d.html</link>
-            <guid>2044897</guid>
-            <pubDate>Fri, 26 Feb 2021 15:57:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
