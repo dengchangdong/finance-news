@@ -4,11 +4,53 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 27 Feb 2021 09:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 10:27:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  马来西亚周六新增2364例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0076294.d.html</link>
+            <guid>2045845</guid>
+            <pubDate>Sat, 27 Feb 2021 10:17:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大规模接种中国疫苗后阿布扎比新冠肺炎住院率显著下降】当地时间2月26日，阿联酋全国新冠肺炎临床管理委员会主席纳瓦尔·阿尔·卡比（Nawal Al Kaabi）博士在该国一场在线公共卫生会议上表示，在大规模接种中国国药疫苗后阿布扎比新冠肺炎住院率显著下降，她说：“现在住院的人数要少得多，重症监护病房中也没有出现接种疫苗的人，同时接种疫苗的人中也没有死亡病例。”中国国药新冠疫苗2020年在阿联酋阿布扎比开展了三期临床试验，根据试验数据，阿联酋成为全球首个正式批准该疫苗投入使用的国家，自2020年底，阿布扎比施打的新冠疫苗中绝大多数是中国国药疫苗。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9090278.d.html</link>
+            <guid>2045844</guid>
+            <pubDate>Sat, 27 Feb 2021 10:02:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  2月27日，国务院联防联控机制春运工作专班数据显示，春运进入第31日，全国预计发送旅客3023万人次。其中铁路预计发送旅客935万人次，公路1910万人次，水路40万人次，民航138万人次。全国高速公路预计流量3624万辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9089149.d.html</link>
+            <guid>2045842</guid>
+            <pubDate>Sat, 27 Feb 2021 09:52:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：德国寻求延长交通领域的禁止措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9088749.d.html</link>
+            <guid>2045841</guid>
+            <pubDate>Sat, 27 Feb 2021 09:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中通客车：获浙江金华市批量氢燃料客车订单】记者从中通客车获悉，近日，中通氢燃料客车迎来2021年首季“开门红”，赢获浙江金华市批量氢燃料客车订单，助力“金华氢谷”建设。公司介绍，此次中通客车中标的氢燃料公交客车，是金华氢能产业发展的重要组成部分。待交付后，将承担婺城区氢燃料公交示范线路的运营任务，成为金华市市区的首批氢燃料客车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9088145.d.html</link>
+            <guid>2045840</guid>
+            <pubDate>Sat, 27 Feb 2021 09:45:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  卡塔尔新增460例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0071571.d.html</link>
+            <guid>2045839</guid>
+            <pubDate>Sat, 27 Feb 2021 09:37:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【港媒：影星吴孟达患肝癌去世】据东网等多家港媒刚刚消息，香港影星吴孟达因肝癌于仁安医院逝世，终年68岁。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0071302.d.html</link>
+            <guid>2045838</guid>
+            <pubDate>Sat, 27 Feb 2021 09:34:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  匈牙利新增新冠肺炎确诊病例4948例，累计确诊424130例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9085648.d.html</link>
@@ -16,7 +58,7 @@
             <pubDate>Sat, 27 Feb 2021 09:21:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【中国人民银行行长易纲出席二十国集团财长和央行行长视频会议】中国人民银行行长易纲出席二十国集团财长和央行行长视频会议。易纲指出，当前形势下，G20应继续坚持多边主义，重点推进三方面工作。一是推动特别提款权普遍增发，并将现有和新增特别提款权以适当形式转借给低收入国家，支持其经济复苏；二是推动各方、特别是商业债权人按可比原则，共同以透明、协调的方式开展债务处置，支持低收入国家应对疫情冲击；三是关注气候变化可能导致的经济金融风险，人民银行愿通过G20可持续金融研究小组与各方共同推进绿色转型。]]></title>
+            <title><![CDATA[【中国人民银行行长易纲出席二十国集团财长和央行行长视频会议】中国人民银行行长易纲出席二十国集团财长和央行行长视频会议。易纲指出，当前形势下，G20应继续坚持多边主义，重点推进三方面工作。一是推动特别提款权普遍增发，并将现有和新增特别提款权以适当形式转借给低收入国家，支持其经济复苏；二是推动各方、特别是商业债权人按可比原则，共同以透明、协调的方式开展债务处置，支持低收入国家应对疫情冲击；三是关注气候变化可能导致的经济金融风险，人民银行愿通过G20可持续金融研究小组与各方共同推进绿色转型。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0069501.d.html</link>
             <guid>2045836</guid>
             <pubDate>Sat, 27 Feb 2021 09:13:35 GMT</pubDate>
@@ -565,48 +607,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0003335.d.html</link>
             <guid>2045129</guid>
             <pubDate>Sat, 27 Feb 2021 02:34:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币站上48000美元/枚，涨幅扩大至3.68%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9018638.d.html</link>
-            <guid>2045128</guid>
-            <pubDate>Sat, 27 Feb 2021 02:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：斐济莱武卡东部293公里处发生5.6级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0003237.d.html</link>
-            <guid>2045127</guid>
-            <pubDate>Sat, 27 Feb 2021 02:34:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国超4500家旅行社倒闭，韩国最大旅行社出售总部大楼】在韩国，随着疫情长期化，一些旅行社接连倒闭，韩国最大的旅行社哈拿多乐甚至要出售总部大楼，以确保资金链。售价为940亿韩元、约合人民币5.5亿元，占公司总资产的约十分之一，同时还将出售位于首尔热门商圈的两家酒店。由于国内旅游资源有限，韩国有超六成的旅行社主打海外游项目，根据韩国旅游协会近期发布的数据，全国1.76万家旅行社中，有4500多家停业，相当于每四家旅行社就有一家关门，业界推算，去年全年韩国旅游业至少有4.5万人失业或处于休假状态。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9018275.d.html</link>
-            <guid>2045126</guid>
-            <pubDate>Sat, 27 Feb 2021 02:32:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中行深圳分行：将以参考价为房贷重要参考 具体细则仍在研究制定中】今日，中行深圳分行回应表示，中行将以深圳住建局发布的成交参考价格作为贷款发放的重要参考，具体细则正在研究制定中。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9016814.d.html</link>
-            <guid>2045124</guid>
-            <pubDate>Sat, 27 Feb 2021 02:27:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国疾控中心：美国感染埃博拉病毒的风险很低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9015134.d.html</link>
-            <guid>2045122</guid>
-            <pubDate>Sat, 27 Feb 2021 02:20:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国药品安全部门表示，强生公司已提交寻求批准其新冠疫苗的申请。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9015016.d.html</link>
-            <guid>2045120</guid>
-            <pubDate>Sat, 27 Feb 2021 02:19:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国电力公司在法国的GRAVELINES 3号反应堆发生了超出计划外的停机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9014710.d.html</link>
-            <guid>2045118</guid>
-            <pubDate>Sat, 27 Feb 2021 02:17:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
