@@ -4,11 +4,397 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Fri, 05 Mar 2021 06:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 07:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[汇丰研究：将携程网目标价从42美元上调至46美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1604234.d.html</link>
+            <guid>2056581</guid>
+            <pubDate>Fri, 05 Mar 2021 07:22:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根士丹利：预计石油需求将恢复到9900万桶/日，这意味着比目前水平增加了400万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1604129.d.html</link>
+            <guid>2056580</guid>
+            <pubDate>Fri, 05 Mar 2021 07:22:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根士丹利：预计2021年第二季度和第三季度石油市场供应短缺140万至190万桶/日，重申了2021年第三季度布伦特原油价格将达到70美元/桶的预测，并预计在牛市的情况下将达到80美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1603667.d.html</link>
+            <guid>2056579</guid>
+            <pubDate>Fri, 05 Mar 2021 07:21:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所：本周锌库存增加3321吨，锡库存增加378吨，铜库存增加15067吨，铝库存增加16254吨，镍库存增加1913吨，铅库存增加4072吨，天然橡胶库存增加238吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2582541.d.html</link>
+            <guid>2056578</guid>
+            <pubDate>Fri, 05 Mar 2021 07:18:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【自然资源部：新西兰海域地震引发海啸 不会对我国沿岸造成灾害性影响】2021年3月5日3时28分（北京时间），新西兰克马德克群岛海域（29.56°S,177.11°W）发生8.1级地震，震源深度为20.0千米（震级修订）。自然资源部海啸预警中心根据最新监测分析结果，此次地震已经引发海啸，但不会对我国沿岸造成灾害性影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2582225.d.html</link>
+            <guid>2056577</guid>
+            <pubDate>Fri, 05 Mar 2021 07:17:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国债期货收盘，10年期主力合约涨0.35%，5年期主力合约涨0.20%，2年期主力合约涨0.09%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1601413.d.html</link>
+            <guid>2056576</guid>
+            <pubDate>Fri, 05 Mar 2021 07:17:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：英国监管机构就要求基准管理有限公司（IBA）在2021年底后继续发布1个月、3个月和6个月日元LIBOR设置进行咨询。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1600267.d.html</link>
+            <guid>2056575</guid>
+            <pubDate>Fri, 05 Mar 2021 07:15:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【规划纲要草案：坚持创新驱动发展 全面塑造发展新优势】《中华人民共和国国民经济和社会发展第十四个五年规划和2035年远景目标纲要（草案）》提出，坚持创新在我国现代化建设全局中的核心地位，把科技自立自强作为国家发展的战略支撑，面向世界科技前沿、面向经济主战场、面向国家重大需求、面向人民生命健康，深入实施科教兴国战略、人才强国战略、创新驱动发展战略，完善国家创新体系，加快建设科技强国。强化国家战略科技力量。制定科技强国行动纲要，健全社会主义市场经济条件下新型举国体制，打好关键核心技术攻坚战，提高创新链整体效能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1600161.d.html</link>
+            <guid>2056574</guid>
+            <pubDate>Fri, 05 Mar 2021 07:15:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞信：上调宝尊电商目标价至126港元 评级中性】瑞信发表报告表示，宝尊电商(09991.HK)去年第四季收益按年升20%至33.5亿元人民币，非通用会计准则经营利润率升2.2个百分点至10%，表现符合市场预期；公司目标未来3至5年商品交易额(GMV)达1,500亿元及经营利润为20亿元，反映公司对现有业务的乐观看法、业务扩张及成本控制等方面。该行期待在未来几个季度取得更多进展，而其现价已大致反映新业务带来的正面因素，故建议等待更好的入市机会。但将其目标价由97港元上调至126港元，维持中性评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1599937.d.html</link>
+            <guid>2056573</guid>
+            <pubDate>Fri, 05 Mar 2021 07:14:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国监管机构表示，将在2023年6月30日之后立即停止公布隔夜和12个月期美元LIBOR的设定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2578904.d.html</link>
+            <guid>2056570</guid>
+            <pubDate>Fri, 05 Mar 2021 07:12:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国监管机构表示，1周期和2个月期的美元LIBOR设置将在2021年12月31日之后立即停止。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2578465.d.html</link>
+            <guid>2056565</guid>
+            <pubDate>Fri, 05 Mar 2021 07:11:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国监管机构表示，2021年12月31日后将停止所有欧元、瑞士法郎的伦敦银行同业拆借利率（Libor）设置。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2578384.d.html</link>
+            <guid>2056564</guid>
+            <pubDate>Fri, 05 Mar 2021 07:11:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：免疫肿瘤学公司Vaccibody考虑在纳斯达克全球市场挂牌上市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2577688.d.html</link>
+            <guid>2056563</guid>
+            <pubDate>Fri, 05 Mar 2021 07:09:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本首相菅义伟：船舶设施债务延期再延长一年。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1596588.d.html</link>
+            <guid>2056561</guid>
+            <pubDate>Fri, 05 Mar 2021 07:09:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国监管机构就停止LIBOR基准利率发表声明。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1595909.d.html</link>
+            <guid>2056560</guid>
+            <pubDate>Fri, 05 Mar 2021 07:07:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【天风证券：铜、电解铝等基本金属价格上涨有望在3-4月持续】天风证券指出，全球经济正在逐步恢复，有色金属需求有望逐步恢复。21年预计国内有望迎来房地产落成高峰，而3-4月由于北方复工是有色金属的传统旺季，基本金属需求有望持续增长。铜/电解铝/锌等基本金属价格上涨有望在3-4月持续。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2576434.d.html</link>
+            <guid>2056559</guid>
+            <pubDate>Fri, 05 Mar 2021 07:06:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欢聚集团BIGO获韩国年度品牌大奖】近日，欢聚集团旗下BIGO获得韩国NCDB国家消费者中心品牌大奖，该奖由东亚日报颁发，是全韩国消费领域的重量级奖项之一。今年NCDB奖项共有45个韩国品牌入围，BIGO是唯一获奖的泛娱乐社交平台。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1594820.d.html</link>
+            <guid>2056558</guid>
+            <pubDate>Fri, 05 Mar 2021 07:05:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国华电董事长温枢刚：以更大力度发展风光电 持续推进水电发展】全国人大代表、中国华电集团有限公司事长温枢刚表示，“十四五”期间，中国华电将“推进碳达峰、碳中和工作”作为重点任务之一。经过初步测算，中国华电有望在2025年实现碳达峰。温枢刚表示，中国华电坚持以高质量发展为主题，让绿色成为公司发展的鲜明底色：以更大力度发展风光电，推动形成建设一批、优选一批、储备一批的发展格局。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1594434.d.html</link>
+            <guid>2056557</guid>
+            <pubDate>Fri, 05 Mar 2021 07:04:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金全天小幅净买入5.27亿元。本周北向资金大幅波动，累计净卖出8.36亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1593977.d.html</link>
+            <guid>2056556</guid>
+            <pubDate>Fri, 05 Mar 2021 07:03:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【收评：三大指数低开高走创指涨0.7% 券商股全线飘红】3月5日消息，A股三大指数集体低开。随后，指数跌幅缩窄，券商股、天然气板块异动拉升，水泥、机场航运持续走弱，市场情绪有所回暖，赚钱效应较好。盘中，两市指数持续绿盘震荡，保险股、白酒股拉升冲高，煤炭加工、稀缺资源表现低迷，资金避险情绪升温。临近午盘，三大指数悉数翻红，沪指重回3500点，第三代半导体、航运概念拉升冲高，市场交易情绪高涨。午后，两市指数延续弱势盘整，农业种植、农产品加工、农机等大农业板块集体爆发，头条概念股异动拉升。临近尾盘，沪指、深成指先后翻红，创指涨逾1% ，大农业板块持续走强，可降解塑料板块拉升冲高，市场情绪大幅回暖，两市逾2900股上涨。截至收盘，沪指跌0.04%，深证成指跌0.03%，创业板指涨0.70%。]]></title>
+            <guid>2056555</guid>
+            <pubDate>Fri, 05 Mar 2021 07:02:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国内商品期货走势分化 能源板块涨幅居前】国内商品期货收盘，能源板块收盘大涨，原油、燃油涨超6%，低硫燃料油涨超5%，沥青、硅铁涨超4%。有色跌幅居前，沪镍跌超8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1592910.d.html</link>
+            <guid>2056554</guid>
+            <pubDate>Fri, 05 Mar 2021 07:00:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国1月季调后工厂订单环比 1.4%，预期 0.5%，前值 -1.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2573467.d.html</link>
+            <guid>2056552</guid>
+            <pubDate>Fri, 05 Mar 2021 07:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达40亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1592468.d.html</link>
+            <guid>2056551</guid>
+            <pubDate>Fri, 05 Mar 2021 07:00:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[捷克新增14554例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2573100.d.html</link>
+            <guid>2056549</guid>
+            <pubDate>Fri, 05 Mar 2021 06:59:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上期所原油期货主力合约大涨7%】上期所原油期货主力合约上涨7.01%，报424.30元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1591934.d.html</link>
+            <guid>2056548</guid>
+            <pubDate>Fri, 05 Mar 2021 06:59:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达30亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2572358.d.html</link>
+            <guid>2056547</guid>
+            <pubDate>Fri, 05 Mar 2021 06:58:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美油创去年1月8日以来新高至64.92美元/桶，日内涨幅扩大到1.71%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1591484.d.html</link>
+            <guid>2056546</guid>
+            <pubDate>Fri, 05 Mar 2021 06:58:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士信贷：预计将在2021年3月8日向卢森堡注册基金支付约80%的现金和现金等物，并在同一周晚些时候向列支敦士登注册基金支付。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1591153.d.html</link>
+            <guid>2056545</guid>
+            <pubDate>Fri, 05 Mar 2021 06:57:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士信贷：当务之急是确保资金及时清盘和为投资者实现价值最大化之间的平衡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1591016.d.html</link>
+            <guid>2056544</guid>
+            <pubDate>Fri, 05 Mar 2021 06:57:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达20亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1589602.d.html</link>
+            <guid>2056543</guid>
+            <pubDate>Fri, 05 Mar 2021 06:54:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据日本共同社：日本东京都知事小池百合子将于当地时间晚上9点（北京时间晚上8点）对媒体发表讲话。]]></title>
+            <guid>2056542</guid>
+            <pubDate>Fri, 05 Mar 2021 06:53:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯卫生部长米哈伊尔·穆拉什科称，“卫星-Light”新冠疫苗的第二阶段临床研究已结束。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2569823.d.html</link>
+            <guid>2056541</guid>
+            <pubDate>Fri, 05 Mar 2021 06:52:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[深交所表示，自3月5日下午13点52分13秒起对“国开2008”(108610)、“国开2009”(108611)实施停牌至收市。]]></title>
+            <guid>2056540</guid>
+            <pubDate>Fri, 05 Mar 2021 06:52:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[燃油主力合约冲上2500元/吨，日内涨6.79%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2569717.d.html</link>
+            <guid>2056539</guid>
+            <pubDate>Fri, 05 Mar 2021 06:52:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[全国人大代表、广西国资委主任李杰云：建议进一步理顺国有企业划转国有资本充实社保基金有关管理体制，尽快出台国有企业划转股权后管理体制运行的指导意见。（中证网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2569652.d.html</link>
+            <guid>2056538</guid>
+            <pubDate>Fri, 05 Mar 2021 06:52:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布油刷新去年1月8日以来高位至67.77美元/桶，日内涨幅扩大到1.54%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1588543.d.html</link>
+            <guid>2056537</guid>
+            <pubDate>Fri, 05 Mar 2021 06:50:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[莫斯科交易所：第四季度净利润为68.5亿卢布，而去年同期为57.5亿卢布。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1587631.d.html</link>
+            <guid>2056536</guid>
+            <pubDate>Fri, 05 Mar 2021 06:49:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北方华创在互动平台表示，公司半导体设备均为100%自主研发，零部件来自全球供应商。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2568041.d.html</link>
+            <guid>2056535</guid>
+            <pubDate>Fri, 05 Mar 2021 06:48:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家知识产权局：研究制定大数据、人工智能、基因技术等新领域新业态知识产权保护规则】国家知识产权局印发《推动知识产权高质量发展年度工作指引（2021）》。要求围绕国家关键核心技术加强专利导航体系建设，统筹推进补齐短板和锻造长板，助力破解“卡脖子”问题。推进重点产业知识产权运营中心建设，做好相关知识产权创造和储备。研究制定大数据、人工智能、基因技术等新领域新业态知识产权保护规则。开展专利特殊审查政策与机制综合性评估论证，进一步完善知识产权审查制度。加强对全面与进步跨太平洋伙伴关系协定（CPTPP）知识产权相关条款研究。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1586847.d.html</link>
+            <guid>2056534</guid>
+            <pubDate>Fri, 05 Mar 2021 06:46:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高瓴资本概念股多数反弹，健帆生物、泰格医药、恩捷股份、甘李药业、凯莱英飘红。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1586606.d.html</link>
+            <guid>2056533</guid>
+            <pubDate>Fri, 05 Mar 2021 06:46:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[青海国投“15青国投MTN001”涨逾76%，报51.3元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2567118.d.html</link>
+            <guid>2056532</guid>
+            <pubDate>Fri, 05 Mar 2021 06:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国10年期国债期货扩大涨幅，至一个月最高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1586090.d.html</link>
+            <guid>2056531</guid>
+            <pubDate>Fri, 05 Mar 2021 06:45:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[光刻机（胶）板块临近收盘异动拉升，蓝英装备涨17%，南大光电、容大感光、晶瑞股份等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2566713.d.html</link>
+            <guid>2056530</guid>
+            <pubDate>Fri, 05 Mar 2021 06:44:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【安进19亿美元收购Five Prime Therapeutics】3月4日，安进(AMGN.O)宣布与Five Prime Therapeutics(FPRX.O)达成最终协议，将以38美元/股的价格全现金收购后者股票，对应股权总金额大约19亿美元。安进通过此次收购补强了自己的肿瘤创新药管线，包括获得了first in class的FGFR2b单抗bemarituzumab，该药针对晚期胃癌或胃食管衔接部癌的临床开发已处于III期阶段。该交易预计在2021第二季度末完成。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2566377.d.html</link>
+            <guid>2056529</guid>
+            <pubDate>Fri, 05 Mar 2021 06:43:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[匈牙利总理欧尔班：匈牙利新冠肺炎住院患者可能达到2万人。医院有足够的床位和呼吸机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2565978.d.html</link>
+            <guid>2056528</guid>
+            <pubDate>Fri, 05 Mar 2021 06:42:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构分析：金价跌至9个月低点，鲍威尔的讲话令国债收益率上扬】金价周五跌至近九个月低点，势创连续第三周下跌，因美联储主席鲍威尔发表讲话称收益率升幅并非"无序"后，美元和国债收益率上扬。鲍威尔周四重申了保持宽松信贷的承诺，并表示，尽管收益率上升“引人注目”，但他不认为美联储将不得不出手干预，以压低收益率。OANDA高级市场分析师Jeffrey Halley称，“很明显鲍威尔对市场的态度还不够温和，在某种程度上，他表示对此感到满意，从而为美国国债收益率走高开了绿灯。所有迹象都表明债市恐慌仍在继续，金价将跌破当前水准，并在1600美元区域进一步下跌似乎是不可避免的。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1584969.d.html</link>
+            <guid>2056527</guid>
+            <pubDate>Fri, 05 Mar 2021 06:42:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小米的第一款可折叠手机曝光 或今年上市】据知情人士透露，小米首款折叠手机即将发布。据最新消息透露，这款新设备的官方名称可能是小米MIX系列。小米Mix 4 Pro Max将采用与华为Mate XS类似的外折叠手机，这款设备折叠后的封面屏幕将为6.38英寸。据推测，2021年可折叠手机将占据主导地位，小米想要跟上其他智能手机制造商的步伐，势必会推出可折叠手机。（IT头条）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1584828.d.html</link>
+            <guid>2056526</guid>
+            <pubDate>Fri, 05 Mar 2021 06:41:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沪深两市成交额突破8000亿元】截至目前，沪深两市成交额突破8000亿元，其中沪市成交额3751亿元，深市成交额4270亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2565267.d.html</link>
+            <guid>2056525</guid>
+            <pubDate>Fri, 05 Mar 2021 06:41:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moderna公司向日本提交了进口新冠候选疫苗的新药申请（New Drug Application）。]]></title>
+            <guid>2056524</guid>
+            <pubDate>Fri, 05 Mar 2021 06:39:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通：将普拉格能源(PLUG.O)目标价从65美元下调至61美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1583638.d.html</link>
+            <guid>2056523</guid>
+            <pubDate>Fri, 05 Mar 2021 06:39:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大华银行：英镑兑美元跌破1.3820料加速下跌】大华银行表示，短期英镑兑美元跌破1.3820将加速下跌，上日强调下跌动能温和改善，将走低至1.3890，由于动能疲乏，进一步跌至1.3860的机率不高，此观点是正确的，隔夜跌至1.3881，自此下跌动能改善将导致跌破1.3860，但不太可能触及下一支撑位1.3820，上行方面，阻力位位于1.3925，然后为1.3965。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2563762.d.html</link>
+            <guid>2056522</guid>
+            <pubDate>Fri, 05 Mar 2021 06:37:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通：将Nikola(NKLA.O)目标价从33美元下调至30美元，评级从跑赢大市下调至中性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1582589.d.html</link>
+            <guid>2056521</guid>
+            <pubDate>Fri, 05 Mar 2021 06:36:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞信：料中资电讯股上季收入加快可升市场信心，指中国移动(00941.HK)属首选。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2562753.d.html</link>
+            <guid>2056520</guid>
+            <pubDate>Fri, 05 Mar 2021 06:35:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美银证券：升渣打(02888.HK)目标价至65港元，重申买入评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2562116.d.html</link>
+            <guid>2056518</guid>
+            <pubDate>Fri, 05 Mar 2021 06:34:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美诺华：子公司燎原药业已通过FDA检查】美诺华3月5日在上交所互动平台表示，子公司燎原药业已接受并通过了FDA检查。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1581219.d.html</link>
+            <guid>2056517</guid>
+            <pubDate>Fri, 05 Mar 2021 06:33:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[台积电计划今年在台湾聘用9000名雇员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2561621.d.html</link>
+            <guid>2056516</guid>
+            <pubDate>Fri, 05 Mar 2021 06:33:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美银证券：中国建材(03323.HK)水泥资产重组符预期，重申买入评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1580690.d.html</link>
+            <guid>2056515</guid>
+            <pubDate>Fri, 05 Mar 2021 06:32:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国债期货涨幅扩大，10年期主力合约涨0.31%，5年期主力合约涨0.18%，2年期主力合约涨0.07%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2560946.d.html</link>
+            <guid>2056514</guid>
+            <pubDate>Fri, 05 Mar 2021 06:31:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国KOSPI指数3月5日（周五）收盘下跌17.39点，跌幅0.57%，报3026.10点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1580110.d.html</link>
+            <guid>2056513</guid>
+            <pubDate>Fri, 05 Mar 2021 06:31:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大皇家银行：将博通(AVGO.O)目标价从450美元上调至460美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2560707.d.html</link>
+            <guid>2056512</guid>
+            <pubDate>Fri, 05 Mar 2021 06:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[硅铁主力合约日内大涨4.02%，现报8016元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2560525.d.html</link>
+            <guid>2056511</guid>
+            <pubDate>Fri, 05 Mar 2021 06:30:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[康达新材在互动平台上表示，公司综合考虑供求、竞争、成本及公司经营战略等因素，会对部分产品根据市场变化适时调整销售价格。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1579676.d.html</link>
+            <guid>2056510</guid>
+            <pubDate>Fri, 05 Mar 2021 06:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【丰田汽车1-2月份中国销量同比增长81.4%】丰田汽车公告称，1-2月在中国累计销售30.69万辆汽车，同比增长81.4%。其中，2月份销量为11.74万辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2560163.d.html</link>
+            <guid>2056509</guid>
+            <pubDate>Fri, 05 Mar 2021 06:30:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛：预计2月非农就业人数将增加22.5万，而失业率仍维持在6.3%】新冠肺炎感染率下降和商业活动限制的放宽或支撑受病毒冲击行业的就业增长。近期数据表明就业增长净值回升，而美国南部严重的冬季风暴出现时间较晚，可能不会对2月非农报告造成重大影响。此外失业率料维持在6.3%，反映了家庭就业的强劲增长预期被劳动力参与率的反弹所抵消。考虑到“日历效应”，预计平均每小时工资月率将录0.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1578962.d.html</link>
+            <guid>2056508</guid>
+            <pubDate>Fri, 05 Mar 2021 06:28:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[雅迪控股涨超20%，总市值超600亿港元，此前花旗称其市场占有率到2023年将增至30%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1578714.d.html</link>
+            <guid>2056507</guid>
+            <pubDate>Fri, 05 Mar 2021 06:28:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[雅迪控股(01585.HK)涨超18%领涨港股汽车股，长城汽车(02333.HK)涨近9%，比亚迪股份(01211.HK)、广汽集团(02238.HK)、华晨中国(01114.HK)均涨超2%。]]></title>
             <guid>2056506</guid>
@@ -216,395 +602,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1565920.d.html</link>
             <guid>2056462</guid>
             <pubDate>Fri, 05 Mar 2021 05:54:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  恒生科技指数跌幅收窄至1%，腾讯控股、阿里巴巴均已转涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1565605.d.html</link>
-            <guid>2056458</guid>
-            <pubDate>Fri, 05 Mar 2021 05:53:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【交通运输部：今年将拓展ETC在停车场、加油站应用】交通运输部党组书记杨传堂做客央广会客厅时表示，2021年，交通运输部将推进12件民生实事。其中包括：开展ETC服务专项提升行动，拓展ETC在停车场、加油站应用；实施绿色出行“续航工程”，推动在重点区域高速公路服务区、客运枢纽等场站建设充电桩等；推进农村客货邮融合发展；便利老年人打车出行等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2546192.d.html</link>
-            <guid>2056454</guid>
-            <pubDate>Fri, 05 Mar 2021 05:53:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【环球时报社评：6%以上，今年世界看中国的地标】全球翘首以待的中国今年GDP增速被定为6%以上，之前外界纷纷预测了更高数字，国际货币基金组织(IMF)预测的是中国今年增长8.1%，不过6%以上意味着6%是底线，“以上”不同于往年的“左右”，中国今年的实际经济增速有可能更高。6%以上的增长寄托了中国继续扩大经济规模，同时解决各种现实问题，满足广大人民群众在新一年生活更好的多重希望。 与中国的实际情况相比，6%这个数字不算高，关键是它之后的那个“以上”，它是中国今年经济的悬念所在，也是我们实际奋斗的空间延伸。中国经济在百万亿人民币的量级上继续以大经济体中最快的速度增长，这是中国的真功夫，它是世界认识社会主义中国最突出的地标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2545949.d.html</link>
-            <guid>2056450</guid>
-            <pubDate>Fri, 05 Mar 2021 05:52:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本30年期国债收益率一度下跌10.5个基点，至0.61%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1563306.d.html</link>
-            <guid>2056433</guid>
-            <pubDate>Fri, 05 Mar 2021 05:48:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  “国开2008”涨幅扩大至逾100%，报200元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1562920.d.html</link>
-            <guid>2056428</guid>
-            <pubDate>Fri, 05 Mar 2021 05:47:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒生指数转涨，此前一度跌2.4％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1562448.d.html</link>
-            <guid>2056425</guid>
-            <pubDate>Fri, 05 Mar 2021 05:46:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本10年期债券期货扩大涨幅，一度上涨88点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2543282.d.html</link>
-            <guid>2056424</guid>
-            <pubDate>Fri, 05 Mar 2021 05:46:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[香港恒生指数转涨，此前一度跌2.4%，石油、电信、消费品等板块领涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2543208.d.html</link>
-            <guid>2056423</guid>
-            <pubDate>Fri, 05 Mar 2021 05:46:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  银行股持续拉升，工商银行、中国银行、农业银行领涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1560170.d.html</link>
-            <guid>2056422</guid>
-            <pubDate>Fri, 05 Mar 2021 05:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卓创：山东港口石油库存跌至两周低点】据行业研究公司卓创资讯的数据，截至3月5日当周，中国东部山东省七个港口的原油库存下降8.1%至4,543.4万桶。石油库存跌至自2月19日以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1560129.d.html</link>
-            <guid>2056421</guid>
-            <pubDate>Fri, 05 Mar 2021 05:41:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上交所：国开2005（018014）今日下午交易出现异常波动。本所决定，自2021年03月05日13时27分开始暂停国开2005（018014）交易，自2021年03月05日13时57分起恢复交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1558643.d.html</link>
-            <guid>2056420</guid>
-            <pubDate>Fri, 05 Mar 2021 05:37:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【方正策略：2021年我国新一轮产能周期或将开启】方正策略指出，从宏观角度看，2000年至今中国共经历了两次完整产能周期，每一轮产能周期都嵌套了3个库存周期，且产能周期与库存周期高低点存在一定程度重合。中国2009-2020年的这一轮产能周期伴随疫情爆发而加速触底，而第三库存周期在2019年11月就率先见底。在需求侧持续修复以及中美库存周期映射的驱动下，库存周期开启动能强劲，库存增速仍将维持上行。根据库存周期领先产能周期的规律，我们认为2021年我国新一轮产能周期或将开启。推荐关注“盈利周期向上+估值相对合理”扩产能制造业细分龙头。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2539210.d.html</link>
-            <guid>2056419</guid>
-            <pubDate>Fri, 05 Mar 2021 05:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  农机板块持续拉升，一拖股份涨8%，吉峰科技、智慧农业、悦达投资等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2538202.d.html</link>
-            <guid>2056418</guid>
-            <pubDate>Fri, 05 Mar 2021 05:35:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【方正证券：货币政策常态化背景下 重点领域仍需进一步支持】政府工作报告明确，稳健的货币政策要灵活精准、合理适度，把服务实体经济放到更加突出的位置，处理好恢复经济与防范风险的关系。对此，方正证券首席经济学家颜色解读称，伴随经济稳步发展，货币政策总体要实现逐步常态化，但也要意识到，全球经济还比较脆弱，国内经济复苏的基础并不是很稳固，实体经济仍需要较多的政策支持。颜色表示，去年以来一直强调金融让利实体经济，今年的让利可能更注重导向性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2538165.d.html</link>
-            <guid>2056417</guid>
-            <pubDate>Fri, 05 Mar 2021 05:35:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【刘俊海：强化反垄断监管有助于促进经济高质量发展】政府工作报告提出，要强化反垄断和防止资本无序扩张，坚决维护公平竞争市场环境。对此，中国人民大学商法研究所所长刘俊海认为，这次政府工作报告首次提到强化反垄断和防止资本无序扩张，是对中央经济工作会议精神的贯彻和落实。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2537349.d.html</link>
-            <guid>2056416</guid>
-            <pubDate>Fri, 05 Mar 2021 05:33:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【唱起双簧？微软刚炒完“与中国相关黑客”实施网络攻击，白宫就在密切关注】据路透社报道，当地时间3月4日，美国总统国家安全事务助理沙利文表示，白宫正在密切关注有关美国智库和国防工业基地存在所谓“潜在危险”的报道。此前，美国微软公司发布紧急补丁并炒作称，中国相关的黑客利用电子邮件服务器漏洞对部分美方机构实施了网络攻击。 （环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2536168.d.html</link>
-            <guid>2056415</guid>
-            <pubDate>Fri, 05 Mar 2021 05:31:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  焦炭主力合约日内下跌150.5元，跌幅6.07%。现报2327.0元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1555123.d.html</link>
-            <guid>2056414</guid>
-            <pubDate>Fri, 05 Mar 2021 05:31:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  港股汽车股上扬，雅迪控股涨超8%，长城汽车涨超5%，广汽集团涨1.5%，比亚迪股份转涨，政府工作报告提出稳定增加汽车等大宗消费。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2535822.d.html</link>
-            <guid>2056413</guid>
-            <pubDate>Fri, 05 Mar 2021 05:30:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  “森特转债”涨30%，盘中二次临时停牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1554131.d.html</link>
-            <guid>2056412</guid>
-            <pubDate>Fri, 05 Mar 2021 05:29:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国信证券：汽车消费、农村消费、新型城镇化建设或是今年政策重点扶持方向】国信证券指出，货币政策方面，政府工作报告延续“不急转弯”基调。财政政策强调提质增效与可持续性，并调低了财政赤字率与地方政府专项债规模，这或许意味着2021年基建投资增速难以明显增长；扩大内需方面，2021年政府工作报告对汽车消费、农村消费、新型城镇化建设投资提出了具体措施或具体数量目标，因此这几个方面或是2021年政策重点扶持方向。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2534970.d.html</link>
-            <guid>2056411</guid>
-            <pubDate>Fri, 05 Mar 2021 05:28:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【ST个股批量上演涨停潮】ST个股表现强势，创业板ST金刚涨停，ST数知、ST德威涨超10%，两市近25只ST股涨停。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2534588.d.html</link>
-            <guid>2056409</guid>
-            <pubDate>Fri, 05 Mar 2021 05:27:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【申万宏源杨成长：我国有望加速推进海关特殊监管区和自贸试验区整合】政府工作报告提出，要推动海关特殊监管区域与自贸试验区融合发展。对此，全国政协委员、申万宏源证券研究所首席经济学家杨成长对记者表示，这意味着，“十四五”期间，我国有望加速推进海关特殊监管区和自贸试验区整合，强化制度集成，形成高标准制度型开放示范区，助力我国形成高水平全面对外开放新局面。（中国证券网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2533728.d.html</link>
-            <guid>2056408</guid>
-            <pubDate>Fri, 05 Mar 2021 05:25:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  头条概念股午后持续走强，省广集团涨停封板，紫天科技、凯撒文化、二三四五、ST数知等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1552498.d.html</link>
-            <guid>2056407</guid>
-            <pubDate>Fri, 05 Mar 2021 05:24:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  “国开2008”涨幅扩大至逾50%，报151元，成交额1.5万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2533083.d.html</link>
-            <guid>2056406</guid>
-            <pubDate>Fri, 05 Mar 2021 05:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【跟谁学2020年收入71.25亿元 同比增长236.9%】跟谁学公布2020财年第四季度及2020财年全年未经审计财务报告。根据报告，跟谁学2020年Q4收入达22.11亿元，同比增长136.5%，正价课付费人次同比增长107.6%达227.5万。跟谁学2020财年全年实现收入71.25亿元，同比增长236.9%，正价课付费人次达587.1万，同比增长168.4%。其中，K12在线课程收入为62.37亿元，同比增长265.5%，K12在线课程正价课付费人次达542.9万，同比增长177.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2532476.d.html</link>
-            <guid>2056405</guid>
-            <pubDate>Fri, 05 Mar 2021 05:21:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  澳大利亚S&P/ASX200指数收盘下跌0.74%，报6710.80点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1551416.d.html</link>
-            <guid>2056404</guid>
-            <pubDate>Fri, 05 Mar 2021 05:21:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福克斯集团CEO：福克斯新闻将充当拜登政府的“忠实反对派”】据美国广播公司（NBC）3月5日报道，福克斯集团首席执行官拉克兰·默多克（Lachlan Murdoch）周四表示，福克斯新闻的工作就是充当拜登政府的反对派，他明确指出了这家在2017年之前一直自诩为“公平和平衡”的新闻网存在政治倾向。拉克兰·默多克是传媒大亨默多克的长子。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1549982.d.html</link>
-            <guid>2056403</guid>
-            <pubDate>Fri, 05 Mar 2021 05:18:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国际贸委会明文认定SK侵犯LG商业秘密】美国国际贸易委员会（ITC）5日就韩国LG能源解决方案（前LG化学旗下电池部门、下称LG）指控SK创新（SK Innovation，下称SK）侵犯商业秘密的案件发布最终意见书，明文认定SK确实侵犯LG的商业秘密，据此禁止SK今后10年向美国出口相关产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2529486.d.html</link>
-            <guid>2056402</guid>
-            <pubDate>Fri, 05 Mar 2021 05:15:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本东证指数缩减跌幅 受科技、化工类股上涨提振】随着电子、化工和机械类股扭转跌势，日本东证指数跌幅缩窄至0.2%，此前一度跌1.3%。日经指数下跌1%，此前一度跌2.2%，迅销下跌4.3%。日元兑美元下跌0.1%，报108.06日元，约为7月份以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2529030.d.html</link>
-            <guid>2056401</guid>
-            <pubDate>Fri, 05 Mar 2021 05:14:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【原中国保监会副主席周延礼：建议加强债券市场顶层设计】全国政协委员、原中国保监会副主席周延礼就推进债券市场高质量发展，建议加强债券市场顶层设计。建议进一步加大改革力度，解决长期应解决未解决的债券市场割裂等问题，研究出台有关指导意见，实现准入条件、信息披露、资信评级、投资者适当性、投资者保护等规则的统一。同时，建议继续由中央金融管理部门会同地方政府共同推进债券市场管理体制机制改革。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1547364.d.html</link>
-            <guid>2056400</guid>
-            <pubDate>Fri, 05 Mar 2021 05:13:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  农业股午后异动，深粮控股午后直线拉升封板，登海种业、京粮控股、隆平高科、荃银高科等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1546100.d.html</link>
-            <guid>2056398</guid>
-            <pubDate>Fri, 05 Mar 2021 05:11:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【变异新冠病毒已扩散至日本19都府县 变异新冠病毒或影响东京奥运】据日本共同社报道，日本厚生劳动省的数据显示，截至3月4日，日本全国已经有19个都府县出现了变异新冠病毒病例。该国专家认为，变异病毒的迅速扩散，可能对东京奥运会产生影响。   （中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2525787.d.html</link>
-            <guid>2056397</guid>
-            <pubDate>Fri, 05 Mar 2021 05:08:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  光大证券午后炸板，现涨9%，主力净买入超10亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2525683.d.html</link>
-            <guid>2056396</guid>
-            <pubDate>Fri, 05 Mar 2021 05:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国会预算办公室：美国政府债务在2051年将达到GDP两倍】当地时间4日，美国国会预算办公室发布“长期预算展望”预计显示，公众持有的联邦政府债务在2021财年底将达到GDP的102%，而在2051财年将增至GDP的202%。国会预算办公室警告说，长期来看，大幅攀升的债务将增加未来借贷成本以及发生财政危机的风险。对于拜登提议的1.9万亿美元经济刺激计划，国会众议院日前已表决通过。目前，参议院两党正在就该方案进行讨论。多位共和党议员认为该方案“过于昂贵”，将加重债务负担。如果该计划得以实施，美国今财年财政赤字将进一步增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2523726.d.html</link>
-            <guid>2056395</guid>
-            <pubDate>Fri, 05 Mar 2021 05:03:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[越南将于3月8日开始新冠疫苗接种。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1542485.d.html</link>
-            <guid>2056394</guid>
-            <pubDate>Fri, 05 Mar 2021 05:02:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深交所发布“国开2009”风险提示公告】今日上午，“国开2009”（108611）盘中价格出现大幅波动，由116元/张最高上涨至320元/张，最高涨幅达224.54%，截至午间收报305元/张，涨幅209.32%。经分析，该债券大幅上涨主要为个别投资者异常交易行为导致。为维护市场交易秩序，保护投资者合法权益，我所及时对相关投资者采取了盘中限制交易的监管措施。请广大投资者注意投资风险，依法合规参与债券交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1542448.d.html</link>
-            <guid>2056393</guid>
-            <pubDate>Fri, 05 Mar 2021 05:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【TPG支持的Novotech计划在香港进行15亿美元的IPO】拥有TPG支持的临床研究和检测提供商Novotech计划今年在香港首次公开募股(IPO)，可能筹资约15亿美元。公司目标IPO估值超过40亿美元。 （IFR）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2523336.d.html</link>
-            <guid>2056392</guid>
-            <pubDate>Fri, 05 Mar 2021 05:02:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  澳洲股市指标S&P/ASX 200指数收低0.99%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1542069.d.html</link>
-            <guid>2056391</guid>
-            <pubDate>Fri, 05 Mar 2021 05:01:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国人大代表、中南集团董事局主席陈锦石：建议加大大城市周边中小城市住宅供给 分担大城市住房压力】陈锦石指出，允许大城市与周边县市、城乡建立联动，加大大城市辐射的周边中小城市住宅供给，分担大城市住房压力，化解供需矛盾，同时带动周边小城市发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1541598.d.html</link>
-            <guid>2056390</guid>
-            <pubDate>Fri, 05 Mar 2021 04:59:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【白明解读政府工作报告：中央经济工作重心将进一步延伸至需求侧】商务部研究院国际市场研究所副所长白明表示，政府工作报告中明确，把实施扩大内需战略同深化供给侧结构性改革有机结合起来。这可以看出，在此前将供给侧结构性改革作为经济工作重点的基础上，中央经济工作重心将进一步延伸至需求侧。白明说，与供给侧结构性改革强调优化不同，需求侧更强调内需规模的扩大，以形成国民经济良性循环，落实“十四五”规划的实际需要。有了这个良性循环，中国经济就有条件“立足国内大循环”，并且能够促进国内国际双循环。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2521134.d.html</link>
-            <guid>2056389</guid>
-            <pubDate>Fri, 05 Mar 2021 04:56:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【1.9万亿刺激后，多少钱会流向美股？】德银做了个计算：拜登刺激计划中给民众发的支票金额是4050亿美元，根据德银调查，最多大约1500亿美元可能流入美股。但显然只有一部分受调查者有交易账户，如果持有账户的比例为20%，那么大约有300亿美元的弹药，这还没有考虑401K账户资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1539727.d.html</link>
-            <guid>2056388</guid>
-            <pubDate>Fri, 05 Mar 2021 04:54:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国政协委员、中国财政科学研究院院长刘尚希：培育完整内需体系要从供需两侧发力】全国政协委员、中国财政科学研究院院长刘尚希认为，培育完整内需体系，适配性地扩大内需，须以改革为动力，并纳入新发展格局的构建之中；需要从供需两侧发力，市场和政府两只“手”都要硬。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2517654.d.html</link>
-            <guid>2056387</guid>
-            <pubDate>Fri, 05 Mar 2021 04:47:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：03月05日12时42分在云南普洱市景谷县附近发生3.3级左右地震，最终结果以正式速报为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2517467.d.html</link>
-            <guid>2056385</guid>
-            <pubDate>Fri, 05 Mar 2021 04:46:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国基准股指涨幅扩大至1.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1535777.d.html</link>
-            <guid>2056384</guid>
-            <pubDate>Fri, 05 Mar 2021 04:44:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国企业联合会研究部研究员刘兴国：混改和调结构成为今年国企改革关键抓手】中国企业联合会研究部研究员刘兴国认为，在调结构方面，国资委一直在推进国有资本布局结构优化调整。调结构包括多个方面：一是进行区域结构的优化调整，如国际国内市场的合理布局、东中西部的合理布局；二是产业及产业链结构的优化调整，如适当从竞争性产业退出、加快战略新兴产业与战略引领性产业布局、加快产业链补链强链与优化产业链布局；三是产业组织结构的调整，并非所有国有企业都适合重组成超大规模的企业，也应积极发展具有活力的中小型国有企业，尤其是发展新业态、新模式的中小型国有企业。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1534440.d.html</link>
-            <guid>2056383</guid>
-            <pubDate>Fri, 05 Mar 2021 04:41:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度SENSEX、NIFTY指数转涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2514912.d.html</link>
-            <guid>2056382</guid>
-            <pubDate>Fri, 05 Mar 2021 04:41:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家金融与发展实验室曾刚：加强债券市场建设要强化市场监管】针对加强债券市场建设，国家金融与发展实验室副主任、上海金融与发展实验室主任曾刚认为下一步的重点，一是要强化对债券市场主体的监管，强化信息披露，严厉打击违规行为以及恶意违约行为，维护债券市场的基本秩序；二是要完善债券市场的相关制度，尤其是完善债券违约处置机制；三是加强银行间债券市场与交易所债券市场相关基础设施的互联互通。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2514727.d.html</link>
-            <guid>2056381</guid>
-            <pubDate>Fri, 05 Mar 2021 04:40:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度基准债券收益率开盘报6.18%，前一交易日收盘报6.21%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1533132.d.html</link>
-            <guid>2056380</guid>
-            <pubDate>Fri, 05 Mar 2021 04:39:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼央行：准备好在必要时干预债券市场。将继续监测印尼盾走势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1532982.d.html</link>
-            <guid>2056379</guid>
-            <pubDate>Fri, 05 Mar 2021 04:39:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【交易所国开09债半日飚涨209% 疑似"乌龙指”】一笔交易所国开债周五早上（3月5日）出现疑现“乌龙指”。票面面值100元的债券，交易价格从98.6元飙升至300元以上，涨幅超过200%，到期收益率跌至-14.1847%。有交易员指出，债券价格出现异动很有可能是下单程序出了问题，每次交易量只有几手，而且价格极不合理。（财新）]]></title>
-            <guid>2056378</guid>
-            <pubDate>Fri, 05 Mar 2021 04:38:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【抖音成2020欧洲杯官方合作伙伴】3月4日，距离2020欧洲杯开幕还有100天，抖音宣布成本届赛事官方合作伙伴，将在本届赛事期间推出相关话题挑战、制作独家AR(增强现实技术)内容等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1532184.d.html</link>
-            <guid>2056377</guid>
-            <pubDate>Fri, 05 Mar 2021 04:37:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国正调查一种新发现的变异新冠病毒】英国英格兰公共卫生局4日发布信息说，英国确诊16例近期在该国新发现的一种变异新冠病毒感染病例。这种名为“B.1.1.318”的变异新冠病毒最早于2月15日在英国被发现，目前该局已将其列为“受调查”的变异新冠病毒。迄今为止，被英格兰公共卫生局列为“受调查”和“受关注”的变异新冠病毒分别有4种。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2512366.d.html</link>
-            <guid>2056376</guid>
-            <pubDate>Fri, 05 Mar 2021 04:35:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列焦油泄漏污染黎巴嫩海岸 黎方将向以色列索赔】据当地媒体报道，黎巴嫩国家科学研究委员会4日向看守政府总理迪亚卜介绍了海洋污染初步评估结果，认为从黎巴嫩南部边境“蓝线”地区一直到贝鲁特郊区均遭到了焦油污染。迪亚卜强调，黎巴嫩外交部将对以色列进行申诉，并搜集证据为未来向以方索赔做准备。路透社3月4日报道称，以色列环境保护部部长加姆利尔（Gila Gamliel）3日表示，漏油事件由一艘油轮造成，该艘油轮上个月曾从伊朗向叙利亚非法运送货物。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2512028.d.html</link>
-            <guid>2056375</guid>
-            <pubDate>Fri, 05 Mar 2021 04:34:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【孙国君：稳慎推进人民币国际化】国务院研究室党组成员、综合一司司长孙国君回答第一财经记者提问时表示，人民币资产的吸引力正在逐步增强。下一步稳妥有序推进资本项目开放，稳慎推进人民币国际化，着眼于服务实体经济、促进贸易和投资自由化便利化、完善人民币使用的相关政策，加强人民币国际化基础设施建设，继续推动金融市场高质量双向开放，促进跨境资金双向有序流动，促进本外币离岸在岸市场良性协调发展。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1530303.d.html</link>
-            <guid>2056374</guid>
-            <pubDate>Fri, 05 Mar 2021 04:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【政府工作报告起草组：今年宏观政策目标是继续为市场主体纾困】在对今年宏观政策的重点进行解读时，国务院研究室党组成员孙国君表示，今年的宏观政策是在延续和优化去年的政策逻辑和着力点，是一以贯之地在执行，目标就是继续为市场主体纾困。主要体现在两个方面。第一个方面是中央财政、省级财政进一步加大对市县基层落实惠企利民的政策支持力度。第二个方面是在减轻市场主体负担方面将有很多举措。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1529943.d.html</link>
-            <guid>2056373</guid>
-            <pubDate>Fri, 05 Mar 2021 04:31:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据外媒：印度内阁部长今天晚些时候可能满足秘书小组的要求，审查基本商品的价格。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1529845.d.html</link>
-            <guid>2056372</guid>
-            <pubDate>Fri, 05 Mar 2021 04:30:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本四国电力探讨出资越南火电项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2510487.d.html</link>
-            <guid>2056371</guid>
-            <pubDate>Fri, 05 Mar 2021 04:30:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MSCI亚太指数跌幅收窄至0.4％。此前下跌1.8％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2510433.d.html</link>
-            <guid>2056370</guid>
-            <pubDate>Fri, 05 Mar 2021 04:30:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本东证指数收复失地，上涨0.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1528183.d.html</link>
-            <guid>2056369</guid>
-            <pubDate>Fri, 05 Mar 2021 04:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：新西兰克马德克群岛地区发生5.2级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2508660.d.html</link>
-            <guid>2056368</guid>
-            <pubDate>Fri, 05 Mar 2021 04:24:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【郭玮：今年的就业压力依然很大】国务院研究室副主任郭玮表示，我们的经济还处于恢复发展过程中，市场条件依然复杂严峻，各种不确定因素还在增多。“1100万”可以说是一个不低的目标，今年的任务非常艰巨，需要付出更大的努力。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2507168.d.html</link>
-            <guid>2056367</guid>
-            <pubDate>Fri, 05 Mar 2021 04:21:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中兴通讯关联公司公开“辅助驾驶系统”相关专利】3月5日，中兴通讯关联公司公开一项名为“辅助驾驶方法、终端及辅助驾驶系统”发明专利，公开号CN112449324A，申请日期为2019年8月。该专利摘要显示，本发明公开了一种辅助驾驶方法、终端、辅助驾驶系统。该发明通过V2X信号的信号强度变化，判断不同车辆间的距离变化，不受限于移动数据网络质量，保证辅助驾驶模式不间断，提高辅助驾驶可靠性，从而提高用户体验。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2505900.d.html</link>
-            <guid>2056366</guid>
-            <pubDate>Fri, 05 Mar 2021 04:19:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度油长：希望欧佩克能够缓和减产，帮助脆弱的全球经济复苏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2505795.d.html</link>
-            <guid>2056365</guid>
-            <pubDate>Fri, 05 Mar 2021 04:19:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度油长：欧佩克+继续减产的决定将破坏由消费带动的经济复苏。欧佩克+继续减产的决定将伤害消费者，特别是“我们对价格敏感的市场”的消费者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2505051.d.html</link>
-            <guid>2056364</guid>
-            <pubDate>Fri, 05 Mar 2021 04:17:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【人民日报评GDP目标：“6%以上”体现自信与稳妥的平衡】在6%以上的增长目标公布时，很多人也许会有疑惑，把6%设置为底线增长目标是否低于预期？应该看到，底线目标体现了一种底线管理思维，意义在于封住下限、不设上限，这就给经济增长托住了底，在此基础上可以从容追求更高的增长成绩，也为结构性改革留出了空间。因此，“6%以上”的增长目标充分考虑了必要与可能、已知优势和未知风险，是较为可行也是较为稳妥的，体现了经济宏观调控中的底线思维，展现了自信与稳妥的平衡艺术。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2504816.d.html</link>
-            <guid>2056363</guid>
-            <pubDate>Fri, 05 Mar 2021 04:16:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
