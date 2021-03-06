@@ -4,11 +4,47 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 06 Mar 2021 14:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 15:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【华瑞国际递表纳斯达克：拟发行240万股普通股，每股定价为4-6美元】当地时间3月5日，江阴华瑞电工科技股份有限公司的实质控股公司Huarui International New Material Limited向美国证监会提交招股书，拟在美国纳斯达克上市，股票代码为“HRDG”。公司拟发行240万股普通股，每股发行价在4-6美元之间。承销商还可行使超额配售权额外购买36万股普通股。江阴华瑞电工科技股份有限公司曾于2018年3月05日在新三板挂牌，代码为872591，后于2019年6月25日在新三板摘牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8756132.d.html</link>
+            <guid>2058128</guid>
+            <pubDate>Sat, 06 Mar 2021 15:22:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国社交网站reddit表示，目前正在调查网站出错率上升的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5596930.d.html</link>
+            <guid>2058118</guid>
+            <pubDate>Sat, 06 Mar 2021 15:05:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：毛里求斯暂停了入境航班，因当地发现新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8752269.d.html</link>
+            <guid>2058111</guid>
+            <pubDate>Sat, 06 Mar 2021 15:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国新冠肺炎疫苗运抵土库曼斯坦】当地时间6日上午，中国政府向土库曼斯坦政府提供的新冠肺炎疫苗运抵土东部城市土库曼纳巴特。中国驻土库曼斯坦大使钱乃成及土外交部、卫生部和地方政府代表赴机场迎接。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5593497.d.html</link>
+            <guid>2058098</guid>
+            <pubDate>Sat, 06 Mar 2021 14:48:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【山东港口2月份货物和集装箱吞吐量实现两位数增长】2月份是2021年发展的关键起步阶段，山东港口高效运转，完成货物吞吐量1.15亿吨，同比增长12.1%；完成集装箱吞吐量222万标准箱，同比增长13.8%，双双实现两位数增长，在全国沿海港口中名列前茅，让传统春节淡季不淡、绩效飘红，用奋斗跑出了新年“加速度”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8746321.d.html</link>
+            <guid>2058087</guid>
+            <pubDate>Sat, 06 Mar 2021 14:31:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国人大代表于金明：建议将肿瘤筛查纳入医保 抓住“癌症唯一治疗机会”】3月6日，全国人大代表、山东省肿瘤医院院长于金明建议将肿瘤筛查纳入医保。于金明称，癌症患者只有一次治疗机会，如果早期误诊、误治导致患者病情发展到中晚期，再花人力、物力、财力也难以补救。他希望国家能加大肿瘤早期筛查力度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5589661.d.html</link>
+            <guid>2058086</guid>
+            <pubDate>Sat, 06 Mar 2021 14:28:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【天津市新增1例境外输入无症状感染者】从天津市疾控中心获悉，3月5日18时至6日18时，天津市无新增本土新冠肺炎确诊病例，新增无症状感染者1例（境外输入，中国籍）。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5588753.d.html</link>
@@ -568,42 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8607638.d.html</link>
             <guid>2057482</guid>
             <pubDate>Sat, 06 Mar 2021 05:16:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【最高法等四部门：允许质权人自行变价股票实现质押债权 有利于质权人及时实现债权】四单位相关部门负责人：如果质押股票未被司法冻结，质权人和债务人可以根据其达成的协议按照市场化规则处理质押股票变价问题，而在传统冻结方式下，这一市场化运行规则将被阻断。《意见》的主要目的是，在不损害案件债权人合法权益的基础上，使已冻结质押股票的变价方式尽可能回归到市场化运行规则上来，最大限度降低执行措施对质押股票市场产生的影响。综上，允许质权人自行变价股票实现质押债权，不仅有利于质权人及时实现债权，而且在质权人实现质押债权解除质押后，也能为后续人民法院执行已解除质押股票提供便利条件。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8605604.d.html</link>
-            <guid>2057475</guid>
-            <pubDate>Sat, 06 Mar 2021 05:10:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【400多个全球头部品牌参展首届中国国际消费品博览会】中国首个以消费精品为主题的国家级展会——首届中国国际消费品博览会招展基本结束。记者6日从海南国际经济发展局了解到，已有50余个国家和地区的超400个全球头部品牌确认参展。《海南自由贸易港建设总体方案》明确在海南举办消博会。首届消博会境外展品在展期内进口和销售享受免税政策，目前免税额度正在制定中。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5448938.d.html</link>
-            <guid>2057474</guid>
-            <pubDate>Sat, 06 Mar 2021 05:08:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据路透测算，美国周五至少新增65275例新冠肺炎确诊病例，至少新增1904例死亡病例；累计确诊病例增至2899万例，累计死亡病例增至523307例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8604150.d.html</link>
-            <guid>2057473</guid>
-            <pubDate>Sat, 06 Mar 2021 05:03:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【本周扫货重点曝光 宁德时代获加仓超30亿元】本周，北向资金净流出8.36亿元，其中沪股通净流入31.28亿元，深股通净流出39.65亿元。净买入额居前三的是宁德时代、招商银行、万科A，净买入额分别是30.05亿元、18.50亿元、13.55亿元。净卖出额居前三的是贵州茅台、五粮液、比亚迪，净卖出额分别是40.72亿元、19.35亿元、8.39亿元。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5445661.d.html</link>
-            <guid>2057472</guid>
-            <pubDate>Sat, 06 Mar 2021 04:58:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3月15日零时起，香港直航入境进京人员核酸采样必须为鼻咽拭子或鼻腔咽喉合并拭子。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8600140.d.html</link>
-            <guid>2057471</guid>
-            <pubDate>Sat, 06 Mar 2021 04:49:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO埃隆·马斯克：Doge（狗狗币）的拼写反过来就是Egod（意为电子上帝）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8600098.d.html</link>
-            <guid>2057470</guid>
-            <pubDate>Sat, 06 Mar 2021 04:49:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
