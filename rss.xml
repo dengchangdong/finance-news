@@ -4,11 +4,52 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 06 Mar 2021 01:00:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 01:53:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美股最值得关注的“分化”】本周美股最值得关注的趋势是科技股的“分化”：大市值科技股相对非盈利科技股的走势。经历了一年的单边下行后，近期开始了显著的反转。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5376247.d.html</link>
+            <guid>2057426</guid>
+            <pubDate>Sat, 06 Mar 2021 01:48:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2月份全球制造业采购经理指数为55.6%】据中国物流与采购联合会发布，2021年2月份全球制造业PMI为55.6%，较上月上升1.2个百分点，连续8个月保持在50%以上。分区域看，欧洲和美洲制造业增速较上月有所加快，PMI均有不同程度上升，亚洲和非洲制造业增速平稳，PMI较上月波动不大。综合指数变化，全球制造业增速较上月加快，全球经济复苏趋势有所增强。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5372804.d.html</link>
+            <guid>2057425</guid>
+            <pubDate>Sat, 06 Mar 2021 01:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：新西兰克马德克群岛地区发生5.2级地震。]]></title>
+            <guid>2057423</guid>
+            <pubDate>Sat, 06 Mar 2021 01:31:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热门股的调整：70-80%的回调很常见】 摩根士丹利研究了历史上的热门股趋势周期。一般两年内上涨2-3倍后，都会出现70-80%的调整。对于投资者而言，真正的难点不在于发现高成长赛道（都很明显），而是不要付出太高成本。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5367476.d.html</link>
+            <guid>2057422</guid>
+            <pubDate>Sat, 06 Mar 2021 01:26:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海关总署分别对美和印尼1家企业采取紧急预防性措施】据了解，因从美国WAYNE FARMS,LLC生产企业(注册号为P445)的1批次输华冻珍珠宝鸡爪产品外包装中检出新冠病毒核酸阳性，按照海关总署公告2020年第103号的规定，全国海关自即日起暂停接受该企业产品进口申报1周。此外，因从进口自印度尼西亚1批冻鱿鱼的2个外包装样本中检出新冠病毒核酸阳性，按照海关总署公告2020年第103号的规定，全国海关自即日起暂停接受印度尼西亚水产品生产企业PT.ANUGERAH MINA SEJAHTERA(注册编号为CR424-12)的进口申报4周。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8518552.d.html</link>
+            <guid>2057421</guid>
+            <pubDate>Sat, 06 Mar 2021 01:12:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥卫生部：墨西哥新增712例新冠肺炎死亡病例，累计死亡病例达189578例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5359539.d.html</link>
+            <guid>2057420</guid>
+            <pubDate>Sat, 06 Mar 2021 01:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院民主党人就失业援助达成协议，美国国会参议院民主党成员Manchin表示，失业救济将延长到8月底。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5358341.d.html</link>
+            <guid>2057419</guid>
+            <pubDate>Sat, 06 Mar 2021 01:01:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国食品药品管理局（FDA）批准准吉利德的Yescarta治疗复发性滤泡性淋巴瘤。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8513295.d.html</link>
@@ -558,48 +599,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5277687.d.html</link>
             <guid>2057324</guid>
             <pubDate>Fri, 05 Mar 2021 20:26:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储博斯蒂克：如果我们能遏制疫情，就可以开始看到经济强劲复苏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5277259.d.html</link>
-            <guid>2057323</guid>
-            <pubDate>Fri, 05 Mar 2021 20:24:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储博斯蒂克：亚特兰大联储的调查显示商务旅行将减少。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8432574.d.html</link>
-            <guid>2057322</guid>
-            <pubDate>Fri, 05 Mar 2021 20:23:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储博斯蒂克：美国需要在帮助工人掌握技能上进行投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5276853.d.html</link>
-            <guid>2057321</guid>
-            <pubDate>Fri, 05 Mar 2021 20:22:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储博斯蒂克：商务旅行的减少对劳动力市场和经济都有影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8432122.d.html</link>
-            <guid>2057320</guid>
-            <pubDate>Fri, 05 Mar 2021 20:20:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储博斯蒂克：经济结构正在发生变化，许多失业的人可能需要学习新的技能。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5276147.d.html</link>
-            <guid>2057319</guid>
-            <pubDate>Fri, 05 Mar 2021 20:19:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储梅斯特：我们需要让复苏变得更广泛和可持续。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8430187.d.html</link>
-            <guid>2057318</guid>
-            <pubDate>Fri, 05 Mar 2021 20:14:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储博斯蒂克：美国总体失业率接近10%左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8429817.d.html</link>
-            <guid>2057317</guid>
-            <pubDate>Fri, 05 Mar 2021 20:12:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
