@@ -4,13 +4,547 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Mon, 08 Mar 2021 09:31:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 10:27:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[美油刷新日低至65.76美元/桶，日内跌幅扩大到0.50%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6286103.d.html</link>
+            <guid>2059687</guid>
+            <pubDate>Mon, 08 Mar 2021 10:26:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特原油期货主力刚刚刺穿69.00美元/桶关口，最新报68.99美元/桶，日图跌0.53%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9443018.d.html</link>
+            <guid>2059686</guid>
+            <pubDate>Mon, 08 Mar 2021 10:26:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【用友网络：近日耗资1.17亿元回购348万股公司股份】用友网络公告，公司于3月8日首次回购股份，数量为348万股，占公司目前总股本的比例为0.1064%，购买的最高价为34.00元/股，购买的最低价为33.11元/股，已支付的总金额为1.17亿元（不含佣金等交易费用）。此前，公司拟6亿-10亿元回购公司股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6285087.d.html</link>
+            <guid>2059685</guid>
+            <pubDate>Mon, 08 Mar 2021 10:25:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[大商所：自2021年3月10日交易时（即3月9日夜盘交易小节时）起，苯乙烯2105合约的日内交易手续费标准由3元/手调整至6元/手，非日内交易手续费标准维持3元/手不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6284988.d.html</link>
+            <guid>2059684</guid>
+            <pubDate>Mon, 08 Mar 2021 10:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【安联集团近5亿投资金融科技公司WeLab 将探索在东南亚推出保险产品】安联集团今日对金融科技公司WeLab完成近5亿元（7500万美元）的C-1轮融资。据悉，WeLab与安联集团将合作拓展亚洲数字金融服务业务，包括与安联投资一起研发财富管理科技方案，以及和安联集团一起探索在东南亚市场推出创新投资和保险产品服务。自2013年创立以来，WeLab集团累计获得超过42亿元战略融资。（财联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9440866.d.html</link>
+            <guid>2059683</guid>
+            <pubDate>Mon, 08 Mar 2021 10:22:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【浙沪两地签订一体化供油协议】中国（浙江）自由贸易试验区舟山管委会与上海市交通委员会正式签订《保税船用燃料油一体化供应协议》，标志着长三角港口海事服务一体化迈出坚实步伐，取得重要阶段性成果。根据《协议》，两地交通港航部门在中石油上港、浙江海港国贸2家供油企业试点基础上，共同建立一体化供油船舶名录库，两地相关经营备案手续、供油市场监管实施互认。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6283639.d.html</link>
+            <guid>2059682</guid>
+            <pubDate>Mon, 08 Mar 2021 10:22:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[财报公布后，小鹏汽车美股盘前跌4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6283542.d.html</link>
+            <guid>2059681</guid>
+            <pubDate>Mon, 08 Mar 2021 10:22:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞典提名前欧洲贸易专员Cecilia Malmstrom表示经合组织将于3月15日决定下届秘书长人选。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6282959.d.html</link>
+            <guid>2059680</guid>
+            <pubDate>Mon, 08 Mar 2021 10:21:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚玛顿：非公开发行股票申请获得中国证监会核准批复。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6282889.d.html</link>
+            <guid>2059679</guid>
+            <pubDate>Mon, 08 Mar 2021 10:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【原油现货线上竞价交易在大连完成】产自中国石油辽河油田公司的1.5万吨原油在线上完成竞价交易，这单原油现货线上竞价交易标志着中国石油集团公司原油销售改革正式启动，原油等资源要素的市场化改革进一步深入。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9439395.d.html</link>
+            <guid>2059678</guid>
+            <pubDate>Mon, 08 Mar 2021 10:20:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列总理内塔尼亚胡：所有16岁以上的以色列人将在4月底前接种疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6282096.d.html</link>
+            <guid>2059677</guid>
+            <pubDate>Mon, 08 Mar 2021 10:20:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西水股份：公司收到中泰证券的告知函，中泰证券继续对公司股东绵世方达质押的部分股票实施了违约处置，2.19日-3.8日合计减持比例达到1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6281959.d.html</link>
+            <guid>2059676</guid>
+            <pubDate>Mon, 08 Mar 2021 10:19:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[宝泰隆：公司拟投资2000Nm3/h燃料电池氢项目氢气提纯及充装装置项目，总投资金额为人民币2614.27万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6281891.d.html</link>
+            <guid>2059675</guid>
+            <pubDate>Mon, 08 Mar 2021 10:19:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特原油回落至69,美元/桶下方， 跌0.79%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6281586.d.html</link>
+            <guid>2059674</guid>
+            <pubDate>Mon, 08 Mar 2021 10:19:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[工行国际原油RMB主力期货刚刚刺穿450.00元/桶关口，最新报449.87元/桶，日图跌0.12%；工行国际原油USD主力期货最新报68.96美元/桶，日图跌0.52%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6281154.d.html</link>
+            <guid>2059673</guid>
+            <pubDate>Mon, 08 Mar 2021 10:18:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【工信部部长肖亚庆：工业互联网一手抓发展 一手抓知识产权保护】肖亚庆说，未来几年工业互联网发展仍然是一个非常关键的时期。一方面，要打好基础，尤其是在未来几年，打好工业互联网发展的物理基础；同时，要在融合上下功夫。各个行业、各个企业要相互融合，通过互联网产生更多创新内容，起到助力和促进作用。]]></title>
+            <guid>2059672</guid>
+            <pubDate>Mon, 08 Mar 2021 10:17:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油跌至66美元/桶下方，现跌0.44%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9436958.d.html</link>
+            <guid>2059671</guid>
+            <pubDate>Mon, 08 Mar 2021 10:16:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布油刷新日低至69.15美元/桶，日内跌幅扩大到0.26%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9436728.d.html</link>
+            <guid>2059670</guid>
+            <pubDate>Mon, 08 Mar 2021 10:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nymex美原油期货主力刚刚刺穿66.00美元/桶关口，最新报65.98美元/桶，日图跌0.17%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9436659.d.html</link>
+            <guid>2059669</guid>
+            <pubDate>Mon, 08 Mar 2021 10:15:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【工信部部长肖亚庆：工业互联网一手抓发展 一手抓知识产权保护】肖亚庆说，未来几年工业互联网发展仍然是一个非常关键的时期。一方面，要打好基础，尤其是在未来几年，打好工业互联网发展的物理基础；同时，要在融合上下功夫。各个行业、各个企业要相互融合，通过互联网产生更多创新内容，起到助力和促进作用。（上观）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6278677.d.html</link>
+            <guid>2059668</guid>
+            <pubDate>Mon, 08 Mar 2021 10:13:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：令人鼓舞的是，英国的通胀预期指标保持了相对稳定的状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9435519.d.html</link>
+            <guid>2059667</guid>
+            <pubDate>Mon, 08 Mar 2021 10:13:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货转跌，现报66.08美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9435286.d.html</link>
+            <guid>2059666</guid>
+            <pubDate>Mon, 08 Mar 2021 10:13:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【社保基金新增6家券商管理人 东吴、国金、华创、天风、西部、中泰获评】全国社会保障基金理事会最新发布信息，根据相关评审规定和程序评定，东吴证券、国金证券、华创证券、天风证券、西部证券、中泰证券成为全国社会保障基金新增境内签约券商。目前已有25家券商成为社保基金管理人。（财联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6278167.d.html</link>
+            <guid>2059664</guid>
+            <pubDate>Mon, 08 Mar 2021 10:12:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股氢能源板块盘前走低，燃料电池能源(FCEL.O)跌7.32%，Bloom Energy(BE.N)跌3.76%，普拉格能源(PLUG.O)跌1.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6277925.d.html</link>
+            <guid>2059663</guid>
+            <pubDate>Mon, 08 Mar 2021 10:12:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：我们将继续执行宣布的资产购买计划，预计将在2021年底左右完成。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6277820.d.html</link>
+            <guid>2059662</guid>
+            <pubDate>Mon, 08 Mar 2021 10:12:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【WSB热门股票TOP 5 】 截至今天下午17:53，WSB上讨论度最高的股票TOP 5分别是游戏驿站(GME.N)、特斯拉(TSLA.O)、Palantir(PLTR.N)、苹果(AAPL.O)、纳斯达克100指数ETF(QQQ)。QQQ的讨论度从前一天同时段的第20+名上升至第5名]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6277389.d.html</link>
+            <guid>2059661</guid>
+            <pubDate>Mon, 08 Mar 2021 10:11:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：新冠病毒感染率正在下降，疫苗计划是一个巨大的成就，能够看到希望。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9433887.d.html</link>
+            <guid>2059660</guid>
+            <pubDate>Mon, 08 Mar 2021 10:10:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行分析师Athanasios Vamvakidis亦认为，美国的刺激计划，加速重启以及消费者火力更猛，显然对美元有利。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6276854.d.html</link>
+            <guid>2059659</guid>
+            <pubDate>Mon, 08 Mar 2021 10:10:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[济民制药公告，公司主营业务未发生变化，经公司自查并向控股股东及实际控制人核实，不存在应披露而未披露的重大事项；公司控股股东及一致行动人张雪琴女士拟减持公司股份计划，拟通过集中竞价方式减持比例不超过公司总股本的1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9433462.d.html</link>
+            <guid>2059658</guid>
+            <pubDate>Mon, 08 Mar 2021 10:09:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：上周的预算概述了一系列措施，通过对基础设施、技能和创新的重大投资来支持经济增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9433385.d.html</link>
+            <guid>2059657</guid>
+            <pubDate>Mon, 08 Mar 2021 10:09:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银策略师在研究报告中称，美债收益率上升加剧了股市波动，支撑了美元，美联储立场仍然温和，但主席鲍威尔选择不去口头打压收益率涨势，为美元进一步提供了短期提振。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9433313.d.html</link>
+            <guid>2059656</guid>
+            <pubDate>Mon, 08 Mar 2021 10:09:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：随着无薪休假计划逐步缩减，失业率会出现一些上升，这是难以避免的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9433189.d.html</link>
+            <guid>2059655</guid>
+            <pubDate>Mon, 08 Mar 2021 10:09:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：不确定性预计将继续导致投资减少，在其他因素相同的情况下，给资本存量和生产率增长带来压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6275832.d.html</link>
+            <guid>2059654</guid>
+            <pubDate>Mon, 08 Mar 2021 10:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：我有理由相信，疫情冲击的长期负面经济影响将比我们过去看到的要小。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9432465.d.html</link>
+            <guid>2059653</guid>
+            <pubDate>Mon, 08 Mar 2021 10:07:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：还不清楚疫情期间的经济变化是否会在疫情后持续，或持续到何种程度，也不清楚疫情对经济的长期影响是什么。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6275364.d.html</link>
+            <guid>2059652</guid>
+            <pubDate>Mon, 08 Mar 2021 10:07:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特原油期货转跌，此前涨超2%，现报69.37美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9431936.d.html</link>
+            <guid>2059651</guid>
+            <pubDate>Mon, 08 Mar 2021 10:06:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：从疫情中复苏的风险仍偏向下行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6274544.d.html</link>
+            <guid>2059650</guid>
+            <pubDate>Mon, 08 Mar 2021 10:05:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利重申英国央行正在为负利率做准备。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9431276.d.html</link>
+            <guid>2059649</guid>
+            <pubDate>Mon, 08 Mar 2021 10:05:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：工具箱中的工具不应被解读为有关未来货币政策路径的信号。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6274134.d.html</link>
+            <guid>2059648</guid>
+            <pubDate>Mon, 08 Mar 2021 10:04:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MSCI新兴市场货币指数跌0.7%，势创2020年3月以来最大单日跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6273959.d.html</link>
+            <guid>2059647</guid>
+            <pubDate>Mon, 08 Mar 2021 10:04:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：这也不意味着负利率是我们选择的边际政策工具，在我看来，负利率在任何时候都是视情况而定的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6273801.d.html</link>
+            <guid>2059646</guid>
+            <pubDate>Mon, 08 Mar 2021 10:04:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[长青集团公告，中标延津县产业集聚区南区集中供汽项目特许经营项目，特许经营期限为25年，本项目有利于公司扩大销售额及盈利能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9430671.d.html</link>
+            <guid>2059645</guid>
+            <pubDate>Mon, 08 Mar 2021 10:04:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：针对负利率的应急计划与我们在这方面的意图毫无关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9430556.d.html</link>
+            <guid>2059644</guid>
+            <pubDate>Mon, 08 Mar 2021 10:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：重要的是要强调货币政策委员会已经采取的前瞻性指导的作用，以及一个月前就所谓的工具箱问题所作的声明。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6273339.d.html</link>
+            <guid>2059643</guid>
+            <pubDate>Mon, 08 Mar 2021 10:03:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：提高供应能力以提高可持续的增长率非常重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9430085.d.html</link>
+            <guid>2059642</guid>
+            <pubDate>Mon, 08 Mar 2021 10:03:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海峡股份业绩快报：2020年净利润2.49亿元 同比增长14%】海峡股份公布2020年度业绩快报，实现营业总收入10.73亿元，同比减少3.37%；净利润2.49亿元，同比增长13.79%；基本每股收益0.17元。报告期内，公司船舶运输车辆92.81万辆次，同比增长0.67%，运输旅客289.96万人次，同比下降24.08%；轮渡港口进出口车流量272.92万辆次，同比增长5.03%，进出口客流量831.28万人次，同比下降18.55%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6273131.d.html</link>
+            <guid>2059641</guid>
+            <pubDate>Mon, 08 Mar 2021 10:03:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：与过去的一些衰退相比，（此次疫情）对经济造成的长期创伤影响将更为有限，但很可能会发生结构性变化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6273042.d.html</link>
+            <guid>2059640</guid>
+            <pubDate>Mon, 08 Mar 2021 10:02:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：疫情对经济既是一种需求冲击，又是一种供给冲击，因此复苏必须同时体现在这两个方面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6272739.d.html</link>
+            <guid>2059639</guid>
+            <pubDate>Mon, 08 Mar 2021 10:02:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【汇纳科技：控股股东与上海祥禾拟合计减持不超公司总股本8.31%】汇纳科技公告，公司控股股东张宏俊先生计划以大宗交易方式减持本公司股份不超过231万股（即不超过本公司股份总数的2.00%）。上海祥禾计划通过集中竞价、大宗交易、协议转让或其他深圳证券交易所认可的合法方式减持本公司股份不超过728万股（占本公司股份总数的6.31%）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6272504.d.html</link>
+            <guid>2059638</guid>
+            <pubDate>Mon, 08 Mar 2021 10:01:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：前景是积极的，但我们要对现实保持谨慎。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6272391.d.html</link>
+            <guid>2059637</guid>
+            <pubDate>Mon, 08 Mar 2021 10:01:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【岳阳林纸业绩快报：2020年净利润4.14亿元 同比增长32%】岳阳林纸发布业绩快报，2020年度净利润4.14亿元，同比增长32.26%，主要系公司浆纸联动，充分发挥集采优势和自产化机浆优势，纸产品主要原材料价格同比下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9429044.d.html</link>
+            <guid>2059636</guid>
+            <pubDate>Mon, 08 Mar 2021 10:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[商务部部长王文涛：我们完成了中欧投资协定，将推动其早日正式签署，积极地推进中日韩自贸协定的谈判。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9427591.d.html</link>
+            <guid>2059634</guid>
+            <pubDate>Mon, 08 Mar 2021 09:58:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【第二批基金投顾试点名单将公布 有券商已在筹备第三批试点资格】近期，基金投顾试点工作第二批申请工作正式展开，多家机构已收到证监会针对基金投顾资格的问卷考题。对于业内热切关注的名单问题，记者采访了解到，第二批申请的券商至少有30多家，包括东方财富证券、湘财证券、东方证券、安信证券、国信证券、招商证券、中信证券等在内。此外，平安证券相关人士表示，公司在积极筹备申请第三批基金投顾试点资格。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6269938.d.html</link>
+            <guid>2059633</guid>
+            <pubDate>Mon, 08 Mar 2021 09:56:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海天洋：控股股东之一致行动人李顺玉拟减持不超过0.3015%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6269726.d.html</link>
+            <guid>2059632</guid>
+            <pubDate>Mon, 08 Mar 2021 09:56:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华友钴业：近期股票波动幅度较大 但公司坚定看好所处行业的发展前景】华友钴业公告，公司股票交易于2021年3月4日、3月5日、3月8日连续三个交易日内收盘价格跌幅偏离值累计达到20%，波动幅度较大。公司认为，在新能源锂电产业及5G大发展的背景下，公司所从事的锂电新能源材料产业和钴镍新材料产业，是国家发展战略和产业政策所支持的新兴产业，所生产的产品是三元动力电池等新能源材料必备的核心原材料，公司坚定看好所处行业的发展前景。经公司自查，本公司及控股子公司目前生产经营活动正常。公司印尼6万吨镍金属量氢氧化镍钴湿法冶炼项目建设正常推进，预计2021年底建成试产，该项目可研按照12000美元/吨的镍价测算，具有较好的经济效益，近期镍价波动对项目的预期收益不构成重大影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6269321.d.html</link>
+            <guid>2059631</guid>
+            <pubDate>Mon, 08 Mar 2021 09:55:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小鹏汽车(XPEV.N)：第四季度整车毛利率为6.8%，去年同期为-8.5%。2020年整车毛利率为3.5%，去年为-25.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9425042.d.html</link>
+            <guid>2059630</guid>
+            <pubDate>Mon, 08 Mar 2021 09:53:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小鹏汽车：2020年全年营收为58.44亿元，市场预计为56.36亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9424772.d.html</link>
+            <guid>2059629</guid>
+            <pubDate>Mon, 08 Mar 2021 09:52:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小鹏汽车：2020年全年净亏损48.89亿元，市场预计净亏损32.87亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9424732.d.html</link>
+            <guid>2059628</guid>
+            <pubDate>Mon, 08 Mar 2021 09:52:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小鹏汽车：2020年第四季度净亏损7.8亿元，市场预计为净亏损8.14亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9424688.d.html</link>
+            <guid>2059627</guid>
+            <pubDate>Mon, 08 Mar 2021 09:52:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【兆威机电：拟投建苏州市兆威微型驱动、传动项目】兆威机电公告，公司拟与苏州高新区管委会签署项目投资协议，拟在苏州高新区出资1亿元投资设立全资子公司苏州兆威驱动技术有限公司，建立华东区域研发、营销、制造中心，并以苏州子公司作为项目实施主体投资建设苏州市兆威微型驱动、传动项目。项目计划总投资12亿元，用地约50亩，项目建成后年产值20亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6267598.d.html</link>
+            <guid>2059626</guid>
+            <pubDate>Mon, 08 Mar 2021 09:52:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华夏幸福：控股股东累计被动减持8.63%股份】华夏幸福公告，收到公司控股股东华夏控股的通知，华夏控股可交换债券持有人于2020年2月19日至3月5日合计换股3.17亿股，华夏控股以持有的公司股票作为担保品的融资融券业务的金融机构于2021年2月23日、2月24日以集中竞价交易方式强制处置华夏控股持有的2082万股股份，导致华夏控股累计被动减持3.38亿股股份，占公司总股本的8.63%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9424301.d.html</link>
+            <guid>2059625</guid>
+            <pubDate>Mon, 08 Mar 2021 09:52:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中远海控：2020年全年实现净利润99.27亿元，同比增长46.76%。2020年公司通过增运力、保供箱、提服务等措施全力保障全球运输服务，集装箱航运业务实现量价齐升，带动公司全年收入较上年同期实现较大增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9423395.d.html</link>
+            <guid>2059624</guid>
+            <pubDate>Mon, 08 Mar 2021 09:50:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[商务部部长王文涛：今年想在此前基础上进一步尽可能地缩减负面清单，鼓励外资进入。此外将加大对服务贸易负面清单的压缩和探索。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6266271.d.html</link>
+            <guid>2059623</guid>
+            <pubDate>Mon, 08 Mar 2021 09:50:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小鹏汽车：截至2020年12月31日，小鹏的销售与服务网络已包括160家销售网点和54家服务网点，覆盖69个城市；小鹏汽车品牌的超级充电站已运营159座，覆盖54个城市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6265949.d.html</link>
+            <guid>2059622</guid>
+            <pubDate>Mon, 08 Mar 2021 09:49:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰林生物：董事沈志林、董秘叶星月拟分别减持0.25%和0.10%公司股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9422794.d.html</link>
+            <guid>2059621</guid>
+            <pubDate>Mon, 08 Mar 2021 09:49:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MSCI新兴市场货币指数跌0.7%，势将创2020年3月以来最大单日跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9422394.d.html</link>
+            <guid>2059620</guid>
+            <pubDate>Mon, 08 Mar 2021 09:48:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[公布财报后，小鹏汽车(XPEV.N)跌幅缩窄至5.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9422288.d.html</link>
+            <guid>2059619</guid>
+            <pubDate>Mon, 08 Mar 2021 09:48:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小鹏汽车(XPEV.N)：第四季度每ADS亏损0.16元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6265330.d.html</link>
+            <guid>2059618</guid>
+            <pubDate>Mon, 08 Mar 2021 09:48:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小鹏汽车：预计第一季度营收约26亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6264814.d.html</link>
+            <guid>2059617</guid>
+            <pubDate>Mon, 08 Mar 2021 09:47:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小鹏汽车：预计第一季度将交付约12500辆汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9421603.d.html</link>
+            <guid>2059616</guid>
+            <pubDate>Mon, 08 Mar 2021 09:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小鹏汽车：第四季度汽车交付量12964辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6264636.d.html</link>
+            <guid>2059615</guid>
+            <pubDate>Mon, 08 Mar 2021 09:46:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小鹏汽车第四季度营收28.5亿元，市场预期26.5亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6264158.d.html</link>
+            <guid>2059614</guid>
+            <pubDate>Mon, 08 Mar 2021 09:45:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海新阳：经各方积极协商、运作，ASML-1400光刻机设备于今日已进入合作方北方集成电路技术创新中心（北京）有限公司场地，后续将进行安装调试等相关工作。公司采购的ASML干法光刻机设备顺利交付，对加快193nmArF干法光刻胶产品开发进度有积极影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6264021.d.html</link>
+            <guid>2059613</guid>
+            <pubDate>Mon, 08 Mar 2021 09:45:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[首创股份：公司拟与中建八局、天津市政院合资设立中山汇创，负责中山市未达标水体综合整治工程EPC+O第一标段项目，项目中标价格为人民币38.79亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6263107.d.html</link>
+            <guid>2059612</guid>
+            <pubDate>Mon, 08 Mar 2021 09:43:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[财经网站Forexlive评欧元区3月Sentix投资者信心指数：欧元区投资者信心指数升至一年多来的最高水平，因疫苗带来的乐观情绪和经济前景有望在今年晚些时候好转，投资者情绪有所改善。研究机构Sentix指出，全球疫苗接种正在取得良好进展，提高了有效保护的希望，这些趋势允许更快地重新开放经济，这正是投资者所押注的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9419808.d.html</link>
+            <guid>2059611</guid>
+            <pubDate>Mon, 08 Mar 2021 09:43:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其伊斯坦堡100指数转跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6262905.d.html</link>
+            <guid>2059610</guid>
+            <pubDate>Mon, 08 Mar 2021 09:43:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[吉利汽车：2021年首两个月之总销量为23.35万部，较去年同期增长约76%，并达至本集团2021年全年销量目标153万部之15%以上。 2021年年首两个月之总销量中，6828部为新能源和电气化汽车。2月汽车销量为7.72万辆，同比增长265%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6262032.d.html</link>
+            <guid>2059609</guid>
+            <pubDate>Mon, 08 Mar 2021 09:41:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华电集团拟在2025年前关停3GW火电装机容量】中国华电集团董事长温枢刚周一表示，公司计划在未来五年内关闭超过3GW的火力发电容量，并增加可再生能源，使其占到总发电组合的一半。 (路透)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9418131.d.html</link>
+            <guid>2059608</guid>
+            <pubDate>Mon, 08 Mar 2021 09:40:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据调查网站Yougov：英国消费者信心升至疫情开始以来的新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9417142.d.html</link>
+            <guid>2059607</guid>
+            <pubDate>Mon, 08 Mar 2021 09:38:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加多宝据称在香港Pre-IPO融资中寻求筹集至少3亿美元】知情人士说，中国非酒精饮料生产商加多宝集团，寻求在潜在的香港IPO前的一轮融资中筹集至少3亿美元。该知情人士表示，加多宝正就IPO前的融资与顾问合作，已接触了数名潜在投资者。加多宝的目标是最早今年在香港交易所上市，但尚未敲定上市的时机和规模。此轮IPO前的融资仍在审议中，细节可能有调整。加多宝的代表未立即回应评论。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9416602.d.html</link>
+            <guid>2059605</guid>
+            <pubDate>Mon, 08 Mar 2021 09:37:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【商务部部长：我国政府已正式核准RCEP协定】商务部部长王文涛说，RCEP签署后，意味着占全世界三分之一经济总量的地区能形成统一大市场，这个市场充满潜力和活力，党中央国务院专门成立工作机制，目前的进展是，我国政府已正式核定该协定，一些成员国家也在加速推进，希望相关国家能加速推进，最终达到6个东盟成员国和3个非东盟成员国批准生效的门槛，批准得越早，越早惠及各国老百姓。（上观）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6259652.d.html</link>
+            <guid>2059604</guid>
+            <pubDate>Mon, 08 Mar 2021 09:37:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【盛通股份：子公司与广东禾旭教育就深圳青少年人工智能创新教育实践基地达成合作】盛通股份公告，公司全资子公司的控股子公司北京乐益博教育科技有限公司与广东禾旭教育投资管理有限公司签署了战略合作框架协议书。双方决定就“深圳青少年人工智能创新教育实践基地”项目的相关事宜开展合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9416340.d.html</link>
+            <guid>2059603</guid>
+            <pubDate>Mon, 08 Mar 2021 09:37:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【璞泰来：拟超140亿元在邛崃市投资建设新能源电池材料全产业链项目】璞泰来公告，公司于近日与四川省成都市邛崃市人民政府签订《战略合作协议》，公司拟在邛崃市投资建设新能源电池材料全产业链项目，项目总投资约为140.8亿元（人民币），其中20万吨负极材料和石墨化一体化项目计划总投资不超过80亿元；20亿平方米基膜和涂覆一体化项目计划总投资不超过60亿元；1万吨陶瓷粉体项目计划总投资不超过0.8亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9415957.d.html</link>
+            <guid>2059602</guid>
+            <pubDate>Mon, 08 Mar 2021 09:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[商务部部长：我国政府已正式核准RCEP协定。（上观）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6258989.d.html</link>
+            <guid>2059601</guid>
+            <pubDate>Mon, 08 Mar 2021 09:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交易员：美元兑印度卢比USD/INR日内小幅上涨0.19%，因美债收益率上涨和美元指数DXY逐步攀升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6258373.d.html</link>
+            <guid>2059600</guid>
+            <pubDate>Mon, 08 Mar 2021 09:34:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【王文涛：预计今年消费将呈恢复性快速增长】商务部部长王文涛8日在全国两会第二场“部长通道”上表示，去年，受新冠肺炎疫情等因素影响，全国社会消费品零售总额下降3.9%至39.2万亿元。随着国家对疫情控制持续向好、经济复苏持续向好、一系列对企纾困政策持续发力，对今年消费总的判断是呈现恢复性快速增长。（新华视点）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6257974.d.html</link>
+            <guid>2059599</guid>
+            <pubDate>Mon, 08 Mar 2021 09:34:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币交易所KRAKEN表示，修复了网站/API连接问题，并监控最新状况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6257929.d.html</link>
+            <guid>2059598</guid>
+            <pubDate>Mon, 08 Mar 2021 09:34:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【浙江：有序组织开展国内低风险地区旅游 尤其倡导省内旅游休闲度假】浙江省防控工作领导小组办公室常务副主任、省政府副秘书长陈广胜表示，有序组织开展国内低风险地区旅游，尤其是倡导省内旅游休闲度假，引导开展周边游、乡村游，鼓励旅行社组织生态游、康养游，逐步恢复因疫情暂停的特定旅游线路。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6257403.d.html</link>
+            <guid>2059597</guid>
+            <pubDate>Mon, 08 Mar 2021 09:33:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【南下资金今日净流出131.81亿港元】南下资金今日净流出131.81亿港元。港股通（沪）方面，美团－Ｗ、腾讯控股净卖出居前，分别获净卖出19.73亿港元、10.48亿港元。港股通（深）方面，腾讯控股、香港交易所净卖出居前，分别获净卖出19.37亿港元、11.55亿港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9413329.d.html</link>
+            <guid>2059596</guid>
+            <pubDate>Mon, 08 Mar 2021 09:31:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[  新加坡华侨银行：在胡塞武装相关消息影响消退后，建议在67美元/桶位置逢低购入原油。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6256475.d.html</link>
             <guid>2059595</guid>
             <pubDate>Mon, 08 Mar 2021 09:31:22 GMT</pubDate>
         </item>
@@ -73,533 +607,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9411133.d.html</link>
             <guid>2059585</guid>
             <pubDate>Mon, 08 Mar 2021 09:27:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  招商基金量化投资部副总监侯昊发表市场观点指出，近期白酒板块有所调整，但业绩持续性强的公司能够通过业绩的持续释放来消化估值，白酒企业的基本面没有出现问题，时间拉长看仍具备较好的配置价值。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9411034.d.html</link>
-            <guid>2059584</guid>
-            <pubDate>Mon, 08 Mar 2021 09:27:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股股指期货加速下挫，标普500指数期货跌超1%，道指期货跌0.5%；纳指期货跌幅扩大至2.2%。]]></title>
-            <guid>2059583</guid>
-            <pubDate>Mon, 08 Mar 2021 09:26:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【工信部部长肖亚庆：5年后将建成系统完备的5G网络】数字经济发展基础要进一步夯实。以网络建设为例，去年我国已经建成71.8万个5G基站，十四五期间将建成系统完备的5G网络，在网速提升、网络覆盖等方面取得更大进步，同时不断丰富垂直应用。要进一步扩大数字经济消费。我国的网络基础设施还有不少薄弱环节，核心技术还要进一步突破。（上观）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6254064.d.html</link>
-            <guid>2059582</guid>
-            <pubDate>Mon, 08 Mar 2021 09:26:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 现货白银转跌，现报25.18美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6253255.d.html</link>
-            <guid>2059581</guid>
-            <pubDate>Mon, 08 Mar 2021 09:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油期货短线下挫约0.3美元，WTI原油期货报66.19美元/桶，涨幅收窄至0.17%；布伦特原油期货报69.49美元/桶，涨幅收窄至0.16%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9409707.d.html</link>
-            <guid>2059580</guid>
-            <pubDate>Mon, 08 Mar 2021 09:24:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【华夏航空：拟开展原油、外汇及利率套期保值业务】华夏航空公告，公司及子公司拟开展原油套期保值业务，任一时点原油套期保值业务规模（总购买额度）不超过商品价值等值人民币3亿元，采用滚动建仓方式，额度可以循环使用。同时，公司及子公司拟开展外汇及利率套期保值业务，任一时点外汇套期保值业务规模不超过人民币7.96亿元或等值外币，利率套期保值业务规模不超过人民币2.94亿元或等值外币，上述额度均可以循环使用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9409514.d.html</link>
-            <guid>2059579</guid>
-            <pubDate>Mon, 08 Mar 2021 09:24:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  工信部部长肖亚庆：未来几年工业互联网发展仍然是一个非常关键的时期。一方面，要打好基础，尤其是在未来几年，打好工业互联网发展的物理基础；同时，要在融合上下功夫。各个行业、各个企业要相互融合，通过互联网产生更多创新内容，起到助力和促进作用。（上观）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6252887.d.html</link>
-            <guid>2059578</guid>
-            <pubDate>Mon, 08 Mar 2021 09:24:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华友钴业三日两跌停，四机构累计卖出19.5亿元】华友钴业近三个交易日两度跌停，龙虎榜数据显示，机构资金分歧较大。具体来看，两个机构席位合计买入5.13亿元，四个机构席位卖出19.51亿元，估算净卖出14.38亿元。北向资金买入7.65亿元并卖出5.95亿元，估算净买入1.7亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6252437.d.html</link>
-            <guid>2059577</guid>
-            <pubDate>Mon, 08 Mar 2021 09:23:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[箩筐技术(LKCO.O)盘前跌超20%，富时罗素将该公司从全球指数中剔除。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9408751.d.html</link>
-            <guid>2059576</guid>
-            <pubDate>Mon, 08 Mar 2021 09:23:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【工信部部长：要针对中小企业实际困难有针对性地提供服务】工信部部长肖亚庆表示，不少中小企业在生产、经营、发展当中还有很多实际的困难，我们要针对他们这些困难，有针对性地提供各方面的服务。与此同时，中小企业量大面广，政策的出台和落地除了靠主管部门以外，还期待中小企业所在地能出台更具针对性的政策，更好地落实促进中小企业可持续健康发展。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9408653.d.html</link>
-            <guid>2059575</guid>
-            <pubDate>Mon, 08 Mar 2021 09:22:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【工信部部长肖亚庆：发展5G和芯片，不能一哄而起】肖亚庆在谈及推动制造业实现高质量发展时指出，一方面是完善产业链，补短板，使得任何时候制造业都是经济支撑。二是在智能化、绿色化、高地化进一步提升，使得我们的制造业水平在原有基础上进一步提升。再者是供给侧改革，要对传统行业进行技术改革，实行现代化技术改造。同时，要发展新兴的战略产业，比如5G和通讯设备的芯片。“但是，新产业发展不能搞盲目重复建设，也要防止一哄而起，要按照市场化、法治化规律有序发展。“此外，还要特别鼓励集群发展，鼓励发展龙头企业和领军企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6251046.d.html</link>
-            <guid>2059574</guid>
-            <pubDate>Mon, 08 Mar 2021 09:21:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【航发动力今日跌停 三机构合计卖出1.32亿元】航发动力今日跌停，沪股通卖出5755万元并买入7022万元，三机构合计卖出1.32亿元，招商证券深圳深南东路买入1.20亿元，华泰证券总部买入1.16亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9407455.d.html</link>
-            <guid>2059573</guid>
-            <pubDate>Mon, 08 Mar 2021 09:20:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑美元EUR/USD跌0.4%，报1.1872。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6250788.d.html</link>
-            <guid>2059572</guid>
-            <pubDate>Mon, 08 Mar 2021 09:20:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国神华(01088.HK)：本公司将于2021年3月26日举行董事会会议，藉以审议并批准本公司截至2020年12月31日止年度之年度业绩公告事宜及建议支付股息事宜。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6250196.d.html</link>
-            <guid>2059571</guid>
-            <pubDate>Mon, 08 Mar 2021 09:19:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小牛电动(NIU.O)盘前跌5.7%，第四季度净利润同比下降4.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9406652.d.html</link>
-            <guid>2059570</guid>
-            <pubDate>Mon, 08 Mar 2021 09:19:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中航沈飞今日跌停，沪股通买入8034万元并卖出6536万元，三机构合计买入1.39亿元，三机构合计卖出1.35亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6248330.d.html</link>
-            <guid>2059569</guid>
-            <pubDate>Mon, 08 Mar 2021 09:15:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：加多宝集团据悉计划今年在香港进行IPO，并在IPO前寻求至少3亿美元的融资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6247948.d.html</link>
-            <guid>2059568</guid>
-            <pubDate>Mon, 08 Mar 2021 09:15:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  保利置业集团(00119.HK)：本集团截至二零二一年二月二十八日止两个月之合约销售额折合人民币约为56亿元，合约销售面积约为27.9万平方米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6247795.d.html</link>
-            <guid>2059567</guid>
-            <pubDate>Mon, 08 Mar 2021 09:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【招商基金：白酒企业基本面没出现问题 仍具备较好的配置价值】招商基金量化投资部副总监侯昊发表市场观点指出，近期白酒板块有所调整，但业绩持续性强的公司能够通过业绩的持续释放来消化估值，白酒企业的基本面没有出现问题，时间拉长看仍具备较好的配置价值。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6247509.d.html</link>
-            <guid>2059566</guid>
-            <pubDate>Mon, 08 Mar 2021 09:14:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ark Innovation ETF（ARKK）盘前跌4.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6246702.d.html</link>
-            <guid>2059565</guid>
-            <pubDate>Mon, 08 Mar 2021 09:12:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股激光雷达概念板块盘前普跌，维视图像(MVIS.O)跌14.2%，Luminar(LAZR.O)、Velodyne(VLDR.O)均跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6245527.d.html</link>
-            <guid>2059564</guid>
-            <pubDate>Mon, 08 Mar 2021 09:10:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【肖亚庆：保持制造业比重稳定确保关键时刻不掉链子】工信部部长肖亚庆在8日下午举行的“部长通道”上说，保持制造业比重稳定，不仅仅是总量要做大，更要实现高质量发展，确保关键时刻“不掉链子”。同时，提高产品和服务质量，加快打造新的增长点。保持制造业比重稳定要久久为功，要更高水平用好两个市场两种资源，吸引更多的资本、人才向制造业聚集。（新华视点）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9401742.d.html</link>
-            <guid>2059563</guid>
-            <pubDate>Mon, 08 Mar 2021 09:10:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国元期货：铜价中期顶部尚未出现】国元期货分析师范芮表示，近半个月的铜价节奏，主要是受到全市场情绪的影响。铜价冲高回落背后，经济周期性回暖预期推升全球股市，也增加了铜的需求预期信心，但随后全球股市上涨受挫令铜价也趋于回落。不过中长期来看，铜价的顶部尚未出现。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6245020.d.html</link>
-            <guid>2059562</guid>
-            <pubDate>Mon, 08 Mar 2021 09:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【科技部部长：争取在“十四五”期间让基础研究投入占全社会研发投入的比重达到8%左右】科技部部长王志刚在“部长通道”表示，下一阶段，要制定十年行动方案，更科学地优化顶层设计和系统布局，成系统布局、成体系推进基础研究能力建设。要继续加大投入，争取在“十四五”期间让基础研究投入占全社会研发投入的比重达到8%左右。要更加强调国家战略目标导向和自由探索两条腿走路的方针。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9401350.d.html</link>
-            <guid>2059561</guid>
-            <pubDate>Mon, 08 Mar 2021 09:09:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  工信部肖亚庆：用好优势集群，努力发展龙头企业。（中国网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9400618.d.html</link>
-            <guid>2059560</guid>
-            <pubDate>Mon, 08 Mar 2021 09:08:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油期货短线下行约0.3美元，WTI原油期货报66.40美元/桶，涨幅收窄至0.48%；布伦特原油期货报69.71美元/桶，涨幅收窄至0.49%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9400043.d.html</link>
-            <guid>2059559</guid>
-            <pubDate>Mon, 08 Mar 2021 09:07:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中电兴发公告，中标航空工业云基地联通大数据中心项目，中标投资建设额1.9亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6243173.d.html</link>
-            <guid>2059557</guid>
-            <pubDate>Mon, 08 Mar 2021 09:06:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【比亚迪发布秦PLUS DM-i车型 最低价格10.58万元】比亚迪最新发布秦PLUS DM-i车型，续航1245公里，搭载刀片电池，20多项智能驾驶辅助功能。车型最低价格10.58万元，首次将插电超级混动车型的价格，拉低到了10万元的价格区间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6243063.d.html</link>
-            <guid>2059556</guid>
-            <pubDate>Mon, 08 Mar 2021 09:06:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gamestop盘前涨7.4%，报148美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6242964.d.html</link>
-            <guid>2059555</guid>
-            <pubDate>Mon, 08 Mar 2021 09:06:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【什么时候能摘口罩？张伯礼：明年开春应该可以了】今天（8日），全国人大代表、中国工程院院士、天津中医药大学校长张伯礼在接受记者采访时表示，现在国内的疫情比较平稳了，但国外的疫情还在蔓延，还不能掉以轻心。外防输入、内防反弹的任务还很重，过去我们一些好的习惯还得坚持，包括戴口罩。我预计至少等到明年开春后，应该就可以摘口罩了。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9399229.d.html</link>
-            <guid>2059554</guid>
-            <pubDate>Mon, 08 Mar 2021 09:05:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【科技部部长：推进科技管理改革 构建更有效的举国体制】科技部部长王志刚在“部长通道”表示，科技部将围绕关键核心技术攻关，推进科技管理改革，构建更有效的举国体制，同时在市场经济条件下，发挥国家重大科研力量的组织者作用，激发产、学、研各主体发挥作用，构成创新共同体，践行政府工作报告中提到的“揭榜挂帅”改革落地。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9399065.d.html</link>
-            <guid>2059553</guid>
-            <pubDate>Mon, 08 Mar 2021 09:05:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【继续开工 嫦娥四号进入第28月昼】来自国家航天局的消息，今天，嫦娥四号着陆器和“玉兔二号”月球车完成唤醒设置，迎来了第28月昼。截至今天，嫦娥四号已在月球背面顺利工作795个地球日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6242583.d.html</link>
-            <guid>2059552</guid>
-            <pubDate>Mon, 08 Mar 2021 09:05:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[部分热门中概股盘前走低，哔哩哔哩(BILI.O)跌8.6%，亿航智能(EH.O)跌7.7%，百度(BIDU.O)跌7%，拼多多(PDD.O)、京东(JD.O)跌超6%，阿里巴巴(BABA.N)跌2.7%。]]></title>
-            <guid>2059550</guid>
-            <pubDate>Mon, 08 Mar 2021 09:04:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  加密货币交易所KRAKEN表示，目前交易处于取消模式，平台继续面临连接问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9398378.d.html</link>
-            <guid>2059549</guid>
-            <pubDate>Mon, 08 Mar 2021 09:04:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【世界黄金协会：黄金长期前景依然乐观】随着美国大选后市场情绪的好转以及数只新冠疫苗的成功研发，投资者也加大了对风险资产的投资力度。最近的COMEX黄金期货交易商持仓报告（COT）显示，尽管近期黄金价格表现不佳，COMEX黄金期货净多仓位仍处于高位，表明投资者仍看好黄金的长期前景。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9398103.d.html</link>
-            <guid>2059548</guid>
-            <pubDate>Mon, 08 Mar 2021 09:03:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特殊目的收购公司NewHold Investment Corp.(NHIC.O)盘前涨8.2%，美国公共安全检测平台Evolv Technology将与该公司进行合并上市。]]></title>
-            <guid>2059547</guid>
-            <pubDate>Mon, 08 Mar 2021 09:02:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  伦敦金属交易所(LME)：LME铜库存增加5225吨，铝库存减少5925吨，锌库存减少300吨，镍库存不变，锡库存增加90吨，铅库存减少100吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9397503.d.html</link>
-            <guid>2059546</guid>
-            <pubDate>Mon, 08 Mar 2021 09:02:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉盘前下挫，现跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6241001.d.html</link>
-            <guid>2059545</guid>
-            <pubDate>Mon, 08 Mar 2021 09:02:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富途控股(FUTU.O)盘前跌超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6240861.d.html</link>
-            <guid>2059544</guid>
-            <pubDate>Mon, 08 Mar 2021 09:01:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股新能源汽车板块盘前下挫，蔚来汽车(NIO.N)跌7.5%，特斯拉(TSLA.O)跌4%，小鹏汽车(XPEV.N)跌3.7%，理想汽车(LI.O)跌0.7%。]]></title>
-            <guid>2059543</guid>
-            <pubDate>Mon, 08 Mar 2021 09:01:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【1-2月我国进口煤炭4112.6万吨 同比下降39.5%】海关总署数据显示，2021年1-2月份，我国进口煤炭4112.6万吨，较去年同期的6794.4万吨减少2681.8万吨，下降39.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6240400.d.html</link>
-            <guid>2059542</guid>
-            <pubDate>Mon, 08 Mar 2021 09:01:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  海立股份：合计持股11.08%的股东富生控股及其一致行动人拟减持不超过3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9396677.d.html</link>
-            <guid>2059541</guid>
-            <pubDate>Mon, 08 Mar 2021 09:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全国人大代表霍涛建议提升区域科技创新能力】全国人大代表、白山科技创始人兼CEO霍涛2021年全国两会建言如下：加大对西南地区科技投入倾斜，促进科技创新能力提升；支持贵州省建设全国性数据交易试点示范；充分发挥企业力量，科技赋能农业农村数字化现代化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6239560.d.html</link>
-            <guid>2059539</guid>
-            <pubDate>Mon, 08 Mar 2021 08:59:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  台积电(TSM.N)：台湾用水短缺问题对公司没有影响，公司已经订购了少量用水。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6239381.d.html</link>
-            <guid>2059538</guid>
-            <pubDate>Mon, 08 Mar 2021 08:59:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  捷捷微电业绩快报：2020年全年实现净利润2.83亿元，同比增长49.45%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6239221.d.html</link>
-            <guid>2059537</guid>
-            <pubDate>Mon, 08 Mar 2021 08:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  江淮汽车：2月汽车销量为34250辆，同比增长196.54%；1-2月累计销量为91947辆，同比增长86.45%。]]></title>
-            <guid>2059536</guid>
-            <pubDate>Mon, 08 Mar 2021 08:58:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三七互娱：5%以上股东减持股份达到1%】三七互娱晚间公告称，公司5%以上股东吴绪顺、吴卫红、吴卫东(吴氏家族)通过大宗交易方式累计减持了21,266,600股，占公司总股本1.01%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9395309.d.html</link>
-            <guid>2059535</guid>
-            <pubDate>Mon, 08 Mar 2021 08:58:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  三连板惠博普收关注函，深交所要求公司说明在碳中和业务方面的研发投入、研发进度等，说明公司自称有一定技术积累和业绩的详细原因及其合理性，是否存在“蹭热点”炒作股价的情形。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6238697.d.html</link>
-            <guid>2059534</guid>
-            <pubDate>Mon, 08 Mar 2021 08:57:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  李宁(02331.HK)：本公司将于2021年3月18日举行董事会会议，藉以批准发布本公司及其附属公司截至2020年12月31日止年度的全年业绩公告，以及考虑派发末期股息之建议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6236716.d.html</link>
-            <guid>2059532</guid>
-            <pubDate>Mon, 08 Mar 2021 08:53:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【天鹅股份：山东供销资本公司将成为控股股东】天鹅股份公告，公司控股股东山东省供销社拟将其所持有的公司31.94%股权无偿划转至其全资子公司山东供销资本公司。此次权益变动完成后，山东供销资本公司直接持有公司5681.454万股股份，占公司总股本的60.87%，将成为公司控股股东；公司实际控制人未发生变化，仍为山东省供销社。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9393068.d.html</link>
-            <guid>2059531</guid>
-            <pubDate>Mon, 08 Mar 2021 08:53:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX期金跌至1690美元/盎司下方，日内跌幅0.53%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6236575.d.html</link>
-            <guid>2059530</guid>
-            <pubDate>Mon, 08 Mar 2021 08:53:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY涨幅扩大，日内涨0.3%，现报92.21，续刷3个半月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9392838.d.html</link>
-            <guid>2059529</guid>
-            <pubDate>Mon, 08 Mar 2021 08:53:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在岸人民币跌破去年底收盘价6.5283元，回吐今年以来的涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9392786.d.html</link>
-            <guid>2059528</guid>
-            <pubDate>Mon, 08 Mar 2021 08:53:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  广汽集团(02238.HK)：2月汽车销量105128辆，同比增长443.38%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9392329.d.html</link>
-            <guid>2059527</guid>
-            <pubDate>Mon, 08 Mar 2021 08:52:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美债收益率未升够 港股或现头肩顶料下试28259点】恒指上周五终于结束“6对”（共12个交易日）的日升日跌，科指更步入技术性熊市。按现况看，恒指阴阳烛图有形成头肩顶的趋势，头肩顶属见顶的利淡讯号，可靠性高且伤力大。现时恒指初步支持位在28259点，若然跌穿该水平，下一步支持位预期于25336点，即较现时有逾一成跌幅。现时恒指升跌多受科技股影响，近期美国十年期国债收益率持续试高位，但现时离新型肺炎疫苗完全普及尚需一段时间，估计尚有向上空间。美国财政部将于当地时间周三发售380亿美元10年期国库券与240亿美元30年期国债，投资者关注结果，对债息具指标作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9391997.d.html</link>
-            <guid>2059526</guid>
-            <pubDate>Mon, 08 Mar 2021 08:51:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新宏泰：持股3.80%的股东高岩敏拟减持不超过0.949%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9391257.d.html</link>
-            <guid>2059525</guid>
-            <pubDate>Mon, 08 Mar 2021 08:50:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙IBEX35指数走高，日内涨1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6234719.d.html</link>
-            <guid>2059524</guid>
-            <pubDate>Mon, 08 Mar 2021 08:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【董明珠称格力坚持不涨价：如果铜价再涨上去，视情况而定】近日，格力电器董事长董明珠谈到空调涨价的问题，她表示，是因为近期铜价在上涨，但不是长期的，格力坚持不涨价，但如果铜价继续上涨，就要视情况而定了，不要把这个马上转移给消费者。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6234337.d.html</link>
-            <guid>2059523</guid>
-            <pubDate>Mon, 08 Mar 2021 08:49:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[负责统筹香港新冠疫苗接种计划的特区政府公务员事务局局长聂德权3月8日会见传媒时表示，截至7日晚8时，香港已有约9.3万人接种新冠疫苗第一针，当中约9.18万人接种科兴疫苗。（中国新闻社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6234108.d.html</link>
-            <guid>2059522</guid>
-            <pubDate>Mon, 08 Mar 2021 08:49:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽元兑美元NZD/USD日内走低0.50%，现报0.7122。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6233861.d.html</link>
-            <guid>2059521</guid>
-            <pubDate>Mon, 08 Mar 2021 08:48:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  华通热力：拟定增募资不超过2.5亿元，扣除发行费用后用于“迁西富龙热力有限责任公司迁西县区工业余热供暖技术改造项目”、“华通热力节能环保、智慧供热技术改造项目”和偿还银行贷款。]]></title>
-            <guid>2059520</guid>
-            <pubDate>Mon, 08 Mar 2021 08:48:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【华达新材业绩快报：2020年净利润2.75亿元 同比增长44%】华达新材披露2020年度业绩快报，公司实现营业总收入61.01亿元，同比增长11.26%；净利润2.75亿元，同比增长43.89%，基本每股收益0.84元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6233228.d.html</link>
-            <guid>2059519</guid>
-            <pubDate>Mon, 08 Mar 2021 08:47:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  云锋金融(00376.HK)：本公司预计2020年权益股东应占净利润初步估计约6.1亿港元，较2019年度增加约140%。本集团的净利润显着增加主要是由于本集团保险业务的表现理想丶非保险业务的经营改善，以及权益类投资的已实现收益录得显着增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9389515.d.html</link>
-            <guid>2059518</guid>
-            <pubDate>Mon, 08 Mar 2021 08:47:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【3月首周一线城市房地产预期继续回调】贝壳研究院8日发布3月首周一线城市二手房市场情况显示，一线城市楼市预期持续回调。3月首周，一线城市二手房市场景气指数持续高位回调；深圳成交量保持低位，调控效果持续深化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9389434.d.html</link>
-            <guid>2059517</guid>
-            <pubDate>Mon, 08 Mar 2021 08:47:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【星展：上调港交所目标价至574港元 评级升至“买入”】星展发布研究报告，将港交所评级由“持有”升至“买入”，目标价由550港元升至574港元，以反映公司更好的展望，以及结构性转变，并预期2021-22年日均成交额分别为1980亿元及2240亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9389354.d.html</link>
-            <guid>2059516</guid>
-            <pubDate>Mon, 08 Mar 2021 08:47:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【新华制药：子公司乳酸菌素颗粒获得药品注册证书】新华制药公告，公司全资子公司新达制药收到国家药品监督管理局核准签发的乳酸菌素颗粒（1g）和乳酸菌素颗粒（2g）《药品注册证书》，该产品通过新产品注册审评。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9389253.d.html</link>
-            <guid>2059515</guid>
-            <pubDate>Mon, 08 Mar 2021 08:46:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  紫晶存储：持股5.5425%的股东深圳市达晨创联股权投资基金合伙企业拟减持不超过2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9388105.d.html</link>
-            <guid>2059513</guid>
-            <pubDate>Mon, 08 Mar 2021 08:44:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中金：料建行资产负债表快速修复 现处业绩V型反转起点】中金发表报告指，建行(00939.HK)于3月5日举办智慧政务主题交流活动，生动介绍智慧政务推出背景和取得成效等。智慧政务赋能G端场景，进而链接B和C端，大幅提升了建行快速触达和有效服务客户的能力，助力建行打造“二次成长曲线”。向前看，看好建行通过智慧政务平台服务国家战略和提升政府治理能力同时提升商业价值。强监管牌照的银行机构更易获得G端用户信赖，智慧政务战略将向更全面更深度方向发展。同时，智慧政务平台业务的发展也帮助了银行员工提高金融科技能力，推动公司从传统银行向数字银行转型。中金维持对建行盈利预测与H股目标价10.17港元不变，认为建行资产负债表将快速修复，目前处于其业绩V型反转的起点，重申跑赢行业评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9387550.d.html</link>
-            <guid>2059512</guid>
-            <pubDate>Mon, 08 Mar 2021 08:43:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  花王股份：持股5.46%的股东束美珍拟清仓减持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9387237.d.html</link>
-            <guid>2059511</guid>
-            <pubDate>Mon, 08 Mar 2021 08:43:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  诚志股份：持股7.44%的股东北京金信卓华投资中心拟减持不超过6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9386726.d.html</link>
-            <guid>2059510</guid>
-            <pubDate>Mon, 08 Mar 2021 08:42:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[十年期美债收益率日内上涨5个基点，报1.60%，续刷近13个月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6229613.d.html</link>
-            <guid>2059509</guid>
-            <pubDate>Mon, 08 Mar 2021 08:41:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【白云山：苯磺酸氨氯地平片通过仿制药一致性评价】白云山公告，公司分公司广州白云山医药集团股份有限公司白云山制药总厂（“白云山制药总厂”）收到国家药品监督管理局签发的《药品补充申请批准通知书》，苯磺酸氨氯地平片已通过仿制药质量和疗效一致性评价。苯磺酸氨氯地平是二氢吡啶类钙拮抗剂，用于治疗原发性高血压、慢性稳定性心绞痛及变异型心绞痛。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6228770.d.html</link>
-            <guid>2059508</guid>
-            <pubDate>Mon, 08 Mar 2021 08:40:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒瑞医药公告，公司近日收到国家药品监督管理局核准签发的关于托伐普坦片的《药品注册证书》。]]></title>
-            <guid>2059505</guid>
-            <pubDate>Mon, 08 Mar 2021 08:38:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  龙湖地产(00960.HK)：本公司董事会将于二零二一年三月二十六日举行董事会会议，藉以批准本公司及其附属公司截至二零二零年十二月三十一日止年度之末期业绩及考虑派发末期股息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9384063.d.html</link>
-            <guid>2059504</guid>
-            <pubDate>Mon, 08 Mar 2021 08:37:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  碧桂园(02007.HK)：本公司将于2021年3月25日举行董事会会议，藉以考虑及批准本公司及其附属公司截至2020年12月31日止年度之全年业绩，以及考虑派发末期股息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6227476.d.html</link>
-            <guid>2059503</guid>
-            <pubDate>Mon, 08 Mar 2021 08:37:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[多名日本政府相关人士8日透露，日美两国政府朝着最早4月实现首相菅义伟访美，与总统拜登举行首次面对面首脑会谈的方向，展开了协调。（共同网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6227393.d.html</link>
-            <guid>2059502</guid>
-            <pubDate>Mon, 08 Mar 2021 08:37:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【德国财长：本月底开始每周新冠疫苗接种数量可达1000万剂】德国财政部长Olaf Scholz表示，该国未来几周将大幅提高疫苗接种速度，3月底开始每周最多可接种1000万剂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6227206.d.html</link>
-            <guid>2059501</guid>
-            <pubDate>Mon, 08 Mar 2021 08:37:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【花旗上调展望 料铜价将在三个月内创新高】花旗集团预期铜价将在三个月内触及每吨10500美元的纪录高位。随着市场对废钢需求的扩大，花旗将短线价格展望从9,000美元上调。分析师表示，铜市场的“废料需求”（最终用途消费量减去开采供应量）估计将达到创纪录的1080万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9382349.d.html</link>
-            <guid>2059499</guid>
-            <pubDate>Mon, 08 Mar 2021 08:34:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【晨丰科技：拟以5亿元投建晨丰LED照明项目】晨丰科技公告，公司与瑞昌市人民政府签订《关于投资建设晨丰LED照明项目合同书》，该项目总投资额约5亿元。为此，公司拟在瑞昌市设立江西晨丰科技有限公司，运作晨丰LED照明项目。全资子公司建成后，有助于公司利用瑞昌市LED产业集群优势和资源，大幅提升公司产能规模，拓宽市场范围，对于促进公司进一步做大做强，提升综合竞争能力和可持续发展能力具有积极的战略意义。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9381834.d.html</link>
-            <guid>2059498</guid>
-            <pubDate>Mon, 08 Mar 2021 08:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  华润啤酒(00291.HK)：本公司将于二零二一年三月二十二日举行董事会会议，以考虑及通过本公司及其附属公司截至二零二零年十二月三十一日止年度之年度业绩及其发布，以及考虑及通过派发末期股息之建议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9381432.d.html</link>
-            <guid>2059497</guid>
-            <pubDate>Mon, 08 Mar 2021 08:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国再次发现本土变异新冠病毒 或与英国发现的变异病毒有关联】据美国《威拉米特周刊》7日报道，俄勒冈健康与科学大学的一项最新研究称，在该州发现了一种当地独有变异新冠病毒，目前正在迅速传播。主持研究的遗传学家奥罗克表示，这种变异病毒可能是由英国发现的变异病毒衍生而来，但出现了一项额外的E484K突变。早前研究表明，该突变可能增强新冠病毒的传染性，并降低人体内抗体的作用。南非和巴西发现的变异新冠病毒上也出现了相同突变。（海外网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9381115.d.html</link>
-            <guid>2059496</guid>
-            <pubDate>Mon, 08 Mar 2021 08:32:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京爱奇艺智能科技有限公司经营范围新增日用品、智能机器人销售等】近日，北京爱奇艺智能科技有限公司发生工商变更，经营范围新增家用电器、化妆品、智能机器人销售等。北京爱奇艺智能科技有限公司成立于2017年7月，注册资本为500万人民币，法定代表人为熊文，经营范围含软件开发；租赁计算机、软件及辅助设备等。股权穿透图显示，该公司由重庆爱奇艺智能科技有限公司100％持股，疑似实际控制人为耿晓华。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6224503.d.html</link>
-            <guid>2059495</guid>
-            <pubDate>Mon, 08 Mar 2021 08:31:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒指期货日盘收跌1.43%，报28478点，低水63点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9380908.d.html</link>
-            <guid>2059494</guid>
-            <pubDate>Mon, 08 Mar 2021 08:31:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在岸人民币兑美元3月8日16:30收盘报6.5233，较上一交易日下跌465点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6224333.d.html</link>
-            <guid>2059493</guid>
-            <pubDate>Mon, 08 Mar 2021 08:31:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  汤臣倍健今日涨停，深股通买入2.62亿元并卖出1.80亿元，两机构合计买入2.22亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6222141.d.html</link>
-            <guid>2059491</guid>
-            <pubDate>Mon, 08 Mar 2021 08:27:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：印尼方面考虑降低低品位镍矿的特许权使用费。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9378197.d.html</link>
-            <guid>2059490</guid>
-            <pubDate>Mon, 08 Mar 2021 08:26:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  岭南股份：联合体预中标保定汽车科技产业园市政景观改造项目设计、施工总承包项目，投标报价3.11亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6221617.d.html</link>
-            <guid>2059489</guid>
-            <pubDate>Mon, 08 Mar 2021 08:26:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【亚士创能：首次回购169万元股份】亚士创能公告，公司今日通过集中竞价交易方式首次回购股份3.07万股，购买的最高价为55元/股、最低价为54.72元/股，已支付的总金额为168.54万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6221228.d.html</link>
-            <guid>2059488</guid>
-            <pubDate>Mon, 08 Mar 2021 08:25:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  比亚迪今日跌停，中信证券杭州延安路卖出5.27亿元，深股通卖出4.8亿元并买入5.17亿元.]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6220806.d.html</link>
-            <guid>2059487</guid>
-            <pubDate>Mon, 08 Mar 2021 08:25:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
