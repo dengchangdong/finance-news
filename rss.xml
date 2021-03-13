@@ -4,11 +4,35 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 13 Mar 2021 18:28:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 19:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【秘鲁政府自3月15日起调整入境防疫规定】当地时间3月13日，秘鲁政府宣布，3月15日至3月28日，凡自英国、南非和巴西始发，或于近14日内在上述地区中转、不持秘鲁当地居留的外籍人士，一律禁止入境。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi3900230.d.html</link>
+            <guid>2068735</guid>
+            <pubDate>Sat, 13 Mar 2021 19:09:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  希腊新增新冠肺炎确诊病例2512例，累计确诊219521例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam0742288.d.html</link>
+            <guid>2068727</guid>
+            <pubDate>Sat, 13 Mar 2021 19:06:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  澳大利亚和新加坡希望在7月前就“旅游气泡”达成协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam0731383.d.html</link>
+            <guid>2068690</guid>
+            <pubDate>Sat, 13 Mar 2021 18:47:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【欧盟五国领导人呼吁进行对话 讨论“不公平的”疫苗分配】奥地利、捷克、斯洛文尼亚、保加利亚和拉脱维亚五国领导人要求举行欧盟峰会，讨论不公平的疫苗分配问题。当地时间周五，奥地利总理库尔茨抱怨称部分国家获得更多的疫苗，而且还存在不透明的疫苗市场。五国领导人致信欧洲理事会主席米歇尔要求召集峰会。一名欧盟官员确认米歇尔收到来信。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi3879269.d.html</link>
+            <guid>2068671</guid>
+            <pubDate>Sat, 13 Mar 2021 18:32:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  克罗地亚政府呼吁在欧盟内部公平分配疫苗。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam0713046.d.html</link>
@@ -579,30 +603,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0349999.d.html</link>
             <guid>2067289</guid>
             <pubDate>Sat, 13 Mar 2021 08:07:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币突破57500美元/枚，日内涨0.40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0347120.d.html</link>
-            <guid>2067288</guid>
-            <pubDate>Sat, 13 Mar 2021 08:02:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄防疫指挥部发布消息称，过去24小时，俄罗斯新增新冠病毒死亡病例475例，累计死亡病例达91695例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0346792.d.html</link>
-            <guid>2067287</guid>
-            <pubDate>Sat, 13 Mar 2021 08:02:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄防疫指挥部发布消息称，过去24小时，俄罗斯新增新冠病毒感染病例9908例，累计感染病例达4380525例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3505649.d.html</link>
-            <guid>2067286</guid>
-            <pubDate>Sat, 13 Mar 2021 08:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  乌克兰疫情持续蔓延，单日新增新冠肺炎确诊病例达13276例 。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0342240.d.html</link>
-            <guid>2067285</guid>
-            <pubDate>Sat, 13 Mar 2021 07:54:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
