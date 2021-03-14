@@ -4,11 +4,23 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sun, 14 Mar 2021 18:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 19:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国地质勘探局：冰岛Alftanes西南8公里处发生5.4级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam1586975.d.html</link>
+            <guid>2069840</guid>
+            <pubDate>Sun, 14 Mar 2021 18:56:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  葡萄牙马德拉群岛接受辉瑞新冠疫苗后感染新冠病毒人数上升至159人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam1577771.d.html</link>
+            <guid>2069823</guid>
+            <pubDate>Sun, 14 Mar 2021 18:39:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  阿斯利康公司：将继续监控公司疫苗的安全性。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam1567347.d.html</link>
@@ -591,18 +603,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi4464151.d.html</link>
             <guid>2069576</guid>
             <pubDate>Sun, 14 Mar 2021 10:38:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：03月14日18时26分在新疆阿克苏地区拜城县发生4.5级地震，震源深度22千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi4463163.d.html</link>
-            <guid>2069575</guid>
-            <pubDate>Sun, 14 Mar 2021 10:36:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网自动测定：3月14日18时26分在新疆阿克苏地区拜城县附近发生4.8级左右地震，最终结果以正式速报为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam1303203.d.html</link>
-            <guid>2069574</guid>
-            <pubDate>Sun, 14 Mar 2021 10:31:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
