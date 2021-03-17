@@ -4,11 +4,380 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Wed, 17 Mar 2021 10:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 11:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国2-10年期国债收益率曲线利差超过150个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4045000.d.html</link>
+            <guid>2074555</guid>
+            <pubDate>Wed, 17 Mar 2021 11:23:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  花旗银行：因NORILSK矿荒，将钯金价格从2500美元/盎司上调至3000美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7205598.d.html</link>
+            <guid>2074554</guid>
+            <pubDate>Wed, 17 Mar 2021 11:22:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【芯片断供影响扩大 通用汽车推出缺芯卡车】受“芯片荒”影响，美国通用汽车(GM.N)15日宣布，公司将生产一批不配备燃油管理模块的轻型和全尺寸2021款皮卡。美国环境保护局的测试显示，该模块可有效帮助车辆降低5.5%至7.5%的燃油消耗。通用汽车方面还强调，由于发动机工艺方面的原因，缺芯车辆一旦出厂，即便未来芯片供应恢复正常，这些车辆也无法再返厂改装，也就是说，缺芯对车辆行驶里程的影响是永久性的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7205310.d.html</link>
+            <guid>2074553</guid>
+            <pubDate>Wed, 17 Mar 2021 11:22:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  投行瑞杰：将菲利普斯66目标价从80美元上调至100美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4043436.d.html</link>
+            <guid>2074552</guid>
+            <pubDate>Wed, 17 Mar 2021 11:20:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国30年期国债收益率升至2.403%，超过3月12日高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4042389.d.html</link>
+            <guid>2074551</guid>
+            <pubDate>Wed, 17 Mar 2021 11:19:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  投行贝雅：将亚马逊评级上调至买入，目标价5000美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7203004.d.html</link>
+            <guid>2074550</guid>
+            <pubDate>Wed, 17 Mar 2021 11:18:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑俄罗斯卢布USD/RUB继续走高，日内涨幅扩大至2%，站上74。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7202868.d.html</link>
+            <guid>2074549</guid>
+            <pubDate>Wed, 17 Mar 2021 11:18:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道指期货约持平，标普500指数E-MINI期货下跌0.2%，纳斯达克期货下跌0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4041881.d.html</link>
+            <guid>2074548</guid>
+            <pubDate>Wed, 17 Mar 2021 11:18:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  现货黄金下破1730美元/盎司，日内转跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4040856.d.html</link>
+            <guid>2074546</guid>
+            <pubDate>Wed, 17 Mar 2021 11:16:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世卫组织发言人：顾问小组可能会在周三就阿斯利康疫苗发表声明。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7201658.d.html</link>
+            <guid>2074545</guid>
+            <pubDate>Wed, 17 Mar 2021 11:16:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：欧盟监管机构提醒投资者防范比特币等加密资产的“重大”风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7201194.d.html</link>
+            <guid>2074544</guid>
+            <pubDate>Wed, 17 Mar 2021 11:15:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑俄罗斯卢布USD/RUB短线冲高，现报73.62，日内涨1.46%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7199686.d.html</link>
+            <guid>2074543</guid>
+            <pubDate>Wed, 17 Mar 2021 11:13:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线下挫超4美元，现报1730.89美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4038277.d.html</link>
+            <guid>2074542</guid>
+            <pubDate>Wed, 17 Mar 2021 11:12:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：从阿富汗撤军可能需要5月1日之后。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4038225.d.html</link>
+            <guid>2074541</guid>
+            <pubDate>Wed, 17 Mar 2021 11:12:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：认为俄罗斯总统普京是一个杀手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4037504.d.html</link>
+            <guid>2074540</guid>
+            <pubDate>Wed, 17 Mar 2021 11:11:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：普京将为干预美国选举付出代价。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4036018.d.html</link>
+            <guid>2074538</guid>
+            <pubDate>Wed, 17 Mar 2021 11:08:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[腾景科技3月17日晚间披露网上中签结果，中签号码共有24586个，每个中签号码只能认购500股腾景科技A股股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4035261.d.html</link>
+            <guid>2074537</guid>
+            <pubDate>Wed, 17 Mar 2021 11:07:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登表示，除非人们遵守公共卫生指南，否则将无法实现他在7月4日抗击疫情的目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4035082.d.html</link>
+            <guid>2074536</guid>
+            <pubDate>Wed, 17 Mar 2021 11:07:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  复星医药：近日，公司控股子公司重庆药友制药有限责任公司(“重庆药友”)收到国家药监局关于同意YP01001胶囊用于晚期实体瘤治疗开展临床试验的批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7195168.d.html</link>
+            <guid>2074535</guid>
+            <pubDate>Wed, 17 Mar 2021 11:06:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克一个YES被误读成特斯拉用摄像头监控车主】3月13日一网友在马斯克推特下评论：“驾驶员监控摄像头可以监控司机的视线。例如，它可以检测测试用户是否长时间低头看手机或笔记本电脑。作为自动驾驶beta版本的测试者，这绝对是危险的。”随后马斯克回复道，“YES”，这一对话大概率是马斯克对“低头玩手机或电脑是危险驾驶行为”的认可，或者对后续功能意见的采纳，而网友评论也并无提问的意味，只是陈述一个想法。但后续被媒体普遍误解为特斯拉官方承认悄悄通过车内摄像头来监视驾驶员，采用了标题为“马斯克首次承认特斯拉悄悄用车内摄像头监控车主”的报道。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7194548.d.html</link>
+            <guid>2074534</guid>
+            <pubDate>Wed, 17 Mar 2021 11:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澜起科技：部分董事及高级管理人员拟增持2000万元-4000万元股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4033792.d.html</link>
+            <guid>2074533</guid>
+            <pubDate>Wed, 17 Mar 2021 11:05:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[拼多多盘前一路下挫，现跌近4%，早前最多涨超6%。公司2020年及第四季度净亏损状况不及预期，拼多多董事长黄峥宣布将辞任。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7192727.d.html</link>
+            <guid>2074532</guid>
+            <pubDate>Wed, 17 Mar 2021 11:02:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  拼多多盘前转跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4031034.d.html</link>
+            <guid>2074531</guid>
+            <pubDate>Wed, 17 Mar 2021 11:01:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中兴通讯与综合金融服务商国泰君安达成合作 打造「5G＋金融应用」示范】3月9日，中兴通讯与国泰君安证券股份有限公司达成战略合作。基于本次战略合作，双方将围绕5G建设及应用、分布式数据库、智慧网点建设等方面深度合作，以联合创新形式打造5G＋金融应用示范，探索智慧金融领域，开展产业研究，打造金融科技融合解决方案，共享研究成果。并将基于双方研究成果构建实施路径图，加快推进研究成果落地。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7191099.d.html</link>
+            <guid>2074530</guid>
+            <pubDate>Wed, 17 Mar 2021 11:00:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国10年期国债收益率站上1.65%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4030208.d.html</link>
+            <guid>2074529</guid>
+            <pubDate>Wed, 17 Mar 2021 11:00:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华为发布智能协作新品，助力企业智能化升级】3月17日，华为举办智能协作新品发布会，重磅发布了面向轻量办公和普惠教学的新品IdeaHub Board――华为协作平板系列。华为智能协作领域总裁孙权表示：后疫情时代，企业面临更加复杂的工作协同场景和员工多元化的工作方式需求, 我们需要更加积极地拥抱新的工作方式。华为的业务战略是“端云协同，共建全场景智慧办公生态”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4029949.d.html</link>
+            <guid>2074527</guid>
+            <pubDate>Wed, 17 Mar 2021 10:59:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nymex美原油期货主力日内跌幅达到1.02%，报64.14美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4029449.d.html</link>
+            <guid>2074526</guid>
+            <pubDate>Wed, 17 Mar 2021 10:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国安全监管机构对通用汽车转向传感器有缺陷问题进行审查】美国汽车安全监管机构审查了通用汽车与一种据称有缺陷的转向传感器相关的证据，该传感器在大约778000辆旧通用汽车中使用，但最终决定不对此事进行正式调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7189953.d.html</link>
+            <guid>2074525</guid>
+            <pubDate>Wed, 17 Mar 2021 10:58:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据德国Automobilewoche网站消息，奥迪公司将停止研发新型汽油或柴油发动机，准备在10至15年后彻底转向电动汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4028993.d.html</link>
+            <guid>2074524</guid>
+            <pubDate>Wed, 17 Mar 2021 10:58:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  拼多多盘前跳水，涨幅收窄至1%附近，拼多多董事长黄峥在致股东的信中宣布将辞任拼多多董事会主席职务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7188724.d.html</link>
+            <guid>2074523</guid>
+            <pubDate>Wed, 17 Mar 2021 10:56:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：美国白宫正在联系亚特兰大市长办公室和联邦调查局。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7188624.d.html</link>
+            <guid>2074522</guid>
+            <pubDate>Wed, 17 Mar 2021 10:56:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拼多多2020年GMV同比增长66%】 拼多多：平台2020年GMV为16676亿元，较2019年的10066亿元同比增长66%。受疫情消费影响，农产品及农副产品成为平台增长最快的品类。2020年，拼多多来自农副产品的成交额为2700亿元，规模同比翻倍，占全年成交额的16.2%，远高于行业3%左右的平均占比。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7188289.d.html</link>
+            <guid>2074521</guid>
+            <pubDate>Wed, 17 Mar 2021 10:55:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：希腊外长可能于4月在安卡拉会见土耳其外长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7188124.d.html</link>
+            <guid>2074520</guid>
+            <pubDate>Wed, 17 Mar 2021 10:55:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  拼多多CEO陈磊：拼多多将进一步推进农业的数字覆盖，为此，公司将在农业生态系统的数字化中作出更多贡献。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7186041.d.html</link>
+            <guid>2074519</guid>
+            <pubDate>Wed, 17 Mar 2021 10:52:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布油刷新日低至67.55美元/桶，日内跌幅扩大到1.23%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7185672.d.html</link>
+            <guid>2074518</guid>
+            <pubDate>Wed, 17 Mar 2021 10:52:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京金融法院案件管辖范围确定 有证券律师已经开始行动】继2018年上海金融法院设立后，国内第二家金融法院北京金融法院即将正式挂牌成立。已有证券律师计划赴北京金融法院立案。北京某律所律师表示，其代理一宗国内投资者诉境外上市公司案件，可能考虑将此案在北京金融法院立案。 (一财)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7184979.d.html</link>
+            <guid>2074517</guid>
+            <pubDate>Wed, 17 Mar 2021 10:51:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黄峥辞任拼多多董事长】黄峥在致股东信中宣布，董事会已批准其辞任董事长，由联合创始人、现任CEO陈磊接棒。黄峥认为，过去几年里拼多多对农业领域的贡献主要还是在流通领域，未来要通过对农产品种植过程的控制及对食品科学和生命科学领域的研究，确保拼多多10年后的高速高质量发展。作为创始人，黄峥将跳脱出来“去摸一摸10年后路上的石头”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7183065.d.html</link>
+            <guid>2074516</guid>
+            <pubDate>Wed, 17 Mar 2021 10:48:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  日本共同社报道：七国集团(G7)发达国家已同意将IMF的特别提款权(sdr)提高6500亿美元，为受疫情影响的新兴国家提供救助。]]></title>
+            <guid>2074515</guid>
+            <pubDate>Wed, 17 Mar 2021 10:48:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【业内人士称发行 “养老”理财产品需监管认证】某国有大行资管部相关人士透露，下一步，若银行要发行含有“养老”字样的理财产品，必须获得监管部门认证。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4021662.d.html</link>
+            <guid>2074514</guid>
+            <pubDate>Wed, 17 Mar 2021 10:47:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  拼多多：第四季度平均月活为7.19亿，同比增长146%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7181956.d.html</link>
+            <guid>2074513</guid>
+            <pubDate>Wed, 17 Mar 2021 10:46:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  拼多多：2020年第四季度商品交易总额1.67亿元，去年同期1.0066万亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7181468.d.html</link>
+            <guid>2074512</guid>
+            <pubDate>Wed, 17 Mar 2021 10:45:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  拼多多：全年每活跃用户消费额为2115.2元，同比增加23%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7181416.d.html</link>
+            <guid>2074511</guid>
+            <pubDate>Wed, 17 Mar 2021 10:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[拼多多：2020年全年净利润-71.8亿元，市场预期-66.63亿元，去年同期为-69.68亿元。2020年第四季度净利润-13.6亿元，市场预期-7.18亿元，去年同期为-17.52亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4019373.d.html</link>
+            <guid>2074510</guid>
+            <pubDate>Wed, 17 Mar 2021 10:43:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[拼多多：2020年全年营收595亿元，市场预期519.56亿元，去年同期为301.42亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4018892.d.html</link>
+            <guid>2074509</guid>
+            <pubDate>Wed, 17 Mar 2021 10:42:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  拼多多：CEO陈磊将接任公司董事会主席。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4018248.d.html</link>
+            <guid>2074508</guid>
+            <pubDate>Wed, 17 Mar 2021 10:41:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[公布财报后，拼多多盘前涨超5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4017942.d.html</link>
+            <guid>2074507</guid>
+            <pubDate>Wed, 17 Mar 2021 10:41:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[拼多多：2020年年度活跃买家数7.88亿，去年同期5.852亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7178434.d.html</link>
+            <guid>2074506</guid>
+            <pubDate>Wed, 17 Mar 2021 10:41:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[拼多多：2020年第四季度营收265.5亿元，市场预期192.16亿元，去年同期为107.93亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4017384.d.html</link>
+            <guid>2074505</guid>
+            <pubDate>Wed, 17 Mar 2021 10:40:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海与中核集团新一轮战略合作签约】上海市人民政府与中国核工业集团有限公司今天在沪签署战略合作框架协议。市委书记李强，市委副书记、市长龚正会见了中核集团董事长余剑锋、总经理顾军一行。根据协议，双方将本着优势互补、资源共享、合作发展、互利共赢的原则，在积极落实国家战略、加快总部经济建设、打造能源科研和产业高地、开拓国际市场、推动人才交流等领域全方位开展合作，助力上海持续提升城市能级和核心竞争力。（上观）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4017172.d.html</link>
+            <guid>2074504</guid>
+            <pubDate>Wed, 17 Mar 2021 10:40:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[舜宇光学科技：2020年全年实现净利润48.72亿元，上年同期为39.91亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7176981.d.html</link>
+            <guid>2074503</guid>
+            <pubDate>Wed, 17 Mar 2021 10:38:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[舜宇光学科技：全年营收380亿元人民币，市场预估425.5亿元人民币。2020年全年实现净利润48.72亿元，市场预估为43.1亿元，上年同期为39.91亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4015917.d.html</link>
+            <guid>2074502</guid>
+            <pubDate>Wed, 17 Mar 2021 10:37:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：沙特阿拉伯表示，将向银行额外支付5000万美元的沙特阿美IPO费用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4015819.d.html</link>
+            <guid>2074501</guid>
+            <pubDate>Wed, 17 Mar 2021 10:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德银：将麦当劳评级从持有上调至买入。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7175219.d.html</link>
+            <guid>2074500</guid>
+            <pubDate>Wed, 17 Mar 2021 10:35:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体消息：美国参议院共和党指责拜登在边境的非法行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4014206.d.html</link>
+            <guid>2074499</guid>
+            <pubDate>Wed, 17 Mar 2021 10:35:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[金山云2020年全年净利润（亿元）：预期-11.04，公布-9.6。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7174610.d.html</link>
+            <guid>2074498</guid>
+            <pubDate>Wed, 17 Mar 2021 10:34:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[金山云：2020年营收19.23亿元，市场预期19.32亿元；第四季度每ADS盈利0元；第四季度营收65.77亿元，市场预期65.67亿元。]]></title>
+            <guid>2074497</guid>
+            <pubDate>Wed, 17 Mar 2021 10:34:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  金山云：预计第一季度营收为18.3亿美元-19.3亿美元，此前预期为3.22亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4013296.d.html</link>
+            <guid>2074496</guid>
+            <pubDate>Wed, 17 Mar 2021 10:33:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  华尔街资管公司科文：将耐克目标价从170美元上调至173美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam4013137.d.html</link>
+            <guid>2074495</guid>
+            <pubDate>Wed, 17 Mar 2021 10:33:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  日本首相菅义伟：正在调整医院床位容量，以适应紧急状态解除的情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7172438.d.html</link>
+            <guid>2074494</guid>
+            <pubDate>Wed, 17 Mar 2021 10:31:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  日本首相菅义伟：将在听取专家意见后，对结束紧急限制状态作出最后决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7172354.d.html</link>
+            <guid>2074493</guid>
+            <pubDate>Wed, 17 Mar 2021 10:31:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  丽人丽妆：2020年全年实现净利润3.39亿元，同比增长18.7%；拟10派1.8元。]]></title>
+            <guid>2074492</guid>
+            <pubDate>Wed, 17 Mar 2021 10:30:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  纳指期货跌0.13%，道指期货跌0.03%，标普500指数期货跌0.05%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7171108.d.html</link>
+            <guid>2074490</guid>
+            <pubDate>Wed, 17 Mar 2021 10:29:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  欧洲央行：银行没有使用隔夜贷款工具借入资金，存款额为6815.9亿欧元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7170307.d.html</link>
@@ -235,376 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7142792.d.html</link>
             <guid>2074450</guid>
             <pubDate>Wed, 17 Mar 2021 09:44:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  消息人士称，TIKTOK考虑今年推出群聊功能。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3981066.d.html</link>
-            <guid>2074449</guid>
-            <pubDate>Wed, 17 Mar 2021 09:42:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安徽建长三角一体化发展重点项目库，2021年拟投资超万亿元】从安徽省发展改革委获悉，为推进长三角一体化发展，安徽建立长三角一体化发展重点项目库，其中，2021年计划推进约150个重大项目，总投资超1万亿元人民币。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7141365.d.html</link>
-            <guid>2074448</guid>
-            <pubDate>Wed, 17 Mar 2021 09:42:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【渤海化学：全资子公司PDH装置例行停产检修】渤海化学公告，根据化工企业生产工艺和生产装置的要求，为确保生产装置安全有效运行，按照年度计划，天津渤海化学股份有限公司全资子公司天津渤海石化有限公司的PDH装置（60万吨/年）将于2021年3月18日开始停产检修，预计检修20天左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3980213.d.html</link>
-            <guid>2074446</guid>
-            <pubDate>Wed, 17 Mar 2021 09:41:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  马来西亚总理：不会再有全面封锁或行动管制令。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7140108.d.html</link>
-            <guid>2074445</guid>
-            <pubDate>Wed, 17 Mar 2021 09:40:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【乘联会：3月第二周乘用车市场零售日均4万辆 同比2019年3月第二周增长2%】据乘联会统计，3月第一周的市场零售达到日均3.5万辆，同比2019年3月的第一周增长2%，表现相对平稳。3月第二周的市场零售达到日均4.0万辆，同比2019年3月的第二周增长2%，表现相对平稳。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3979509.d.html</link>
-            <guid>2074444</guid>
-            <pubDate>Wed, 17 Mar 2021 09:40:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上汽智己发行3亿枚“原石”，映射4.9%企业股权收益确权给购车车主】上汽智己曝光CSOP用户数据权益平台核心链路：智己汽车创始轮投资规模为100亿元人民币，以4.9%股权收益作为其将发行的3亿枚“原石”映射该部分股权对应的资产收益与红利，以数据权益的方式回馈购车车主。这部分收益可等价兑换成企业升值的红利，也可用于产品软硬件迭代。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3979423.d.html</link>
-            <guid>2074443</guid>
-            <pubDate>Wed, 17 Mar 2021 09:40:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币跌破55000美元/枚，日内跌超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3978405.d.html</link>
-            <guid>2074442</guid>
-            <pubDate>Wed, 17 Mar 2021 09:38:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  马来西亚总理：拨出30-50亿林吉特以推动加快疫苗接种。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7137903.d.html</link>
-            <guid>2074441</guid>
-            <pubDate>Wed, 17 Mar 2021 09:37:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  马来西亚首相：将推出200亿林吉特的经济刺激计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7137315.d.html</link>
-            <guid>2074440</guid>
-            <pubDate>Wed, 17 Mar 2021 09:36:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阳谷华泰：预计第一季度净利润同比增长1747.79%―1953.10%】阳谷华泰公告，预计第一季度净利润为9000万-1亿元，同比增长1747.79%―1953.10%。报告期内，随着全球经济的复苏，公司产销两旺，产能利用率提升，2020年新投产不溶性硫磺已达到设计产能，新增一部分利润，同时受原材料价格上升的影响，公司防焦剂、促进剂产品价格也同步提升，公司净利润同比上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7137077.d.html</link>
-            <guid>2074439</guid>
-            <pubDate>Wed, 17 Mar 2021 09:35:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【私募排排网：62.5%的私募不赞成抄底】 私募排排网最新调查数据显示，37.5%的受访私募表示，在美债利率持续上行和流动性有收紧预期的背景之下，很多跌逾30%的核心资产的股价和未来两三年的业绩预期是相匹配的，一些真正的高质量绩优股已经跌出机会了。同时，另有62.5%的私募指出，当前市场信心仍未恢复，公募基金调仓还未完成，核心资产的下跌并未到位，要参与也应该分批入场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3975858.d.html</link>
-            <guid>2074438</guid>
-            <pubDate>Wed, 17 Mar 2021 09:34:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海国际金融中心排名蝉联全球第三】英国智库Z/Yen集团今日发布的第29期全球金融中心指数（GFCI 29）显示，根据最新排名，上海蝉联全球第三。全球前十大金融中心排名依次为：纽约、伦敦、上海、香港、新加坡、北京、东京、深圳、法兰克福、苏黎世。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7135786.d.html</link>
-            <guid>2074437</guid>
-            <pubDate>Wed, 17 Mar 2021 09:33:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天赐材料：拟1500万美元在德国设立子公司】天赐材料(002709)3月17日晚公告，基于全球新能源汽车发展的良好前景，为更好服务欧洲市场所做的前期筹备，公司拟1500万美元在德国设立全资子公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3975240.d.html</link>
-            <guid>2074436</guid>
-            <pubDate>Wed, 17 Mar 2021 09:33:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  波兰新增25052例新冠肺炎确诊病例，新增453例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7135188.d.html</link>
-            <guid>2074435</guid>
-            <pubDate>Wed, 17 Mar 2021 09:32:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北上资金今日净买入格力电器9.05亿元、京东方Ａ4.58亿元，净卖出中国平安7.49亿元、贵州茅台4.41亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3974469.d.html</link>
-            <guid>2074434</guid>
-            <pubDate>Wed, 17 Mar 2021 09:31:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫表示不同意美国情报机构关于俄罗斯干预选举的结论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3973538.d.html</link>
-            <guid>2074433</guid>
-            <pubDate>Wed, 17 Mar 2021 09:30:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[渤海化学：全资子公司天津渤海石化有限公司的 PDH 装置（60 万吨/年）将于2021年3月18日开始停产检修，预计检修20天左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7133474.d.html</link>
-            <guid>2074432</guid>
-            <pubDate>Wed, 17 Mar 2021 09:30:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股新能源车股盘前普跌，蔚来汽车跌2%，小鹏汽车、小牛电动、理想汽车均跌超1%，特斯拉跌0.65%，福特汽车和通用汽车跌0.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3971488.d.html</link>
-            <guid>2074431</guid>
-            <pubDate>Wed, 17 Mar 2021 09:27:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【烽火通信正式加入中国超高清视频产业联盟（CUVA）】日前，烽火通信正式加入中国超高清视频产业联盟（CUVA）。该联盟由工信部2018年牵头组建，旨在打造国际先进的超高清视频产业集群，现已推出我国自主的高清视频编解码（HDR）标准。今后，烽火将与联盟成员共同探索超高清体验优化方案，推动中国超高清视频产业生态拓展。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7131395.d.html</link>
-            <guid>2074430</guid>
-            <pubDate>Wed, 17 Mar 2021 09:27:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新天药业：控股股东拟协议转让5.12%公司股份予国盛海通基金】新天药业3月17日晚公告，控股股东贵阳新天生物技术开发有限公司拟将其持有的公司600万股无限售流通股（占公司总股本的5.12%）通过协议转让的方式转让给上海国盛海通股权投资基金合伙企业（有限合伙），总转让价款为8382万元。本次权益变动后，国盛海通基金持有5.12%公司股份，为公司持股5%以上股东。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3969803.d.html</link>
-            <guid>2074428</guid>
-            <pubDate>Wed, 17 Mar 2021 09:25:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[平安好医生港交所发布公告称，2020年净亏损人民币9.49亿元，同比扩大27%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7129372.d.html</link>
-            <guid>2074427</guid>
-            <pubDate>Wed, 17 Mar 2021 09:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[赛腾股份：公司控股股东及实际控制人孙丰拟减持不超4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3968796.d.html</link>
-            <guid>2074426</guid>
-            <pubDate>Wed, 17 Mar 2021 09:24:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【七一二：2020年净利润5.23亿元 同比增51.48%】七一二3月17日晚间披露年报，公司2020年实现营业收入为26.96亿元，同比增长25.95%；归母净利润5.23亿元，同比增长51.48%；基本每股收益0.68元。公司拟每10股派发现金1元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3967967.d.html</link>
-            <guid>2074425</guid>
-            <pubDate>Wed, 17 Mar 2021 09:22:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场观望气氛浓人民币收盘小跌，聚焦美联储决议】① 人民币兑美元即期周三收盘小跌，中间价则小升51点，交易员称，美联储议息决议公布在即，市场观望气氛较浓，决议可能引发市场剧烈震荡，虽然美联储采取实际行动可能性不大，但关键风险释放前市场仍屏息以待；他们并表示，保持美元相对强势，确保美元的吸引力，也可以确保发债顺利，从这个角度看，美元并不见得会出现大跌；接下来重点关注美联储政策声明、点阵图以及鲍威尔讲话的反应；② 一外资行交易员称，接下来风险事件密集，市场还是先观望为主，美联储采取行动的可能性在上升，但也并不很急迫；全球汇市方面，美元兑主要货币周三守住涨势，因投资者期待美联储政策会议结果，看是否有任何迹象表明其有可能提早加息或允许债券收益率进一步上升；③ 摩根士丹利策略师Matthew Hornbach称，FOMC的经济预测可能会承认，今年经济增长情况改善，但将继续显示，距离会持续带来通胀上升压力的充分就业环境还有很长一段路，美联储若较预期更偏鸽派，则美债收益率和美元短期内将下跌，尤其是兑风险货币，但我们继续预期进入第二季美元有上行风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7127513.d.html</link>
-            <guid>2074424</guid>
-            <pubDate>Wed, 17 Mar 2021 09:21:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海机电：2020年全年实现净利润11.3亿元，与上年同期持平；拟10派3.9元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7126444.d.html</link>
-            <guid>2074423</guid>
-            <pubDate>Wed, 17 Mar 2021 09:20:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IEA月报：更强劲的石油需求和欧佩克+的限产将导致下半年库存大幅减少。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7126064.d.html</link>
-            <guid>2074422</guid>
-            <pubDate>Wed, 17 Mar 2021 09:19:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：激光器公司Coherent宣布修订协议，Lumentum将以现金和股票交易的方式收购Coherent，Coherent的股东将获得每股220美元和0.61股Lumentum普通股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7125983.d.html</link>
-            <guid>2074421</guid>
-            <pubDate>Wed, 17 Mar 2021 09:19:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[*ST京城：2020年全年实现净利润1.56亿元，同比扭亏；公司已向上交所提出撤销对公司A股股票实施退市风险警示的申请。]]></title>
-            <guid>2074420</guid>
-            <pubDate>Wed, 17 Mar 2021 09:19:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【水晶光电收关注函：要求评估子公司员工侵害公司利益事项对财务状况的影响】水晶光电收到关注函，深交所要求公司就子公司员工侵害公司利益事项暴露出的内部控制问题制定详细可行的整改措施，明确整改期限。深交所要求该公司评估子公司员工侵害公司利益事项对其财务状况的影响，补充披露上述事项影响的金额、归属期间以及相应会计处理的合理性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3964502.d.html</link>
-            <guid>2074419</guid>
-            <pubDate>Wed, 17 Mar 2021 09:18:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【科创板上市委：利元亨首发过会 康鹏科技遭否】上交所消息，科创板上市委审议通过广东利元亨智能装备股份有限公司首发申请，上海康鹏科技股份有限公司首发申请遭否。科创板上市委指出，康鹏科技报告期及在审期间发生多起安全事故和环保违法事项，导致重要子公司停工停产，进而导致公司重要业务和经营业绩大幅下滑。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7124672.d.html</link>
-            <guid>2074418</guid>
-            <pubDate>Wed, 17 Mar 2021 09:17:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[深交所：浙江真爱美家股份有限公司、山东中农联合生物科技股份有限公司和中金辐照股份有限公司披露招股书，拟于近期在深市发行新股并上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7124469.d.html</link>
-            <guid>2074417</guid>
-            <pubDate>Wed, 17 Mar 2021 09:17:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国电建：2021年1月至2月新签合同同比增25.01%】中国电建：2021年1月至2月新签合同总额约为人民币1,191.89亿元，同比增长25.01%。前述新签合同总额中，国内新签合同额约为人民币999.28亿元，同比增长53.81%；国外新签合同额折合人民币约为192.61亿元，同比减少36.59%。国内外水利电力业务新签合同额合计约为人民币507.36亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3963707.d.html</link>
-            <guid>2074416</guid>
-            <pubDate>Wed, 17 Mar 2021 09:16:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IEA月报：预计到2022年沙特的石油产能将增至1225万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3963284.d.html</link>
-            <guid>2074415</guid>
-            <pubDate>Wed, 17 Mar 2021 09:16:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IEA月报：发展中国家的石油需求增长将足以抵消发达国家因能源转型而导致的需求下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3962795.d.html</link>
-            <guid>2074414</guid>
-            <pubDate>Wed, 17 Mar 2021 09:15:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[菲达环保公告，公司股票于2021年3月15-17日连续3个交易日收盘价格涨停，目前动态市盈率195.04倍，远高于环保行业平均水平，敬请投资者注意二级市场股票交易风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7122858.d.html</link>
-            <guid>2074413</guid>
-            <pubDate>Wed, 17 Mar 2021 09:14:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国汽车股在德国证券交易所涨幅扩大，宝马涨近5%，其预计全年汽车业务息税前利润率+6％至+8％；大众集团涨超3%，德国大陆集团涨1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3961970.d.html</link>
-            <guid>2074412</guid>
-            <pubDate>Wed, 17 Mar 2021 09:13:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IEA月报：2021年第四季度全球石油需求比2019年减少140万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7122139.d.html</link>
-            <guid>2074411</guid>
-            <pubDate>Wed, 17 Mar 2021 09:13:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ IEA月报：2021年第一季度的石油需求比2019年减少480万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3961615.d.html</link>
-            <guid>2074410</guid>
-            <pubDate>Wed, 17 Mar 2021 09:13:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒实科技：股东拟减持不超过1.22%股份】恒实科技3月17日晚公告，持股比例4.88%的股东景治军计划在本公告发布之日起3个交易日后的6个月内以集中竞价、大宗交易等方式减持本公司股份不超过382.61万股，即不超过公司总股本的1.22%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7121782.d.html</link>
-            <guid>2074409</guid>
-            <pubDate>Wed, 17 Mar 2021 09:12:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IEA月报：今年2月全球石油供应下降200万桶/日，至9160万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7121416.d.html</link>
-            <guid>2074408</guid>
-            <pubDate>Wed, 17 Mar 2021 09:12:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IEA月报：预计2025年全球石油需求将比2019年的需求多350万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7121072.d.html</link>
-            <guid>2074407</guid>
-            <pubDate>Wed, 17 Mar 2021 09:11:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IEA月报：全球炼油厂吞吐量将从2021年第二季度开始恢复增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7120938.d.html</link>
-            <guid>2074406</guid>
-            <pubDate>Wed, 17 Mar 2021 09:11:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【资金面宽松，隔夜回购利率跌破2%】央行今日继续等量对冲到期资金。银行间隔夜回购加权平均利率本周来首次跌破2%，7天也跌破2.2%的央行逆回购利率水平。截至北京时间17:00，1天期回购利率下跌13.14个基点，报1.9854%;7天期回购利率下跌8.15个基点，报2.1383%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3960183.d.html</link>
-            <guid>2074404</guid>
-            <pubDate>Wed, 17 Mar 2021 09:11:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧菲光今日一字跌停，散户抄底踊跃】欧菲光一字跌停，收报于9.14元。盘后龙虎榜数据显示，买入席位多为券商营业部席位，其中中国银河证券股份有限公司北京陶然桥证券营业部买入550万元，为买入最多的席位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7119809.d.html</link>
-            <guid>2074403</guid>
-            <pubDate>Wed, 17 Mar 2021 09:10:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[彩虹股份：监事王晓阳于2021年3月17日通过集中竞价交易的方式减持公司股份3000股，占公司总股本0.0000836%，成交金额为33740元。存在窗口期违规减持的情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3959227.d.html</link>
-            <guid>2074402</guid>
-            <pubDate>Wed, 17 Mar 2021 09:10:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[香港新增新冠肺炎确诊病例11例，累计确诊11340例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7119232.d.html</link>
-            <guid>2074401</guid>
-            <pubDate>Wed, 17 Mar 2021 09:09:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IEA月报：预计到2026年，全球石油需求将增至1.04亿桶/日，较2019年水平增长4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7118988.d.html</link>
-            <guid>2074400</guid>
-            <pubDate>Wed, 17 Mar 2021 09:09:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IEA月报： 2021年第一季度石油需求缺口为480万桶/日，第四季度为140万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3957927.d.html</link>
-            <guid>2074399</guid>
-            <pubDate>Wed, 17 Mar 2021 09:08:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伦敦金属交易所(LME)：铜库存增加3375吨，铝库存减少7025吨，锌库存减少400吨，镍库存减少366吨，锡库存增加25吨，铅库存减少425吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3957857.d.html</link>
-            <guid>2074398</guid>
-            <pubDate>Wed, 17 Mar 2021 09:08:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IEA月报：预计2021年非欧佩克国家的石油产量将增加70万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3957806.d.html</link>
-            <guid>2074397</guid>
-            <pubDate>Wed, 17 Mar 2021 09:08:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宝马齐普策：2030年MINI实现全面电动化】3月17日，宝马集团董事长齐普策在宝马集团财报年会上表示，2025年MINI品牌将发布最后一款内燃机车型，到2030年MINI品牌将实现全面电动化，停售燃油车。宝马集团的加速电动化从MINI品牌开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3957685.d.html</link>
-            <guid>2074396</guid>
-            <pubDate>Wed, 17 Mar 2021 09:07:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国航发涡轴-16发动机获批生产许可】中国航发1300千瓦级功率级涡轴-16发动机已于近日获得中国民航颁发的生产许可证。这将对我国通用航空产业发展形成有力支撑，标志着中法航空高科技领域的务实合作取得重要成果。涡轴-16发动机是中法首次以风险共担、对等合作方式联合研制的航空发动机，起飞功率不小于1240千瓦，重量不超过223.5公斤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7117309.d.html</link>
-            <guid>2074395</guid>
-            <pubDate>Wed, 17 Mar 2021 09:06:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IEA月报：经合组织的1月原油库存下降1420万桶至30.23亿桶，较五年均值高6300万桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3956586.d.html</link>
-            <guid>2074394</guid>
-            <pubDate>Wed, 17 Mar 2021 09:06:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  复星国际：兹通告谨定于2021年3月30日（星期二）举行董事会会议，藉以（其中包括）批准本公司及其附属公司截至2020年12月31日止年度之年度业绩及其发布，以及考虑派发末期股息（如有）。]]></title>
-            <guid>2074393</guid>
-            <pubDate>Wed, 17 Mar 2021 09:06:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国银河：董事会谨此公告将于2021年3月29日（星期一）举行董事会会议，藉以（其中包括）考虑及批准本公司及其附属公司截至2020年12月31日止年度的业绩及其发布，并考虑派发末期股息（如有）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7116745.d.html</link>
-            <guid>2074392</guid>
-            <pubDate>Wed, 17 Mar 2021 09:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IEA月报：库存看似充沛，已积聚了大量闲置产能。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3956291.d.html</link>
-            <guid>2074391</guid>
-            <pubDate>Wed, 17 Mar 2021 09:05:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  宏盛股份：经公司自查，并向公司控股股东和实际控制人核实，截至公告披露日，确认不存在应披露而未披露的重大信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3956241.d.html</link>
-            <guid>2074390</guid>
-            <pubDate>Wed, 17 Mar 2021 09:05:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  普拉格能源美股盘前跌超20%，公司报告此前公布的财务报表存在会计错误。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3955983.d.html</link>
-            <guid>2074389</guid>
-            <pubDate>Wed, 17 Mar 2021 09:05:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IEA月报：尽管需求有所改善，但石油供过于求的情况依然存在。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7116181.d.html</link>
-            <guid>2074388</guid>
-            <pubDate>Wed, 17 Mar 2021 09:04:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IEA月报：随着经济复苏和疫苗接种展开，从第一季到第四季需求将增加530万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7116124.d.html</link>
-            <guid>2074387</guid>
-            <pubDate>Wed, 17 Mar 2021 09:04:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IEA月报：沙特2月石油产量下降96万桶/日，至814万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3955728.d.html</link>
-            <guid>2074386</guid>
-            <pubDate>Wed, 17 Mar 2021 09:04:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IEA月报：欧佩克+的石油产量在2月下降了64万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi7115975.d.html</link>
-            <guid>2074385</guid>
-            <pubDate>Wed, 17 Mar 2021 09:04:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
