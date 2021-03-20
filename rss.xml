@@ -4,11 +4,46 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 20 Mar 2021 17:40:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 18:29:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[法国目前已有6137375人接种了首剂新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5880956.d.html</link>
+            <guid>2080895</guid>
+            <pubDate>Sat, 20 Mar 2021 18:23:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“V”型反弹之下的压力与隐忧】①未来一个阶段，经济存在怎样的压力和隐忧？3月17日，中国人民大学中国宏观经济论坛发布的宏观经济月度数据分析报告认为，疫情之后中国经济呈现出“V”型反弹的态势，这为经济发展提供了长期支撑，但是局部市场泡沫凸显；②这一点在三大市场上表现尤其明显：一是房地产，价格呈现出不同区域、不同性质房地产的分化。二是股票市场，小牛市的背后不是基于实体经济的发展，而是建立在炒作投机的基础之上。三是大宗商品价格涨幅非常明显，这可能会推动工业品价格不断上涨，进而造成长期通胀压力和实体经济下行压力，这是非常值得警惕的。（经济观察网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9039983.d.html</link>
+            <guid>2080894</guid>
+            <pubDate>Sat, 20 Mar 2021 18:20:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【ETF赛道再添新品，首批新材料ETF获批】记者获悉，国内首批新材料ETF正式获批，包括华宝基金、天弘基金、华夏基金、平安基金和国联安基金在内的五家公司先后申报了该产品。据悉，新材料ETF跟踪的是中证新材料主题指数，目前该指数的前十大成份股中，囊括了万华化学、宁德时代、隆基股份、亿纬锂能、通威股份等新材料细分领域的龙头股。（界面新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9039551.d.html</link>
+            <guid>2080893</guid>
+            <pubDate>Sat, 20 Mar 2021 18:12:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  根据世卫组织最新实时统计数据，截至欧洲中部时间3月20日13时28分（北京时间3月20日20时28分），全球累计新冠肺炎确诊病例121969223例，累计死亡病例2694094例。20日全球新冠肺炎确诊病例新增494917例，死亡病例新增9921例。（央视）]]></title>
+            <guid>2080892</guid>
+            <pubDate>Sat, 20 Mar 2021 17:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国外交部：土耳其退出伊斯坦布尔公约的决定，对欧洲和土耳其传递出错误的信号。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9038245.d.html</link>
+            <guid>2080891</guid>
+            <pubDate>Sat, 20 Mar 2021 17:47:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【生态环境部研究员夏光：实现碳达峰时间非常紧迫，需要大量的政策】、3月20日，在由国务院发展研究中心主办、中国发展研究基金会承办的“中国发展高层论坛2021年会”上，生态环境部研究员、原国家生态环境保护督察专员夏光在在“助力碳达峰与碳中和目标”分论坛中指出，中国实现碳达峰的时间非常紧迫，必须通过制定相关的政策向全社会提供为实现碳达峰的目标而共同奋斗的一种驱动力，需要大量的政策。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5878823.d.html</link>
+            <guid>2080890</guid>
+            <pubDate>Sat, 20 Mar 2021 17:42:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[俄罗斯千岛群岛附近发生5.1级地震，震源深度10公里。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9036944.d.html</link>
@@ -562,42 +597,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9010356.d.html</link>
             <guid>2080277</guid>
             <pubDate>Sat, 20 Mar 2021 11:39:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国新冠疫苗接种达7000万人次】3月20日，由中华预防医学会主办的“新形势，新起点——新冠疫情下免疫策略交流大会”在京举办。国家卫健委疾控局二级巡视员崔钢在会上披露，截至目前，我国新冠疫苗接种已经达到7000万人次。中国疾控中心主任高福院士在会上称：“未来新冠与流感叠加流行也将成为疫情防控的重要挑战，在新冠疫苗接种全面推进的过程中，我国流感疫苗接种率长期低下的局面也亟须改观。”（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9010068.d.html</link>
-            <guid>2080276</guid>
-            <pubDate>Sat, 20 Mar 2021 11:36:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际清算银行总经理：各央行有应对通胀的工具】国际清算银行总经理Agustin Carstens表示，在推出前所未有的疫情刺激措施后，全球央行拥有应对通货膨胀率上升的工具。“通货膨胀率可能会激增”，Carstens表示，这将需要包括美联储在内的央行调整货币政策，并更加重视实现充分就业的目标。美联储将“极为警惕”，通货膨胀“不会成为破坏稳定的因素”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9009840.d.html</link>
-            <guid>2080275</guid>
-            <pubDate>Sat, 20 Mar 2021 11:33:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黑龙江省气象台发布暴雪黄色预警信号】黑龙江省气象台2021年3月20日17时45分发布暴雪黄色预警信号：预计未来12小时，伊春东部、哈尔滨东部、鹤岗、佳木斯、双鸭山、七台河、鸡西、牡丹江降雪量将达6毫米以上，降雪同时伴有4～6级风，阵风7级，有风吹雪，局地可能出现雪阻，能见度低，请注意预防。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9009729.d.html</link>
-            <guid>2080274</guid>
-            <pubDate>Sat, 20 Mar 2021 11:32:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[东京奥组委首席执行官武藤敏郎：我们不会公布退款的金额。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9009352.d.html</link>
-            <guid>2080272</guid>
-            <pubDate>Sat, 20 Mar 2021 11:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[东京奥组委首席执行官武藤敏郎：将在4月的五方会议后决定奥运会是否接待国内观众。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9009323.d.html</link>
-            <guid>2080271</guid>
-            <pubDate>Sat, 20 Mar 2021 11:27:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港新增8例新冠肺炎确诊病例】香港特区政府卫生署卫生防护中心20日公布，截至当日零时，香港新增8例新冠肺炎确诊病例，其中有7例本土感染病例。香港累计报告新冠肺炎确诊病例达11371例。这是自3月10日以来，香港单日新增确诊病例数首次回落至个位数。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5849541.d.html</link>
-            <guid>2080270</guid>
-            <pubDate>Sat, 20 Mar 2021 11:20:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
