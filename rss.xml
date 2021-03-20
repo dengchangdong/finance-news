@@ -4,11 +4,40 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 20 Mar 2021 20:26:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 21:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  亚美尼亚总理：军方在纳卡冲突升级期间损失3250人。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9046889.d.html</link>
+            <guid>2080909</guid>
+            <pubDate>Sat, 20 Mar 2021 21:14:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  汇丰银行：尽管瑞郎已经有所走弱，但考虑到瑞郎避险属性以及当前瑞士央行的政策立场，预计瑞郎在未来一段时间内的走势将更加脆弱。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9046440.d.html</link>
+            <guid>2080908</guid>
+            <pubDate>Sat, 20 Mar 2021 21:02:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  智利新增新冠肺炎确诊病例7084例，累计确诊925089例。]]></title>
+            <guid>2080907</guid>
+            <pubDate>Sat, 20 Mar 2021 20:52:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【巴西新冠肺炎治疗药品告急】巴西私立医院协会（ANAHP）发布公开声明，表示目前全国私立医院用于新冠肺炎患者插管治疗的药品紧缺，而联邦政府日前要求制药厂家将现有库存中的相关药品提供给公立医疗系统的举动打乱了药品正常的供应链条，也使私立医疗机构本就紧张的库存状况变得更加危急。根据该组织的声明，从总体上看，全国私立医院用于新冠肺炎插管治疗药品的库存量预计还能够维持4至19天。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5886645.d.html</link>
+            <guid>2080906</guid>
+            <pubDate>Sat, 20 Mar 2021 20:43:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币一度短线下挫近700美元，现报58430美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9045172.d.html</link>
+            <guid>2080905</guid>
+            <pubDate>Sat, 20 Mar 2021 20:26:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国纽约州州长科莫：纽约州发现首例来自巴西的新冠肺炎变异毒株。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5885815.d.html</link>
@@ -567,36 +596,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5853566.d.html</link>
             <guid>2080292</guid>
             <pubDate>Sat, 20 Mar 2021 12:08:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【刘守英：农业需要有一场要素重组的革命】中国人民大学经济学院院长、教授刘守英在3月20日举办的中国发展高层论坛2021年会作主题演讲时表示，讨论乡村振兴越来越热了，而且弥漫着一种浪漫的情怀。但目前中国农村亟需扫除产业发展等方面的障碍。首先是土地的问题，其次是农业经营者的成长，第三是农业要素重组。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9012694.d.html</link>
-            <guid>2080291</guid>
-            <pubDate>Sat, 20 Mar 2021 12:07:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：华尔街正押注数十亿美颜押注电动汽车驱动的锂能源复苏，数据显示，曾因供应过剩而被避开的锂矿公司今年在美洲通过股票发行筹集了近34亿美元，这是自2018年至2020年筹集总额的7倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9012387.d.html</link>
-            <guid>2080290</guid>
-            <pubDate>Sat, 20 Mar 2021 12:04:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：千岛群岛发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9012282.d.html</link>
-            <guid>2080289</guid>
-            <pubDate>Sat, 20 Mar 2021 12:03:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2020年，我国钢铁行业生产、消费、效益均保持增长，今年1-2月继续保持增长态势】中国钢铁工业协会骆铁军副会长出席2021（第十二届）中国钢铁发展论坛指出，在刚刚过去的2020年，我国钢铁行业生产、消费、效益均保持增长，今年1-2月继续保持增长态势。总体看，我国钢铁行业运行稳中有进，高于预期，同时也面临一些问题。对此，钢协进行了研究，将“控产能不增，保有效供给；推铁矿投资，改定价机制；抓超低排放，寻低碳路径；行对标挖潜，稳企业效益”作为今年的重点工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9012221.d.html</link>
-            <guid>2080288</guid>
-            <pubDate>Sat, 20 Mar 2021 12:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿斯利康将在未来数月内供应2.3亿剂新冠肺炎疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5852580.d.html</link>
-            <guid>2080287</guid>
-            <pubDate>Sat, 20 Mar 2021 11:56:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
