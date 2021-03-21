@@ -4,11 +4,58 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sun, 21 Mar 2021 19:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 20:27:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[比特币重回58000美元/枚上方。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikknscsi9196622.d.html</link>
+            <guid>2081753</guid>
+            <pubDate>Sun, 21 Mar 2021 20:22:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【数字经济下期铜金融属性凸显，低碳转型潮将迎新机遇】铜作为大宗商品龙头品种，长期以来，商品属性一直占据主导地位，然而随着宏观经济、流动性和通胀等重要因素影响，同时也兼备金融属性；进入数字经济新时代，铜所兼具的双重属性中，其商品属性有所弱化但金融属性却开始凸显。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikknscsi9196346.d.html</link>
+            <guid>2081691</guid>
+            <pubDate>Sun, 21 Mar 2021 20:16:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  文件草案：德国总理默克尔将在周一与各地区领导人讨论疫情限制措施的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikkntiam6036411.d.html</link>
+            <guid>2081556</guid>
+            <pubDate>Sun, 21 Mar 2021 20:03:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  文件草案：德国总理默克尔希望将德国的疫情限制措施延长至4月18日，感染率高的地区需要实施宵禁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikkntiam6036273.d.html</link>
+            <guid>2081530</guid>
+            <pubDate>Sun, 21 Mar 2021 19:59:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国新增30581例新冠肺炎确诊病例（前一日新增35327例），新增138例死亡病例，累计死亡病例92305例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikkntiam6036184.d.html</link>
+            <guid>2081524</guid>
+            <pubDate>Sun, 21 Mar 2021 19:55:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：媒体结合目击者以及叙利亚反对派消息人士报道称，俄罗斯战机袭击了叙利亚西北部靠近土耳其边境的人口密集区，为今年以来首次。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikknscsi9195275.d.html</link>
+            <guid>2081502</guid>
+            <pubDate>Sun, 21 Mar 2021 19:53:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“碳中和”首部蓝皮书项目及城市监测平台启动】3月21日，由中国人民大学重阳金融研究院主办、中国人民大学生态金融研究中心承办的第二届“碳中和与绿色金融论坛”在中国人民大学召开，论坛上启动了首部“碳中和”蓝皮书项目和首个“碳中和”智慧监测管理平台。（中国证券网）]]></title>
+            <guid>2081470</guid>
+            <pubDate>Sun, 21 Mar 2021 19:45:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[希腊中部拉里萨地区埃拉松市附近发生里氏4.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikknscsi9194413.d.html</link>
+            <guid>2081425</guid>
+            <pubDate>Sun, 21 Mar 2021 19:34:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  欧盟内部市场委员布雷顿：欧洲并不需要俄罗斯的“卫星-V”新冠疫苗。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikknscsi9193873.d.html</link>
@@ -553,54 +600,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9155901.d.html</link>
             <guid>2081131</guid>
             <pubDate>Sun, 21 Mar 2021 10:32:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北京西城区3万名60岁及以上居民顺利接种新冠疫苗。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5997168.d.html</link>
-            <guid>2081129</guid>
-            <pubDate>Sun, 21 Mar 2021 10:30:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  以主动管理的普通股票型基金和偏股混合型基金来看，2020年以来成立的基金当中，首发规模在50亿份以上的共计240只（A/B/C分开算），其中多达145只已经跌破1元面值，占比高达60%。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9155663.d.html</link>
-            <guid>2081128</guid>
-            <pubDate>Sun, 21 Mar 2021 10:30:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国海油去冬今春供暖季天然气供应量创新高，同比增长25%】随着我国北方主要城市供暖季结束，全国冬季供气步入收官阶段。从中国海洋石油集团有限公司获悉，去冬今春供暖季期间，中国海油向国内供应天然气超240亿方，同比增长近25％，创历史供气量新高。数据显示，本轮供暖季期间，中国海油海上天然气供应超60亿方，同比增长11%；进口LNG超170亿方，同比增长26%。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5996470.d.html</link>
-            <guid>2081127</guid>
-            <pubDate>Sun, 21 Mar 2021 10:22:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  以色列总理内塔尼亚胡：以色列不会再实施封锁措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9154730.d.html</link>
-            <guid>2081126</guid>
-            <pubDate>Sun, 21 Mar 2021 10:19:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家卫健委：将大规模开展60岁以上老年人群疫苗接种】国家卫生健康委疾控局一级巡视员贺青华今日介绍，关于60岁以上人群接种，部分地区在充分评估健康状况的情况下和被感染风险的前提下，已经开始为60岁以上身体条件比较好的老人开展接种新冠疫苗。同时，疫苗研发单位也在加快推进研发，在临床试验取得足够安全性、有效性数据以后，我们将大规模开展60岁以上老年人群的疫苗接种。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9154494.d.html</link>
-            <guid>2081125</guid>
-            <pubDate>Sun, 21 Mar 2021 10:16:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【爱迪尔：拟转让所持大盘珠宝全部51%股权】爱迪尔(002740)3月21日晚间公告，鉴于公司已对控股子公司大盘珠宝失去有效控制，自2020年4月起不再纳入合并报表，为提高管理效率，降低经营风险，避免大盘珠宝相关问题给公司带来进一步不利影响，改善公司资金压力情况，公司拟转让持有的大盘珠宝51%股权，交易价格100万元。转让后，公司将不再持有大盘珠宝股权。此次交易最终受让方尚未完全确定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9153458.d.html</link>
-            <guid>2081124</guid>
-            <pubDate>Sun, 21 Mar 2021 10:05:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国迈阿密海滩人群聚集，官方宣布宵禁】美国大学春假持续引发对加速疫情传播的担忧。在佛罗里达州迈阿密海滩，由于人们扎堆聚集、举办聚会等，当地官员担心形势失控，于当地时间20日宣布该市部分地区从当晚8点开始实施宵禁。根据美国约翰斯·霍普金斯大学统计数据，目前佛罗里达州累计确诊病例已经突破200万例，仅次于加利福尼亚州和得克萨斯州。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9153336.d.html</link>
-            <guid>2081123</guid>
-            <pubDate>Sun, 21 Mar 2021 10:04:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信建投期货能源化工分析师：预计原油进一步下跌的空间有限】近期原油在欧洲地区疫情反弹、美元上涨和美国原油库存增加等背景下承压下跌，但后期来看宏观宽松的货币政策、欧洲地区重启疫苗接种、OPEC延长减产以及中东地区紧张的地缘政治局势等均为油价提供支撑，预计原油进一步下跌的空间或有限。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9153231.d.html</link>
-            <guid>2081122</guid>
-            <pubDate>Sun, 21 Mar 2021 10:03:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
