@@ -4,11 +4,435 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Wed, 24 Mar 2021 06:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 07:33:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[上海黄金交易所黄金T+D 3月24日（周三）收盘下跌0.0%报365.0元/克；上海黄金交易所白银T+D 3月24日（周三）收盘下跌1.93%报5179.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7528002.d.html</link>
+            <guid>2086920</guid>
+            <pubDate>Wed, 24 Mar 2021 07:30:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑兑美元GBP/USD持续走低，日跌幅超0.5%，现报1.3677。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7527911.d.html</link>
+            <guid>2086919</guid>
+            <pubDate>Wed, 24 Mar 2021 07:30:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：滴滴还讨论了通过特殊目的收购公司（SPAC）上市的问题，但认为选项不太可行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7527790.d.html</link>
+            <guid>2086918</guid>
+            <pubDate>Wed, 24 Mar 2021 07:30:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：滴滴正考虑在美国上市，其估值至少为1000亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0687223.d.html</link>
+            <guid>2086917</guid>
+            <pubDate>Wed, 24 Mar 2021 07:29:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元兑美元EUR/USD短线走低近20点，现报1.1825。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0685421.d.html</link>
+            <guid>2086915</guid>
+            <pubDate>Wed, 24 Mar 2021 07:25:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国央行：复苏需要政府的刺激和政策协调。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0685324.d.html</link>
+            <guid>2086914</guid>
+            <pubDate>Wed, 24 Mar 2021 07:25:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑兑美元GBP/USD短线下挫逾20点，报1.3685。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0684949.d.html</link>
+            <guid>2086913</guid>
+            <pubDate>Wed, 24 Mar 2021 07:25:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞典内政部长：对来自挪威和丹麦的人的旅行禁令将于3月31日结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7524926.d.html</link>
+            <guid>2086910</guid>
+            <pubDate>Wed, 24 Mar 2021 07:24:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本内阁官房长官加藤胜信：到目前为止，欧盟允许所有疫苗运往日本。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7524808.d.html</link>
+            <guid>2086909</guid>
+            <pubDate>Wed, 24 Mar 2021 07:24:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑兑美元GBP/USD跌至1.37下方，为2月8日以来首次。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0684243.d.html</link>
+            <guid>2086908</guid>
+            <pubDate>Wed, 24 Mar 2021 07:23:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元指数DXY上破92.506，创去年11月24日来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7524022.d.html</link>
+            <guid>2086907</guid>
+            <pubDate>Wed, 24 Mar 2021 07:22:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  印度卫生部：基因组测序显示，印度存在令人担忧的变种新冠病毒和一种新型新冠变种病毒。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7523463.d.html</link>
+            <guid>2086906</guid>
+            <pubDate>Wed, 24 Mar 2021 07:21:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：瑞典放宽了来自丹麦和挪威的新冠入境限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7523277.d.html</link>
+            <guid>2086905</guid>
+            <pubDate>Wed, 24 Mar 2021 07:21:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱沙尼亚总理：爱沙尼亚今夏可能会保持封锁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7522345.d.html</link>
+            <guid>2086904</guid>
+            <pubDate>Wed, 24 Mar 2021 07:19:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【对标小牛、雅迪 哈啰出行下月初正式售卖电动车】记者独家获悉，据业内人士透露，哈啰出行将于4月份正式开始售卖电动车，对标品牌包括小牛、雅迪等。（科创板日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0681957.d.html</link>
+            <guid>2086903</guid>
+            <pubDate>Wed, 24 Mar 2021 07:18:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国债期货全线收涨，10年期主力合约涨0.31%报97.520元，5年期主力合约涨0.14%报99.595元，均创2月3日以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0681352.d.html</link>
+            <guid>2086901</guid>
+            <pubDate>Wed, 24 Mar 2021 07:17:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃及苏伊士运河管理局：这艘集装箱船的两边都有拖船帮助卸货。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0680417.d.html</link>
+            <guid>2086900</guid>
+            <pubDate>Wed, 24 Mar 2021 07:15:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃及苏伊士运河管理局：将不遗余力地确保恢复正常的交通。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7520449.d.html</link>
+            <guid>2086898</guid>
+            <pubDate>Wed, 24 Mar 2021 07:14:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国家卫健委：截至2021年3月23日，全国各地累计报告接种新冠病毒疫苗8284.6万剂次。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0679705.d.html</link>
+            <guid>2086897</guid>
+            <pubDate>Wed, 24 Mar 2021 07:13:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO埃隆·马斯克：今年晚些时候，美国以外地区也可以使用比特币支付。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0678891.d.html</link>
+            <guid>2086895</guid>
+            <pubDate>Wed, 24 Mar 2021 07:12:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南向资金净流出达30亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0678682.d.html</link>
+            <guid>2086894</guid>
+            <pubDate>Wed, 24 Mar 2021 07:11:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO埃隆·马斯克：支付给特斯拉的比特币将保留为比特币，而不是转换为法定货币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0678511.d.html</link>
+            <guid>2086893</guid>
+            <pubDate>Wed, 24 Mar 2021 07:11:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃及苏伊士运河管理局：事故主要是由强风和遮蔽能见度的沙尘暴造成的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0677876.d.html</link>
+            <guid>2086892</guid>
+            <pubDate>Wed, 24 Mar 2021 07:10:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国央行将2021年整体通胀率预期上调至1.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7517984.d.html</link>
+            <guid>2086891</guid>
+            <pubDate>Wed, 24 Mar 2021 07:09:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国央行：通胀预计在2021年中期回到目标水准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7517801.d.html</link>
+            <guid>2086890</guid>
+            <pubDate>Wed, 24 Mar 2021 07:09:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃及苏伊士运河管理局：继续努力营救被困集装箱船。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7517675.d.html</link>
+            <guid>2086889</guid>
+            <pubDate>Wed, 24 Mar 2021 07:09:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[捷克新增10883例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0677056.d.html</link>
+            <guid>2086888</guid>
+            <pubDate>Wed, 24 Mar 2021 07:08:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国内政大臣帕特尔：在疫苗供应问题上，我们必须负责任地共同努力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7517496.d.html</link>
+            <guid>2086887</guid>
+            <pubDate>Wed, 24 Mar 2021 07:08:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【创业板上市委：3家公司3月31日首发上会】深交所3月24日消息，创业板上市委定于3月31日审议开勒环境科技（上海）股份有限公司、厦门嘉戎技术股份有限公司、张家港海锅新能源装备股份有限公司的首发申请。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0676886.d.html</link>
+            <guid>2086886</guid>
+            <pubDate>Wed, 24 Mar 2021 07:08:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【爱施德回应电子烟业务：一号机公司的收入和利润在公司的占比较小】爱施德3月24日在互动平台表示，截至2020年9月30日，一号机公司的收入和利润在公司的占比较小，不会对公司财务及经营情况产生重大影响。注：爱施德近两个交易日连续跌停，爱施德此前曾透露，公司子公司一号机是头部电子烟品牌的一级代理商。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0676566.d.html</link>
+            <guid>2086885</guid>
+            <pubDate>Wed, 24 Mar 2021 07:07:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国央行：政策委员会一致投票维持利率不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0676289.d.html</link>
+            <guid>2086884</guid>
+            <pubDate>Wed, 24 Mar 2021 07:07:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国国家统计局：服装、二手车、游戏、玩具和爱好的下降幅度最大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0676230.d.html</link>
+            <guid>2086882</guid>
+            <pubDate>Wed, 24 Mar 2021 07:07:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：2022年将举行第二次俄罗斯-非洲峰会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7516425.d.html</link>
+            <guid>2086881</guid>
+            <pubDate>Wed, 24 Mar 2021 07:06:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交通运输部：积极推动交通运输碳达峰相关研究工作】交通运输部总规划师兼综合规划司司长汪洋表示，积极推动交通运输碳达峰相关研究工作，促进交通运输全面绿色低碳转型。加强碳排放和污染防治协同控制，加快新能源、清洁能源推广应用，推进营运车船能效提升，强化车辆排放检验与维护制度实施，深入推进实施船舶排放控制区。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7516368.d.html</link>
+            <guid>2086880</guid>
+            <pubDate>Wed, 24 Mar 2021 07:06:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币短线上扬逾800美元，报55496美元/枚，马斯克在推特表示可以使用比特币购买特斯拉。加密货币以太坊短线走高，站上1700美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0675784.d.html</link>
+            <guid>2086879</guid>
+            <pubDate>Wed, 24 Mar 2021 07:06:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国央行：经济继续复苏但风险仍高；经济需要低利率的支持。]]></title>
+            <guid>2086878</guid>
+            <pubDate>Wed, 24 Mar 2021 07:05:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国央行：在合适时准备使用工具。将密切监控泰铢。将保持宽松的货币政策。财政政策应继续支持经济。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7515924.d.html</link>
+            <guid>2086877</guid>
+            <pubDate>Wed, 24 Mar 2021 07:05:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【亚美尼亚宣布解除战时状态】当地时间24日，亚美尼亚议会根据投票结果，宣布解除自2020年9月开始实行的战时状态。去年9月底，由于纳卡地区发生大规模武装冲突，亚美尼亚议会宣布国家进入战时状态。根据本次议会投票结果显示，多数议员投票赞成取消战时状态。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7515626.d.html</link>
+            <guid>2086876</guid>
+            <pubDate>Wed, 24 Mar 2021 07:04:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO埃隆·马斯克：现在可以用比特币购买特斯拉了。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7515434.d.html</link>
+            <guid>2086875</guid>
+            <pubDate>Wed, 24 Mar 2021 07:04:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【收评：三大指数震荡走低沪指跌1.3% 化工板块领跌两市】3月24日消息，三大指数低开，开盘后小幅拉升一度翻红，而后震荡下挫至集体跌逾1%，板块方面，白酒股异动拉升，券商板块持续走高，钢铁板块走弱；午后三大指数低位震荡，燃气板块异动拉升，民航板块持续下行，临近尾盘，北斗导航概念股受利好消息刺激直线拉升。总体来看，资金情绪趋冷，个股跌多涨少，赚钱效应较差。截至收盘，沪指跌1.30%，报3367.06点，成交额达3448亿元；深成指跌1.47%，报13407.35点，成交额达4176亿元；创指跌1.25%，报2634.61点，成交额达1389亿元。]]></title>
+            <guid>2086874</guid>
+            <pubDate>Wed, 24 Mar 2021 07:04:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国内商品期货走势分化 原油主力合约跌超3%】国内商品期货收盘走势分化，能源板块跌幅居前，原油、LPG、低硫燃料油跌超3%，郑棉、沪锡跌超2%，沪银、沪锌、硅铁、PVC、淀粉跌超1%。铁矿、螺纹涨超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7514246.d.html</link>
+            <guid>2086872</guid>
+            <pubDate>Wed, 24 Mar 2021 07:01:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国央行将关键利率维持在0.5%，符合市场预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7514131.d.html</link>
+            <guid>2086871</guid>
+            <pubDate>Wed, 24 Mar 2021 07:01:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国2月CPI环比 0.1%，预期 0.5%，前值 -0.2%。英国2月CPI同比 0.4%，预期 0.8%，前值 0.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0673417.d.html</link>
+            <guid>2086870</guid>
+            <pubDate>Wed, 24 Mar 2021 07:00:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[业内投资机构预计，美联储此后仍将面对美债收益率走高趋势采取旁观姿态，只有在国债收益率升至融资成本令美国财政部难以负担之际，其趋势才会得到直接的遏制，而这意味着后市不排除在未来两年内美联储继续维持零利率的背景下，10年期美债收益率升至3%的可能性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0673107.d.html</link>
+            <guid>2086869</guid>
+            <pubDate>Wed, 24 Mar 2021 07:00:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达70亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0672970.d.html</link>
+            <guid>2086867</guid>
+            <pubDate>Wed, 24 Mar 2021 07:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交通部：推进旅游路、产业路、资源路建设 补齐农村物流短板】交通运输部副部长王志清24日表示，深入实施区域重大战略和区域协调发展战略，全面推进乡村振兴的实施，是“十四五”规划《纲要》所提出的国家重要战略任务。在助力乡村振兴战略的实施方面，进一步巩固和拓展脱贫攻坚成果，推动交通建设项目更多向进村入户倾斜，提升乡镇通三级路、较大人口规模的自然村（组）通硬化路的比例，推进旅游路、产业路、资源路建设，补齐农村物流短板，建设便捷高效的“工业品下乡”和“农产品进城”双向渠道。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0672807.d.html</link>
+            <guid>2086865</guid>
+            <pubDate>Wed, 24 Mar 2021 06:59:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其BIST-100指数企稳，银行指数上涨1.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0672646.d.html</link>
+            <guid>2086864</guid>
+            <pubDate>Wed, 24 Mar 2021 06:59:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达60亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7512891.d.html</link>
+            <guid>2086863</guid>
+            <pubDate>Wed, 24 Mar 2021 06:58:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据意大利《新闻报》：阿斯利康可能在意大利拥有2900万剂用于英国市场的疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7512229.d.html</link>
+            <guid>2086862</guid>
+            <pubDate>Wed, 24 Mar 2021 06:57:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富士新闻网：日本宫城县发现171例新冠肺炎病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7511651.d.html</link>
+            <guid>2086861</guid>
+            <pubDate>Wed, 24 Mar 2021 06:55:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉官网：我们目前只支持美国本土的客户使用比特币付款，将来会考虑开拓新的市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0670013.d.html</link>
+            <guid>2086860</guid>
+            <pubDate>Wed, 24 Mar 2021 06:53:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国传染病学家ODILE LAUNAY：在新冠重症病例中，辉瑞和阿斯利康疫苗具有相同的效率。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7510284.d.html</link>
+            <guid>2086859</guid>
+            <pubDate>Wed, 24 Mar 2021 06:53:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达50亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7510018.d.html</link>
+            <guid>2086858</guid>
+            <pubDate>Wed, 24 Mar 2021 06:52:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交通运输部回应高速磁悬浮列车研发进展】交通运输部回应高速磁悬浮列车研发进展：有关方面在积极开展研发工作，已经构建了研发、试验、试制平台，试验样车也成功试跑。下一阶段还需要加强技术攻关，进一步提升技术成熟度，加强经济性比较、运营可行性分析，具备条件以后，推动项目的规划建设，有关情况会及时向大家通报。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7508942.d.html</link>
+            <guid>2086857</guid>
+            <pubDate>Wed, 24 Mar 2021 06:50:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波兰总理高级助手：波兰周三可能会报告超过29000例新冠肺炎病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0667893.d.html</link>
+            <guid>2086856</guid>
+            <pubDate>Wed, 24 Mar 2021 06:49:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[徐工机械触及跌停，中联重科、三一重工均跌近6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7508084.d.html</link>
+            <guid>2086855</guid>
+            <pubDate>Wed, 24 Mar 2021 06:48:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【台湾货运船卡在苏伊士运河 双向交通全断】台湾中时新闻网等多家台媒今日消息称，台湾长荣海运的超大型货柜轮“长赐”号（Ever Given）23日在从深圳市盐田驶向荷兰鹿特丹的途中，卡在苏伊士运河，导致这条全球数一数二繁忙的运河双向交通大阻塞。对此，台湾交通部门“航港局”称，该船因为昨天遇到42节侧风（相当于9级风）吹袭导致搁浅，已找到8艘拖船试图拖回原航道，但没有成功。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7507990.d.html</link>
+            <guid>2086854</guid>
+            <pubDate>Wed, 24 Mar 2021 06:48:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交通运输部：计划3年内新增铁路里程3000公里、新建机场30个以上】交通运输部副部长王志清介绍，今年1月，交通运输部印发了《关于服务构建新发展格局的指导意见》，也制定了三年行动计划。举措之一是扩大循环规模，大力完善综合交通网络，按照国家综合立体交通网主骨架的布局，畅通综合运输大通道，优化快速网，提升干线网，完善基础网，新增城际铁路和市域铁路运营里程3000公里，新改建高速公路里程2.5万公里，新增民用机场30个以上。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0667081.d.html</link>
+            <guid>2086853</guid>
+            <pubDate>Wed, 24 Mar 2021 06:47:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北斗导航概念股异动，北斗星通从跌近2%直线拉升至涨近9%，华测导航、航天电子、中国卫星、中海达等小幅跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7507323.d.html</link>
+            <guid>2086852</guid>
+            <pubDate>Wed, 24 Mar 2021 06:47:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北斗星通涨超8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7506916.d.html</link>
+            <guid>2086851</guid>
+            <pubDate>Wed, 24 Mar 2021 06:46:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度部长在议会下院提出了印度机场经济监管局(修正案)法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7506786.d.html</link>
+            <guid>2086850</guid>
+            <pubDate>Wed, 24 Mar 2021 06:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交通运输部：计划3年内新增铁路里程3000公里、新建机场30个以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0666165.d.html</link>
+            <guid>2086849</guid>
+            <pubDate>Wed, 24 Mar 2021 06:45:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油日内涨幅达1%，报58.34美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0665985.d.html</link>
+            <guid>2086848</guid>
+            <pubDate>Wed, 24 Mar 2021 06:44:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北斗星通短线走高，现涨4.39%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7506213.d.html</link>
+            <guid>2086847</guid>
+            <pubDate>Wed, 24 Mar 2021 06:44:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中联重科在互动平台表示，2021年一季度农机订单较去年同期订单量大幅上涨。无人驾驶农机装备进展顺利，预计年内实现首批上市销售。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7505609.d.html</link>
+            <guid>2086846</guid>
+            <pubDate>Wed, 24 Mar 2021 06:43:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交通运输部：加快北斗系统在交通运输行业的推广应用】交通运输部总规划师兼综合规划司司长汪洋表示，将加快北斗系统在交通运输行业的推广应用，打造先进实用的运输装备体系，促进集装化、厢式化、标准化装备应用，推广应用自动化码头等设施设备。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0664945.d.html</link>
+            <guid>2086845</guid>
+            <pubDate>Wed, 24 Mar 2021 06:42:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交通运输部：川藏铁路拉萨至林芝段预计在年底开通运营】交通运输部总规划师兼综合规划司司长汪洋表示，川藏铁路目前采取分段建设运营的方式进行推进，其中成都至雅安段已于2018年12月开通运营，拉萨至林芝段预计在2021年底开通运营，雅安至林芝段大概1000公里左右，先期段“两隧一桥”已于2020年底开工建设。川藏铁路，由于沿线地形地质和气候条件都非常复杂，生态环境脆弱，建设里程很长，桥隧比例很高，工程难度极大，建设工期将超过10年。为了支撑川藏铁路的建设，我部大力推进配套公路规划建设，研究建设方案及投资政策，开展了川藏公路提质改造等，目前，相关项目正按计划进度在推进。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0664443.d.html</link>
+            <guid>2086844</guid>
+            <pubDate>Wed, 24 Mar 2021 06:41:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币重新站上55000美元/枚，日内涨幅达1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7503474.d.html</link>
+            <guid>2086841</guid>
+            <pubDate>Wed, 24 Mar 2021 06:39:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交通运输部：高度重视智慧交通发展，着力在四个方面发力】交通运输部总规划师兼综合规划司司长汪洋表示，交通部坚持创新驱动引领，高度重视智慧交通的发展。下一步，着力在四个方面发力：一是推进交通基础设施数字化、网联化、智能化，推动传统基础设施数字化升级改造，推动发展自动驾驶、智能航运等技术发展与试点应用。二是提高运营管理的智慧化水平，打造综合交通运输“数字大脑”。三是推进先进交通装备应用。加快北斗系统在交通运输行业的推广应用。四是夯实科技发展基础，加强基础研究，推广产学研用深度融合，开展交通基础设施长期性能科学观测网的建设。（中国网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0662948.d.html</link>
+            <guid>2086840</guid>
+            <pubDate>Wed, 24 Mar 2021 06:38:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币短线走高1000美元，现报54745美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7502829.d.html</link>
+            <guid>2086838</guid>
+            <pubDate>Wed, 24 Mar 2021 06:37:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【飞天茅台终端成交价上浮 散瓶价格已超2600元】据经销商透露，目前飞天茅台终端市场价格正在上浮，目前已经上涨20元，预计后续终端成交价格将继续上涨。根据公开数据显示，近一周2021年飞天茅台行情价几乎并未出现明显波动。不过，行情价并不代表终端实际成交价格。据知情人士透露，目前飞天茅台散瓶价格已超过2600元。且当期的茅台酒几乎售罄，预计下一周期的茅台酒上货后，茅台酒终端市场价格会上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0662140.d.html</link>
+            <guid>2086837</guid>
+            <pubDate>Wed, 24 Mar 2021 06:37:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[纳指期货涨0.20%，道指期货跌0.08%，标普500指数期货跌0.04%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0661685.d.html</link>
@@ -180,432 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0648092.d.html</link>
             <guid>2086803</guid>
             <pubDate>Wed, 24 Mar 2021 06:06:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蔚来：2021年3月24日凌晨3:16，苏州交付中心换电站，随着一辆ES6换电完成，蔚来用户累计换电超过200万次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7487857.d.html</link>
-            <guid>2086802</guid>
-            <pubDate>Wed, 24 Mar 2021 06:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拜登将出席欧盟视频峰会，预计将谈及美欧关系、疫苗、气候等】欧盟将于3月25日举行视频峰会，美国总统拜登受邀参加，预计将谈及美欧合作的前景，重建美欧关系。白宫在一份声明中说，拜登“将与欧盟领导人接触，希望重振美欧关系，共同努力抗击疫情、应对气候变化、深化贸易和投资关系。此外，他还会谈及中国和俄罗斯相关话题。”据《卫报》报道，新冠疫苗是此次欧盟领导人讨论的关键议题，包括疫苗的供应和分发问题。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0647396.d.html</link>
-            <guid>2086801</guid>
-            <pubDate>Wed, 24 Mar 2021 06:05:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：丰田汽车(TM.N)将收购五十铃3900万股股份，占5.02%投票权。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7487085.d.html</link>
-            <guid>2086800</guid>
-            <pubDate>Wed, 24 Mar 2021 06:04:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海细胞治疗集团完成D1轮近5亿元融资】中国细胞治疗全产业链企业上海细胞治疗集团有限公司完成D1轮近5亿元融资。本轮融资由九洲创投、盛石长三角基金、建银国际联合投资，老股东海尔资本继续加码。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7486254.d.html</link>
-            <guid>2086799</guid>
-            <pubDate>Wed, 24 Mar 2021 06:02:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日经225指数收跌2%，报28405.52点。日本东证指数收跌2.2%，报1928.58点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0645557.d.html</link>
-            <guid>2086797</guid>
-            <pubDate>Wed, 24 Mar 2021 06:01:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本东京新增420例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0645296.d.html</link>
-            <guid>2086796</guid>
-            <pubDate>Wed, 24 Mar 2021 06:01:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[种业股异动攀升，西部牧业涨超6%，神农科技、登海种业、天山生物短线走高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7485581.d.html</link>
-            <guid>2086795</guid>
-            <pubDate>Wed, 24 Mar 2021 06:00:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[迪拜官员：阿联酋第12届联邦政府财政部长兼迪拜副酋长谢赫·哈姆丹·本·拉希德·阿勒马克图姆去世。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7485029.d.html</link>
-            <guid>2086791</guid>
-            <pubDate>Wed, 24 Mar 2021 05:59:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美银证券：上调招行目标价至35.4港元，评级跑输大市 。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7484549.d.html</link>
-            <guid>2086789</guid>
-            <pubDate>Wed, 24 Mar 2021 05:58:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美元兑人民币离岸价刷新3月9日以来高位至6.5283，日内涨幅扩大到0.14%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0644016.d.html</link>
-            <guid>2086788</guid>
-            <pubDate>Wed, 24 Mar 2021 05:58:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2020年索尼领跑智能手机图像传感器市场】Strategy Analytics手机元件技术服务（HCT）最新研报称，2020年，全球智能手机图像传感器市场总收益为150亿美元。索尼以46%的收益份额成为智能手机图像传感器市场的第一名，紧随其后的是三星LSI和OmniVision Technologies。前三名供应商在全球智能手机图像传感器市场占据近85%的收益份额。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7483818.d.html</link>
-            <guid>2086787</guid>
-            <pubDate>Wed, 24 Mar 2021 05:57:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【浙大网新子公司网新恩普中标安徽省医疗保障信息平台建设工程应用项目】浙大网新子公司网新恩普成功中标安徽省医疗保障信息平台建设工程应用子系统项目。该项目通过整合利用信息化监测技术、大数据分析决策技术等手段，实现对医保基金的立体监管和全程智能监控，确保全省医保资金使用高效合理、安全可控。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0642619.d.html</link>
-            <guid>2086786</guid>
-            <pubDate>Wed, 24 Mar 2021 05:55:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  伊斯坦布尔证券交易所：将BIST 50指数的卖空提价规则延长至3月24日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7481843.d.html</link>
-            <guid>2086785</guid>
-            <pubDate>Wed, 24 Mar 2021 05:53:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[民航板块大跌，春秋航空跌近9%，华夏航空、吉祥航空、中国国航、南方航空、东方航空等多股跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0641550.d.html</link>
-            <guid>2086784</guid>
-            <pubDate>Wed, 24 Mar 2021 05:53:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乳业板块拉升走高，一鸣食品、李子园拉升涨停，熊猫乳品涨超8%，西部牧业、庄园牧场、燕塘乳业、天润乳业等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0641470.d.html</link>
-            <guid>2086783</guid>
-            <pubDate>Wed, 24 Mar 2021 05:52:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沪深两市成交额突破6000亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7481610.d.html</link>
-            <guid>2086782</guid>
-            <pubDate>Wed, 24 Mar 2021 05:52:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  汇丰：将腾讯音乐目标价从30美元上调至35美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7481270.d.html</link>
-            <guid>2086781</guid>
-            <pubDate>Wed, 24 Mar 2021 05:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[
-【百度昆仑芯片业务完成独立融资，投后估值约130亿元】百度昆仑芯片业务完成了独立融资协议的签署，投后估值约130亿元人民币。领投方为CPE源峰，跟投方为IDG资本、君联资本、元禾璞华。正在研发中的百度昆仑2将于2021年下半年实现量产，其性能比百度昆仑1再提升3倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7481063.d.html</link>
-            <guid>2086780</guid>
-            <pubDate>Wed, 24 Mar 2021 05:51:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【总投资超35亿元 东北地区首个大型风电装备基地开建】近日，由浙江运达风电股份有限公司和协合新能源有限公司合作建设的哈尔滨风力发电机组装备制造基地项目，在哈尔滨市平房区正式开工建设，该项目建成后可实现50万千瓦风电机组的年生产能力，年发电量可达15亿千瓦时，年发电收益可达8亿元,将成为东北地区首个大型风电产业装备基地。（黑龙江日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7480956.d.html</link>
-            <guid>2086779</guid>
-            <pubDate>Wed, 24 Mar 2021 05:51:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[菲律宾央行行长迪奥克诺：货币政策将继续支持经济活动，以确保持续的复苏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0640107.d.html</link>
-            <guid>2086778</guid>
-            <pubDate>Wed, 24 Mar 2021 05:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  汇丰：将虎牙目标价从25.6美元上调至28.8美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0639785.d.html</link>
-            <guid>2086777</guid>
-            <pubDate>Wed, 24 Mar 2021 05:49:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行同意以7.5亿美元的价格将其企业信托服务业务出售给澳大利亚Computershare。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7479261.d.html</link>
-            <guid>2086776</guid>
-            <pubDate>Wed, 24 Mar 2021 05:47:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行据悉计划重建亚洲股票资本市场业务，计划雇用10至12位银行家。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0638713.d.html</link>
-            <guid>2086775</guid>
-            <pubDate>Wed, 24 Mar 2021 05:46:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【时代中国发布2020年业绩：前瞻性布局支撑高质量发展】2020年时代中国保持稳健发展，合同销售额达1003.8亿，首破千亿，同比增长28%。已拥有城市更新项目超160个，潜在总建面约5337万平方米，在行业内处于领先地位。时代中国融资成本持续下降，区域布局更加完善，土储规模优质充沛，实现了高质量发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7477817.d.html</link>
-            <guid>2086774</guid>
-            <pubDate>Wed, 24 Mar 2021 05:44:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  菲律宾央行行长：CPI、经济增长前景将影响菲律宾央行退出宽松策略。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0636748.d.html</link>
-            <guid>2086772</guid>
-            <pubDate>Wed, 24 Mar 2021 05:43:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  丰田汽车和五十铃计划相互投资，分别获取对方的股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0636486.d.html</link>
-            <guid>2086771</guid>
-            <pubDate>Wed, 24 Mar 2021 05:42:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银保监会：分类施策支持民营企业健康发展】银保监会将进一步完善制度举措，重点推进政策落实，分类施策支持民营企业健康发展。银保监会对先进制造业、战略性产业和产业链供应链自主可控的民营科技型企业，鼓励银行保险机构大幅增加中长期资金支持，积极发展科技保险，持续改进科技创新金融服务，支持关键核心技术攻坚、基础研究、成果转化，支持创新无形资产的质押融资产品。对于暂时遇到困难的民营企业，引导银行保险机构按照市场化、法治化的原则，“一企一策”采取支持处置措施，着力化解企业的流动性风险。（中证网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0635555.d.html</link>
-            <guid>2086770</guid>
-            <pubDate>Wed, 24 Mar 2021 05:41:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[家乐福同意以11亿欧元的价格从沃尔玛及Advent手中收购Grupo Big。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0633379.d.html</link>
-            <guid>2086769</guid>
-            <pubDate>Wed, 24 Mar 2021 05:37:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【辉瑞称一款口服新冠治疗药物已进入临床试验】辉瑞在其官网发布消息称，口服新冠治疗药物PF-07321332已经进入1b 期临床试验阶段，这是全球首个进入临床试验的口服新冠治疗药物。辉瑞方面表示，迄今为止进行的体外研究表明，PF-07321332是一种可以有效对抗新冠病毒活性的蛋白酶抑制剂。目前已经在美国进行Ⅰ期临床试验，给健康成年人用药，以评估药物安全性和耐受性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7473430.d.html</link>
-            <guid>2086768</guid>
-            <pubDate>Wed, 24 Mar 2021 05:37:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北向资金净流入超40亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0632337.d.html</link>
-            <guid>2086767</guid>
-            <pubDate>Wed, 24 Mar 2021 05:36:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  台湾加权指数收盘下跌145.47点，跌幅0.9%，报16032.12点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0631940.d.html</link>
-            <guid>2086766</guid>
-            <pubDate>Wed, 24 Mar 2021 05:35:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度延长国际商业航班禁飞令至4月30日】 印度民航局在23日发布的声明中表示，政府决定将继续延长抵离印度的所有国际商业航班的禁令，直至4月30日23时59分。该禁令不包括国际货运航班以及特许批准的包机服务等。此前，该国的国际商业航班禁令已被延长至3月31日。根据印度民航局的最新数据，目前印度与27个国家开通了特定航线的定期航班服务。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0631737.d.html</link>
-            <guid>2086765</guid>
-            <pubDate>Wed, 24 Mar 2021 05:34:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：由于恶劣天气原因集装箱船阻塞了新运河，埃及苏伊士运河管理局已将交通改道至旧运河。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7471555.d.html</link>
-            <guid>2086764</guid>
-            <pubDate>Wed, 24 Mar 2021 05:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股中资券商股午后走弱，恒投证券跌超13%,中国光大控股、信达国际控股、东方证券等跟跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7471312.d.html</link>
-            <guid>2086763</guid>
-            <pubDate>Wed, 24 Mar 2021 05:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  沪镍主力合约跌超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7470711.d.html</link>
-            <guid>2086762</guid>
-            <pubDate>Wed, 24 Mar 2021 05:31:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  宁德时代跌超6%再创年内新低，比亚迪、赣锋锂业、天齐锂业纷纷下滑。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7470216.d.html</link>
-            <guid>2086761</guid>
-            <pubDate>Wed, 24 Mar 2021 05:30:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【消息称小米将在韩国推出中端智能手机 扩大市场份额】据韩媒报道，小米公司昨日表示，将在韩国推出新的中端智能手机，有消息称LG电子可能退出智能手机业务，小米试图扩大其市占率。业内观察家表示，小米今年可能会加大在韩国市场的力度，以期从LG手中取得市场份额。（科创板日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7467302.d.html</link>
-            <guid>2086760</guid>
-            <pubDate>Wed, 24 Mar 2021 05:25:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  南向资金净流出达20亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7466926.d.html</link>
-            <guid>2086759</guid>
-            <pubDate>Wed, 24 Mar 2021 05:24:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英镑兑美元小幅下探，刷新2月9日以来新低至1.3703，跌幅约0.36%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7466824.d.html</link>
-            <guid>2086758</guid>
-            <pubDate>Wed, 24 Mar 2021 05:24:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本财务大臣麻生太郎： 仅靠放松货币政策很难重振经济 ；除非企业将更多利润转移给员工，否则消费不会回升。]]></title>
-            <guid>2086757</guid>
-            <pubDate>Wed, 24 Mar 2021 05:23:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本财务大臣麻生太郎：必须寻求将全国平均最低工资从目前的900日元提高到1000日元左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7465601.d.html</link>
-            <guid>2086756</guid>
-            <pubDate>Wed, 24 Mar 2021 05:22:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日经225指数日内跌幅扩大至2.02%，报28410.67点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0624667.d.html</link>
-            <guid>2086755</guid>
-            <pubDate>Wed, 24 Mar 2021 05:21:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒生科技指数跌破8000点，比亚迪电子跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7464596.d.html</link>
-            <guid>2086753</guid>
-            <pubDate>Wed, 24 Mar 2021 05:20:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股农夫山泉盘中跌5.11%，现报39.95港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7464188.d.html</link>
-            <guid>2086752</guid>
-            <pubDate>Wed, 24 Mar 2021 05:19:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  澳大利亚S&P/ASX200指数收盘上涨33.40点，涨幅0.50%，报6778.80点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7464029.d.html</link>
-            <guid>2086751</guid>
-            <pubDate>Wed, 24 Mar 2021 05:19:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  杰富瑞：将斗鱼目标价从17.5美元下调至15.4美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0622303.d.html</link>
-            <guid>2086750</guid>
-            <pubDate>Wed, 24 Mar 2021 05:17:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【农业农村部：3年时间全面完成第三次全国农作物种质资源普查与收集行动】农业农村部日前印发关于开展全国农业种质资源普查的通知及全国农业种质资源普查总体方案（2021-2023年），决定在全国范围内开展农作物、畜禽、水产种质资源普查。用3年时间全面完成第三次全国农作物种质资源普查与收集行动，实现对全国2323个农业县（市、区）的全覆盖；启动并完成第三次全国畜禽遗传资源普查，实现对全国所有行政村的全覆盖；启动并完成第一次全国水产养殖种质资源普查，实现对全国所有养殖场（户）主要养殖种类的全覆盖。通过此次普查，摸清资源家底，有效收集和保护珍稀濒危资源。（新华视点）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0622102.d.html</link>
-            <guid>2086749</guid>
-            <pubDate>Wed, 24 Mar 2021 05:16:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[杰富瑞：将虎牙目标价从30美元下调至26美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0621762.d.html</link>
-            <guid>2086748</guid>
-            <pubDate>Wed, 24 Mar 2021 05:15:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白酒股午后下滑，贵州茅台、五粮液、泸州老窖翻绿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0621385.d.html</link>
-            <guid>2086747</guid>
-            <pubDate>Wed, 24 Mar 2021 05:15:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[百融云创上市价为31.8元，属招股价范围26.5元至31.8元的上限，发售1.24亿股，集资39.4亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0621291.d.html</link>
-            <guid>2086746</guid>
-            <pubDate>Wed, 24 Mar 2021 05:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【节能风电：南方非限电区域风电场陆续投产 “弃风限电”状况会逐步改善】节能风电(601016)在互动平台表示，目前，“弃风限电”仍是影响公司经营业绩最主要的因素，多集中发生在公司新疆区域、甘肃区域和内蒙区域的风电场。随着公司战略布局的调整，南方非限电区域风电场的陆续投产，这一状况会得到逐步的改善。同时，这些限电区域由于绿色电力输送通道的加快建设和公司参与当地的多边交易销售电量的提高，也极大地改善了“弃风限电”较为严重的局面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7461665.d.html</link>
-            <guid>2086745</guid>
-            <pubDate>Wed, 24 Mar 2021 05:14:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本央行行长黑田东彦：日本金融体系没有面临迫在眉睫的不稳定风险，但因认为低利率环境将继续，日本央行已采取措施缓解银行部门的压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7460935.d.html</link>
-            <guid>2086744</guid>
-            <pubDate>Wed, 24 Mar 2021 05:12:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本央行行长黑田东彦：预计宽松货币政策将持续很长一段时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7460398.d.html</link>
-            <guid>2086743</guid>
-            <pubDate>Wed, 24 Mar 2021 05:11:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福莱特在互动平台表示，截止3月9日3.2mm和2mm光伏玻璃的销售价格分别40元/平方米和32.5元/平方米。公司光伏玻璃目前在产产能为8600t/d。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7460201.d.html</link>
-            <guid>2086742</guid>
-            <pubDate>Wed, 24 Mar 2021 05:11:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[燃气板块午后异动拉升，重庆燃气涨停，成都燃气、皖天然气等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7460066.d.html</link>
-            <guid>2086741</guid>
-            <pubDate>Wed, 24 Mar 2021 05:10:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本央行行长黑田东彦：日本金融体系总体上保持稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0619137.d.html</link>
-            <guid>2086740</guid>
-            <pubDate>Wed, 24 Mar 2021 05:10:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国人保：2021年权益资产配置将控制比例 重点关注受益于经济复苏、盈利空间大的公司】中国人保业绩发布会上，相关负责人表示，原本预计A股市场今年有较好投资机会，但考虑到优质股票2020年有明显提升，而现在货币市场边际收紧，整个市场波动性会加大对行业影响。因此，2021年中国人保将权益类资产配置比例控制在可承受风险限额之内，同时重点把握结构性投资机会，特别关注受益于经济复苏、盈利空间大的公司以及具备长期成长空间的优质标的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0619087.d.html</link>
-            <guid>2086739</guid>
-            <pubDate>Wed, 24 Mar 2021 05:10:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【广发证券：券商板块反弹基于低估值对潜在利好的敏感度提升】广发证券认为券商板块估值水平已经处于历史性低位，机构持仓也处于历史低位，抱团股虹吸效应减弱，券商低估值吸引部分资金流入。公募基金将成为中国财富管理最佳赛道，券商是公募的主要股东，如果未来基金公司公开上市，该业务将重新估值，全年日均成交量仍有望维持在6000亿以上，投资者可关注受益公募业务壮大和业务稳健均衡的公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0618817.d.html</link>
-            <guid>2086738</guid>
-            <pubDate>Wed, 24 Mar 2021 05:09:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北美半导体设备制造商2月销售额达31.4亿美元，连续两月创新高】国际半导体产业协会（SEMI）的数据显示，2021年2月份，北美半导体设备制造商的销售额达到31.4亿美元，与2021年1月份（30.4亿美元）相比，环比增长3.2%，与2020年2月份（23.7亿美元）相比，同比增长32%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7459264.d.html</link>
-            <guid>2086737</guid>
-            <pubDate>Wed, 24 Mar 2021 05:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本央行行长黑田东彦：日本央行现在没有考虑如何处置所持ETF。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7459068.d.html</link>
-            <guid>2086736</guid>
-            <pubDate>Wed, 24 Mar 2021 05:09:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本央行行长黑田东彦：实现2%的目标需要时间，尚未考虑退出宽松政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0617820.d.html</link>
-            <guid>2086735</guid>
-            <pubDate>Wed, 24 Mar 2021 05:07:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【铝业股继续下跌 业内人士：市场对传闻反应过于情绪化】有消息称，国储试图抛售之前收储的铝锭，已与国内铝业巨头探讨实施的可能性。传言所涉数量约为50万-80万吨，但具体详细方案尚未明确。国信研究资咨询部主管顾冯达认为，面对突发国储巨量抛铝传闻，市场的反应过于情绪化。广州期货研究员黎俊表示，综合来看，虽然抛储传闻短期对铝价节奏造成一定影响，但铝基本面依旧向好，下方存在一定支撑，短期预计铝价依然震荡偏强。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0617531.d.html</link>
-            <guid>2086734</guid>
-            <pubDate>Wed, 24 Mar 2021 05:07:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国10年期国债收益率日内跌幅达到2.06%，报1.587。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7457817.d.html</link>
-            <guid>2086733</guid>
-            <pubDate>Wed, 24 Mar 2021 05:06:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[复星医药午后跳水跌6.5%，公司午间公告称出于谨慎态度，疫苗暂停于中国香港、澳门使用并作封存。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0616896.d.html</link>
-            <guid>2086732</guid>
-            <pubDate>Wed, 24 Mar 2021 05:05:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳洲股市指标S&P/ASX200指数周三收盘上涨0.57%，报6784.00点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0615950.d.html</link>
-            <guid>2086731</guid>
-            <pubDate>Wed, 24 Mar 2021 05:03:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国10年期国债期货上涨0.3％至97.510。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7456524.d.html</link>
-            <guid>2086730</guid>
-            <pubDate>Wed, 24 Mar 2021 05:03:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[复星医药午后快速下探，跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0615800.d.html</link>
-            <guid>2086729</guid>
-            <pubDate>Wed, 24 Mar 2021 05:03:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沪深两市成交额突破5000亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7455348.d.html</link>
-            <guid>2086728</guid>
-            <pubDate>Wed, 24 Mar 2021 05:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国人保集团董事长罗熹：风险事件反应内部治理问题 将强力推动完善公司内部治理体系】中国人保集团董事长罗熹今日在业绩发布会上表示，2020年人保发生了几起风险案件，假黄金案及最近的假保单案件，都反应了公司内部治理存在问题。人保不回避问题，2021年将强力推动公司内部治理体系完善。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7454198.d.html</link>
-            <guid>2086727</guid>
-            <pubDate>Wed, 24 Mar 2021 04:58:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陆正耀过亿股权被冻结】近日，陆正耀被冻结股权，冻结股权标的企业为神州优车股份有限公司，执行法院为北京市第一中级人民法院，被冻结股权2.7亿人民币，冻结期限至2024年3月。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0613305.d.html</link>
-            <guid>2086726</guid>
-            <pubDate>Wed, 24 Mar 2021 04:57:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深科技迎来多家机构调研：合肥沛顿存储芯片封测项目将于12月投产】深科技(000021)3月23日迎来海通证券、万和证券、招商证券等多家机构调研。据公司透露，目前合肥沛顿项目建设进展顺利，一期厂房将于今年第四季度完成建设，并于12月投入生产，届时可有效配合上游厂商最新的业务发展进度。合肥沛顿项目是深科技与地方政府共同投资建设的集成电路先进封测和模组制造项目，总投资金额100亿元，主要为国内自主存储半导体龙头提供封装和测试业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7453197.d.html</link>
-            <guid>2086725</guid>
-            <pubDate>Wed, 24 Mar 2021 04:56:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
