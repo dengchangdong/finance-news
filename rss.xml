@@ -4,11 +4,53 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 03 Apr 2021 21:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 22:30:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【索马里首都发生自杀式炸弹袭击】当地时间4月3日，索马里政府官员称，索马里首都摩加迪沙3日晚发生一起自杀式炸弹袭击事件，造成包括袭击者在内6人死亡、4人受伤。袭击事件发生在当晚7时，一名自杀式袭击者在摩加迪沙尚加尼区一家餐厅外引爆身上炸弹，死者中还包括一名婴儿。目前尚无任何组织宣称制造了此次袭击事件。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa5930256.d.html</link>
+            <guid>2103845</guid>
+            <pubDate>Sat, 03 Apr 2021 22:27:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西新冠肺炎确诊病例达1295万例，里约州死亡病例创新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk3067347.d.html</link>
+            <guid>2103844</guid>
+            <pubDate>Sat, 03 Apr 2021 22:18:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国财政部长将2021年GDP增速预期从6％下调至5％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa5918618.d.html</link>
+            <guid>2103843</guid>
+            <pubDate>Sat, 03 Apr 2021 22:10:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[罗马尼亚新增新冠肺炎确诊病例5498例，累计确诊超97万例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk3051455.d.html</link>
+            <guid>2103839</guid>
+            <pubDate>Sat, 03 Apr 2021 21:55:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国密歇根州新冠肺炎病例数飙升 专家称激增状况恐在美国各地重演】据多家美国媒体4月3日报道，尽管美国新冠疫情整体情况有所缓解，但密歇根州疫情正处于新一轮暴发中，3日报告的单日新增病例数刷新纪录，达到了8413例，新增死亡病例达57例，新冠病毒检测的阳性比率达17.6%。专家警告称，随着各州放宽限制，加之迎来传统假期等因素，密歇根州新冠肺炎确诊病例激增情况可能会在美国各地重演。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk3049467.d.html</link>
+            <guid>2103838</guid>
+            <pubDate>Sat, 03 Apr 2021 21:53:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世卫组织：全球累计新冠确诊病例达129902402例】世卫组织网站最新数据显示，截至欧洲中部时间3日19时01分(北京时间4日1时01分)，全球确诊病例较前一日增加662690例，达到129902402例；死亡病例增加11306例，达到2831815例。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa5889746.d.html</link>
+            <guid>2103837</guid>
+            <pubDate>Sat, 03 Apr 2021 21:28:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿根廷总统费尔南德斯确诊新冠肺炎】当地时间4月3日下午，据阿根廷总统府医务室通报，阿根廷总统费尔南德斯新冠病毒检测结果呈阳性，确诊新冠肺炎。费尔南德斯当天凌晨通过社交媒体宣布自己发低烧，新冠抗原检测为阳性，目前正在官邸进行自我隔离，身体感觉良好。他于今年1月接种了第一剂新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk3032352.d.html</link>
+            <guid>2103836</guid>
+            <pubDate>Sat, 03 Apr 2021 21:28:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国新冠肺炎确诊病例超过3066万例】根据美国约翰斯·霍普金斯大学（Johns Hopkins University）于美国东部时间4月3日16时20分（北京时间4日4时20分）统计的数据显示，美国新冠肺炎累计确诊病例已超过3066万例，达到30663748例。累计死亡病例超过55.4万例，达到554739例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa5883658.d.html</link>
@@ -560,47 +602,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5463372.d.html</link>
             <guid>2102953</guid>
             <pubDate>Sat, 03 Apr 2021 11:09:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  西太银行：继续认为做多美元兑日元USD/JPY是强势美元背景下的首选方法，预计美元的强势能在第二季度持续。美元兑日元USD/JPY有望测试112.50水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5457803.d.html</link>
-            <guid>2102951</guid>
-            <pubDate>Sat, 03 Apr 2021 11:01:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币上涨1.1%，至59337美元；以太坊创下历史新高，现报2109美元。]]></title>
-            <guid>2102950</guid>
-            <pubDate>Sat, 03 Apr 2021 11:01:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国盛证券：A股估值持续处在低位 15个全球重要指数中上证指数估值排倒数第二】国盛证券策略团队最新研究指出，全球股市估值小幅上行，A股估值持续处在低位。横向来看，A股估值持续处于全球低位水平，15个全球重要指数中上证指数估值处于倒数第二。截止至4月1日英国富时UKX和纳斯达克估值靠前，分别为93.15和81.43；越南证交所、上证指数和香港恒生估值靠后，分别为18.86，15.34，和15.00。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2593647.d.html</link>
-            <guid>2102947</guid>
-            <pubDate>Sat, 03 Apr 2021 10:51:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南非航空再度拖欠员工薪水 南非国家工会介入】南非国家工会3日证实：尽管目前正处于重组阶段，但即将迎来“新生”的南非航空公司(SAA)依旧未能如期向员工支付此前拖欠的薪水。对此，南非国家工会声称，由于南非政府层面目前尚未公布针对南非航空员工的有关救助计划，因此南非国家工会计划采取必要的法律行动，指派律师帮助南非航空员工维护正当权益。此前，南非航空员工已经组织相关抗议游行活动。截至记者发稿时，南非航空尚未就此事作出回应。(中新网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5448085.d.html</link>
-            <guid>2102946</guid>
-            <pubDate>Sat, 03 Apr 2021 10:47:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：最后一批受阻船只将于今日通过苏伊士运河】苏伊士运河管理局局长乌萨马·拉比耶当地时间3日说，最后一批因巨型货轮搁浅而行程受阻的船只将在3日通过运河。据报道，拉比耶说，3日当天将有85艘船从两个方向通过运河，包括“长赐号”集装箱货轮搁浅期间被迫排队的422艘船中最后61艘尚未通过运河的船只。（参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5442131.d.html</link>
-            <guid>2102945</guid>
-            <pubDate>Sat, 03 Apr 2021 10:39:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京将从今年12月起实施“国四非道路机械标准”】北京市生态环境局2日晚表示，自2021年12月1日起，在北京市生产、销售的560kW以下（含560kW）的非道路移动机械及其装用的柴油机须满足“国四非道路机械标准”要求。北京市生态环境局表示，从北京市细颗粒物（PM2.5）源解析看，本地排放贡献中移动源污染占比最大，达45%，其中非道路移动机械排放污染占移动源的14%，是北京市移动源排放污染的重要来源之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5440751.d.html</link>
-            <guid>2102944</guid>
-            <pubDate>Sat, 03 Apr 2021 10:37:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗新增新冠肺炎确诊病例11420例 累计确诊1920394例】据伊朗卫生部当地时间4月3日最新消息，过去24小时，伊朗新增新冠肺炎确诊病例11420例，新增死亡病例123例。截至当地时间4月3日中午，伊朗累计新冠肺炎确诊病例1920394例，其中1642418例治愈，62999例死亡，4024例重症。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2580060.d.html</link>
-            <guid>2102943</guid>
-            <pubDate>Sat, 03 Apr 2021 10:32:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
