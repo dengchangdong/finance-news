@@ -4,11 +4,41 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 03 Apr 2021 20:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 21:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国新冠肺炎确诊病例超过3066万例】根据美国约翰斯·霍普金斯大学（Johns Hopkins University）于美国东部时间4月3日16时20分（北京时间4日4时20分）统计的数据显示，美国新冠肺炎累计确诊病例已超过3066万例，达到30663748例。累计死亡病例超过55.4万例，达到554739例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa5883658.d.html</link>
+            <guid>2103835</guid>
+            <pubDate>Sat, 03 Apr 2021 21:19:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【财信研究：二季度利率上行或难歇，商品行情未完待续】财信研究指出，二季度中国实体经济加速修复与金融条件逐步收敛并存是宏观经济运行主旋律，大类资产配置核心逻辑或继续围绕“虚实再平衡”展开。具体到配置上，预计债市短期仍承压，拐点或在二季度之后；A股难有趋势性机会，结构上顺周期跑赢概率更大；大宗商品行情未完待续，但波动大概率有所增加；黄金短期依旧承压，但中长期战略配置价值仍在。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa5868934.d.html</link>
+            <guid>2103834</guid>
+            <pubDate>Sat, 03 Apr 2021 20:58:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据以色列《国土报》：谷歌将在以色列建造数据中心。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk3003600.d.html</link>
+            <guid>2103833</guid>
+            <pubDate>Sat, 03 Apr 2021 20:47:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国地质勘探局：印度洋中洋脊发生5级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa5858219.d.html</link>
+            <guid>2103832</guid>
+            <pubDate>Sat, 03 Apr 2021 20:43:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【海通宏观点评美国3月非农数据：就业恢复超9成 宽松退出在路上】美国当前经济、通胀、就业的总量指标看起来像08、09年时，但主要是疫情防控对服务业的短期压制导致的，一旦防控措施放开，美国经济可能快速恢复至2012、2013年的状态。而且我们认为，美国的失业率现在因为高额失业补助，是被人为抬高的，一旦三季度以后失业补助降低，美国的失业率也会出现历史上最快速度的下行，美联储的宽松措施会更快速度的退出。所以美元和美债利率大概率会维持上行趋势。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa5848881.d.html</link>
+            <guid>2103831</guid>
+            <pubDate>Sat, 03 Apr 2021 20:30:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[克罗地亚新增新冠肺炎确诊病例2234例，累计确诊278650例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk2986764.d.html</link>
@@ -571,36 +601,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2580060.d.html</link>
             <guid>2102943</guid>
             <pubDate>Sat, 03 Apr 2021 10:32:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  菲律宾抗疫工作小组提议将马尼拉封锁措施至少延长一周。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2576979.d.html</link>
-            <guid>2102942</guid>
-            <pubDate>Sat, 03 Apr 2021 10:28:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[菲律宾抗疫工作小组寻求延长在首都马尼拉的封锁措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5434232.d.html</link>
-            <guid>2102941</guid>
-            <pubDate>Sat, 03 Apr 2021 10:27:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大型券商保持强劲的盈利能力 国联证券成为“黑马”】券商年报相继发布，其中，大型机构继续保持强劲的盈利能力，如中信证券去年的代理买卖净收入、代销金融产品收入均稳居行业第一，财富管理业务收入增长108%。国泰君安、兴业证券等头部券商财富管理业务收入也有亮眼表现。而中小券商之中，也有突出重围的“黑马”，如国联证券以获得基金投顾业务试点资格为契机加快财富管理转型，2020年代理买卖证券业务净收入同比上涨40.39％，基金投顾签约资产规模达53.54亿元。（上海证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2576027.d.html</link>
-            <guid>2102939</guid>
-            <pubDate>Sat, 03 Apr 2021 10:26:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银行私行财富规模2020年增加2.46万亿元 总规模预计将超过15万亿 】主要上市银行的2020年报都已披露，财富管理顶端的私行数据，也都一一显露出来。目前已披露的12家大的银行私行规模已达14.56万亿元，2020年增加2.46万亿元。算上尚未披露的，预计总规模将达到或超过15万亿。私行一哥招商银行私行2020年底的规模达到2.77万亿元，继续高速增长，距离3万亿近在咫尺，同比增速达到24.35%，2020年规模增长5436亿元。平安银行私行在2020年进入1万亿俱乐部，达到1.13万亿元，并且2020年继续保持50%以上的增速。目前万亿私行达到6家，四大国有银行、招行、平安银行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5429965.d.html</link>
-            <guid>2102937</guid>
-            <pubDate>Sat, 03 Apr 2021 10:21:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  南非计划从莫桑比克撤离侨民。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5429501.d.html</link>
-            <guid>2102936</guid>
-            <pubDate>Sat, 03 Apr 2021 10:21:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
