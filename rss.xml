@@ -4,11 +4,29 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 03 Apr 2021 18:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 19:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  西班牙新增至少9500例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa5802358.d.html</link>
+            <guid>2103822</guid>
+            <pubDate>Sat, 03 Apr 2021 19:23:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国会大厦袭击警员案最新进展 犯罪嫌疑人为仇恨组织虔诚追随者】美国多家媒体4月3日报道称，开车袭击国会警员的非裔犯罪嫌疑人诺亚·格林（Noah Green）被认定为极端仇恨组织-伊斯兰民族组织（Nation of Islam）虔诚的追随者，生前曾在社交平台上多次发表仇恨言论。据犯罪嫌疑人格林的家属透露，格林长久以来存在心理健康问题，并怀疑和其宗教信仰有关。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk2935609.d.html</link>
+            <guid>2103821</guid>
+            <pubDate>Sat, 03 Apr 2021 19:10:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网自动测定：04月04日02时42分在印尼班达海附近发生6.0级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk2921653.d.html</link>
+            <guid>2103820</guid>
+            <pubDate>Sat, 03 Apr 2021 18:50:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【光大证券：OPEC+增产是对全球石油需求有着更为乐观的预期】光大证券认为，虽然OPEC+在7月将增产超过100万桶/天，但其增产的幅度仍满足不了全球石油产品需求的增加幅度，国际石油市场仍处于供需紧平衡状态。即OPEC+本次增产决议并非是为了压低油价，也并非是对石油市场的利空，而是因为对全球石油需求有着更为乐观的预期。目前油价快速下跌的几率不大，虽然可能有短期的扰动，比如美伊关系的缓和，全球流动性的收缩，个别国家产能的短期增产，但是在全球需求大幅回暖的预期下，供需格局紧张的局面还将持续，全年油价仍将位于55-65美元/桶的中枢位置。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa5772470.d.html</link>
@@ -584,24 +602,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2556494.d.html</link>
             <guid>2102928</guid>
             <pubDate>Sat, 03 Apr 2021 09:59:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天风证券：给予腾讯买入评级 目标价705港元】天风证券最新研究认为，预计腾讯2020-2022年收入为4,813亿元/5,941亿元/7,116亿元，同比增长28%/23%/20%，Non-IFRS归母净利润为1,238亿元/1,567亿元/1,912亿元，同比增长31%/27%/22%，该公司当前市值对应2021-2022年PE分别为30x和25x。考虑短期游戏提供业绩支撑，全球化与重磅产品打开增长空间，金融科技、广告中台化、微信生态商业化提供中长期增长驱动力、腾讯云等企业服务挖掘产业互联网长期价值，结合参考可比公司的估值情况，给予腾讯2022年PE30x，对应目标价705港元，买入评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5413229.d.html</link>
-            <guid>2102927</guid>
-            <pubDate>Sat, 03 Apr 2021 09:57:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰国央行公布数字货币推进时间表 今年将测试零售型数字货币】当地时间4月2日，泰国中央银行公布数字货币推进时间表，并向社会征询对零售型数字货币的意见。根据时间表，泰国央行将在2021—2022年进行零售型数字货币测试。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5411985.d.html</link>
-            <guid>2102926</guid>
-            <pubDate>Sat, 03 Apr 2021 09:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国银保监会关于筹建山西银行股份有限公司的批复 批准山西省五家银行合并重组】中国银保监会对《关于筹建山西银行股份有限公司的请示》批复：同意大同银行、长治银行、晋城银行、晋中银行、阳泉市商业银行合并重组设立山西银行股份有限公司，银行类别为城市商业银行，股东资格由山西银保监局按照有关法律法规审批。（中国银行保险监督管理委员会网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5408674.d.html</link>
-            <guid>2102925</guid>
-            <pubDate>Sat, 03 Apr 2021 09:51:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
