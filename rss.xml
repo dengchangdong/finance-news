@@ -4,11 +4,143 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Mon, 05 Apr 2021 17:52:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Apr 2021 18:43:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国疾控中心：截至4月5日，美国有107515428人至少接种了一剂新冠疫苗，此前为106214924人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7340543.d.html</link>
+            <guid>2106177</guid>
+            <pubDate>Mon, 05 Apr 2021 18:41:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心：截至4月5日，美国已有62392065人完成了新冠疫苗接种的全部流程，此前为61416536人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4484342.d.html</link>
+            <guid>2106176</guid>
+            <pubDate>Mon, 05 Apr 2021 18:41:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 5月原油期货收跌2.80美元，跌幅4.55%，报58.65美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4481840.d.html</link>
+            <guid>2106174</guid>
+            <pubDate>Mon, 05 Apr 2021 18:37:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心：截至昨日，美国累计新冠肺炎死亡病例达554064例，此前为553681例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4481017.d.html</link>
+            <guid>2106173</guid>
+            <pubDate>Mon, 05 Apr 2021 18:36:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心：截至昨日，美国累计新冠肺炎确诊病例达30532965例，此前为30492334例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7336677.d.html</link>
+            <guid>2106172</guid>
+            <pubDate>Mon, 05 Apr 2021 18:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国务卿布林肯：任命GAYLE SMITH为新冠疫情协调员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7335001.d.html</link>
+            <guid>2106171</guid>
+            <pubDate>Mon, 05 Apr 2021 18:33:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  乌克兰总统泽连斯基：俄罗斯最近的行动对乌克兰安全构成严重挑战。 与英国首相通了电话，认为乌克兰在面对问题时并不孤单。 加入北约的行动计划是当务之急。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4477841.d.html</link>
+            <guid>2106170</guid>
+            <pubDate>Mon, 05 Apr 2021 18:32:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国务卿布林肯：如果全球无法结束新冠疫情，美国国内也无法结束新冠疫情。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7332717.d.html</link>
+            <guid>2106169</guid>
+            <pubDate>Mon, 05 Apr 2021 18:30:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：俄罗斯政府将俄罗斯2021年的天然气产量预测从7501亿立方米下调至6983亿立方米，将2022年的天然气产量预测7581亿立方米下调至7431亿立方米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4476447.d.html</link>
+            <guid>2106168</guid>
+            <pubDate>Mon, 05 Apr 2021 18:30:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：俄罗斯政府将俄罗斯2021年的石油产量预测从5.6亿吨下调至5.17亿吨，将2022年的石油产量预测从5.58亿吨下调至5.48亿吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4475326.d.html</link>
+            <guid>2106167</guid>
+            <pubDate>Mon, 05 Apr 2021 18:29:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：美国正在与阿斯利康合作，寻找生产新冠病毒疫苗的其他设施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4472037.d.html</link>
+            <guid>2106166</guid>
+            <pubDate>Mon, 05 Apr 2021 18:24:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据英国媒体：英国卫生监管机构考虑一项提案，限制年轻人使用阿斯利康疫苗，因为担心出现血栓问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4469952.d.html</link>
+            <guid>2106165</guid>
+            <pubDate>Mon, 05 Apr 2021 18:21:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：英特尔首席执行官将出席拜登政府在4月12日举行的会议，讨论半导体供应链问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4469243.d.html</link>
+            <guid>2106164</guid>
+            <pubDate>Mon, 05 Apr 2021 18:20:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【又一批中国新冠疫苗运抵塞尔维亚】又一批中国新冠疫苗5日运抵塞尔维亚首都贝尔格莱德。塞总理布尔纳比奇和中国驻塞大使陈波到机场迎接。布尔纳比奇在机场对中国向塞尔维亚提供又一批新冠疫苗表示感谢。她说，这批疫苗送达再次验证了两国的伙伴关系。得益于中方的宝贵支持和帮助，大规模疫苗接种工作正在塞尔维亚稳步推进，这对塞防疫工作至关重要。陈波说，中国正有序展开大规模疫苗接种，国内疫苗需求巨大。中方秉持人类命运共同体理念，希望中国疫苗能够为塞免疫屏障建设做出贡献。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4468686.d.html</link>
+            <guid>2106163</guid>
+            <pubDate>Mon, 05 Apr 2021 18:20:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：白宫将发布有关就业计划的简报。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4467370.d.html</link>
+            <guid>2106162</guid>
+            <pubDate>Mon, 05 Apr 2021 18:18:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：俄罗斯反对派人士纳瓦尔尼被转移到医疗机构，以对其可能患上的呼吸道疾病进行治疗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7323787.d.html</link>
+            <guid>2106161</guid>
+            <pubDate>Mon, 05 Apr 2021 18:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【郑商所全力提升服务实体经济水平，“产业基地”已成期货与现货市场的一座桥梁】回望刚刚过去的2020年，郑州商品交易所(以下简称郑商所)持续优化“产业基地”建设工作，坚持常做常新的理念，建设效果明显：2020年全年，郑商所共开展55家“产业基地”建设；开展各类活动223场，参与企业接近1.5万家次，参与人数超过30万人次；增加了浦发银行等机构试点；同时，从55家“产业基地”期现货交易实践来看，九大期现交易模式浮出水面。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4464471.d.html</link>
+            <guid>2106160</guid>
+            <pubDate>Mon, 05 Apr 2021 18:14:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：到5月底，美国仍有足够的新冠疫苗为美国成年人接种。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7317584.d.html</link>
+            <guid>2106159</guid>
+            <pubDate>Mon, 05 Apr 2021 18:10:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储：至3月24日一周，美国银行业现金资产减少1570亿美元，降幅4.0%，至3.6万亿美元；银行业总资产为21万亿美元，贷款和租赁降至10.3万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4459735.d.html</link>
+            <guid>2106158</guid>
+            <pubDate>Mon, 05 Apr 2021 18:08:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  机构调查：预计墨西哥3月份的通胀年率为4.66%，高于央行的目标范围。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4459565.d.html</link>
+            <guid>2106157</guid>
+            <pubDate>Mon, 05 Apr 2021 18:07:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：税率将是就业计划讨论中的一部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7309819.d.html</link>
+            <guid>2106156</guid>
+            <pubDate>Mon, 05 Apr 2021 17:59:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中金公司：将交通银行(03328.HK)评级上调至跑赢大盘，目标价4.68港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4450700.d.html</link>
+            <guid>2106155</guid>
+            <pubDate>Mon, 05 Apr 2021 17:55:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  白宫新闻秘书珍·普萨基：将继续确保新冠疫苗在佛罗里达州公平分配。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4446735.d.html</link>
@@ -474,136 +606,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4357847.d.html</link>
             <guid>2106077</guid>
             <pubDate>Mon, 05 Apr 2021 15:48:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fuboTV(FUBO.N)异动走低，现跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7213626.d.html</link>
-            <guid>2106076</guid>
-            <pubDate>Mon, 05 Apr 2021 15:47:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油期货跌幅扩大至4%，现报58.99美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4357392.d.html</link>
-            <guid>2106075</guid>
-            <pubDate>Mon, 05 Apr 2021 15:47:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新能源汽车板块盘中下挫，蔚来汽车(NIO.N)转跌0.5%，理想汽车(LI.O)跌1.2%，小鹏汽车(XPEV.N)跌3%，Nikola(NKLA.O)跌6.2%。]]></title>
-            <guid>2106074</guid>
-            <pubDate>Mon, 05 Apr 2021 15:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：对美国总统拜登的基础设施计划将导致通胀压力表示怀疑。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4356231.d.html</link>
-            <guid>2106073</guid>
-            <pubDate>Mon, 05 Apr 2021 15:45:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道指涨超400点，PMI等经济数据推高投资者风险偏好情绪】道指涨超400点，成分股WBA涨3.5%领跑，沃尔玛也涨超3.0%，波音、微软、思科、英特尔、苹果均涨超2%，高盛则跌0.5%。目前，标普500指数和纳指均涨超1.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4353414.d.html</link>
-            <guid>2106072</guid>
-            <pubDate>Mon, 05 Apr 2021 15:41:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：就业市场在未来几个月将变得更加强劲。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7206891.d.html</link>
-            <guid>2106071</guid>
-            <pubDate>Mon, 05 Apr 2021 15:38:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[游戏驿站(GME.N)短线拉升，现转涨0.88%，报192.73美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4350093.d.html</link>
-            <guid>2106070</guid>
-            <pubDate>Mon, 05 Apr 2021 15:37:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖三个月期国债，得标利率0.020%（前次为0.020%），投标倍数3.00（前次为2.68）。拍卖六个月期国债，得标利率0.035%（前次为0.040%），投标倍数3.38（前次为2.93）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7204508.d.html</link>
-            <guid>2106069</guid>
-            <pubDate>Mon, 05 Apr 2021 15:34:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国疫情应对小组高级顾问Slavitt：这一决定不应该影响疫苗的生产水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7202483.d.html</link>
-            <guid>2106067</guid>
-            <pubDate>Mon, 05 Apr 2021 15:31:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国疫情应对小组高级顾问Slavitt：这一决定并不意味着对阿斯利康疫苗有任何担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4346247.d.html</link>
-            <guid>2106066</guid>
-            <pubDate>Mon, 05 Apr 2021 15:31:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国疫情应对小组高级顾问Slavitt：没有美国食品药品监督管理局（FDA）批准的强生疫苗产自巴尔的摩的工厂。]]></title>
-            <guid>2106065</guid>
-            <pubDate>Mon, 05 Apr 2021 15:30:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银短线上扬逾0.2美元，现报24.97美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7200208.d.html</link>
-            <guid>2106064</guid>
-            <pubDate>Mon, 05 Apr 2021 15:28:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国家过敏症和传染病研究所所长福奇：仍然觉得辉瑞和Moderna疫苗最好接种两剂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4343357.d.html</link>
-            <guid>2106063</guid>
-            <pubDate>Mon, 05 Apr 2021 15:27:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  加拿大主要投资公司CI全球资产管理宣布推出CI比特币基金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4342362.d.html</link>
-            <guid>2106062</guid>
-            <pubDate>Mon, 05 Apr 2021 15:26:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据监测网络状况的网站DownDetector：用户报告Uber出现问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4340939.d.html</link>
-            <guid>2106061</guid>
-            <pubDate>Mon, 05 Apr 2021 15:24:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国疾控中心主管Walensky：美国18-24岁年龄组的新冠肺炎病例数量达到高峰。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4340856.d.html</link>
-            <guid>2106060</guid>
-            <pubDate>Mon, 05 Apr 2021 15:23:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[格鲁吉亚卫生部长季卡拉泽5日在首都第比利斯举行的新闻发布会上表示，中国国药集团新冠疫苗安全可靠，将在格鲁吉亚抗击疫情工作中发挥重要作用。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4340183.d.html</link>
-            <guid>2106059</guid>
-            <pubDate>Mon, 05 Apr 2021 15:23:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[嘉楠科技(CAN.O)逆势跌超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4337301.d.html</link>
-            <guid>2106058</guid>
-            <pubDate>Mon, 05 Apr 2021 15:19:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货黄金上破1730美元/盎司，跌幅收窄至0.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7193413.d.html</link>
-            <guid>2106057</guid>
-            <pubDate>Mon, 05 Apr 2021 15:19:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  卡塔尔新增910例新冠肺炎确诊病例，新增3例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7192699.d.html</link>
-            <guid>2106056</guid>
-            <pubDate>Mon, 05 Apr 2021 15:18:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  智利国家铜业委员会：智利国家铜业公司Codelco2月铜产量同比增加2.1%至122800吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7190758.d.html</link>
-            <guid>2106055</guid>
-            <pubDate>Mon, 05 Apr 2021 15:15:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  智利国家铜业委员会：ESCONDIDA矿山铜产量2月同比下降13.7%至81600吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4334010.d.html</link>
-            <guid>2106054</guid>
-            <pubDate>Mon, 05 Apr 2021 15:14:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
