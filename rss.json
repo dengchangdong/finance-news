@@ -6,6 +6,109 @@
     "description": "新浪最新财经新闻100条",
     "items": [
         {
+            "id": 2111819,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8620323.d.html",
+            "title": "巴西新增4249例新冠肺炎死亡病例，创单日新高。",
+            "date_modified": "2021-04-08T21:23:17.000Z"
+        },
+        {
+            "id": 2111818,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8620254.d.html",
+            "title": "【美国20年期国债急升，因市场猜测美联储可能加大该品种购买力度】① 美国20年期国债领涨，因此前美联储一位高级官员的讲话引发市场对美联储将加大力度购买20年期国债的猜测；② 纽约联储执行副行长Lorie Logan周四称，美国财政部去年恢复了20年期国债发行，导致流通中的20年期国债规模增多；鉴于近期内美国国债发行量有望保持“高位”，我们计划对所购买品种进行微小的技术调整，并更加频繁地更新对所购品种的分配，以与名义国债和通胀保值债券的流通中供应量大致成比例；③ 市场反应似乎认为这意味着美联储将增加对20年期国债的购买；20年期国债收益率下跌6.8个基点，价格领涨。",
+            "date_modified": "2021-04-08T21:20:09.000Z"
+        },
+        {
+            "id": 2111817,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8620118.d.html",
+            "title": "市场消息：美国贸易代表Tai与比利时副首相进行了会面，讨论了减少过剩的钢铁、飞机产能。",
+            "date_modified": "2021-04-08T21:18:41.000Z"
+        },
+        {
+            "id": 2111816,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8619853.d.html",
+            "title": "  【苹果隐私新规将落地 广告营销游戏分发直面冲击】苹果公司4月5日向开发者发布了一则通知，提醒开发者确保其应用已经为即将发布的iOS 14.5做好准备。在iOS 14.5版本中，所有应用都必须征得用户许可，才能对其进行跟踪或访问其设备的IDFA。IDFA可以帮助开发者获取用户信息，更好地向用户展示个性化广告。以往，IDFA分享功能为默认开启状态，各大开发者得以利用IDFA向用户精准推送广告。但在iOS 14.5版本中，IDFA将默认关闭，用户首次打开应用时，会弹窗提示是否允许应用获取IDFA，如果选择关闭，开发者将无法向用户精准推送广告。在IDFA新规下，受到直接影响的是广告营销行业。",
+            "date_modified": "2021-04-08T21:14:45.000Z"
+        },
+        {
+            "id": 2111815,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8619556.d.html",
+            "title": "标普500指数11个板块涨跌各异，科技板块收涨1.42%领跑，能源板块表现最差，收跌1.36%。",
+            "date_modified": "2021-04-08T21:08:37.000Z"
+        },
+        {
+            "id": 2111814,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8619469.d.html",
+            "title": "【金价触及逾一个月最高，受助于美元和美债收益率回落】①金价周四攀升至逾一个月最高，因美元和美债收益率均下跌，且美联储重申其鸽派政策立场也提升了黄金吸引力；②RJO Futures高级市场策略师Bob Haberkorn表示，美元和美国公债收益率正在回落，这是目前的关键催化剂，相当乏善可陈的失业金数据也在帮助推动金价走高；③美元跌至逾两周最低，美债收益率回落，使黄金相对于债券等其他投资更具吸引力。",
+            "date_modified": "2021-04-08T21:05:32.000Z"
+        },
+        {
+            "id": 2111813,
+            "content_html": "",
+            "title": "  华特迪士尼(DIS.N)：加州阿纳海姆的复仇者基地（Avengers Campus）将于6月4日开放。",
+            "date_modified": "2021-04-08T21:03:46.000Z"
+        },
+        {
+            "id": 2111812,
+            "content_html": "",
+            "title": "【纽约联储计划扩大隔夜反向回购协议操作的交易对手池】纽约联储执行副行长Lorie Logan周四在一次讲话中表示，预计未来几个月将在隔夜反向回购协议操作中为其交易对手设定更低的规模和交易标准。Logan表示，虽然现有的交易对手类型“仍能代表回购市场投资者的范围”，但扩大交易对手资格“可以通过让我们的操作潜在接触到中小企业，从而减少进入壁垒并提高包容性。“同时他表示，一个更加活跃和多样化的市场可以反过来增强货币政策实施工具的有效性。",
+            "date_modified": "2021-04-08T20:59:10.000Z"
+        },
+        {
+            "id": 2111811,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8618921.d.html",
+            "title": "美国至4月5日当周外国央行持有美国国债(亿美元)公布 3.92，前值 -48.39。",
+            "date_modified": "2021-04-08T20:52:06.000Z"
+        },
+        {
+            "id": 2111810,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8618796.d.html",
+            "title": "【美国财政部仍计划逐步减少现金结余】美国财政部负责联邦财政事务的副助理部长Brian Smith表示，“尽管3月底的现金余额高于预期，但我们仍打算按照上季度再融资的指导原则逐步减少现金余额。”他同时表示，将高度关注票据发行和现金余额决定如何影响货币市场交易状况，在做出决定时将考虑这些敏感性。包括美联储、美国商品期货交易委员会（CFTC）、美国证交会和财政部的监管工作小组将探索提高美国国债市场弹性的方法。",
+            "date_modified": "2021-04-08T20:46:32.000Z"
+        },
+        {
+            "id": 2111809,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8618788.d.html",
+            "title": "  【全球首个区块链电子发票国际标准发布】近日，由深圳市税务局主导推进的《基于区块链技术的电子发票应用推荐规程》国际标准(下称“国际标准”)正式经IEEE-SA(电子电气工程师协会标准协会)确认发布，成为全球首个基于区块链的电子发票应用的国际标准。此次标准的确认，意味着我国在区块链电子发票场景下的技术实践获得国际权威机构认可，为规范和引导全球区块链电子发票应用做出了中国贡献。（证券日报）",
+            "date_modified": "2021-04-08T20:46:19.000Z"
+        },
+        {
+            "id": 2111808,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5759986.d.html",
+            "title": "市场消息：美国监管机构正在全面观察美国国债市场弹性。",
+            "date_modified": "2021-04-08T20:34:16.000Z"
+        },
+        {
+            "id": 2111807,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5759942.d.html",
+            "title": "市场消息：美国财政部“高度关注”货币市场交易状况。",
+            "date_modified": "2021-04-08T20:31:58.000Z"
+        },
+        {
+            "id": 2111806,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8618374.d.html",
+            "title": "市场消息：美国财政部仍计划逐步减少现金余额。",
+            "date_modified": "2021-04-08T20:31:52.000Z"
+        },
+        {
+            "id": 2111805,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8618282.d.html",
+            "title": "【Bitstamp两名法务主管离职，竞争对手Coinbase却忙着美国IPO】 数字货币交易所Bitstamp与2020年年初聘请的首席法务官Mary Beth Buchanan及2019年年中加盟的美国首席合规官Caitlin Barnett分道扬镳，其中，Buchanan已于2021年稍早离职，加入数字资产投资银行初创公司Menai Financial Group LLc.、出任首席法务与合规官，而Barnett也在3月份离职，成为区块链分析、研究、与风险管理初创公司Chainalysis Inc.的监管与合规总监。作为Bitstamp的头号竞争对手，旧金山Coinbase Global Inc.正紧锣密鼓地筹备美国IPO。",
+            "date_modified": "2021-04-08T20:28:04.000Z"
+        },
+        {
             "id": 2111804,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8618183.d.html",
@@ -597,111 +700,6 @@
             "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8609274.d.html",
             "title": "意大利总理德拉基：对疫苗接种目标没有疑问。意大利应该在战略部门使用黄金权力法案。",
             "date_modified": "2021-04-08T16:43:52.000Z"
-        },
-        {
-            "id": 2111719,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8609251.d.html",
-            "title": "世贸组织总干事奥孔乔：希望美国和欧盟就飞机钢材问题找到解决方式。",
-            "date_modified": "2021-04-08T16:43:41.000Z"
-        },
-        {
-            "id": 2111718,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8609239.d.html",
-            "title": "市场消息：拜登起草的命令将要求4个月内出台政府层面的气候风险计划。",
-            "date_modified": "2021-04-08T16:43:32.000Z"
-        },
-        {
-            "id": 2111717,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5750669.d.html",
-            "title": "意大利总理德拉基：停止给60岁以下的人接种疫苗。",
-            "date_modified": "2021-04-08T16:40:01.000Z"
-        },
-        {
-            "id": 2111716,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5750656.d.html",
-            "title": "市场消息：软银将向抵押贷款初创公司BETTER投资5亿美元。",
-            "date_modified": "2021-04-08T16:39:52.000Z"
-        },
-        {
-            "id": 2111715,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5750639.d.html",
-            "title": "市场消息：拜登起草的命令将审查金融资产面临的气候风险。拜登起草的命令将要求美国金融稳定监督委员会（FSOC）在六个月内就气候风险进行报告。",
-            "date_modified": "2021-04-08T16:39:46.000Z"
-        },
-        {
-            "id": 2111714,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8608930.d.html",
-            "title": "市场消息：美国总统拜登计划为金融资产制定气候风险战略。",
-            "date_modified": "2021-04-08T16:38:52.000Z"
-        },
-        {
-            "id": 2111713,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5750527.d.html",
-            "title": "  IMF总裁格奥尔基耶娃：更担心新兴市场的通货膨胀。",
-            "date_modified": "2021-04-08T16:37:51.000Z"
-        },
-        {
-            "id": 2111712,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5750408.d.html",
-            "title": "  美联储主席鲍威尔：对付通货膨胀的传统手段是提高利率。",
-            "date_modified": "2021-04-08T16:36:26.000Z"
-        },
-        {
-            "id": 2111711,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5750351.d.html",
-            "title": "  美联储布拉德：美联储甚至不应该在美国仍处于危机的康复阶段讨论政策变化。",
-            "date_modified": "2021-04-08T16:35:50.000Z"
-        },
-        {
-            "id": 2111710,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5750338.d.html",
-            "title": "美联储主席鲍威尔：不要指望由于供应紧张而导致的价格上涨会重复出现。预计高通胀是暂时的，美联储有工具来抑制过高的通胀。我们将仔细监控通胀预期。",
-            "date_modified": "2021-04-08T16:35:45.000Z"
-        },
-        {
-            "id": 2111709,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8608499.d.html",
-            "title": "  美联储布拉德：美国可能正走向一个生产率更高的时期，企业看到了远程技术带来的“开阔眼界”的潜力。",
-            "date_modified": "2021-04-08T16:33:46.000Z"
-        },
-        {
-            "id": 2111708,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8608485.d.html",
-            "title": "美联储布拉德：可能会看到储蓄率上升，直到美国家庭认为新冠疫情真正结束。美联储在提高通胀预期方面面临“棘手”的沟通挑战。",
-            "date_modified": "2021-04-08T16:33:29.000Z"
-        },
-        {
-            "id": 2111707,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5750172.d.html",
-            "title": "美联储主席鲍威尔：美国已经经历了25年的低通胀。",
-            "date_modified": "2021-04-08T16:33:05.000Z"
-        },
-        {
-            "id": 2111706,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8608447.d.html",
-            "title": "美联储布拉德：在缩减量化宽松政策之前，必须有一个“更清晰”的证据表明新冠疫情结束。",
-            "date_modified": "2021-04-08T16:32:58.000Z"
-        },
-        {
-            "id": 2111705,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8608421.d.html",
-            "title": "美联储主席鲍威尔：一次性的价格上涨不是持续的通货膨胀。",
-            "date_modified": "2021-04-08T16:32:40.000Z"
         }
     ]
 }
