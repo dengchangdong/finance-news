@@ -4,13 +4,85 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Fri, 09 Apr 2021 18:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 19:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[上海原油期货主力合约夜盘收涨0.18%，报387.1元/桶。]]></title>
+            <title><![CDATA[欧洲央行行长拉加德：欧洲经济复苏延缓但并未脱轨。经济复苏将在2021年下半年加快步伐。如若需要延长或扩大紧急抗疫购债计划（PEPP），那么我们会这么做。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8814871.d.html</link>
+            <guid>2113009</guid>
+            <pubDate>Fri, 09 Apr 2021 19:15:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[老虎证券(TIGR.O)尾盘拉涨，现涨超5%，报20.25美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk5956490.d.html</link>
+            <guid>2113008</guid>
+            <pubDate>Fri, 09 Apr 2021 19:15:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[生物制药公司Sorrento Therapeutics(SRNE.O)小幅拉涨，此前美国食品药品监督管理局批准公司的止疼贴片ZTlido的扩大生产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8814757.d.html</link>
+            <guid>2112999</guid>
+            <pubDate>Fri, 09 Apr 2021 19:10:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：巴拿马批准紧急使用科兴新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8814515.d.html</link>
+            <guid>2112995</guid>
+            <pubDate>Fri, 09 Apr 2021 19:05:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收涨0.06%，报28650点，低水49点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8814510.d.html</link>
+            <guid>2112994</guid>
+            <pubDate>Fri, 09 Apr 2021 19:04:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：希望可以看到一份两党支持的预算。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8814243.d.html</link>
+            <guid>2112988</guid>
+            <pubDate>Fri, 09 Apr 2021 18:59:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：强生(JNJ.N)就在印度开展新冠病毒疫苗试验进行谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8814242.d.html</link>
+            <guid>2112987</guid>
+            <pubDate>Fri, 09 Apr 2021 18:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：沃尔玛任命JULIA UNGER为金融服务副总裁，发言人表示，UNGER不会加入金融科技公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8814237.d.html</link>
+            <guid>2112986</guid>
+            <pubDate>Fri, 09 Apr 2021 18:58:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据外媒，Greensill基金贷款中使用的可疑发票引发了欺诈担忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8813808.d.html</link>
+            <guid>2112984</guid>
+            <pubDate>Fri, 09 Apr 2021 18:48:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议员桑德斯：担心国防预算膨胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8813515.d.html</link>
+            <guid>2112983</guid>
+            <pubDate>Fri, 09 Apr 2021 18:41:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股充电桩板块普跌，Blink Charging(BLNK.O)跌超6%，Chargepoint Holdings(CHPT.O)跌2.66%，TPG Pace Beneficial Finance Corp.(TPGY.N)跌2.55%，Beam Global(BEEM.O)跌1.26%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8813349.d.html</link>
+            <guid>2112981</guid>
+            <pubDate>Fri, 09 Apr 2021 18:37:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 5月原油期货收跌0.28美元，跌幅0.47%，报59.32美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8813268.d.html</link>
+            <guid>2112980</guid>
+            <pubDate>Fri, 09 Apr 2021 18:34:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所原油期货2105合约夜盘收涨0.18%，报387.10元人民币/桶。沪金夜盘收跌0.69%，沪银收跌0.97%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk5954825.d.html</link>
             <guid>2112979</guid>
             <pubDate>Fri, 09 Apr 2021 18:31:11 GMT</pubDate>
@@ -530,77 +602,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8800211.d.html</link>
             <guid>2112888</guid>
             <pubDate>Fri, 09 Apr 2021 15:17:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利卫生部：意大利将放宽米兰和其他的地区的疫情限制措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5941897.d.html</link>
-            <guid>2112887</guid>
-            <pubDate>Fri, 09 Apr 2021 15:17:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：美国就菲利普亲王的逝世向女王、王室和所有英国人表示“最深切的哀悼”。]]></title>
-            <guid>2112886</guid>
-            <pubDate>Fri, 09 Apr 2021 15:17:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  消息人士：美国总统拜登下周一将与美国国会议员就2.3万亿美元的基础设施和就业方案举行会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5941876.d.html</link>
-            <guid>2112885</guid>
-            <pubDate>Fri, 09 Apr 2021 15:17:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴基斯坦授权紧急使用中国科兴新冠疫苗】记者9日从巴基斯坦国家卫生研究所获悉，巴基斯坦药品管理局日前已给予中国科兴公司研制的新冠疫苗紧急使用授权。据巴药品管理局8日发布的一份声明，科兴新冠疫苗已获准在18岁及以上巴基斯坦民众中紧急使用。这是巴基斯坦授权紧急使用的第三款中国新冠疫苗。此前，巴药品管理局已授权紧急使用中国国药集团新冠疫苗和康希诺新冠疫苗。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5941867.d.html</link>
-            <guid>2112884</guid>
-            <pubDate>Fri, 09 Apr 2021 15:16:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世界银行行长：需要在新冠肺炎疫苗的生产和供应方面继续提高透明度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5941804.d.html</link>
-            <guid>2112883</guid>
-            <pubDate>Fri, 09 Apr 2021 15:15:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟将就采购18亿剂第二代新冠疫苗开启谈判】 当地时间4月9日，据法新社援引欧盟委员会的消息，为了应对未来可能出现的变异新冠病毒，欧盟将就采购18亿剂第二代新冠疫苗开启谈判。欧盟委员会已于3月24日正式提出加速批准改良版新冠疫苗的措施，相关提案还将于当地时间4月15日在欧洲议会环境与公共健康委员会进行审议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5941792.d.html</link>
-            <guid>2112882</guid>
-            <pubDate>Fri, 09 Apr 2021 15:15:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【汇丰在线交易平台已禁止购买MicroStrategy股票】据cointelegraph消息，汇丰客户不再可以在其在线交易平台HSBC InvestDirect或HIDC上购买MicroStrategy股票，同时，汇丰已指示已经拥有MicroStrategy股票的用户不要购买额外的股票。将MSTR列入黑名单只是汇丰银行最近反加密行动中的最新动作，但是在HIDC交易目录中仍列出了进行比特币大量投资的其他公司，例如特斯拉(TSLA.O)，Hut 8 Mining和Square(SQ.N)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5941615.d.html</link>
-            <guid>2112881</guid>
-            <pubDate>Fri, 09 Apr 2021 15:12:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国新增3150例新冠肺炎确诊病例，新增60例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8799769.d.html</link>
-            <guid>2112880</guid>
-            <pubDate>Fri, 09 Apr 2021 15:10:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家药监局：祛斑美白化妆品须通过人体功效评价试验】据国家药监局官网9日发布的《#化妆品功效宣称评价规范#》，具有祛斑美白、防晒、防脱发、祛痘、滋养和修护功效的化妆品，应当通过人体功效评价试验方式进行功效宣称评价。具有祛斑美白、防晒和防脱发功效的化妆品，应当由化妆品注册和备案检验机构按照强制性国家标准、技术规范的要求开展人体功效评价试验，并出具报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8799637.d.html</link>
-            <guid>2112879</guid>
-            <pubDate>Fri, 09 Apr 2021 15:09:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：根据美国总统拜登的预算，美国国税局的执法经费将在2022财年增加9亿美元。拜登总统的预算要求包括为国税局提供132亿美元，较2021财年增加了12亿美元或10.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5941329.d.html</link>
-            <guid>2112878</guid>
-            <pubDate>Fri, 09 Apr 2021 15:09:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登的预算寻求在2022财年增加7690亿美元的非国防可自由支配支出，比2021财年水平增加16%；增加7530亿美元的国防支出，较2021财年增加1.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8799558.d.html</link>
-            <guid>2112877</guid>
-            <pubDate>Fri, 09 Apr 2021 15:07:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国已经有31903366人接种第一剂新冠肺炎疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8799396.d.html</link>
-            <guid>2112876</guid>
-            <pubDate>Fri, 09 Apr 2021 15:05:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
