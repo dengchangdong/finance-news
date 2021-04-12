@@ -6,6 +6,173 @@
     "description": "新浪最新财经新闻100条",
     "items": [
         {
+            "id": 2117960,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6460308.d.html",
+            "title": "【美债收益率普遍上涨，三年期和10年期美债顺利拍卖，投资者静候后续30年期美债标售和CPI等关键数据】 周一（4月12日）纽约尾盘，美国10年期基准国债收益率涨0.72个基点，报1.6657%，美国财政部拍卖10年期美债之后曾震荡上行至日高1.6835%。20年期美债收益率涨1.42个基点，报2.2242%；30年期美债收益率涨0.39个基点，报2.3332%。两年期美债收益率涨1.20个基点，报0.1668%；三年期美债收益率涨1.62个基点，报0.3495%；五年期美债收益率涨1.78个基点，报0.8805%；七年期美债收益率涨1.18个基点，报1.3325%。2/10年期美债收益率利差跌0.676个基点，报149.491个基点。5/30年期美债收益率利差跌1.393个基点，报144.947个基点。",
+            "date_modified": "2021-04-12T21:23:25.000Z"
+        },
+        {
+            "id": 2117959,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9319400.d.html",
+            "title": "  美国参议员Wicker：共和党不会支持撤销2017年的减税政策。",
+            "date_modified": "2021-04-12T21:21:10.000Z"
+        },
+        {
+            "id": 2117958,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6460216.d.html",
+            "title": "B.Riley Financial(RILY.O)盘后涨超10%。",
+            "date_modified": "2021-04-12T21:20:53.000Z"
+        },
+        {
+            "id": 2117957,
+            "content_html": "",
+            "title": "  标普道琼斯指数公司：投行B. Riley Financial(RILY.O)将将取代MICHAELS COMPANIES(MIK.O)纳入标普小盘600指数。",
+            "date_modified": "2021-04-12T21:20:43.000Z"
+        },
+        {
+            "id": 2117956,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6460086.d.html",
+            "title": "  市场消息：亚马逊(AMZN.O)推出了名为“APLENTY”的全新食品品牌。",
+            "date_modified": "2021-04-12T21:18:18.000Z"
+        },
+        {
+            "id": 2117955,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6460007.d.html",
+            "title": "  美国民主党议员Payne表示拜登对电动汽车的使用费持开放态度。",
+            "date_modified": "2021-04-12T21:17:27.000Z"
+        },
+        {
+            "id": 2117954,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9319170.d.html",
+            "title": "美国总统拜登告知议员们，对将汽油税每加仑提高5美分以支付基础设施费用持开放态度。",
+            "date_modified": "2021-04-12T21:17:20.000Z"
+        },
+        {
+            "id": 2117953,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6459428.d.html",
+            "title": "  据美国证券交易委员会文件：科技企业流程外包公司TaskUs申请进行IPO，筹资达1亿美元。",
+            "date_modified": "2021-04-12T21:11:39.000Z"
+        },
+        {
+            "id": 2117952,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6459281.d.html",
+            "title": "美国石油天然气类股多数收跌，FTI收跌将近3.6%，EOG资源和卡隆石油至少跌2.3%，Phillips 66跌约1.8%，西方石油公司跌超1.4%；ETF中，美国原油基金（USO）收涨逾0.6%，美国布伦特原油基金（BNO）也涨超0.4%，追随国际油价收涨的表现，XLE、VDE、IEO、PEX、XOP跌幅则介于0.79%-2.42%。",
+            "date_modified": "2021-04-12T21:06:44.000Z"
+        },
+        {
+            "id": 2117951,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6459044.d.html",
+            "title": "  Wolfe研究：予可口可乐(KO.N)与大市一致的初始评级。",
+            "date_modified": "2021-04-12T21:02:47.000Z"
+        },
+        {
+            "id": 2117950,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6458979.d.html",
+            "title": "  Wolfe研究：予百事(PEP.O)与大市一致的初始评级。",
+            "date_modified": "2021-04-12T21:01:19.000Z"
+        },
+        {
+            "id": 2117949,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9318016.d.html",
+            "title": "  Wolfe研究：予卡特彼勒(CAT.N)跑嬴大盘的初始评级，目标价265美元。",
+            "date_modified": "2021-04-12T20:57:48.000Z"
+        },
+        {
+            "id": 2117948,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6458790.d.html",
+            "title": "  美国共和党议员Payne：拜登在今天的会议上提出了增加天然气税的想法。",
+            "date_modified": "2021-04-12T20:53:48.000Z"
+        },
+        {
+            "id": 2117947,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9317880.d.html",
+            "title": "市场消息：巴西政府考虑出台新法案以解决有关新冠疫情的支出问题，这将有助于缓解预算僵局。",
+            "date_modified": "2021-04-12T20:51:12.000Z"
+        },
+        {
+            "id": 2117946,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9317873.d.html",
+            "title": "吉利德科学宣布将停止在新冠肺炎高风险非住院患者中进行的3期抗病毒药物Veklury静脉注射(IV)研究，吉利德还表示决定停止研究不是因为疗效或安全问题。",
+            "date_modified": "2021-04-12T20:51:04.000Z"
+        },
+        {
+            "id": 2117945,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9317869.d.html",
+            "title": "导体类股当天普跌，AMD收跌逾5.0%，赛灵思跌超4.2%，英特尔跌约4.2%（领跌道指成分股），CCMP跌超3.7%，应用材料、高通、KLAC至少收跌2.2%，英伟达则在宣布进军CPU当天收涨逾5.6%。日内稍早，美国白宫新闻发言人Psaki称，拜登政府4月12日当天不会宣布与芯片企业会议相关的最新信息。",
+            "date_modified": "2021-04-12T20:50:54.000Z"
+        },
+        {
+            "id": 2117944,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6458710.d.html",
+            "title": "区块链类股涨跌各异，LongFin收涨逾25.0%，Riot Blockchain涨超3.8%，BTBT则跌约10.4%，嘉楠科技也跌超29.6%。",
+            "date_modified": "2021-04-12T20:50:42.000Z"
+        },
+        {
+            "id": 2117943,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6458616.d.html",
+            "title": "中概股阿里巴巴收涨将近9.3%，瑞幸咖啡粉单市场涨超8.6%，京东则跌约2.2%，B站跌超2.6%，拼多多跌2.8%，腾讯音乐跌约6.2%，跟谁学跌约6.6%，老虎证券跌约7.8%，途牛跌12.1%。",
+            "date_modified": "2021-04-12T20:47:43.000Z"
+        },
+        {
+            "id": 2117942,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9317648.d.html",
+            "title": "【德国执政党的总理候选人之争持续胶着】 4月12日，德国执政党、由基民盟和其姐妹党基社盟组成的联盟党分别举行领导层会议，就该党总理候选人人选展开讨论。两个党派各自看好自己的主席参与到默克尔接班人的角逐中。根据基民盟12日上午高层会议的投票结果，基民盟主席、北威州州长拉舍特获得了党内主席团和议会党团的绝大多数支持。拉舍特在会后的发布会上表示，将与基社盟主席、巴伐利亚州州长索德尔尽快进行对话。据他透露，当天基民盟的会议重点聚焦新冠危机以及后疫情时期的挑战。（央视）",
+            "date_modified": "2021-04-12T20:41:56.000Z"
+        },
+        {
+            "id": 2117941,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6458349.d.html",
+            "title": "  据环球邮报，加拿大航空将获得数十亿美元的救援资金。",
+            "date_modified": "2021-04-12T20:38:02.000Z"
+        },
+        {
+            "id": 2117940,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6457947.d.html",
+            "title": "  据TechCrunch：老虎基金对印度社交电商平台DealShare发起了1亿美元的投资。",
+            "date_modified": "2021-04-12T20:28:23.000Z"
+        },
+        {
+            "id": 2117939,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9317056.d.html",
+            "title": "  据美国媒体报道，当地时间4月12日下午，美国田纳西州诺克斯维尔市一所高中发生枪击事件，目前有多人受伤，其中包括一名警察。",
+            "date_modified": "2021-04-12T20:28:17.000Z"
+        },
+        {
+            "id": 2117938,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6457930.d.html",
+            "title": "  市场消息：百度(BIDU.O)股东摩根士丹利(MS.N)将其持股比例从5.2%降至0.9%。",
+            "date_modified": "2021-04-12T20:28:11.000Z"
+        },
+        {
+            "id": 2117937,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9317046.d.html",
+            "title": "  【中银国际预计到2025年中国电动汽车行业的铜使用量将增长五倍】中银国际大宗商品策略主管傅晓表示，中国电动汽车市场的铜使用量料将在未来五年增加五倍。她在CRU的世界铜业会议上表示，每辆电动汽车将使用约80公斤左右的铜，而充电站平均将使用6.8公斤。到2025年，电动汽车和充电站的铜消耗量将约为54万吨，比去年水平多五倍，到2030年将增至100万吨，到2035年料增至130万吨。2030年可再生能源行业对铜的需求预计将从2020年的62万吨增加到72.8万吨。到2025年，可再生能源和电动汽车行业的总计铜消耗量估计将达到120万吨，约占中国铜总需求的10%。",
+            "date_modified": "2021-04-12T20:28:05.000Z"
+        },
+        {
             "id": 2117936,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9316706.d.html",
@@ -531,172 +698,6 @@
             "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6447203.d.html",
             "title": "  爱尔兰新增394例新冠肺炎确诊病例，无新增死亡病例。",
             "date_modified": "2021-04-12T16:42:01.000Z"
-        },
-        {
-            "id": 2117749,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6447044.d.html",
-            "title": "ICE欧盟碳排放交易许可（期货价格）收涨2.07%，报44.48欧元，突破4月6日顶点，创收盘历史新高。",
-            "date_modified": "2021-04-12T16:40:38.000Z"
-        },
-        {
-            "id": 2117748,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9306144.d.html",
-            "title": "  英伟达(NVDA.O)：计划于2023年上线的\"ALPS\"系统基础设施将取代瑞士卢加诺国家超级计算中心(CSCS)现有的Piz Daint超级计算机。与富士通、谷歌云、MAVENIR、RADISYS和WIND RIVER合作，为英伟达的AI-ON-5G平台开发解决方案。",
-            "date_modified": "2021-04-12T16:40:27.000Z"
-        },
-        {
-            "id": 2117747,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9305879.d.html",
-            "title": "美联储布拉德：不清楚为什么10年期美债收益率会超过疫情前水平。",
-            "date_modified": "2021-04-12T16:37:43.000Z"
-        },
-        {
-            "id": 2117746,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6446779.d.html",
-            "title": "  市场消息：瑞士国家超级计算中心、慧与科技公司和英伟达(NVDA.O)宣布了世界上最强大的人工智能超级计算机。",
-            "date_modified": "2021-04-12T16:37:27.000Z"
-        },
-        {
-            "id": 2117745,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9305637.d.html",
-            "title": "  市场消息：英伟达(NVDA.O)刚刚发布了新型Aerial A100平台。",
-            "date_modified": "2021-04-12T16:35:17.000Z"
-        },
-        {
-            "id": 2117744,
-            "content_html": "",
-            "title": "英伟达(NVDA.O)拉涨超2%，此前一度下跌1.8%。英特尔(INTC.O)跌近4%。",
-            "date_modified": "2021-04-12T16:33:21.000Z"
-        },
-        {
-            "id": 2117743,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6446203.d.html",
-            "title": "  白宫新闻秘书珍·普萨基：拜登总统希望直接听取各公司关于芯片短缺的意见。 预计芯片短缺会议不会做出决定或宣布事项。",
-            "date_modified": "2021-04-12T16:31:02.000Z"
-        },
-        {
-            "id": 2117742,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9305242.d.html",
-            "title": "  白宫希望与业界密切合作，以防止未来芯片短缺的发生。",
-            "date_modified": "2021-04-12T16:30:52.000Z"
-        },
-        {
-            "id": 2117741,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6446036.d.html",
-            "title": "  英伟达(NVDA.O)CEO：英伟达将把它的显卡引入亚马逊云服务(AWS)的Graviton2处理器。",
-            "date_modified": "2021-04-12T16:29:03.000Z"
-        },
-        {
-            "id": 2117740,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9305050.d.html",
-            "title": "白宫表示，美国没有参与攻击伊朗核设施。 美国本周集中讨论伊朗核协议的外交谈判。 半导体芯片短缺是一个国家安全问题。",
-            "date_modified": "2021-04-12T16:28:57.000Z"
-        },
-        {
-            "id": 2117739,
-            "content_html": "",
-            "title": "【国元证券再次回应与华安证券并购“绯闻”：未收到相关信息】在4月12日的国元证券2020年度业绩网上说明会上，国元证券董事会秘书胡甲在回应国元证券与华安证券并购“绯闻”一事时表示，国元证券与华安证券都属于安徽省国资委下属企业，既是竞争对手，又是兄弟单位、合作伙伴，在债券承销等诸多领域保持着良好合作。目前未收到上级主管部门关于合并两家公司的相关信息。（中证网）",
-            "date_modified": "2021-04-12T16:27:43.000Z"
-        },
-        {
-            "id": 2117738,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6445812.d.html",
-            "title": "【私人银行业务成新赛道，6家银行私行资管规模破万亿元】 梳理六大行的年报数据发现，2020年六大行平均营收增长率为4.58%，较上一年下降3.2个百分点。在已披露的银行年报中，招商银行的私人银行规模遥遥领先，是目前唯一一家私人银行管理资产规模超2万亿元的。还有其他5家资产管理规模大于1万亿元的银行，分别为中国银行、工商银行、建设银行、农业银行和平安银行，其管理的资产规模分别为1.85万亿元、1.8万亿元、1.78万亿元、1.70万亿元、1.13万亿元。（证券日报）",
-            "date_modified": "2021-04-12T16:26:22.000Z"
-        },
-        {
-            "id": 2117737,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9304788.d.html",
-            "title": "英特尔(INTC.O)日内跌幅扩大至3%，报66.159美元。",
-            "date_modified": "2021-04-12T16:25:58.000Z"
-        },
-        {
-            "id": 2117736,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6445684.d.html",
-            "title": "巴西央行行长Campos Neto：巴西将很快有关于数字货币的消息。",
-            "date_modified": "2021-04-12T16:24:27.000Z"
-        },
-        {
-            "id": 2117735,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6445585.d.html",
-            "title": "美联储布拉德：经济有望转向高生产率的增长。 持有安全、流动性好的政府债券的欲望看起来很强烈。 为了达到物价目标，必须少一些先发制人的做法。 我们有实现通胀目标和提高预期的环境。",
-            "date_modified": "2021-04-12T16:23:36.000Z"
-        },
-        {
-            "id": 2117734,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9304584.d.html",
-            "title": "英伟达(NVDA.O)直线拉涨，现涨0.07%。",
-            "date_modified": "2021-04-12T16:23:18.000Z"
-        },
-        {
-            "id": 2117733,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6445417.d.html",
-            "title": "  市场消息：英伟达(NVDA.O)基于Arm的服务器CPU定位于大型云计算公司。",
-            "date_modified": "2021-04-12T16:21:58.000Z"
-        },
-        {
-            "id": 2117732,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6445321.d.html",
-            "title": "英特尔(INTC.O)直线下挫，现跌1.38%。",
-            "date_modified": "2021-04-12T16:21:11.000Z"
-        },
-        {
-            "id": 2117731,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6445297.d.html",
-            "title": "【英伟达紧随英特尔的步伐，也将生产CPU】 英伟达表示，该公司正推出自己的首款服务器微处理器，已经基于Arm的技术设计出一款CPU——正试图从软银手中收购Arm Ltd.。瑞士国家超级计算中心（SNSC）和美国能源部下辖洛斯阿拉莫斯国家实验室将是英伟达CPU产品的首批用户。",
-            "date_modified": "2021-04-12T16:20:52.000Z"
-        },
-        {
-            "id": 2117730,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9304097.d.html",
-            "title": "爱尔兰的疫情失业补贴计划的受助者为421373人，而一周前为437149人。",
-            "date_modified": "2021-04-12T16:18:32.000Z"
-        },
-        {
-            "id": 2117729,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6444924.d.html",
-            "title": "【车险综改对财产险增速的影响持续减弱】 目前监管部门及上市险企暂未披露今年3月份财产险保费增长情况，但从今年2月份的数据来看，新车保费复苏对财险行业保费的拉动作用明显。2月份，产险业务实现保费收入592.63亿元，同比增长16.2%，增速较1月份上涨20.55个百分点。万联证券分析师徐飞表示，受宏观经济复苏以及汽车销售增长影响，产险保费增速回升明显。（证券日报）",
-            "date_modified": "2021-04-12T16:17:24.000Z"
-        },
-        {
-            "id": 2117728,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9303781.d.html",
-            "title": "美联储布拉德：一直在关注金融稳定问题。 系统性风险不会造成大规模担忧。 美联储现在有更好的工具来应对金融失衡。",
-            "date_modified": "2021-04-12T16:14:30.000Z"
-        },
-        {
-            "id": 2117727,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6444663.d.html",
-            "title": "美股工业大麻板块普跌，Aphria(APHA.O)跌近15%，Tilray(TLRY.O)跌12.78%，极光大麻(ACB.N)跌8.55%，OrganiGram Holdings(OGI.O)跌7.38%，Sundial Grower(SNDL.O)跌5.65%，Canopy Growth(CGC.O)跌4.83%。",
-            "date_modified": "2021-04-12T16:14:15.000Z"
-        },
-        {
-            "id": 2117726,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6444555.d.html",
-            "title": "【券商首季新增543只资管产品备案，年内3家拟设立资管子公司】据中国证券投资基金业协会公开信息统计显示，2021年首季，新增543只券商资管产品备案，较去年第四季度减少30只。据了解，当前不少券商正在加速优化资产管理业务结构。仅在今年以来，就有3家券商拟设立资管子公司。（证券日报）",
-            "date_modified": "2021-04-12T16:12:54.000Z"
         }
     ]
 }
