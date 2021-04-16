@@ -4,11 +4,100 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Fri, 16 Apr 2021 17:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 18:40:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WTI 5月原油期货收跌0.33美元，跌幅0.52%，报63.13美元/桶，但本周累涨6.42%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0133140.d.html</link>
+            <guid>2126691</guid>
+            <pubDate>Fri, 16 Apr 2021 18:36:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所原油期货2105合约夜盘收涨0.07%，报410.40元人民币/桶。沪金夜盘收涨0.91%，沪银收涨0.59%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmxzfmk7272774.d.html</link>
+            <guid>2126690</guid>
+            <pubDate>Fri, 16 Apr 2021 18:33:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股充电桩板块普跌，TPG Pace Beneficial Finance Corp.(TPGY.N)跌超6%，Chargepoint Holdings(CHPT.O)跌5.76%，Beam Global(BEEM.O)跌0.36%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0133039.d.html</link>
+            <guid>2126689</guid>
+            <pubDate>Fri, 16 Apr 2021 18:32:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  圣路易斯联储GDPNowcast模型：预计美国第一季度GDP增长10.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0132649.d.html</link>
+            <guid>2126687</guid>
+            <pubDate>Fri, 16 Apr 2021 18:17:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列新增7例在印度发现的变异新冠病毒确诊病例】 当地时间4月16日，以色列卫生部发布公告：卫生机构确诊了7例来自在印度发现的变异新冠病毒(VUI B.1.617 )病例。这些病人都是从其他国家来到以色列后确诊的，这些人还没有接种过新冠病毒疫苗。目前还没有足够的证据来确定在印度发现的变异新冠病毒是否对接种过疫苗的人或已康复的人构成威胁。以色列卫生部提醒人们从国外，特别是从印度等高发病率国家来到以色列后，必须接受隔离。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0132510.d.html</link>
+            <guid>2126686</guid>
+            <pubDate>Fri, 16 Apr 2021 18:12:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国银行(BAC.N)将债券的发行规模定为150亿美元，创下银行有史以来的最大发行规模。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0132321.d.html</link>
+            <guid>2126685</guid>
+            <pubDate>Fri, 16 Apr 2021 18:07:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑兑美元刷新日高至1.3831，投资者关注55日均线切入位1.3848。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0132161.d.html</link>
+            <guid>2126684</guid>
+            <pubDate>Fri, 16 Apr 2021 18:03:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ci Globa资产管理公司将推出全球首只以太坊ETF。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0132151.d.html</link>
+            <guid>2126683</guid>
+            <pubDate>Fri, 16 Apr 2021 18:03:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股铝板块普涨，美国铝业公司(AA.N)涨8.48%，世纪铝业(CENX.O)涨超5%，凯撒铝业(KALU.O)涨1.42%。]]></title>
+            <guid>2126682</guid>
+            <pubDate>Fri, 16 Apr 2021 18:03:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【被约谈8天后 浙江宁波发布房产调控新政】4月16日晚，浙江宁波住建局等六部门联合发布《关于进一步加强房地产市场调控促进房地产市场平稳健康发展的通知》。《通知》通过扩大限购区域、加强住房交易管理、加大住宅用地供应、严审购房首付资金来源等方式，更好贯彻落实“房子是用来住的、不是用来炒的”定位，坚决抑制房地产投资投机行为，落实“稳地价、稳房价、稳预期”目标，促进宁波市房地产市场平稳健康发展。该《通知》自4月17日起实施。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0131981.d.html</link>
+            <guid>2126681</guid>
+            <pubDate>Fri, 16 Apr 2021 17:58:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通将布伦特原油和WTI原油2022年价格预期分别下调4美元至70美元/桶和66美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0131897.d.html</link>
+            <guid>2126680</guid>
+            <pubDate>Fri, 16 Apr 2021 17:55:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX 6月黄金期货收涨0.8%，报1780.20美元/盎司，本周累涨约2.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0131725.d.html</link>
+            <guid>2126679</guid>
+            <pubDate>Fri, 16 Apr 2021 17:53:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加密货币投资公司Galaxy Digital创始人Novogratz：加密“泡沫”存在于代币，而不是比特币；Gensler在美国证交会任职会很出色。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmxzfmk7271185.d.html</link>
+            <guid>2126678</guid>
+            <pubDate>Fri, 16 Apr 2021 17:50:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加密货币投资公司Galaxy Digital创始人Novogratz：狗狗币“确实没有用途”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmxzfmk7270992.d.html</link>
+            <guid>2126677</guid>
+            <pubDate>Fri, 16 Apr 2021 17:46:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：SpaceX公司赢得美国国家航空航天局(NASA)的合同，将建造载宇航员飞往月球的航天器。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmxzfmk7270990.d.html</link>
+            <guid>2126676</guid>
+            <pubDate>Fri, 16 Apr 2021 17:46:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  加密货币投资公司Galaxy Digital创始人Novogratz：NFT（非同质化代币）空间存在一些“疯狂的价格”。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0131375.d.html</link>
@@ -515,95 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7257098.d.html</link>
             <guid>2126581</guid>
             <pubDate>Fri, 16 Apr 2021 14:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登宣布投资17亿美元对抗新冠变种病毒。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawc0117222.d.html</link>
-            <guid>2126580</guid>
-            <pubDate>Fri, 16 Apr 2021 14:30:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[刚果央行将基准利率从15.5%下调至10.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawc0117208.d.html</link>
-            <guid>2126579</guid>
-            <pubDate>Fri, 16 Apr 2021 14:30:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国4月密歇根大学消费者信心指数初值录得86.5，为去年3月来新高，但远低于89.0的预期；消费者预计未来一年通胀率为3.7%，飙升至9年新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7256883.d.html</link>
-            <guid>2126578</guid>
-            <pubDate>Fri, 16 Apr 2021 14:30:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小米集团：今日回购637.4万股，涉资1.646亿港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7256861.d.html</link>
-            <guid>2126577</guid>
-            <pubDate>Fri, 16 Apr 2021 14:30:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利总理德拉基：人们不再质疑欧盟国家能否偿还债务，这种情况可能会持续很长一段时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawc0116983.d.html</link>
-            <guid>2126576</guid>
-            <pubDate>Fri, 16 Apr 2021 14:28:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股经纪商Robinhood：加密货币交易方面出现了一些问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawc0116958.d.html</link>
-            <guid>2126575</guid>
-            <pubDate>Fri, 16 Apr 2021 14:28:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事沃勒：如果以各个水平来衡量，我们仍处于衰退之中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawc0116879.d.html</link>
-            <guid>2126574</guid>
-            <pubDate>Fri, 16 Apr 2021 14:27:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事沃勒：美联储不会坐视通货膨胀不管。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7256581.d.html</link>
-            <guid>2126573</guid>
-            <pubDate>Fri, 16 Apr 2021 14:26:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士央行：货币干预是确保价格稳定、适当的货币条件所必需的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawc0116803.d.html</link>
-            <guid>2126572</guid>
-            <pubDate>Fri, 16 Apr 2021 14:26:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事沃勒：“点阵图”现在是个问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawc0116760.d.html</link>
-            <guid>2126571</guid>
-            <pubDate>Fri, 16 Apr 2021 14:25:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利总理德拉基：意大利的债务水平在过去会非常令人担忧，但现在并非如此。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawc0116719.d.html</link>
-            <guid>2126570</guid>
-            <pubDate>Fri, 16 Apr 2021 14:25:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事沃勒：只要通胀预期稳定在2%附近，我们就不会担心。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7256345.d.html</link>
-            <guid>2126569</guid>
-            <pubDate>Fri, 16 Apr 2021 14:24:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事沃勒：如果市场认为我们正面临通货膨胀失控，我们将在通胀保值债券（TIPS）定价中看到这一点。]]></title>
-            <guid>2126568</guid>
-            <pubDate>Fri, 16 Apr 2021 14:24:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事沃勒：我们很乐意让通胀率超过2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawc0116564.d.html</link>
-            <guid>2126567</guid>
-            <pubDate>Fri, 16 Apr 2021 14:24:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事沃勒：认为通货膨胀的上升将是暂时的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7256118.d.html</link>
-            <guid>2126566</guid>
-            <pubDate>Fri, 16 Apr 2021 14:22:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
