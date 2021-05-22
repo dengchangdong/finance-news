@@ -4,11 +4,23 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 22 May 2021 18:47:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 May 2021 19:33:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Newsom Analysis总裁Darin Newsom：除非金价能在下周继续创高，否则会有重新测试1850美元/盎司支撑位的需求。近期现货黄金订单似乎正在为短期下跌趋势做准备，若跌破1860美元/盎司一线恐引发一波更大的回调。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmyaawc6938585.d.html</link>
+            <guid>2182385</guid>
+            <pubDate>Sat, 22 May 2021 19:22:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【申港证券：美股牛市有望继续延续】申港证券认为，随着美股整体盈利改善，标普500PE-TTM已经从年初的42倍PE下修至33倍PE，回到了2020年三季度水平。标普500一季度盈利一致预期同比增长24%以上，随着美国疫苗接种人数突破人口三分之一，美国经济全面开放后持续复苏盈利改善预期足够支持美股目前估值水平。美联储缩减购债和加息预期尚很遥远，那么影响美股风险溢价的扰动因素短期（二、三季度）并不显著，在继续宽松的量化政策下美股牛市依然延续。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmxzfmm4076474.d.html</link>
+            <guid>2182216</guid>
+            <pubDate>Sat, 22 May 2021 19:00:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中央气象台继续发布暴雨蓝色预警】中央气象台5月22日18时继续发布暴雨蓝色预警：预计22日20时至23日20时，贵州东部、广西北部、重庆东南部、湖南北部、湖北东南部、江西北部、安徽南部、浙江西部及西藏东南部等地部分地区有大到暴雨，其中，贵州东部、江西东北部等地局地有大暴雨。上述部分地区伴有短时强降水，局地有雷暴大风或冰雹等强对流天气。相关地区发生山洪、地质灾害的风险加大，需注意做好实时监测、防汛预警和转移避险等防范工作。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmyaawc6937000.d.html</link>
@@ -593,18 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmyaawc6888179.d.html</link>
             <guid>2181493</guid>
             <pubDate>Sat, 22 May 2021 08:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡卫生部长：本地社区疫情趋于稳定，但依旧需要谨慎应对。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmyaawc6887856.d.html</link>
-            <guid>2181492</guid>
-            <pubDate>Sat, 22 May 2021 08:45:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心： 热带风暴安娜在大西洋形成。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmyaawc6887843.d.html</link>
-            <guid>2181491</guid>
-            <pubDate>Sat, 22 May 2021 08:45:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
