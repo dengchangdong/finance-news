@@ -4,11 +4,52 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 22 May 2021 15:31:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 May 2021 16:50:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国纽约州新增1347例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmxzfmm4068542.d.html</link>
+            <guid>2181709</guid>
+            <pubDate>Sat, 22 May 2021 16:31:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺瓦瓦克斯宣布与韩国企业签署研发和生产新冠疫苗的备忘录。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmxzfmm4068162.d.html</link>
+            <guid>2181704</guid>
+            <pubDate>Sat, 22 May 2021 16:25:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际原子能机构（IAEA）：总干事预计将于当地时间周日下午举行新闻发布会，具体时间将稍后确定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmyaawc6928851.d.html</link>
+            <guid>2181697</guid>
+            <pubDate>Sat, 22 May 2021 16:21:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席东布罗夫斯基斯：欧洲银行业将发挥“确保成功和同步的经济复苏”作用，而迄今为止，企业破产和不良贷款在银行资产负债表上“相对较低”。]]></title>
+            <guid>2181696</guid>
+            <pubDate>Sat, 22 May 2021 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席东布罗夫斯基斯：新冠疫情留下了“不受欢迎的后果”，应避免过早取消支持性措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmyaawc6928786.d.html</link>
+            <guid>2181695</guid>
+            <pubDate>Sat, 22 May 2021 16:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西太平洋银行Westpac策略师：澳元兑美元陷于窄幅震荡，上行因贸易摩擦受限于0.78，但因美元疲软和大宗商品价格强劲在0.77一线获支撑。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmyaawc6927259.d.html</link>
+            <guid>2181671</guid>
+            <pubDate>Sat, 22 May 2021 15:59:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【报告：上半年中国系统性金融风险呈现下降趋势】《2021上半年系统性金融风险报告》在2021清华五道口全球金融论坛上发布，清华大学五道口金融学院副院长周皓表示，“中国2021年上半年系统性金融风险的指数呈现下降的趋势，没有触及重要的风险警戒线。”报告显示，新冠肺炎疫情发生以来，宏观杠杆率的上升虽使得金融体系的巨灾风险指标出现小幅波动，但金融体系整体韧性的增强、经济强大的修复力、“以我为主”的宏观经济结构性政策均促使风险从快速发散转为逐步收敛。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmyaawc6926400.d.html</link>
+            <guid>2181670</guid>
+            <pubDate>Sat, 22 May 2021 15:40:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[苹果公司“现时的系统状态”页面显示，部分服务出现问题。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmxzfmm4064650.d.html</link>
@@ -564,46 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmyaawc6878096.d.html</link>
             <guid>2181473</guid>
             <pubDate>Sat, 22 May 2021 07:28:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日本放送协会NHK：日本北海道新增新冠肺炎确诊病例658例，已连续4天单日新增超600例，新增死亡病例5例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmxzfmm4016835.d.html</link>
-            <guid>2181472</guid>
-            <pubDate>Sat, 22 May 2021 07:25:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【连续8天超百例！台湾新增321例本土确诊病例】台湾地区流行疫情指挥中心今日（22日）公布，台湾新增323例新冠肺炎确诊病例，分别为321例本土及2例境外输入。另有400例本土个案为校正回归上周各日个案。确诊个案中新增2例死亡。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmxzfmm4016067.d.html</link>
-            <guid>2181471</guid>
-            <pubDate>Sat, 22 May 2021 07:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【隆平高科发文：深切哀悼袁隆平院士】5月22日，隆平高科通过公众号发文《深切哀悼袁隆平院士！》。文章称，隆平高科成立以来，袁隆平院士非常关心隆平高科的发展，在总体发展战略、作物品类和全球业务布局、商业化育种和生物技术体系建设、第三代超级稻等重大科技创新攻关、现代化管理体系构建等方面给予公司一系列客观务实、高屋建瓴的顶层设计指导。袁隆平院士为隆平高科成长为国内综合实力领先的民族种子企业做出了永不磨灭的重大贡献。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmxzfmm4015876.d.html</link>
-            <guid>2181470</guid>
-            <pubDate>Sat, 22 May 2021 07:19:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【诺奖得主斯宾塞：可能2022年可以真正接近全球经济复苏开始】主题为“新格局 新发展 新金融”的2021清华五道口全球金融论坛5月22日至23日召开。2001年诺贝尔经济学奖得主迈克尔·斯宾塞（Michael Spence）对话清华大学金融科技研究院副院长魏晨阳并发表演讲。迈克尔·斯宾塞对世界经济的未来表示了乐观，他认为，可能到2022年全球可以达到完全的疫苗接种，可以真正接近全球经济复苏的开始，也就是所谓的“后疫情时代”。]]></title>
-            <guid>2181468</guid>
-            <pubDate>Sat, 22 May 2021 07:16:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【诺贝尔经济学奖得主“点名”三大领域：未来投资回报率会非常好】2001 年诺贝尔经济学奖得主迈克尔·斯宾塞今天通过线上参加“2021清华五道口全球金融论坛”时“点名”了他未来看好的三大领域：数字化的转型、生物制药的黄金时代以及能源的转型。他称这些领域的增长机会非常好、投资回报率也会非常好。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmyaawc6876041.d.html</link>
-            <guid>2181467</guid>
-            <pubDate>Sat, 22 May 2021 07:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网自动测定：05月22日15时06分在青海果洛州玛多县附近（北纬34.47度，东经98.80度）发生4.8级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>2181466</guid>
-            <pubDate>Sat, 22 May 2021 07:11:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其跨境空袭伊拉克库尔德自治区 四个村庄引发大火】当地时间5月21日，土耳其空军对伊拉克库尔德自治区的杜胡克省乡村地区发动空袭，在四个村庄引发大火，火势持续蔓延，数千平方米的农田被毁。当地居民称，空袭造成的损失已经让他们丧失收入来源，如果火情持续，所有人就必须从村庄撤离。空袭还破坏了一处供水设施，切断了当地人的水源。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmyaawc6875574.d.html</link>
-            <guid>2181465</guid>
-            <pubDate>Sat, 22 May 2021 07:10:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
