@@ -4,11 +4,41 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 22 May 2021 19:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 May 2021 20:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[道明证券全球策略主管Bart Melek：料美联储收紧政策力度不大，金价有望重返1900美元/盎司上方。通胀预期上升且美联储乐见通胀升至2%以上将合力推升金价。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmyaawc6940955.d.html</link>
+            <guid>2182788</guid>
+            <pubDate>Sat, 22 May 2021 20:27:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【甘肃景泰一马拉松百公里越野赛已发现16人遇难】记者从黄河石林山地马拉松百公里越野赛失联救援指挥部获悉，22日上午在甘肃省白银市景泰县黄河石林景区举行的黄河石林山地马拉松百公里越野赛遭遇极端天气，截至23日3时，已发现16人遇难，还有5人失联正在救援中。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmxzfmm4079008.d.html</link>
+            <guid>2182684</guid>
+            <pubDate>Sat, 22 May 2021 20:11:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[盛宝银行大宗商品策略主管Ole Hansen：受投资者获利了结以及过快上涨引起多方关注影响，伦敦金属交易所（LME）期铜本周创下自2020年9月以来最大单周跌幅。应该说这种幅度的回调早该出现，因为过去一个月期铜价格几乎直线上涨，现在似乎进入盘整阶段，但未来恐跌至9600美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmxzfmm4078632.d.html</link>
+            <guid>2182651</guid>
+            <pubDate>Sat, 22 May 2021 20:04:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  世卫组织：全球累计新冠肺炎确诊病例超过1.657亿例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmyaawc6939447.d.html</link>
+            <guid>2182555</guid>
+            <pubDate>Sat, 22 May 2021 19:49:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【植信投资研究院：大宗商品超级周期缺乏需求基础】植信投资研究院认为，长期来看，大宗商品超级周期缺乏需求基础。过去几次大宗商品超级周期都与主要经济体的工业化和城镇化快速发展带来的需求大增有关，但未来各主要经济体对大宗商品的需求都难以出现过去曾经有过的持续大幅上升，仅从短期的、阶段性的需求释放和货币因素变化来认定大宗商品开启超级周期有失偏颇。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmxzfmm4077940.d.html</link>
+            <guid>2182494</guid>
+            <pubDate>Sat, 22 May 2021 19:43:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Newsom Analysis总裁Darin Newsom：除非金价能在下周继续创高，否则会有重新测试1850美元/盎司支撑位的需求。近期现货黄金订单似乎正在为短期下跌趋势做准备，若跌破1860美元/盎司一线恐引发一波更大的回调。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmyaawc6938585.d.html</link>
@@ -576,35 +606,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmyaawc6890429.d.html</link>
             <guid>2181499</guid>
             <pubDate>Sat, 22 May 2021 09:09:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日本放送协会NHK：日本大阪新增406例新冠肺炎确诊病例，新增24例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmxzfmm4029227.d.html</link>
-            <guid>2181498</guid>
-            <pubDate>Sat, 22 May 2021 09:08:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国卫生大臣汉考克：32岁以上的人群现在可以预约接种新冠肺炎疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmxzfmm4029193.d.html</link>
-            <guid>2181497</guid>
-            <pubDate>Sat, 22 May 2021 09:08:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【肖钢：新基建存在突出问题 市场化投融资模式尚不健全】清华大学五道口金融学院不动产金融中心理事长、全国政协委员，中国证券监督管理委员会原主席肖钢表示，十三五以来新基建建设提速，我国初步建成最大规模5G网络。但是，当前新基建存在着突出问题，建设资金需求量巨大，而社会资本投入还没有形成政府引导、企业为主、市场运作的投融资格局，制约了发展。]]></title>
-            <guid>2181496</guid>
-            <pubDate>Sat, 22 May 2021 09:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国证券业协会：中国证券业协会第七次会员大会5月22日在北京举行。中国证监会主席易会满出席会议，并作了题为《坚持稳中求进 优化发展生态 推动证券行业高质量发展新进步》的讲话。中国证监会副主席李超出席会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmxzfmm4028057.d.html</link>
-            <guid>2181494</guid>
-            <pubDate>Sat, 22 May 2021 08:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：亚热带风暴安娜位于百慕大东北方向约200英里处，最大持续风速为每小时45英里。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmyaawc6888179.d.html</link>
-            <guid>2181493</guid>
-            <pubDate>Sat, 22 May 2021 08:49:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
