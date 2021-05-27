@@ -4,11 +4,271 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Thu, 27 May 2021 12:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 May 2021 13:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：05月27日21时06分在青海果洛州玛沁县（北纬34.46度，东经99.17度）发生4.9级地震，震源深度8千米。]]></title>
+            <guid>2190616</guid>
+            <pubDate>Thu, 27 May 2021 13:25:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币重回40000美元/枚上方，日内涨1.76%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5047095.d.html</link>
+            <guid>2190614</guid>
+            <pubDate>Thu, 27 May 2021 13:23:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今日财经TOP10】➊「韩正主持召开碳达峰碳中和工作领导小组第一次全体会议」➋「刘鹤与美贸易代表戴琪通话」➌「全国外汇市场自律机制第七次工作会议在京召开」➍「1-4月份全国规模以上工业企业利润同比增长1.06倍 两年平均增长22.3%」➎「商务部：前4个月我国对“一带一路”沿线国家直接投资额增长14%」➏「市场监管总局依法对“十荟团”作出顶格罚款并责令停业整顿」➐「网易互娱hr称可帮给女同事下药 网易回应：正调查」➑「烂尾24年巨人大厦迎来新主人」➒「深圳对新房进行价格指导：分批推也不能涨价 并不得借装修抬高房价」➓「国务院安委办攀枝花暗访煤矿安全 矿长一问三不知」http://t.cn/A6VXUX84]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7910233.d.html</link>
+            <guid>2190613</guid>
+            <pubDate>Thu, 27 May 2021 13:23:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储卡普兰：“相对充裕”的就业机会，“弹性”的工资增长与劳动力市场吃紧的表现一致。美联储的政策制定者应该记住，劳动力市场供应的增长可能低于预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7909080.d.html</link>
+            <guid>2190612</guid>
+            <pubDate>Thu, 27 May 2021 13:12:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：05月27日21时06分在青海果洛州玛沁县附近发生4.9级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5045421.d.html</link>
+            <guid>2190611</guid>
+            <pubDate>Thu, 27 May 2021 13:10:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国共和党寻求在基础设施上投入约9280亿美元。美国共和党的提议包括比已经计划的基础设施多出2570亿美元；基础设施提案包括将980亿美元用于公共交通系统，720亿美元用于水利基础设施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7908119.d.html</link>
+            <guid>2190609</guid>
+            <pubDate>Thu, 27 May 2021 13:05:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  大连圣亚：获股东杨子平及其一致行动人蒋雪忠举牌，持股达到10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5044830.d.html</link>
+            <guid>2190608</guid>
+            <pubDate>Thu, 27 May 2021 13:05:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息 ：亚马逊、微软和谷歌与波音公司达成了价值10亿美元的云计算交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7907908.d.html</link>
+            <guid>2190607</guid>
+            <pubDate>Thu, 27 May 2021 13:04:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国贸易代表戴琦：美国与欧盟的飞机补贴争端可能很快结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7907891.d.html</link>
+            <guid>2190606</guid>
+            <pubDate>Thu, 27 May 2021 13:03:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车股价盘前上涨2.9％，此前宣布工厂将重启。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7907705.d.html</link>
+            <guid>2190605</guid>
+            <pubDate>Thu, 27 May 2021 13:02:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：通用汽车因芯片短缺而关闭的5家工厂将重启。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5044294.d.html</link>
+            <guid>2190604</guid>
+            <pubDate>Thu, 27 May 2021 13:00:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[夜盘期货开盘，铁矿、热卷、焦炭、螺纹涨逾2%，焦煤涨逾1%；纸浆跌逾4%，苯乙烯、沥青、郑醇跌逾1%。]]></title>
+            <guid>2190603</guid>
+            <pubDate>Thu, 27 May 2021 13:00:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  科创板上市委公告，嘉和美康（北京）科技股份有限公司首发定于6月3日上会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5043921.d.html</link>
+            <guid>2190602</guid>
+            <pubDate>Thu, 27 May 2021 12:58:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[G7外长会议声明：G7集团对白俄罗斯前所未见的“劫机”行为表示谴责。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5043791.d.html</link>
+            <guid>2190601</guid>
+            <pubDate>Thu, 27 May 2021 12:57:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【凯投宏观：标普500指数在未来几年只会小幅上涨】凯投宏观经济学家预计，标普500指数不会很快恢复快速上涨。该指数在去年获得更高估值后的上涨在很大程度上已经到了尽头。预计未来两年美国长期国债的实际收益率将上升，拖累股市估值。经济学家怀疑风险溢价是否有很大余地进一步缩小以补偿这两种情况。因此该指数进一步上涨需要盈利方面出现增长，但人们对企业盈利的乐观情绪似乎已经打了折扣。预计随着复苏，金融等部分板块的表现将继续优于整体指数。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7906653.d.html</link>
+            <guid>2190600</guid>
+            <pubDate>Thu, 27 May 2021 12:53:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【分析师预计欧佩克+下周开会时将确认增加石油供应的计划】接受机构调查的大部分分析师均预计，欧佩克及其盟友料将在下周开会时重申增产计划，以恢复更多疫情期间停掉的石油产量。欧佩克+将批准在7月份每天增产84万桶的计划，从而完成这个分三步走以便在今年夏天恢复略超过200万桶石油产量的进程。几位未具名的欧佩克+代表也表达了相同的看法。但许多分析师也认为，该联盟的决策仍将因其成员伊朗的不确定性而受到影响。德黑兰和华盛顿正在进行谈判，可能导致美国取消对该国的制裁，从而允许大量伊朗石油重回世界市场。因此几乎所有受访者都预测欧佩克+6月1日开会时不太可能宣布7月份以后的产量计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7906517.d.html</link>
+            <guid>2190599</guid>
+            <pubDate>Thu, 27 May 2021 12:52:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贝莱德称正在“研究”比特币等加密货币】全球最大资管公司贝莱德CEO Fink表示，该公司正在研究比特币等加密货币，以确定这一资产类别是否能够带来逆周期裨益。作为一种类似于黄金的资产类别，加密货币可能会在长期投资中发挥作用；目前而言，要确定加密货币是否“只是一种投机性交易工具”还为时过早。]]></title>
+            <guid>2190598</guid>
+            <pubDate>Thu, 27 May 2021 12:50:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【湖北省委副书记、代省长王忠林调研湖北玲珑轮胎】玲珑轮胎消息，5月26日，湖北省委副书记、代省长王忠林到荆门调研，期间对湖北玲珑轮胎有限公司工厂进行调研。在湖北玲珑轮胎，王忠林仔细察看了一期全钢轮胎生产线，认真了解了企业数字化、智能化工业互联网平台建设情况，鼓励企业持续增加投入、做大做强，要求相关部门加强全省汽车产业发展规划引导，提高本地配套率，延长产业链条。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7906040.d.html</link>
+            <guid>2190597</guid>
+            <pubDate>Thu, 27 May 2021 12:48:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[机构评美国4月耐用品订单数据：耐用品订单月率录得自2020年4月以来的首次下跌，然而，报告中还指出，扣除飞机的非国防资本耐用品订单环比增长了2.3%，远高于预期的1.0%，并且3月份的该数据被修正得更高，这表明4月份总耐用品订单的下降是“暂时的”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5042707.d.html</link>
+            <guid>2190596</guid>
+            <pubDate>Thu, 27 May 2021 12:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国一季度GDP修正值速评】 美国一季度实际GDP年化季环比修正值增长6.4%，略低于预期值6.5%，与初值一致。具体来看，个人消费支出(PCE)、非住宅固定投资、联邦政府支出、住宅固定投资以及州和地方政府支出录得增长，但这些支出被私人库存投资和出口的减少所抵消。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5042690.d.html</link>
+            <guid>2190595</guid>
+            <pubDate>Thu, 27 May 2021 12:47:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【现代牙科2个多月涨逾400% 掘金数千亿口腔医疗赛道】今日，全球领先的义齿器材供货商现代牙科股价再度拉升，涨超22%报6.85港元，续创历史新高，自3月16日起累计涨逾400%。现代牙科是一家全面的牙科耗材制造商，主要负责义齿代工，也有矫正和种植产品的加工，目前是全球最大的义齿生产商之一。券商预计中国种植牙潜在市场约为1143亿元，对标美国齿科消费结构计算，2019年我国口腔医疗潜在市场规模已高达9375亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5042351.d.html</link>
+            <guid>2190594</guid>
+            <pubDate>Thu, 27 May 2021 12:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[经合组织主席古里亚：将在6月或7月就科技巨头的税收问题达成协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5042231.d.html</link>
+            <guid>2190593</guid>
+            <pubDate>Thu, 27 May 2021 12:43:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【手机智能魔盒畅销引爆5000亿配件市场 产业链相关公司望迎来机遇】据报道，日前臻迪科技旗下新品随动S1手机智能魔盒全球同步首发，销售状况异常火爆，首发迅速售罄。手机配件拥有庞大市场，但受限于品类繁杂，同质化竞争激烈。臻迪科技旗下的随动S1开创了“手机智能魔盒”这一全新品类，将众多配件全面整合。随着新款手机智能魔盒产品的热销，包括手持云台等相关产业链望迎来风口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5042210.d.html</link>
+            <guid>2190592</guid>
+            <pubDate>Thu, 27 May 2021 12:43:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[财经网站Fxstreet评美国4月耐用品订单月率：美国人口普查局周四公布的数据显示，美国4月份耐用品订单下降1.3%，至2462亿美元，降幅32亿美元，低于市场预期的0.7%的增长，而3月份的数据从0.5%修正为+1.3%。排除运输业，新订单增加了1%，除国防外的领域，新订单几乎没有变化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7905479.d.html</link>
+            <guid>2190591</guid>
+            <pubDate>Thu, 27 May 2021 12:43:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[经合组织主席古里亚：美国政府在科技巨头税收问题上的态度做出了180度大转弯。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7905372.d.html</link>
+            <guid>2190590</guid>
+            <pubDate>Thu, 27 May 2021 12:42:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲央行管委魏德曼：不应将财政规则抛诸脑后】 欧洲央行管委兼德国央行行长魏德曼：虽然财政支持措施不应当过早撤出，但是也不应将新冠疫情当作借口，而完全不顾财政规则。不同意对德国“债务刹车”法的严厉批评，这不意味着应当反对对财政规则做任何的修改，但仍需警惕公共债务高企。预计当前危机过后，货币政策和财政政策的紧张关系将重新显现。必须明确，货币政策不会为财政政策服务，财政支持必须是有针对性、临时的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7905199.d.html</link>
+            <guid>2190589</guid>
+            <pubDate>Thu, 27 May 2021 12:40:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CNBC评美国至5月22日当周初请失业金人数：美国劳工部周四公布的数据显示，美国就业市场上周进一步接近流感大流行前的水平，虽然这一水平仍远高于去年3月新冠肺炎爆发前的正常水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5041720.d.html</link>
+            <guid>2190588</guid>
+            <pubDate>Thu, 27 May 2021 12:40:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[财经网站Fxstreet评美国第一季度GDP年化季率：美国经济分析局周四发布的第二次估计数据显示，2021年第一季度，美国实际国内生产总值(GDP)以年率6.4%的速度增长。这一数据符合最初的估计，低于6.5%的市场预期。消费支出和非住宅固定投资的向上修正被出口和私人库存投资的向下修正抵消了，在计算GDP时，进口是一个减数项，但它被向上修正了。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7904874.d.html</link>
+            <guid>2190587</guid>
+            <pubDate>Thu, 27 May 2021 12:38:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世界银行官员：土耳其的经济前景“非常不确定”，取决于货币政策和疫情控制措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5041459.d.html</link>
+            <guid>2190586</guid>
+            <pubDate>Thu, 27 May 2021 12:37:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线上扬5美元，现报1896.03美元/盎司。现货白银短线走高0.1美元，现报27.67美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7904751.d.html</link>
+            <guid>2190585</guid>
+            <pubDate>Thu, 27 May 2021 12:37:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商务部经济分析局：第一季度实际GDP的增长反映了个人消费支出(PCE)、非住宅固定投资、联邦政府支出、住宅固定投资以及州和地方政府支出的增长，但这些支出被私人库存投资和出口的减少部分抵消。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5041320.d.html</link>
+            <guid>2190584</guid>
+            <pubDate>Thu, 27 May 2021 12:36:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[机构评美国至5月22日当周初请失业金人数：在新冠病毒大流行期间，由于积压、欺诈和新项目，初请失业金数据一直不稳定。此外，多个州最近宣布退出联邦失业救济计划，争论的焦点是这项救济计划是否会让雇主更难雇佣工人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5041259.d.html</link>
+            <guid>2190583</guid>
+            <pubDate>Thu, 27 May 2021 12:36:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[机构评美国至5月22日当周初请失业金人数：美初请失业金人数的下降凸显出，随着疫苗接种的加快和剩余与疫情相关的限制得到放松，就业市场正在稳步复苏。随着越来越多的美国人外出旅游和社交，未来几个月的招聘预计将继续增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5041120.d.html</link>
+            <guid>2190582</guid>
+            <pubDate>Thu, 27 May 2021 12:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：G7国家部长们接近达成最低企业税率。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5041105.d.html</link>
+            <guid>2190581</guid>
+            <pubDate>Thu, 27 May 2021 12:34:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[财经网站Forexlive分析师Greg：预计到9月份新冠疫情失业援助到期时，初请失业金人数将大幅下降，因为当前选择接受政府援助而不去工作的人将重返岗位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7904342.d.html</link>
+            <guid>2190580</guid>
+            <pubDate>Thu, 27 May 2021 12:34:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  数据公布后，美股股指期货波动不大。道指期货涨0.26%，标普500指数期货跌0.08%，纳指期货跌0.46%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5040866.d.html</link>
+            <guid>2190579</guid>
+            <pubDate>Thu, 27 May 2021 12:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至5月22日当周初请失业金人数录得40.6万人，实现连续五周下跌，续创2020年3月14日当周以来最低值。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7904070.d.html</link>
+            <guid>2190578</guid>
+            <pubDate>Thu, 27 May 2021 12:31:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国4月耐用品订单月率意外录得-1.3%，创2020年4月以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5040767.d.html</link>
+            <guid>2190577</guid>
+            <pubDate>Thu, 27 May 2021 12:31:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国上周首次申领失业救济人数为40.6万人，预估为42.5万人，前值为44.4万人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5040670.d.html</link>
+            <guid>2190576</guid>
+            <pubDate>Thu, 27 May 2021 12:30:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国一季度实际GDP年化季环比修正值 6.4%，预期 6.5%，前值 6.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7903948.d.html</link>
+            <guid>2190575</guid>
+            <pubDate>Thu, 27 May 2021 12:30:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  劳斯莱斯CEO：今年订单已满。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7903603.d.html</link>
+            <guid>2190574</guid>
+            <pubDate>Thu, 27 May 2021 12:27:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【十荟团回应被市场监管总局再次处罚：自查并全面整改】今日，市场监管总局对北京十荟科技有限公司不正当价格行为案再次作出行政处罚决定，并公布行政处罚决定书，对其合并罚款150万元，责令 “十荟团”平台江苏区域停业整顿3日。对此，北京十荟科技有限公司发表回应称，公司收到市场监督管理总局的行政处罚决定书，因公司平台在部分区域商家销售的商品涉及违反国家相关价格政策。对此，公司高度重视，诚心接受处罚，并快速加强业务整改。平台已第一时间对所涉及商家商品进行下架处理，同时成立专项小组，进行严格自查及全面整改，坚决杜绝不正当竞争行为，诚心接受社会各界共同监督。 (澎湃)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5040146.d.html</link>
+            <guid>2190573</guid>
+            <pubDate>Thu, 27 May 2021 12:26:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据灯塔专业版实时数据，截至5月27日晚20时18分，中国电影市场2021年度总票房(含预售)突破250亿元，总观影人次达 6.09亿，总场次5260.19万。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5040040.d.html</link>
+            <guid>2190572</guid>
+            <pubDate>Thu, 27 May 2021 12:25:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股盘前消息速报】美国股指期货周四盘前涨跌互现，美联储的表态出现了微妙变化，各国央行似乎更接近于考虑缩减其紧急刺激措施，这令市场保持警惕。截至发稿，道指期货涨0.3%，标普500期指跌0.01%，纳指期货跌0.3%。②英国富时100指数下跌0.1%，德国DAX指数下跌0.3%，法国CAC40指数上涨0.8%。③美元试图站稳90关口。④WSB概念股盘前涨跌互现，Sundial Grower、黑莓涨约5.4%，AMC院线跌3.3%，游戏驿站跌2.8%。⑤推特盘前跌0.48%。俄罗斯法院将对推特的罚款上调至1900万卢比。⑥Vertex Energy盘前暴涨115%，公司将以7500万美元现金收购荷兰皇家壳牌位于阿拉巴马州的炼油厂。⑦Snowflake盘前跌3.76%，第一财季净亏损明显扩大，预计第二财季产品销售增速将较上一季度放缓。]]></title>
+            <guid>2190571</guid>
+            <pubDate>Thu, 27 May 2021 12:24:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【欧盟计划拨款超过3亿欧元，支持文化产业复苏】当地时间5月26日，欧盟委员会发布公报称，2021年，欧盟“创意欧洲”计划将拨款超过3亿欧元，以帮助来自各个文化领域的专业人士和艺术家跨学科和跨界合作，从而吸引更多的受众；据悉，该计划过去7年总预算约为24亿欧元。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7903119.d.html</link>
@@ -342,269 +602,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5030979.d.html</link>
             <guid>2190503</guid>
             <pubDate>Thu, 27 May 2021 11:14:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行委员弗利葛：将通胀与上世纪70年代进行比较是错误的，而且没有考虑到自那以后货币政策的制度框架已经发生了根本性的变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7894184.d.html</link>
-            <guid>2190502</guid>
-            <pubDate>Thu, 27 May 2021 11:13:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD持续走高，短线累涨近50点，现报1.4167。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5030742.d.html</link>
-            <guid>2190501</guid>
-            <pubDate>Thu, 27 May 2021 11:12:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行委员弗利葛：包括英国央行储备在内，英国政府债券的平均加权到期日与10年前大致相同。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5030688.d.html</link>
-            <guid>2190500</guid>
-            <pubDate>Thu, 27 May 2021 11:12:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行委员弗利葛：相对于过去几十年，目前的中性利率非常低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7893993.d.html</link>
-            <guid>2190499</guid>
-            <pubDate>Thu, 27 May 2021 11:12:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据央视：韩正主持召开碳达峰碳中和工作领导小组第一次全体会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7893935.d.html</link>
-            <guid>2190498</guid>
-            <pubDate>Thu, 27 May 2021 11:11:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行委员弗利葛：在下行情景中，英国央行利率可能跌至负值，并且需要采取更多措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7893916.d.html</link>
-            <guid>2190497</guid>
-            <pubDate>Thu, 27 May 2021 11:11:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行委员弗利葛：货币政策将关注中期前景，而不是暂时性因素。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5030457.d.html</link>
-            <guid>2190496</guid>
-            <pubDate>Thu, 27 May 2021 11:10:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行委员弗利葛：没有迹象显示通胀上升的尾部风险有所增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7893766.d.html</link>
-            <guid>2190495</guid>
-            <pubDate>Thu, 27 May 2021 11:10:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行委员弗利葛：过早收紧政策比过晚收紧的代价更大。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7893578.d.html</link>
-            <guid>2190494</guid>
-            <pubDate>Thu, 27 May 2021 11:09:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行委员弗利葛：仍然有可能需要货币政策来进一步进行经济模拟，以帮助消除疲软，并确保在经济增长令人失望时出现通货膨胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5030172.d.html</link>
-            <guid>2190493</guid>
-            <pubDate>Thu, 27 May 2021 11:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行委员弗利葛：在主要情景下，首次加息可能会发生在2022年。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5030160.d.html</link>
-            <guid>2190492</guid>
-            <pubDate>Thu, 27 May 2021 11:09:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD短线走高35点，现报1.4153。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5030143.d.html</link>
-            <guid>2190491</guid>
-            <pubDate>Thu, 27 May 2021 11:09:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行委员弗利葛：利率的首次上调可能只会持续到明年的一段时间，之后会进一步适度收紧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7893158.d.html</link>
-            <guid>2190490</guid>
-            <pubDate>Thu, 27 May 2021 11:06:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行委员弗利葛：如果休假计划的过渡更加顺利，那么提早一些加息将是合适的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7893139.d.html</link>
-            <guid>2190489</guid>
-            <pubDate>Thu, 27 May 2021 11:06:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行货币政策委员会维列杰：人们担心，摆脱临时休假的过渡时期失业率确实会小幅上升，但是经济的供应潜力受到的负面影响较小，因此仍有一些供应过剩的情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5029562.d.html</link>
-            <guid>2190488</guid>
-            <pubDate>Thu, 27 May 2021 11:05:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【台华新材、中大力德发行可转债事项5月31日上会】证监会公告，浙江台华新材料股份有限公司、宁波中大力德智能传动股份有限公司可转债事项5月31日上会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7892929.d.html</link>
-            <guid>2190487</guid>
-            <pubDate>Thu, 27 May 2021 11:05:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行货币政策委员会维列杰：英国经济的发展将与货币政策委员会5月份的预测类似，但表现会比预测情景更加疲软。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7892750.d.html</link>
-            <guid>2190486</guid>
-            <pubDate>Thu, 27 May 2021 11:04:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度卫生部官员：政府正在审查辉瑞（无法按时交付疫苗）的赔偿请求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7892032.d.html</link>
-            <guid>2190484</guid>
-            <pubDate>Thu, 27 May 2021 10:58:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度卫生部官员：辉瑞公司已经表示，可能在7月份就可以供应一定量的新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5028552.d.html</link>
-            <guid>2190483</guid>
-            <pubDate>Thu, 27 May 2021 10:58:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【证监会：苏州林华医疗器械首发未获通过】证监会公告，苏州林华医疗器械股份有限公司（首发）未获通过。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5028136.d.html</link>
-            <guid>2190481</guid>
-            <pubDate>Thu, 27 May 2021 10:55:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：感染印度变种新冠病毒的人数正在增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5027060.d.html</link>
-            <guid>2190477</guid>
-            <pubDate>Thu, 27 May 2021 10:47:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：疫苗对印度变种新冠病毒有效，特别是完成两剂接种之后。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7890312.d.html</link>
-            <guid>2190476</guid>
-            <pubDate>Thu, 27 May 2021 10:47:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：（就下一阶段的封锁措施）将耐心等待更多数据支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7890198.d.html</link>
-            <guid>2190475</guid>
-            <pubDate>Thu, 27 May 2021 10:46:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：我们一直预计在最新的封锁措施解除后新冠肺炎病例将会增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7890146.d.html</link>
-            <guid>2190474</guid>
-            <pubDate>Thu, 27 May 2021 10:45:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞穗：将英伟达目标价从675美元升至710美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5026001.d.html</link>
-            <guid>2190473</guid>
-            <pubDate>Thu, 27 May 2021 10:40:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳市住建局证实发布调控文件：新房分批加推不能涨价】深圳市住建局相关人士证实，今日流传于网络的名为《深圳市住房和建设局关于进一步规范新建商品住房和商务公寓销售价格指导工作的通知》的文件为真。《通知》内容包括：对新房进行价格指导，预、现售商品住房和商务公寓的批准销售价格原则上不得超过上一年度至今同地段、同类型新房的网签价格；对于分期开发的项目，两次申请价格备案时间间隔未超过一年的，原则上按照前期备案价格进行批复等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5025209.d.html</link>
-            <guid>2190470</guid>
-            <pubDate>Thu, 27 May 2021 10:36:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：印尼方面将延长疫情限制措施至6月14日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5024990.d.html</link>
-            <guid>2190468</guid>
-            <pubDate>Thu, 27 May 2021 10:35:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：印尼将从6月1日开始对所有省份实行活动限制措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7888195.d.html</link>
-            <guid>2190467</guid>
-            <pubDate>Thu, 27 May 2021 10:34:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金发拉比：副总经理计划减持公司股份】金发拉比(002762)5月27日晚间公告，公司副总经理孙豫计划15个交易日后的6个月内，以集中竞价方式减持公司股份不超过55.96万股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5024539.d.html</link>
-            <guid>2190465</guid>
-            <pubDate>Thu, 27 May 2021 10:32:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福建银保监局相关负责人今日在银保监会媒体发布会上表示，辖区积极支持新能源生产消费“零碳”，支持新能源汽车全产业链孵化发展，为宁德时代新能源、厦钨新能源、冶金控股等一批新能源汽车上下游企业提供融资111亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7887719.d.html</link>
-            <guid>2190464</guid>
-            <pubDate>Thu, 27 May 2021 10:31:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[京东物流将于明日正式于港交所挂牌上市，今日富途暗盘收涨近30%，报52.35港元；发行价40.36港元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5024337.d.html</link>
-            <guid>2190463</guid>
-            <pubDate>Thu, 27 May 2021 10:31:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州本土疫情传播风险有限 市民可有序预约疫苗接种】在广州市疫情防控新闻发布会上，广州市卫生健康委副主任陈斌表示，当前本土疫情进一步传播风险有限。 下一步，广州市将继续做好病例救治、重点场所和重点人群甄别管控、全员核酸大排查等疫情处置工作。陈斌也呼吁广大市民减少人员集聚，做好个人防护，提前预约，就近接种疫苗。在疫苗供应方面，民众不必担心疫苗供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7887235.d.html</link>
-            <guid>2190462</guid>
-            <pubDate>Thu, 27 May 2021 10:29:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福建支持新能源汽车全产业链孵化发展 为宁德时代等提供融资111亿元】福建银保监局相关负责人今日在银保监会媒体发布会上表示，辖区积极支持新能源生产消费“零碳”，截至一季末，辖区新能源产业贷款余额768亿元，同比增长27%，高于各项贷款增速16个百分点。支持新能源汽车全产业链孵化发展，为宁德时代新能源、厦钨新能源、冶金控股等一批新能源汽车上下游企业提供融资111亿元。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5023841.d.html</link>
-            <guid>2190461</guid>
-            <pubDate>Thu, 27 May 2021 10:28:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：马来西亚方面对经济的“下行风险”保持警惕。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7887078.d.html</link>
-            <guid>2190460</guid>
-            <pubDate>Thu, 27 May 2021 10:28:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：马来西亚方面预计2021年的财政赤字将为GDP的6%，此前的目标是5.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5023355.d.html</link>
-            <guid>2190459</guid>
-            <pubDate>Thu, 27 May 2021 10:25:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：尽管马来西亚原油（MCO）存在下行风险，马来西亚方面预计2021年GDP增速将在6.0%-7.5%区间内。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7886378.d.html</link>
-            <guid>2190457</guid>
-            <pubDate>Thu, 27 May 2021 10:23:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国药现代：子公司国药致君收到国家药品监督管理局核准签发的注射用头孢曲松钠（1.0g）《药品补充申请批准通知书》，批准该药品通过仿制药质量和疗效一致性评价。]]></title>
-            <guid>2190456</guid>
-            <pubDate>Thu, 27 May 2021 10:23:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：马来西亚方面预计马来西亚原油（MCO）对GDP的影响将小于1个百分点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5022916.d.html</link>
-            <guid>2190455</guid>
-            <pubDate>Thu, 27 May 2021 10:22:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[投行Benchmark：将福特汽车(F.N)目标价从14美元升至16美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7886220.d.html</link>
-            <guid>2190454</guid>
-            <pubDate>Thu, 27 May 2021 10:22:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新华社：有的县城房价涨到三四万元 虚火过旺需“降温”】新华社今日发文称，近期，“县城房价过万”受到舆论关注，有的县城房价甚至达到三四万元一平方米。房价上涨压力较大的中小城市大多位于东部地区。中国房价行情网等平台数据显示，全国有100余个县（县级市）房价均价超过每平方米1万元，其中海南陵水最高，浙江义乌第二。从区域分布看，超过九成位于东部沿海地区，以浙江、江苏、福建和海南等较为集中。一些普通小县城房价接近每平方米2万元。县城的房价上涨，也隐现炒房团的身影。有受访专家认为，地方政府提高土地拍卖价格、房企制造“新房稀缺”印象等因素叠加，在一些地方引发新房抢购，形成房价上涨预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5022825.d.html</link>
-            <guid>2190453</guid>
-            <pubDate>Thu, 27 May 2021 10:22:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本首相菅义伟：将在与专家的商讨之后就是否延长疫情紧急状态作出决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7885694.d.html</link>
-            <guid>2190451</guid>
-            <pubDate>Thu, 27 May 2021 10:20:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【前瞻美国初请失业金人数：预计初请人数再创疫情爆发以来新低】经济学家预计，美国截至5月22日当周初请失业金人数将小幅降至42.5万人，延续稳步下降的趋势。随着经济更加充分地重启，劳动力市场复苏的迹象将继续增加。初请人数四周均值此前也降到了疫情爆发以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5022292.d.html</link>
-            <guid>2190450</guid>
-            <pubDate>Thu, 27 May 2021 10:19:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【央行开展50亿元CBS操作】央行消息，人民银行于2021年5月27日开展了央行票据互换（CBS）操作，操作量50亿元，期限3个月，费率0.10%。中国人民银行将综合考虑市场状况和合理需求，采用市场化方式稳慎开展CBS操作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7885472.d.html</link>
-            <guid>2190449</guid>
-            <pubDate>Thu, 27 May 2021 10:18:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本首相菅义伟：将在周五与专家组就疫情紧急状态进行商讨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7885391.d.html</link>
-            <guid>2190448</guid>
-            <pubDate>Thu, 27 May 2021 10:18:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
