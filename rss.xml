@@ -4,11 +4,153 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Thu, 27 May 2021 18:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 May 2021 19:29:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美联储卡普兰：我是中间派，不是鹰派。]]></title>
+            <guid>2190817</guid>
+            <pubDate>Thu, 27 May 2021 19:29:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  高盛(GS.N)CEO：特殊目的收购公司(SPAC)可以使用更直白的语言披露信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5074314.d.html</link>
+            <guid>2190816</guid>
+            <pubDate>Thu, 27 May 2021 19:24:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储卡普兰：10年期国债收益率上升是有益的，这也并不令人意外。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5074204.d.html</link>
+            <guid>2190815</guid>
+            <pubDate>Thu, 27 May 2021 19:21:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储卡普兰：如果美联储非常温和地放缓脚步，可能有助于管理风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5074186.d.html</link>
+            <guid>2190814</guid>
+            <pubDate>Thu, 27 May 2021 19:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储卡普兰：影响通货膨胀的一些供求问题可能会持续下去。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7937661.d.html</link>
+            <guid>2190813</guid>
+            <pubDate>Thu, 27 May 2021 19:21:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储卡普兰：对资产购买采取一些限制措施将是有益的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5074042.d.html</link>
+            <guid>2190812</guid>
+            <pubDate>Thu, 27 May 2021 19:17:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储卡普兰：现阶段美联储购买住房抵押贷款支持证券（MBS）可能会产生意料之外的副作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5074039.d.html</link>
+            <guid>2190811</guid>
+            <pubDate>Thu, 27 May 2021 19:17:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  高盛(GS.N)CEO：“在相当长的一段时间内”，我们将为石油和天然气提供融资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7937428.d.html</link>
+            <guid>2190810</guid>
+            <pubDate>Thu, 27 May 2021 19:15:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储卡普兰：我们正处于经济复苏之中，将继续朝着美联储的目标前进，此外尽早开始谈论缩减资产购买是明智的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5073947.d.html</link>
+            <guid>2190809</guid>
+            <pubDate>Thu, 27 May 2021 19:14:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  高盛(GS.N)CEO：“我对比特币非常谨慎”，“买家要当心”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7937332.d.html</link>
+            <guid>2190808</guid>
+            <pubDate>Thu, 27 May 2021 19:12:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  恒指期货夜盘收涨0.04%，报29198点，高水85点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7936642.d.html</link>
+            <guid>2190807</guid>
+            <pubDate>Thu, 27 May 2021 19:01:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根大通(JPM.N)CEO戴蒙：个人建议是人们要远离加密货币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7936377.d.html</link>
+            <guid>2190806</guid>
+            <pubDate>Thu, 27 May 2021 18:55:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登再次呼吁将企业税率提高至28％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5072981.d.html</link>
+            <guid>2190805</guid>
+            <pubDate>Thu, 27 May 2021 18:55:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间27日，俄罗斯外交部向外界表示，俄方已收到美国确认不返回《开放天空条约》的通知。此前俄罗斯媒体报道，俄联邦委员会（议会上院）将于6月2日全会期间审议关于废止《开放天空条约》的法案。（央视）]]></title>
+            <guid>2190804</guid>
+            <pubDate>Thu, 27 May 2021 18:51:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：在未来几周内会应对供应链压力。 将解决建筑材料的供应问题。未来几周将就供应瓶颈问题公布更多消息。 将采取新举措打击反竞争行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7935737.d.html</link>
+            <guid>2190803</guid>
+            <pubDate>Thu, 27 May 2021 18:40:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WTI 7月原油期货收涨0.64美元，涨幅0.96%，报66.85美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5072152.d.html</link>
+            <guid>2190802</guid>
+            <pubDate>Thu, 27 May 2021 18:34:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股铝板块普涨，世纪铝业(CENX.N)涨近8%，美国铝业(AA.N)涨超6%，凯撒铝业涨5.66%，中国铝业(ACH.N)涨3.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5072144.d.html</link>
+            <guid>2190801</guid>
+            <pubDate>Thu, 27 May 2021 18:34:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  上期所原油期货2107合约夜盘收涨1.72%，报430.90元人民币/桶。 沪金夜盘收跌0.34%，沪银收涨0.02%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7935378.d.html</link>
+            <guid>2190800</guid>
+            <pubDate>Thu, 27 May 2021 18:32:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货持续上行，涨超1%，现报66.86美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5071919.d.html</link>
+            <guid>2190799</guid>
+            <pubDate>Thu, 27 May 2021 18:31:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金价看涨情绪持续攀升 业内呼吁谨慎投资】5月份以来国际金市累计上涨7%，并有望创下今年以来单月最大涨幅。业内专家认为，面对市场的不确定性，黄金依然具有其独特的价值。但目前参与黄金投资，要避免“追涨杀跌”。光大期货贵金属分析师展大鹏认为，“后期市场走势的关键还是看投资者对货币政策收紧预期的解读。”美联储三季度应该会探讨如何缩减宽松的政策，不论是缩减的方式，还是市场对这一政策的解读都将对金市产生巨大影响。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7935308.d.html</link>
+            <guid>2190798</guid>
+            <pubDate>Thu, 27 May 2021 18:30:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：AMC院线(AMC.N)今日交易的期权合约超过200万份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7934883.d.html</link>
+            <guid>2190797</guid>
+            <pubDate>Thu, 27 May 2021 18:21:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  AMC院线涨幅扩大至超过52.14%，刷新日高至29.76美元。游戏驿站（GME）跌幅扩大至超过2.0%。散户抱团股ETF BUZZ目前涨超0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7934709.d.html</link>
+            <guid>2190796</guid>
+            <pubDate>Thu, 27 May 2021 18:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美前财长：美国应立即限制经济刺激措施】据美国媒体当地时间5月27日报道，美国前财政部长、资深经济学家劳伦斯·萨默斯向美国政府警告称，美国应立即对宽松的经济措施采取限制，否则将引发严重的通货膨胀。萨默斯表示，当前美国政府财政政策宽松、激进，美联储维持宽松的货币政策，这些都使美国承受巨大的通货膨胀风险。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7934216.d.html</link>
+            <guid>2190795</guid>
+            <pubDate>Thu, 27 May 2021 18:10:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心：截至今日，美国共接种了逾2.90亿剂新冠疫苗，前一日报告为2.89亿剂。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7934182.d.html</link>
+            <guid>2190794</guid>
+            <pubDate>Thu, 27 May 2021 18:10:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【专家：大宗商品价格将阶段性盘整 宏观政策应观望为主】中国人民大学副校长刘元春认为，考虑基数因素，生产者价格指数（PPI）高点可能出现在二季度末。但考虑到大宗商品涨价主要为恢复性上涨，供需错配仍然存在，后期价格会阶段性盘整。在居民消费方面，我国应对价格上涨的管理策略已经很成熟，但考虑到本次大宗商品价格上扬涉及范围更广、品种更多，更难控制，应对起来更复杂，所以要高度重视，目前宏观经济政策仍应以观望为主。（证券时报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5070607.d.html</link>
@@ -37,6 +179,12 @@
             <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7933446.d.html</link>
             <guid>2190789</guid>
             <pubDate>Thu, 27 May 2021 17:55:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国众议院议员Calvert：许多共和党人认为国防部的预算计划是“不够”的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7933071.d.html</link>
+            <guid>2190788</guid>
+            <pubDate>Thu, 27 May 2021 17:48:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【科创板IPO问询刨根问底 有投行项目想改换门庭】对于计划申报科创板或创业板的首发（IPO）企业，关于板块定位、行业属性已为两大重要“考题”。多家IPO企业在问询过程中，被监管层持续提问是否符合创业板上市定位或科创板科创属性要求。业内人士表示，包装过度或是蹭科创概念的企业在监管部门刨根问底下“现原形”。有投行人士表示，在新政下确实有企业客户感受到压力，闯关科创板有难度，有的调整上市计划，也有的在考虑其他上市路径。（证券时报）]]></title>
@@ -452,153 +600,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5059297.d.html</link>
             <guid>2190717</guid>
             <pubDate>Thu, 27 May 2021 15:19:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  雾芯科技(RLX.N)盘中涨超5%，报11.45美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5059291.d.html</link>
-            <guid>2190716</guid>
-            <pubDate>Thu, 27 May 2021 15:19:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：俄罗斯的行为具有重大威胁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5059256.d.html</link>
-            <guid>2190715</guid>
-            <pubDate>Thu, 27 May 2021 15:19:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【外汇自律机制澄清市场误区：人民币可能升值也可能贬值 避免偏离风险中性的“炒汇”行为】近期，人民币升值预期愈演愈烈，甚至有观点认为，应当适当升值抵消大宗商品价格上涨。全国外汇市场自律机制第七次工作会议27日的召开，澄清了市场对汇率走势的误区。会议认为，当前外汇市场总体平衡。未来，影响汇率的市场因素和政策因素很多，人民币既可能升值，也可能贬值。在外汇管理方面，此次会议做出进一步强调：企业和金融机构都应积极适应汇率双向波动的状态。企业要聚焦主业，树立“风险中性”理念，避免偏离风险中性的“炒汇”行为，不要赌人民币汇率升值或贬值，久赌必输。金融机构不仅不能帮助企业“炒汇”，自身也不宜“炒汇”，否则不利于银行稳健经营，还会造成汇率大起大落。]]></title>
-            <guid>2190714</guid>
-            <pubDate>Thu, 27 May 2021 15:18:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利新增4147例新冠肺炎确诊病例，前一天新增3937例；新增171例新冠肺炎死亡病例，前一天为121例。]]></title>
-            <guid>2190713</guid>
-            <pubDate>Thu, 27 May 2021 15:14:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  AMC院线涨幅扩大至20%，使得2021年迄今涨幅扩大至1000%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7922001.d.html</link>
-            <guid>2190712</guid>
-            <pubDate>Thu, 27 May 2021 15:11:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新华社：社区团购“十荟团”被重罚释放了什么信号？】市场监管总局27日依法对北京十荟科技有限公司处以150万元人民币顶格罚款，并责令“十荟团”平台江苏区域停业整顿3日。市场监管总局将继续对社区团购市场竞争状况保持高度关注，保持监管执法力度不放松，坚决维护市场价格秩序。不论线上线下、不论规模大小，对所有市场主体都一视同仁。同时，郑重提醒其他相关企业，创新无止境，经营有红线。一定要敬畏法律、遵循监管，自觉守法依规经营，自觉维护经营秩序。千万不要想当然地以为交了罚款就买到了“护身符”，这样的“护身符”靠不住。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7921760.d.html</link>
-            <guid>2190711</guid>
-            <pubDate>Thu, 27 May 2021 15:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银短线走高0.11美元，现报27.74美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7921732.d.html</link>
-            <guid>2190710</guid>
-            <pubDate>Thu, 27 May 2021 15:09:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：05月27日23时03分在云南大理州漾濞县附近发生3.7级左右地震，最终结果以正式速报为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5058337.d.html</link>
-            <guid>2190709</guid>
-            <pubDate>Thu, 27 May 2021 15:07:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：谷歌拓展了与Shopify, Square, Godaddy的电子商务合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5058312.d.html</link>
-            <guid>2190708</guid>
-            <pubDate>Thu, 27 May 2021 15:07:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储鸽派立场和海外经济增长加速正打压美元，美元指数成为本季度迄今全球主要货币中表现最差的货币，较3月底的峰值下跌了4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7921423.d.html</link>
-            <guid>2190707</guid>
-            <pubDate>Thu, 27 May 2021 15:06:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国新增3542例新冠肺炎确诊病例，新增10例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7921272.d.html</link>
-            <guid>2190706</guid>
-            <pubDate>Thu, 27 May 2021 15:04:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国纽约新增3542例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5058052.d.html</link>
-            <guid>2190705</guid>
-            <pubDate>Thu, 27 May 2021 15:04:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国国务卿布林肯与联合国协调员就巴勒斯坦的人权需求进行了讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7921250.d.html</link>
-            <guid>2190704</guid>
-            <pubDate>Thu, 27 May 2021 15:04:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【市场监管总局将继续对社区团购市场竞争状况保持高度关注】市场监管总局27日依法对北京十荟科技有限公司处以150万元人民币顶格罚款，并责令“十荟团”平台江苏区域停业整顿3日。下一步，市场监管总局将继续对社区团购市场竞争状况保持高度关注，保持监管执法力度不放松，坚决维护市场价格秩序。不论线上线下、不论规模大小，对所有市场主体都一视同仁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7921156.d.html</link>
-            <guid>2190703</guid>
-            <pubDate>Thu, 27 May 2021 15:03:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：国税局将获得额外的4.17亿美元资金，用于执行2022财政年度预算计划。 财政部的预算没有跟上财政部工作规模扩大的步伐。财政部的预算提案将在2022财政年度为国内税收服务部门提供132亿美元的酌情拨款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7921037.d.html</link>
-            <guid>2190702</guid>
-            <pubDate>Thu, 27 May 2021 15:02:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国国土安全部针对运输管道公司Colonial Pipeline发布新的网络安全规定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7921002.d.html</link>
-            <guid>2190701</guid>
-            <pubDate>Thu, 27 May 2021 15:02:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【大商所、郑商所夜盘收盘普涨 铁矿涨超4%】大商所、郑商所夜盘收盘普涨，黑色系领涨，铁矿涨超4%，玻璃、纯碱涨逾3%，焦煤等涨超2%，PVC、燃油等涨超1%，郑煤、豆粕等小幅上涨；仅郑醇、郑棉等少数品种小幅下跌。上期所热卷涨逾5%，螺纹涨超4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5057773.d.html</link>
-            <guid>2190700</guid>
-            <pubDate>Thu, 27 May 2021 15:01:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为38，表明市场处在恐惧状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7920763.d.html</link>
-            <guid>2190699</guid>
-            <pubDate>Thu, 27 May 2021 15:00:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据道琼斯：美国总统拜登计划提高资本利得税以遏制相关的避税措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7920662.d.html</link>
-            <guid>2190698</guid>
-            <pubDate>Thu, 27 May 2021 14:58:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元USD/JPY日内涨0.50%，现报109.69。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5057474.d.html</link>
-            <guid>2190697</guid>
-            <pubDate>Thu, 27 May 2021 14:58:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中钢协执行会长何文波：从总量上来看 现在的产能规模足以支撑未来的钢铁需求】在上海召开的第十一届中国国际钢铁大会上，中钢协执行会长何文波表示，现在的钢铁产能不是多余的。但是，从总量上来看，现在的产能规模足以支撑未来的钢铁需求。如果对未来局势盲目乐观，在现在的基础上继续扩大产能规模，后果会很严重。下一步，行业的产能治理要从重点关注总量转变到关注结构，关注能否满足来自下游的品种结构不断优化和提升的要求；不仅要关注钢铁产能是否过剩，更要关注绿色产能是否足够。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7920621.d.html</link>
-            <guid>2190696</guid>
-            <pubDate>Thu, 27 May 2021 14:57:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  CBOT玉米期货上涨4.0%，报6.49-1/2美元/蒲式耳。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5057389.d.html</link>
-            <guid>2190695</guid>
-            <pubDate>Thu, 27 May 2021 14:57:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国内阁办公厅大臣戈夫：预计美国将会承认英国的疫苗护照。]]></title>
-            <guid>2190694</guid>
-            <pubDate>Thu, 27 May 2021 14:54:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国内阁办公厅大臣戈夫：预计美国将会承认英国的疫苗护照。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5057036.d.html</link>
-            <guid>2190693</guid>
-            <pubDate>Thu, 27 May 2021 14:53:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【现货钯金涨幅扩大至3%】现货钯金涨幅扩大至3%，至2827.5美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7920182.d.html</link>
-            <guid>2190692</guid>
-            <pubDate>Thu, 27 May 2021 14:52:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
