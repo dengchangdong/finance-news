@@ -4,11 +4,71 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Fri, 28 May 2021 21:00:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 May 2021 21:54:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  离岸人民币（CNH）兑美元北京时间04:59报6.3603元，较周四纽约尾盘涨129点，盘中整体交投于6.3813-6.3588元区间，于在岸人民币白天收盘前后，继续录得2018年5月23日以来盘中最高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8147949.d.html</link>
+            <guid>2191928</guid>
+            <pubDate>Fri, 28 May 2021 21:53:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国企业债息差创十四年来最窄水平】美国高评级债券（投资级企业债）与美国国债息差收窄至84个基点，为2007年以来最窄水平。美国经济加速复苏提振了今年的企业盈利预期，投资者的通胀预期缓和，看好重新开放后的经济表现。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5285148.d.html</link>
+            <guid>2191927</guid>
+            <pubDate>Fri, 28 May 2021 21:51:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：空白支票公司Colombier提交IPO申请。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8147846.d.html</link>
+            <guid>2191926</guid>
+            <pubDate>Fri, 28 May 2021 21:51:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【阿根廷新增新冠肺炎病例39207例 累计超370万例】当地时间5月28日，阿根廷卫生部通报，该国单日新增新冠肺炎确诊病例39207例，累计确诊病例数量增至3702422例。新增死亡病例560例，累计死亡病例达76693例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5285121.d.html</link>
+            <guid>2191925</guid>
+            <pubDate>Fri, 28 May 2021 21:50:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西新增49768例新冠肺炎确诊病例，2371例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5284418.d.html</link>
+            <guid>2191924</guid>
+            <pubDate>Fri, 28 May 2021 21:34:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据美国证券交易委员会文件：企业社群科技公司Sprinklr提交IPO申请，拟筹资达1亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5283624.d.html</link>
+            <guid>2191923</guid>
+            <pubDate>Fri, 28 May 2021 21:22:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  广州市新冠肺炎防控指挥办医疗防治组：自2021年5月29日起，我市荔湾区白鹤洞街、中南街、东漖街、冲口街由低风险地区调整为中风险地区，其他地区风险等级不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8146250.d.html</link>
+            <guid>2191922</guid>
+            <pubDate>Fri, 28 May 2021 21:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据美国证券交易委员会文件：肿瘤治疗方案提供商Century Therapeutics提交IPO申请，拟筹资达1亿美元，寻求在纳斯达克上市，代码为“IPSC”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8145719.d.html</link>
+            <guid>2191921</guid>
+            <pubDate>Fri, 28 May 2021 21:07:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加密货币以太坊跌至2400美元/枚下方，日内跌幅扩大至12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5282757.d.html</link>
+            <guid>2191920</guid>
+            <pubDate>Fri, 28 May 2021 21:03:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  比特币跌至35000美元/枚下方，日内跌9.12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8145484.d.html</link>
+            <guid>2191919</guid>
+            <pubDate>Fri, 28 May 2021 21:03:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【据称美联储私下告诫德意志银行称其合规操作不合格】据悉，美联储已经私下告诉德意志银行，该行的合规计划不合格，暗示这家银行未能遵守以往与美国监管机构达成的多项协议。美联储最近的警告源于年度监管评估，评估认为尽管德意志银行已与美联储达成保密协议来解决存在的问题，但该行仍未能改善其风险管理操作。这份评估函告知德意志银行的领导层要为潜在的惩罚措施做准备，包括可能处以高额罚款。德意志银行发言人DylanRiddle表示，该行不针对与监管机构的任何沟通发表任何评论。美联储发言人也拒绝置评。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8145233.d.html</link>
@@ -541,66 +601,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5271418.d.html</link>
             <guid>2191828</guid>
             <pubDate>Fri, 28 May 2021 17:12:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：瑞士信贷的对冲基金RenTech拒绝部分客户提款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8134138.d.html</link>
-            <guid>2191827</guid>
-            <pubDate>Fri, 28 May 2021 17:11:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱尔兰总理米歇尔·马丁：爱尔兰高密度的疫苗的接种是“非凡”的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8134051.d.html</link>
-            <guid>2191826</guid>
-            <pubDate>Fri, 28 May 2021 17:10:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：凯雷集团（Carlyle Group）据悉开始筹备Nouryon的IPO，估值为30亿美元。（Nouryon前身为阿克苏诺贝尔专业化学品业务部，被凯雷集团收购）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8133660.d.html</link>
-            <guid>2191825</guid>
-            <pubDate>Fri, 28 May 2021 17:04:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至5月28日当周石油钻井总数录得359口，实现连续五周上升，创去年4月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8133459.d.html</link>
-            <guid>2191824</guid>
-            <pubDate>Fri, 28 May 2021 17:01:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至5月28日当周石油钻井总数359口，前值356口，预期357口。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5270715.d.html</link>
-            <guid>2191823</guid>
-            <pubDate>Fri, 28 May 2021 17:01:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：汇丰(HSBC.N)股东投票通过到2040年期间逐步淘汰煤炭融资并使该行的贷款与《巴黎协定》的气候目标一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8133041.d.html</link>
-            <guid>2191822</guid>
-            <pubDate>Fri, 28 May 2021 16:56:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  世卫组织助理总干事Simao：下周将完成科兴疫苗的评估。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5270326.d.html</link>
-            <guid>2191821</guid>
-            <pubDate>Fri, 28 May 2021 16:56:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX期银站上28美元/盎司，日内涨0.31%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5270046.d.html</link>
-            <guid>2191820</guid>
-            <pubDate>Fri, 28 May 2021 16:52:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[达拉斯联储4月PCE物价指数平减中值年率录得2.4%，上月为2.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5269653.d.html</link>
-            <guid>2191819</guid>
-            <pubDate>Fri, 28 May 2021 16:46:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据纽约时报：白宫预计2023年起美国失业率为3.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5269210.d.html</link>
-            <guid>2191818</guid>
-            <pubDate>Fri, 28 May 2021 16:40:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
