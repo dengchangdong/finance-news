@@ -4,11 +4,411 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Thu, 03 Jun 2021 13:40:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Jun 2021 15:01:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EIA报告：除却战略储备的商业原油上周进口563.1万桶/日，较前一周减少64.2万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8976663.d.html</link>
+            <guid>2197753</guid>
+            <pubDate>Thu, 03 Jun 2021 15:00:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EIA报告：上周美国国内原油产量减少20万桶至1080万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8976652.d.html</link>
+            <guid>2197752</guid>
+            <pubDate>Thu, 03 Jun 2021 15:00:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EIA报告：除却战略储备的商业原油库存减少507.9万桶至4.793亿桶，减少1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8976633.d.html</link>
+            <guid>2197751</guid>
+            <pubDate>Thu, 03 Jun 2021 15:00:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国交通部：美国航空公司4月份燃油消费量较上月增加3.7%，为2020年3月以来的最高月度消费水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7576782.d.html</link>
+            <guid>2197750</guid>
+            <pubDate>Thu, 03 Jun 2021 15:00:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑日元USD/JPY上涨0.6%，至110.22，为4月6日以来的最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8976520.d.html</link>
+            <guid>2197749</guid>
+            <pubDate>Thu, 03 Jun 2021 14:59:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲斯托克600指数跌幅收窄至0.1％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7576606.d.html</link>
+            <guid>2197748</guid>
+            <pubDate>Thu, 03 Jun 2021 14:58:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯诺瓦泰克公司董事长表示，“亚马尔天然气”项目第四条生产线已经运行，但未来两个月将进行技术改进。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8976291.d.html</link>
+            <guid>2197747</guid>
+            <pubDate>Thu, 03 Jun 2021 14:56:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[东京奥运会举办的可能性越来越大，尤其是因为大量的赞助资金岌岌可危。各大品牌通常会向国际奥委会支付为期四年的一揽子计划，这能使他们获得夏季和冬季奥运会的营销权。国际奥委会预计将在当前四年期从全球赞助商那里获得约20亿美元的资金，从现在到2024年，这个数字可能会激增至超过30亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8976286.d.html</link>
+            <guid>2197746</guid>
+            <pubDate>Thu, 03 Jun 2021 14:56:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元指数DXY站上90.5，日内涨0.65%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8976276.d.html</link>
+            <guid>2197745</guid>
+            <pubDate>Thu, 03 Jun 2021 14:56:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑兑美元GBP/USD失守1.41，日内跌0.48%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8976249.d.html</link>
+            <guid>2197744</guid>
+            <pubDate>Thu, 03 Jun 2021 14:55:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股短线走高，道指跌幅收窄至0.15%，纳指跌幅收窄至0.42%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7576247.d.html</link>
+            <guid>2197743</guid>
+            <pubDate>Thu, 03 Jun 2021 14:53:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登提议为企业税设定下限，而非上调企业税。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8976012.d.html</link>
+            <guid>2197742</guid>
+            <pubDate>Thu, 03 Jun 2021 14:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登提议将企业税新下限设定为15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7576131.d.html</link>
+            <guid>2197741</guid>
+            <pubDate>Thu, 03 Jun 2021 14:51:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黑莓目前上涨17%，在散户抱团股中领涨，该股已经连续第六日上涨，六日截至目前累计翻倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7576112.d.html</link>
+            <guid>2197740</guid>
+            <pubDate>Thu, 03 Jun 2021 14:51:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伦铜跌逾3%，创4月30日以来新低至9805美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8975650.d.html</link>
+            <guid>2197739</guid>
+            <pubDate>Thu, 03 Jun 2021 14:50:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：印尼特尔纳特西南偏西128千米处发生6.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8975553.d.html</link>
+            <guid>2197738</guid>
+            <pubDate>Thu, 03 Jun 2021 14:48:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：据悉，俄罗斯央行无意在近期恢复黄金购买，哪怕俄罗斯财政部计划让National Wellbeing Fund削减美元资产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8975461.d.html</link>
+            <guid>2197737</guid>
+            <pubDate>Thu, 03 Jun 2021 14:46:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利6月3日新增1968例新冠肺炎病例，新增59例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8975360.d.html</link>
+            <guid>2197736</guid>
+            <pubDate>Thu, 03 Jun 2021 14:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉提交了德国环境许可证的修订申请。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8974977.d.html</link>
+            <guid>2197735</guid>
+            <pubDate>Thu, 03 Jun 2021 14:41:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股汽车股集体逆市上涨，Workhorse一度涨近60%，特斯拉独自下跌】Workhorse一度涨近60%，该股昨日涨19%；Lordstown涨约10%，通用汽车涨近6%，福特涨超5%，小鹏汽车涨超4%，理想汽车涨超2%，蔚来涨近2%，丰田、本田涨超1%；特斯拉则跌超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8974752.d.html</link>
+            <guid>2197734</guid>
+            <pubDate>Thu, 03 Jun 2021 14:39:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东：要在更大范围、以更快速度开展大规模核酸筛查】6月3日，广东省委常委会暨省新冠肺炎防控领导小组（指挥部）召开会议。会议强调，要在更大范围、以更快速度开展大规模核酸筛查，提高检测效率，争分夺秒往前赶，确保把底数摸清，尽快切断传播链条。要严格实施分级分类管控措施，对中高风险地区实行封闭管理，确保严格居家、足不出户，相关地市要不折不扣执行到位，进一步减少人员流动和集聚。要扎实做好生活物资服务保障工作，严厉打击扰乱市场行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8974722.d.html</link>
+            <guid>2197733</guid>
+            <pubDate>Thu, 03 Jun 2021 14:39:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【Twitter发布首款订阅服务Twitter Blue 可撤回推文】推特(TWTR.N)今日发布了该公司的首款订阅服务“Twitter Blue”，旨在帮助公司实现营收多样化。这是Twitter首次尝试订阅业务模式。这项服务将分别向加拿大和澳大利亚用户推出，以当地货币计算，每月分别为3.49美元和4.49美元。Twitter并未透露Twitter Blue何时面向美国用户开放。Twitter Blue将赋予用户“撤回推文”（Undo Tweet）功能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7574872.d.html</link>
+            <guid>2197732</guid>
+            <pubDate>Thu, 03 Jun 2021 14:38:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国上周初请失业金人数降至38.5万，为2020年3月以来首次低于40万，但此前一周续请失业金人数反弹至377.1万，为2021年3月12日以来的最高水平。整体来看，领取某种形式政府救济金的美国人数下降了36.6万，但总数仍超过1540万。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8974229.d.html</link>
+            <guid>2197731</guid>
+            <pubDate>Thu, 03 Jun 2021 14:33:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫消息，拜登将于6月10日在英国会见英国首相约翰逊。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8974127.d.html</link>
+            <guid>2197730</guid>
+            <pubDate>Thu, 03 Jun 2021 14:32:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  福特汽车(F.N)涨幅扩大至5.8%，股价刷新2015年以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7574270.d.html</link>
+            <guid>2197729</guid>
+            <pubDate>Thu, 03 Jun 2021 14:31:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EIA天然气报告：截至5月28日当周，美国天然气库存总量为23130亿立方英尺，较此前一周增加980亿立方英尺，较去年同期减少3860亿立方英尺，同比降幅14.3%，同时较5年均值低610亿立方英尺，降幅2.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7574193.d.html</link>
+            <guid>2197728</guid>
+            <pubDate>Thu, 03 Jun 2021 14:30:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至5月28日当周EIA天然气库存公布980亿立方英尺，前值1150亿立方英尺，预期950亿立方英尺。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7574184.d.html</link>
+            <guid>2197727</guid>
+            <pubDate>Thu, 03 Jun 2021 14:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根大通正在招聘精通加密货币的人才】据CoinDesk消息，摩根大通正在招聘精通加密货币的人才，以填补越来越多的数字资产交叉工作。职位显示比特币和以太坊的经验是“巨大的优势”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7574043.d.html</link>
+            <guid>2197726</guid>
+            <pubDate>Thu, 03 Jun 2021 14:29:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中概教育股集体下跌，新东方一度跌27%，好未来跌超13%，高途跌超11%，红黄蓝跌超5%，网易有道跌超4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8973477.d.html</link>
+            <guid>2197725</guid>
+            <pubDate>Thu, 03 Jun 2021 14:25:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国卫生大臣表示，全球已接种了20亿剂新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8973107.d.html</link>
+            <guid>2197724</guid>
+            <pubDate>Thu, 03 Jun 2021 14:21:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在美上市大麻股Tilray涨超10%，此前Cantor将该公司评级从中性上调至买入。Sundial Growers目前涨17%，盘初一度涨近30%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8972997.d.html</link>
+            <guid>2197723</guid>
+            <pubDate>Thu, 03 Jun 2021 14:20:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯特使：欧盟还没有准备好与俄罗斯就疫苗证书的相互承认问题进行对话，欧盟内部之间无法做出决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7572781.d.html</link>
+            <guid>2197722</guid>
+            <pubDate>Thu, 03 Jun 2021 14:15:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广州从严从重打击发疫情财黑心财的不良商家】在6月3日举行的广州市政府新闻发布会上，广州市市场监管局副局长杨延晖说，严厉打击未明码标价、囤积居奇、捏造散布涨价信息以及哄抬价格的违法行为，做到发现一起查处一起。（新华视点）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7572669.d.html</link>
+            <guid>2197721</guid>
+            <pubDate>Thu, 03 Jun 2021 14:14:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线走高逾6美元，现报1871.98美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8972425.d.html</link>
+            <guid>2197720</guid>
+            <pubDate>Thu, 03 Jun 2021 14:13:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国人报复性出行提振原油多头信心，因需求复苏将助推油价，而欧佩克+正逐渐恢复产量。美国运输安全管理局最新数据显示，上周五全美通过机场安检的乘客人数接近200万，这个数字超过了美国疫情暴发前最后一次出行高峰。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8972385.d.html</link>
+            <guid>2197719</guid>
+            <pubDate>Thu, 03 Jun 2021 14:13:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根士丹利：埃克森美孚石油有望成为能源转型的领导者】摩根士丹利在一份报告中指出，埃克森美孚石油(XOM.N)和其他石油巨头已经做好了成为能源转型领导者的准备，此前埃克森美孚的一个激进投资者将其在该公司董事会的席位扩大到三个。分析师Devin McDermott认为埃克森美孚能够大规模实施低碳技术。埃克森美孚的新董事会成员可能促使该公司限制石油和天然气的资本支出，以支持更多低碳增长，加速已经开始的能源转型。摩根士丹利给予埃克森美孚跑赢大市评级，目标价71美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8972379.d.html</link>
+            <guid>2197718</guid>
+            <pubDate>Thu, 03 Jun 2021 14:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新冠肺炎感染率上升 西班牙及葡萄牙均被排除在英国绿色通航清单外】当地时间6月3日，根据西班牙《国家报》援引多家英媒报道，英国当局决定将西班牙继续排除在安全旅行目的地名单以外，同时将此前处在安全旅行目的地名单中的葡萄牙也移除出这一名单，西班牙的加纳利和巴利阿里大区同样未在英国当局本次规定的安全旅行目的地名单中，该措施预计将对西班牙的旅游业复苏造成重大打击。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8972329.d.html</link>
+            <guid>2197717</guid>
+            <pubDate>Thu, 03 Jun 2021 14:12:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMC院线触底反弹，跌幅缩窄至12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8972320.d.html</link>
+            <guid>2197716</guid>
+            <pubDate>Thu, 03 Jun 2021 14:12:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  逼空重启！云端网络服务公司GTT Communications(GTT.N)涨超70%，报4.26美元，Workhorse(WKHS.O)涨44%，报16.6美元，两家公司均是高做空比率的个股。]]></title>
+            <guid>2197715</guid>
+            <pubDate>Thu, 03 Jun 2021 14:12:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[机构评美国5月ISM非制造业PMI：由于供应链的瓶颈没有任何缓解的迹象，企业在投入上付出了更多。调查显示，服务业支付价格指数从4月的76.8升至80.6，为2005年9月以来最高。这可能会强化一些经济学家的观点，即更高的通胀可能会持续更长的时间，而不是像美联储主席鲍威尔目前所设想的那样是暂时的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7572057.d.html</link>
+            <guid>2197714</guid>
+            <pubDate>Thu, 03 Jun 2021 14:08:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[机构评美国5月ISM非制造业PMI：供应商交货指数从4月份的66.1跃升至70.4，该指数高于50则表明交付放缓。供应商交货时间的延长通常与强劲的经济和客户需求的增加有关。但旺盛的需求正遭遇供应限制，导致未完成的工作堆积如山。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7571976.d.html</link>
+            <guid>2197713</guid>
+            <pubDate>Thu, 03 Jun 2021 14:08:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  福特汽车(F.N)涨超3%，通用汽车(GM.N)涨超4%，此前公布同比增长显著的5月销量数据。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8971674.d.html</link>
+            <guid>2197712</guid>
+            <pubDate>Thu, 03 Jun 2021 14:07:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[机构评美国5月ISM非制造业PMI：衡量美国服务业活动的指标ISM非制造业PMI5月升至纪录高位，因经济走向全面重新开放，需求强劲，但企业难以获取原材料和劳动力推高了生产成本。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8971472.d.html</link>
+            <guid>2197711</guid>
+            <pubDate>Thu, 03 Jun 2021 14:05:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[铁矿石主力合约跌至1150元/吨下方，日内跌3.44%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7571504.d.html</link>
+            <guid>2197710</guid>
+            <pubDate>Thu, 03 Jun 2021 14:04:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国5月ISM非制造业PMI录得64，创有记录以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8970865.d.html</link>
+            <guid>2197709</guid>
+            <pubDate>Thu, 03 Jun 2021 14:00:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国5月ISM非制造业PMI公布 64，前值 62.7，预期 63。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7571047.d.html</link>
+            <guid>2197708</guid>
+            <pubDate>Thu, 03 Jun 2021 14:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  蔚来汽车冲高，现涨0.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7570927.d.html</link>
+            <guid>2197707</guid>
+            <pubDate>Thu, 03 Jun 2021 13:59:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元指数涨0.6%，为5月14日以来的新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7570908.d.html</link>
+            <guid>2197706</guid>
+            <pubDate>Thu, 03 Jun 2021 13:59:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  AMC院线短暂停牌后恢复交易，跌幅收窄至26.14%，并第三次停牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7570736.d.html</link>
+            <guid>2197705</guid>
+            <pubDate>Thu, 03 Jun 2021 13:56:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯已检测出的新冠变异毒株中70%是英国首次发现的变异毒株】6月3日，俄罗斯联邦消费者权益保护局局长波波娃在圣彼得堡经济论坛上表示，目前俄罗斯检测到的一千多个新冠病毒变异毒株中，70%是于英国首次发现的变异毒株，24%是于印度首次发现的变异毒株，还有6%是于南非首次发现的变异毒株。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7570545.d.html</link>
+            <guid>2197704</guid>
+            <pubDate>Thu, 03 Jun 2021 13:54:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家卫健委：我国在疫苗研发数量方面处于世界第一方阵】博鳌亚洲论坛全球健康论坛第二届大会正在山东青岛举行，国务院联防联控机制科研攻关组疫苗研发专班工作组组长、国家卫生健康委医药卫生科技发展研究中心主任郑忠伟在“实现全民健康—新冠疫苗的研发、可及性与可负担性”分论坛上表示，到目前为止，我国基本实现灭活疫苗、重组蛋白疫苗、腺病毒载体疫苗、核酸疫苗等各条技术路线临床试验的全覆盖。郑忠伟介绍，我国新冠疫苗从去年开始布局，截至目前，已有20款疫苗进入临床试验。其中，4款疫苗获批国内附条件上市，3款疫苗获批国内紧急使用，8款疫苗在国外获批开展三期临床试验，3款疫苗在西方发达国家获批开展一期临床试验，1款mRNA疫苗获得国外三期临床的伦理批复。“在疫苗的研发数量方面，我国处在世界的第一方阵。”（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8970315.d.html</link>
+            <guid>2197703</guid>
+            <pubDate>Thu, 03 Jun 2021 13:54:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席兼“外长”博雷利：欧盟将在未来几天对缅甸实施新的制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7570443.d.html</link>
+            <guid>2197702</guid>
+            <pubDate>Thu, 03 Jun 2021 13:53:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国三大股指跌幅扩大，纳指跌超200点，道指跌0.7%，标普500指数跌0.91%。WSB概念股遭大幅抛售，AMC娱乐控股跌幅进一步扩大至30.6%，再度熔断；高斯电子跌超25%，游戏驿站跌超12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8969982.d.html</link>
+            <guid>2197700</guid>
+            <pubDate>Thu, 03 Jun 2021 13:50:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMC院线再次熔断，停牌前跌超30%，此前报道称其将出售至多1155万股股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8969928.d.html</link>
+            <guid>2197699</guid>
+            <pubDate>Thu, 03 Jun 2021 13:50:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IHS Markit首席经济学家Chirs Williamson：夏季几个月出现了进一步强劲的扩张，订单情况改善，商业信心提高，国内外对疫情的限制措施进一步放松。但该调查的价格指标也攀升至较高水平，这将加剧通胀担忧。这些前所未有的产出和价格增长率将不可避免地导致人们猜测，美联储将比此前预期更早地缩减购债。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7570054.d.html</link>
+            <guid>2197698</guid>
+            <pubDate>Thu, 03 Jun 2021 13:49:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMC院线恢复交易，现跌幅扩大至30%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8969670.d.html</link>
+            <guid>2197697</guid>
+            <pubDate>Thu, 03 Jun 2021 13:48:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IHS Markit首席经济学家Chirs Williamson：美国经济复苏在5月份加速，制造业和服务业的总产出以令人印象深刻的幅度超越了之前的所有峰值。PMI与GDP之间的强相关性意味着，第二季度美国经济有望实现两位数的快速增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8969657.d.html</link>
+            <guid>2197696</guid>
+            <pubDate>Thu, 03 Jun 2021 13:48:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳元兑美元AUD/USD跌幅扩大至1%，报0.7675。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7569880.d.html</link>
+            <guid>2197695</guid>
+            <pubDate>Thu, 03 Jun 2021 13:47:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金跌超2%，为2月以来盘中最大跌幅；现货白银跌3.4%，为3月以来盘中最大跌幅。]]></title>
+            <guid>2197694</guid>
+            <pubDate>Thu, 03 Jun 2021 13:46:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑挪威克朗USD/NOK日内涨幅扩大至1.01%，现报8.3749。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7569742.d.html</link>
+            <guid>2197693</guid>
+            <pubDate>Thu, 03 Jun 2021 13:46:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国5月Markit综合PMI终值公布 68.7，前值 68.1。美国至5月30日当周彭博消费者信心指数公布 55.6，前值 53.8。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8969481.d.html</link>
+            <guid>2197692</guid>
+            <pubDate>Thu, 03 Jun 2021 13:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国5月Markit服务业PMI终值录得70.4，续创有记录以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7569647.d.html</link>
+            <guid>2197691</guid>
+            <pubDate>Thu, 03 Jun 2021 13:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国5月Markit服务业PMI终值公布 70.4，前值 70.1，预期 70.1。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7569619.d.html</link>
+            <guid>2197690</guid>
+            <pubDate>Thu, 03 Jun 2021 13:45:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMC院线因波动太大暂时停牌， 停牌前跌18%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7569438.d.html</link>
+            <guid>2197689</guid>
+            <pubDate>Thu, 03 Jun 2021 13:43:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LME期铜、期镍、期铅主力合约跌近3%，期锌主力合约跌逾3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8969128.d.html</link>
+            <guid>2197688</guid>
+            <pubDate>Thu, 03 Jun 2021 13:43:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中概股跌势扩大，哔哩哔哩、好未来跌超4%，百度跌2.6%，京东跌2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7569335.d.html</link>
+            <guid>2197687</guid>
+            <pubDate>Thu, 03 Jun 2021 13:42:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[动力煤主力合约跌超4%，现报804.6元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7569301.d.html</link>
+            <guid>2197686</guid>
+            <pubDate>Thu, 03 Jun 2021 13:42:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  金银价格及基本金属短线跳水，现货黄金跌超2%，现货白银跌超3%；LME期铜、期锡跌近3%，LME期锌跌超3%。]]></title>
             <guid>2197685</guid>
@@ -204,404 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8964418.d.html</link>
             <guid>2197651</guid>
             <pubDate>Thu, 03 Jun 2021 13:03:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沪银主力合约跌逾2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7564585.d.html</link>
-            <guid>2197650</guid>
-            <pubDate>Thu, 03 Jun 2021 13:02:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金跌破1880美元/盎司，较日高回落近30美元，为逾一周新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7564497.d.html</link>
-            <guid>2197649</guid>
-            <pubDate>Thu, 03 Jun 2021 13:01:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[夜盘开盘，国际铜、沪锡、沪铜、沪锌、沪金主力合约跌逾2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8964143.d.html</link>
-            <guid>2197648</guid>
-            <pubDate>Thu, 03 Jun 2021 13:00:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【人社部：去年末全国基本养老保险基金累计结存58075亿元】当日，人力资源和社会保障部公布《2020年度人力资源和社会保障事业发展统计公报》。《公报》显示，2020年，养老、失业、工伤三项社会保险基金收入比上年减少14.3%，支出增长5.7%。年末基本养老保险基金累计结存58075亿元。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8963990.d.html</link>
-            <guid>2197647</guid>
-            <pubDate>Thu, 03 Jun 2021 12:59:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ADP数据显示美国私营企业新增就业人数创近一年来最高】美国私营企业5月份的新增就业人数创近一年来之最，表明随着经济走强，企业在填补创纪录职位空缺上正取得进展。根据ADP Research Institute周四公布的数据，5月份私营部门就业人数增加了97.8万人，为2020年6月以来最高。产品制造行业增加就业12.8万人，服务业则增加85万。就业人数增长最大的是休闲和酒店业，环比增长44万，为11个月来最大增幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7563936.d.html</link>
-            <guid>2197646</guid>
-            <pubDate>Thu, 03 Jun 2021 12:55:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国第一季度生产率攀升5.4%，预估上升5.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8963478.d.html</link>
-            <guid>2197645</guid>
-            <pubDate>Thu, 03 Jun 2021 12:54:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯财长：俄国家财富基金将投资欧元、人民币和黄金资产以替代美元】当地时间6月3日，俄罗斯财政部长西卢安诺夫在圣彼得堡国际经济论坛上表示，俄罗斯财政部将在一个月内改变国家财富基金的结构，其中美元的份额将减少到零，英镑减持到5%，日元保持5%，欧元将增长到40%，人民币增长到30%，黄金则将占比20%。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8963440.d.html</link>
-            <guid>2197644</guid>
-            <pubDate>Thu, 03 Jun 2021 12:53:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国网吉林省电力公司与长春市政府签署合作协议】6月2日，长春市政府与国网吉林省电力公司签署合作协议。吉林省委书记景俊海指出，希望国家电网加大在吉骨干电网、配电网等投资力度，加快农村电网提升改造，进一步完善电网结构，积极参与吉林省“陆上风光三峡”、抽水蓄能电站等重大项目建设，推动“吉电南送”特高压通道项目纳入国家专项规划，着力在吉林建设一批充换电站和储能设施，促进车联网、工业互联网、能源互联网深度融合，支持吉林实施农村优惠电价，助力吉林产业转型升级、培育高质量发展新动能。（吉林广播电视台）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8962815.d.html</link>
-            <guid>2197643</guid>
-            <pubDate>Thu, 03 Jun 2021 12:48:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韦德布什：下调C3.ai目标价至100美元】韦德布什分析师Daniel Ives下调了C3.ai(AI.N)的目标价，从175美元下调至100美元，因为该公司未来人工智能交易业务的波动性更大，市盈率也更低。这位分析师指出，C3.ai 4月份发布了“稳健”的业绩，超出了华尔街的预期，未来增长前景健康。Ives对该公司股票的评级为“跑赢大市”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7562717.d.html</link>
-            <guid>2197642</guid>
-            <pubDate>Thu, 03 Jun 2021 12:45:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今日财经TOP10】➊「商务部：中美经贸领域已开始正常沟通，将共同努力务实解决具体问题」➋「央行启动反洗钱攻坚战：矛头直指房企和房产中介」➌「银保监会：蚂蚁消费金融公司必须依法接受监管」➍「梁建章：中国严峻的人口形势 京沪生育率只有0.7」➎「调查报告：新中产调查第七年 他们终于不想买房了」➏「鸿蒙来了！华为正式发布HarmonyOS2 图解产业链个股名单」➐「七年财务造假：累计虚增利润超10亿 中信国安被证监会顶格处罚60万」➑「“黑老大”张伟获刑，中科创百亿金融帝国坍塌」➒「特斯拉再陷质量风波：车主被困车内险窒息，制动卡钳隐患召回」➓「张涵予、汪涵、郎朗、张铁林……银保监会喊你退P2P代言费了」https://cj.sina.cn/article/norm_detail?url=https://finance.sina.com.cn/china/caijingtop10/2021-06-03/doc-ikqciyzi7561617.shtml]]></title>
-            <guid>2197641</guid>
-            <pubDate>Thu, 03 Jun 2021 12:44:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  金科股份：2021年5月，公司及所投资的公司实现销售金额约196亿元，房地产销售面积约195万平方米。2021年1-5月，公司及所投资的公司实现销售金额约849亿元，房地产销售面积约818万平方米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7562212.d.html</link>
-            <guid>2197640</guid>
-            <pubDate>Thu, 03 Jun 2021 12:41:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  “公募一哥”张坤的一只产品悄然大幅放松限购，其管理的易方达亚洲精选单日单个基金账户累计申购金额调整为不超过100万元，是之前的100倍。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7562158.d.html</link>
-            <guid>2197639</guid>
-            <pubDate>Thu, 03 Jun 2021 12:41:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[机构评美国至5月29日当周初请失业金人数：上周初请失业金人数跌至40万人下方，这表明尽管劳动力短缺限制了招聘，但劳动力市场仍在走强。目前所有行业和地区的企业都报告称很难找到工人。但这一数字仍远高于20万至25万的区间，这一区间被视为健康的劳动力市场状况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7561894.d.html</link>
-            <guid>2197638</guid>
-            <pubDate>Thu, 03 Jun 2021 12:40:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【揭秘特斯拉“刹车失灵”数据：多方认为数据缺失，无电机扭矩】特斯拉提供的30分钟行车数据究竟是否全面，是车主与特斯拉之间的矛盾焦点之一。多名业内人士均向记者表示，显而易见的是，特斯拉仍然可以再进一步提供更多数据，尤其是电机扭矩和黑匣子EDR中的数据，成为了如今的破题关键。（新京报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8961424.d.html</link>
-            <guid>2197637</guid>
-            <pubDate>Thu, 03 Jun 2021 12:39:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长盈精密：不明身份人员以公司名义参加投资机构交流会议 公司已向公安机关报案】长盈精密公告，近日，公司发现有不明身份人员以“长盈精密电子烟行业专家”的名义通过盈利性质的所谓“专家库”（第三方机构），参加投资机构交流会议（公司未参加，且公司不知情），编造公司不实商业信息，严重侵害了投资者及公司的合法权益，产生了极其恶劣的影响。公司已向公安机关报案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7561742.d.html</link>
-            <guid>2197636</guid>
-            <pubDate>Thu, 03 Jun 2021 12:38:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2022年全球失业人数将达2.05亿，全球劳动力市场危机将持续到2023年】6月2日，总部位于日内瓦的国际劳工组织发布《世界就业和社会展望：2021年趋势》报告，报告指出，就业增长将不足以弥补新冠肺炎疫情所造成的损失，2022年全球失业人数将达到2.05亿，全球劳动力市场危机将持续至2023年。国际劳工组织预计，2022 年全球失业率将达5.7%，全球失业人数将达到2.05 亿，远远超过2019 年的1.87 亿，其中女性和年轻人深受疫情影响。报告还预计，在疫情得到有效控制、疫苗平等以及强有力的财政刺激的前提下，预计全球就业将在2021 年下半年加速复苏。鉴于疫苗获取机会不均等等因素，全球就业复苏将呈现不平衡态势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7561654.d.html</link>
-            <guid>2197635</guid>
-            <pubDate>Thu, 03 Jun 2021 12:37:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股盘前消息速报】①美国股指期货周四盘前走弱，刚刚公布的小非农5月ADP就业数据大幅超出预期和前值。截至发稿，道指期货跌0.6%，标普500期指跌0.7%，纳指期货跌1.0%。②英国富时100指数下跌1.2%，德国DAX指数下跌下跌0.7%，法国CAC40指数下跌0.7%。③美国5月ADP就业人数实际公布97.80万，预期值65万，前值74.2万。美国5月ADP就业人数录得增加97.8万人，增幅创去年6月以来新高。④数据公布后，现货金价短线回落3美元，再度刷新日低。⑤美元指数小幅冲高，刷新本周高点至90.25，涨幅约0.38%。⑥WSB概念股盘前急跌，高斯电子跌17%，Express跌15%，3B家居跌13%，游戏驿站跌5%。⑦AMC院线盘前迅速跌超10%。公司与B.riley证券和花旗集团签订了股权分配协议，将在场内出售至多1155万股股票。⑧特斯拉盘前跌1.1%，昨日因螺栓松动问题召回约6000辆汽车。⑨新东方盘前跌超3%，近日新东方被剔除富时中国50指数。]]></title>
-            <guid>2197634</guid>
-            <pubDate>Thu, 03 Jun 2021 12:37:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[机构评美国至5月29日当周初请失业金人数：随着剩余的疫情相关防控限制被放宽，更多接种过疫苗的美国人有望恢复旅行和社交活动，劳动力市场将继续增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7561405.d.html</link>
-            <guid>2197633</guid>
-            <pubDate>Thu, 03 Jun 2021 12:35:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[机构评美国至5月29日当周初请失业金人数：美国初次申请失业金人数在大流行期间首次降至40万人以下，因就业加速，且经济在进入夏季时走强。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7561298.d.html</link>
-            <guid>2197632</guid>
-            <pubDate>Thu, 03 Jun 2021 12:34:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国债价格扩大跌幅，十年期国债收益率升至1.6096%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7561192.d.html</link>
-            <guid>2197631</guid>
-            <pubDate>Thu, 03 Jun 2021 12:32:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Express(EXPR.N)盘前跌超25%，此前宣布股票增发。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8960782.d.html</link>
-            <guid>2197630</guid>
-            <pubDate>Thu, 03 Jun 2021 12:32:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银日内跌幅扩大至2%，报27.55美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8960777.d.html</link>
-            <guid>2197629</guid>
-            <pubDate>Thu, 03 Jun 2021 12:32:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  初请数据公布后，美股期货波动不大，维持跌势，纳指期货跌1.09%，道指期货跌0.57%，标普500指数期货跌0.73%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8960734.d.html</link>
-            <guid>2197628</guid>
-            <pubDate>Thu, 03 Jun 2021 12:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线走低约3美元，现报1885.9美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7561051.d.html</link>
-            <guid>2197627</guid>
-            <pubDate>Thu, 03 Jun 2021 12:31:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国上周首次申领失业救济人数38.5万，续刷去年3月14日当周以来新低；预估为38.8万，前值为40.6万。]]></title>
-            <guid>2197626</guid>
-            <pubDate>Thu, 03 Jun 2021 12:30:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  ADP首席经济学家Nela Richardson：尽管商品生产商的就业人数在稳步增长，但服务提供商贡献了最大份额的增长，远远超过过去6个月的月平均增速。各种规模的公司都经历了就业增长，反映出疫情和经济状况的改善。]]></title>
-            <guid>2197625</guid>
-            <pubDate>Thu, 03 Jun 2021 12:29:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  东材科技：公司全资子公司江苏东材拟与绵阳市游仙区人民政府签订项目投资协议，按照一次规划、分期实施的投资方针，在四川省绵阳市游仙高新技术产业园区逐步建设“年产20万吨功能膜材料产业化项目”生产基地，项目投资金额18亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8960375.d.html</link>
-            <guid>2197624</guid>
-            <pubDate>Thu, 03 Jun 2021 12:29:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国外汇交易中心：5月境外机构投资者净买入债券779亿元】中国外汇交易中心今日发布数据，5月，境外机构投资者共达成现券交易8289亿元，环比减少8%，交易量占同期现券市场总成交量的约6%。5月，境外机构投资者买入债券4534亿元，卖出债券3755亿元，净买入779亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7560617.d.html</link>
-            <guid>2197623</guid>
-            <pubDate>Thu, 03 Jun 2021 12:28:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线走高近20点，现报90.25。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8960200.d.html</link>
-            <guid>2197622</guid>
-            <pubDate>Thu, 03 Jun 2021 12:27:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【摩根大通改组其亚洲的科技、媒体和电信团队】摩根大通(JPM.N)改组其在亚洲的科技、媒体和电信团队，因希望加强在这个快速增长地区的市场影响力。根据一份备忘录，Andrew Verdasca被调往香港担任东亚地区科技、媒体和电信部门主管。Michelle Chen和Crystal Zhu将是中国TMT部门的联席主管，同时Ravi Shankar被任命为印度该部门的主管。摩根大通驻香港的一位发言人证实了备忘录的内容。该行亚太地区TMT和新经济投资银行业务负责人Mark Fiteny在备忘录中表示，“我们正处于业务发展的激动人心的时刻，因为科技和通信基础设施行业的基本驱动力正在加速。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8960198.d.html</link>
-            <guid>2197621</guid>
-            <pubDate>Thu, 03 Jun 2021 12:27:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银短线下挫0.17美元，现报27.6美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7560552.d.html</link>
-            <guid>2197620</guid>
-            <pubDate>Thu, 03 Jun 2021 12:27:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金日内跌幅达1%，现报1888.92美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7560491.d.html</link>
-            <guid>2197619</guid>
-            <pubDate>Thu, 03 Jun 2021 12:26:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[路透评美国5月ADP就业人数：美国私营部门雇主5月增加招聘，因经济迅速重新开放，需求强劲，但劳动力和原材料短缺仍是就业市场复苏的隐忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7560472.d.html</link>
-            <guid>2197618</guid>
-            <pubDate>Thu, 03 Jun 2021 12:26:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ADP首席经济学家Nela Richardson：尽管商品生产商的就业人数在稳步增长，但服务提供商贡献了最大份额的增长，远远超过过去6个月的月平均增速。各种规模的公司都经历了就业增长，反映出疫情和经济状况的改善。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8959196.d.html</link>
-            <guid>2197617</guid>
-            <pubDate>Thu, 03 Jun 2021 12:20:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ADP首席分析师Nela Richardson：私人部门就业数据较近几个月有明显改善，为复苏初期以来最强劲的涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8959152.d.html</link>
-            <guid>2197616</guid>
-            <pubDate>Thu, 03 Jun 2021 12:20:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州回应个别封闭管理区域物资供应问题】 在广州市政府新闻发布会上，广州市市场监管局副局长杨延晖说，近两天，该局和荔湾区市场监管局高度重视封闭区域内保供稳价工作，收到有关反映中南街海南村、菊树村供应物资价格舆情后，了解到居民反映的配送公司定价不合理问题主要是发生在物资的配送环节上，已向相关部门建议提供多样化选择。目前广州市供销社菜篮子小程序已经提供了多款生鲜套餐不同的选择，新供应的物资也更为实惠。（新华视点）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8958935.d.html</link>
-            <guid>2197615</guid>
-            <pubDate>Thu, 03 Jun 2021 12:17:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美的集团：今日首次实施回购 支付1.57亿元】美的集团6月3日晚间公告，公司于6月3日首次通过回购专用证券账户，以集中竞价方式实施回购公司股份，回购股份数量为200.14万股，占公司截至2021年6月2日总股本的0.028%，支付的总金额为1.57亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8958832.d.html</link>
-            <guid>2197614</guid>
-            <pubDate>Thu, 03 Jun 2021 12:17:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ADP报告：5月建筑业就业人数增加6.5万人，4月为增加4.1万人。5月制造业就业人数增加5.2万人，4月为增加5.5万人。5月贸易/运输/公用事业就业人数增加11.8万人，4月为增加15.5万人。5月金融服务业就业人数增加2万人，4月为增加1.1万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7559114.d.html</link>
-            <guid>2197613</guid>
-            <pubDate>Thu, 03 Jun 2021 12:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线走高近10点，现报90.12。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7559085.d.html</link>
-            <guid>2197612</guid>
-            <pubDate>Thu, 03 Jun 2021 12:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线下挫3美元，报1890.6美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7559074.d.html</link>
-            <guid>2197611</guid>
-            <pubDate>Thu, 03 Jun 2021 12:16:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月ADP就业人数变动97.8万人，预期65万人，前值74.2万人；增幅创去年6月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8958610.d.html</link>
-            <guid>2197609</guid>
-            <pubDate>Thu, 03 Jun 2021 12:15:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【李克强：坚持经济发展就业导向 强化就业优先政策】全国就业创业工作暨普通高等学校毕业生就业创业工作电视电话会议6月3日在京召开，国务院总理李克强作出重要批示。批示指出：坚持经济发展就业导向，强化就业优先政策，突出抓好高校毕业生、退役军人、农民工等重点群体就业工作。要落实落细减税降费、普惠金融、稳岗扩岗等政策，支持中小微企业、个体工商户等市场主体进一步纾困和增强发展活力，提供更多市场化就业创业机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7558282.d.html</link>
-            <guid>2197607</guid>
-            <pubDate>Thu, 03 Jun 2021 12:10:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  ADP数据公布前，纳指期货跌1.07%，标普500指数期货跌0.82%，道指期货跌0.72%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8957710.d.html</link>
-            <guid>2197606</guid>
-            <pubDate>Thu, 03 Jun 2021 12:09:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳元兑美元AUD/USD日内下跌0.50%，现报0.7713。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7558009.d.html</link>
-            <guid>2197605</guid>
-            <pubDate>Thu, 03 Jun 2021 12:09:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行CEO：观察通胀的时间将在2022年初。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7557996.d.html</link>
-            <guid>2197604</guid>
-            <pubDate>Thu, 03 Jun 2021 12:08:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金跌回1890美元/盎司下方，日内跌近1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8957664.d.html</link>
-            <guid>2197603</guid>
-            <pubDate>Thu, 03 Jun 2021 12:08:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲斯托克600指数跌幅扩大至0.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7557680.d.html</link>
-            <guid>2197602</guid>
-            <pubDate>Thu, 03 Jun 2021 12:06:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  高科石化公告，公司名称拟变更为江苏中晟高科环境股份有限公司，证券简称变更为中晟高科。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8957012.d.html</link>
-            <guid>2197601</guid>
-            <pubDate>Thu, 03 Jun 2021 12:03:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据国际文传电讯社：俄罗斯央行将在6月11日考虑加息25-50个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7557173.d.html</link>
-            <guid>2197600</guid>
-            <pubDate>Thu, 03 Jun 2021 12:02:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波罗的海干散货指数跌2.29%，报2472点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8956849.d.html</link>
-            <guid>2197599</guid>
-            <pubDate>Thu, 03 Jun 2021 12:02:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯经济部长：如果趋势保持不变，俄罗斯可能会在7月份提高2021年GDP预测。我们希望保持税收体系总体不变，但可能需要一些微调。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7556978.d.html</link>
-            <guid>2197597</guid>
-            <pubDate>Thu, 03 Jun 2021 12:00:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海黄金交易所黄金T+D 6月3日（周四）晚盘盘初下跌0.75%报384.45元/克；上海黄金交易所白银T+D 6月3日（周四）晚盘盘初下跌0.91%报5637.0元/千克。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8956605.d.html</link>
-            <guid>2197596</guid>
-            <pubDate>Thu, 03 Jun 2021 12:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中日举行海洋事务高级别磋商团长会谈】2021年6月3日，外交部边界与海洋事务司司长洪亮同日本外务省亚洲大洋洲局局长船越健裕以视频方式共同主持中日海洋事务高级别磋商团长会谈。中方就福岛核污染水处置问题表达关切，希望日方本着负责任的态度审慎处理这一问题。双方同意继续保持沟通接触，商定在今年下半年适时举行新一轮中日海洋事务高级别磋商全体会议。（外交部）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8956570.d.html</link>
-            <guid>2197595</guid>
-            <pubDate>Thu, 03 Jun 2021 12:00:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国宝武与招商局集团开展座谈交流】6月2日上午，中国宝武总经理、党委副书记胡望明在宝武大厦与来访的招商局集团总经理、党委副书记胡建华一行进行座谈交流。双方就巩固和深化在航运物流、社区与园区开发、金融、创新业务等领域战略合作的基础上，进一步推动落实全面深度合作，以及推动碳达峰碳中和工作、践行“一带一路”倡议等进行了深入的探讨交流。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7556442.d.html</link>
-            <guid>2197594</guid>
-            <pubDate>Thu, 03 Jun 2021 11:56:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  AMC院线(AMC.N)盘前急跌后转涨，现涨1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8955464.d.html</link>
-            <guid>2197593</guid>
-            <pubDate>Thu, 03 Jun 2021 11:50:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟建议成员国逐步解除对日本的旅行限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8955312.d.html</link>
-            <guid>2197592</guid>
-            <pubDate>Thu, 03 Jun 2021 11:49:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【6月3日《新闻联播》主要内容】今天《新闻联播》主要内容有：1、习近平向上海合作组织民间友好论坛致贺信；2、习近平向纳米比亚总统致慰问电；3、习近平同哈萨克斯坦总统通电话；4、习近平同阿塞拜疆总统通电话；5、习近平同多米尼加总统通电话；6、人民日报署名文章：让绿水青山造福人民泽被子孙——习近平总书记关于生态文明建设重要论述综述；7、李克强对全国就业创业工作暨普通高等学校毕业生就业创业工作电视电话会议作出重要批示；8、赵乐际出席联合国大会反腐败问题特别会议；9、国务院印发《关于深化“证照分离”改革进一步激发市场主体发展活力的通知》；10、【奋斗百年路 启航新征程·今日中国】广西：在推动高质量发展上闯出新路子；11、奋斗百年路 启航新征程·数风流人物；12、中共一大纪念馆今天开馆；13、突出政治监督 破解监督难题 加强对“一把手”和领导班子监督；14、全国评比达标表彰工作协调小组制定关于评选评奖活动的负面清单；15、香港新学年将推行公民与社会发展科课程；16、人民日报钟声文章：“中情局化”闹剧贻害无穷——新冠病毒溯源不容政治操弄④；17、国际锐评：美方某些人栽赃中国的“专业造假”套路昭然若揭；18、我国新冠病毒疫苗接种超7亿剂次；19、国家卫生健康委通报最新疫情；20、媒体：美国有更多鲜为人知的种族屠杀事件；21、全球新冠肺炎确诊病例超1亿7081万。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8955255.d.html</link>
-            <guid>2197591</guid>
-            <pubDate>Thu, 03 Jun 2021 11:48:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商务部发声：两次通话有三个特点】 首先，公布了这两次交流的形式。都是视频通话，都是50分钟左右的时间。第二，“求同”与“存异”并行不悖。第三，再次强调“从务实解决问题入手”。要“务实”，既需有“务实”的态度，更要有“务实”的能力。这就对双方经贸团队有了更高要求。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7555322.d.html</link>
-            <guid>2197590</guid>
-            <pubDate>Thu, 03 Jun 2021 11:46:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽约联储前主席杜德利：不要认为美联储退出公司债券工具是缩减购债的信号。很难想象工资会出现螺旋式上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8954992.d.html</link>
-            <guid>2197589</guid>
-            <pubDate>Thu, 03 Jun 2021 11:46:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【万科A：5月合同销售额575.6亿元 同比下降6.07%】万科A公告，2021年5月公司实现合同销售面积382.7万平方米，合同销售金额575.6亿元，同比下降6.07%；2021年1-5月公司累计实现合同销售面积1795.6万平方米，合同销售金额2868.1亿元，同比增长16.07%。2021年4月份销售简报披露以来，公司新增加开发项目17个。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8954593.d.html</link>
-            <guid>2197587</guid>
-            <pubDate>Thu, 03 Jun 2021 11:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东调整天然气发电机组超限定小时数上网电价】 据广东省发展改革委网站6月2日消息，鉴于当前的电力供需形势，为调动天然气发电机组的发电积极性，经研究，决定自2021年6月1日起，暂停执行该委《关于调整我省天然气发电上网电价的通知》（粤发改价格〔2020〕284号）中各类型机组超过限定年利用小时数的上网电价统一为每千瓦时0.463元的规定，即各类机组的电量均执行限定年利用小时数内的天然气发电上网电价。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8954338.d.html</link>
-            <guid>2197586</guid>
-            <pubDate>Thu, 03 Jun 2021 11:41:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[就业数据公司挑战者：5月份，医疗保健和产品行业裁员人数最多，为2775人，其次是教育行业，裁员2617人。交通运输业裁员2285人，而汽车行业裁员2109人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7554525.d.html</link>
-            <guid>2197585</guid>
-            <pubDate>Thu, 03 Jun 2021 11:40:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[就业数据公司挑战者：今年迄今，雇主已宣布计划裁员192185人，较去年同期的1414828人减少了86%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8954033.d.html</link>
-            <guid>2197584</guid>
-            <pubDate>Thu, 03 Jun 2021 11:39:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  金丹科技：广州诚信、首中教育等多名股东拟合计减持不超过5.31%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8954026.d.html</link>
-            <guid>2197583</guid>
-            <pubDate>Thu, 03 Jun 2021 11:38:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宏大爆破：子公司签署重要合同，合同总金额为2.06亿元】宏大爆破公告，子公司广东明华机械有限公司于2020年12月3日收到关于传统防务装备产品的《成交通知书》。近日，明华公司已与客户签订了上述防务装备产品订货合同，合同总金额为20,593.09万元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8953876.d.html</link>
-            <guid>2197582</guid>
-            <pubDate>Thu, 03 Jun 2021 11:37:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安科生物：注射用重组人HER2单克隆抗体完成研究工作】安科生物公告，公司完成注射用重组人HER2单克隆抗体治疗HER2阳性转移性乳腺癌的临床疗效及安全性评价的Ⅲ期临床试验。目前该药品完成相关研究工作，尚需向国家药品监督管理局进行生产申报，经国家药品监督管理局批准后方能上市销售。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqcfnaz8953626.d.html</link>
-            <guid>2197581</guid>
-            <pubDate>Thu, 03 Jun 2021 11:35:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国工程院院士陈薇表示，正在申请雾化吸入式新冠疫苗紧急使用。相较注射式疫苗形成的体液免疫、细胞免疫，吸入式疫苗还可形成黏膜免疫，这三重免疫是最理想的状态。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-03/detail-ikqciyzi7553585.d.html</link>
-            <guid>2197580</guid>
-            <pubDate>Thu, 03 Jun 2021 11:32:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
