@@ -4,11 +4,158 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Fri, 04 Jun 2021 19:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jun 2021 20:41:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[穆迪：支持对俄罗斯评级的因素包括，俄罗斯经济应对新冠疫情和石油价格冲击表现出的韧性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9187889.d.html</link>
+            <guid>2199018</guid>
+            <pubDate>Fri, 04 Jun 2021 20:40:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪：维持对俄罗斯的评级为“Baa3”，前景展望保持为稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7788155.d.html</link>
+            <guid>2199017</guid>
+            <pubDate>Fri, 04 Jun 2021 20:40:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据美国证券交易委员会文件：美国知名法律品牌LegalZoom.com提交IPO申请，拟筹资达1亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7787728.d.html</link>
+            <guid>2199016</guid>
+            <pubDate>Fri, 04 Jun 2021 20:27:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加拿大临床阶段生物制药公司Liminal BioSciences(LMNL.O)盘后大涨70%，美国食品药品监督管理局通过其药物Ryplazim的生物制剂许可证申请。]]></title>
+            <guid>2199015</guid>
+            <pubDate>Fri, 04 Jun 2021 20:19:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据美国证券交易委员会文件：爱尔兰临床研究阶段生物制药公司GH Research提交在美IPO申请，拟筹资达1亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7787392.d.html</link>
+            <guid>2199014</guid>
+            <pubDate>Fri, 04 Jun 2021 20:18:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非新增67例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7787136.d.html</link>
+            <guid>2199013</guid>
+            <pubDate>Fri, 04 Jun 2021 20:11:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西新增37936例新冠肺炎确诊病例，新增1454例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7787090.d.html</link>
+            <guid>2199012</guid>
+            <pubDate>Fri, 04 Jun 2021 20:10:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据美国证券交易委员会文件：纽约市临床阶段生物制药服务商Elevation Oncology提交IPO申请，拟筹资达1亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9186756.d.html</link>
+            <guid>2199011</guid>
+            <pubDate>Fri, 04 Jun 2021 20:09:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德美利证券（TD Ameritrade）将AMC院线(AMC.N)纳入增加保证金要求和交易策略限制的股票名单。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7787007.d.html</link>
+            <guid>2199010</guid>
+            <pubDate>Fri, 04 Jun 2021 20:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国证交会主席根斯勒：将继续努力，让美国上市公司会计监督委员会（PCAOB）更好地保护投资者利益。]]></title>
+            <guid>2199009</guid>
+            <pubDate>Fri, 04 Jun 2021 20:06:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加拿大股指首次收于2万点上方。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9186532.d.html</link>
+            <guid>2199008</guid>
+            <pubDate>Fri, 04 Jun 2021 20:03:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股收盘，三大股指高开高走，道指初步收涨约180点，科技股、半导体板块造好，教育股、WSB概念股走低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7786690.d.html</link>
+            <guid>2199007</guid>
+            <pubDate>Fri, 04 Jun 2021 20:00:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：黑客使用泄露的密码入侵了运输管道公司Colonial Pipeline。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7786673.d.html</link>
+            <guid>2199006</guid>
+            <pubDate>Fri, 04 Jun 2021 19:59:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三十年期美国国债收益率跌至2.236%，为5月7日以来最低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7786565.d.html</link>
+            <guid>2199005</guid>
+            <pubDate>Fri, 04 Jun 2021 19:55:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华尔街银行限制对冲基金做空MEME股票】华尔街的顶级经纪商正在悄悄地收紧针对谁可以做空散户最热门的MEME股票的规定。知情人士表示，目前包括美国银行、花旗集团和杰富瑞金融集团在内的机构已经调整了经纪业务的风险控制。银行正试图保护自己免受股市极端涨跌的影响，例如AMC院线和游戏驿站近期的大幅波动。上述知情人士表示，这些变化意味着一些对冲基金和其他机构投资者现在面临更高的抵押品要求，或被限制做空某些股票。杰富瑞高级经纪服务公司在给客户的备忘录中表示，在得到进一步通知之前，将不再对游戏驿站、AMC院线和MicroVision的无担保期权提供托管。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9186080.d.html</link>
+            <guid>2199004</guid>
+            <pubDate>Fri, 04 Jun 2021 19:49:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC） 数据显示，投机者最近一周将美元净空头押注削减至173.8亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9185710.d.html</link>
+            <guid>2199003</guid>
+            <pubDate>Fri, 04 Jun 2021 19:41:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：至6月1日当周，美国投机者将标普500指数CME净空头持仓增加1086手至22777手，股票基金经理将标普500指数CME净多头持仓增加2693手至172162手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9185699.d.html</link>
+            <guid>2199002</guid>
+            <pubDate>Fri, 04 Jun 2021 19:40:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会(CFTC)：截至6月1日当周，投机者将CBOT美国2年期国债期货净空头持仓减少58816手至83061手，美国5年期国债期货净空头持仓增加6987手至122702手，美国10年期国债期货净多头持仓减少49554手至54844手，超长期国债期货净空头持仓增加8597手至258231手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9185533.d.html</link>
+            <guid>2199001</guid>
+            <pubDate>Fri, 04 Jun 2021 19:36:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至6月1日当周，WTI原油期货投机性净多头头寸增加21101手至396527手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9185447.d.html</link>
+            <guid>2199000</guid>
+            <pubDate>Fri, 04 Jun 2021 19:34:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：伊朗胡泽斯坦省Shahid Tondgooyan石化公司（STPC）发生火灾。]]></title>
+            <guid>2198999</guid>
+            <pubDate>Fri, 04 Jun 2021 19:33:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至6月1日当周，COMEX铜期货投机性净多头头寸减少6316手至27615手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7785702.d.html</link>
+            <guid>2198998</guid>
+            <pubDate>Fri, 04 Jun 2021 19:33:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至6月1日当周，COMEX白银期货投机性净多头头寸减少2766手至42529手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7785697.d.html</link>
+            <guid>2198997</guid>
+            <pubDate>Fri, 04 Jun 2021 19:33:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至6月1日当周，COMEX黄金期货投机性净多头头寸增加2944手至129846手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9185352.d.html</link>
+            <guid>2198996</guid>
+            <pubDate>Fri, 04 Jun 2021 19:32:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国联合航空(UAL.O)：在法国宣布对来自美国的接种过疫苗的旅客重新开放后，今年夏天将增加更多飞往巴黎的航班。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9185264.d.html</link>
+            <guid>2198995</guid>
+            <pubDate>Fri, 04 Jun 2021 19:29:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国众议院议员卡皮托和总统拜登将在周一再次讨论基建提案问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9185145.d.html</link>
+            <guid>2198993</guid>
+            <pubDate>Fri, 04 Jun 2021 19:26:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  市场消息：华尔街银行限制对冲基金做空MEME股票的行为。（MEME股通常指深受网民影响的股票）]]></title>
             <guid>2198992</guid>
@@ -306,6 +453,12 @@
             <pubDate>Fri, 04 Jun 2021 16:24:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[【外交部：王毅同俄罗斯外长拉夫罗夫通电话】2021年6月4日，国务委员兼外长王毅在贵阳同俄罗斯外长拉夫罗夫通电话。王毅表示，元首引领是中俄关系行稳致远、永葆活力的根本保障。中俄新时代全面战略协作伙伴关系是全方位的，中俄新时代全面战略协作伙伴关系也是全天候的。双方还就共同关心的一系列国际和地区问题深入交换意见，协调立场，达成广泛共识。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7775431.d.html</link>
+            <guid>2198942</guid>
+            <pubDate>Fri, 04 Jun 2021 16:23:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[德国财长肖尔茨：G7会谈非常成功。我们有信心在今天或明天达成协议。如果我们同意全球最低企业税的最低税率，税收上的竞争将结束。绝对有必要达成协议以保护经济。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9174707.d.html</link>
             <guid>2198941</guid>
@@ -328,6 +481,12 @@
             <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7774317.d.html</link>
             <guid>2198938</guid>
             <pubDate>Fri, 04 Jun 2021 16:09:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务卿布林肯：美国方面将向阿富汗提供2.66亿美元的额外援助。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7774310.d.html</link>
+            <guid>2198937</guid>
+            <pubDate>Fri, 04 Jun 2021 16:08:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[法国财长勒梅尔：G7会议将在下周五就税收继续进行会谈。新的税收协议必须涵盖所有的大型数字公司。]]></title>
@@ -442,168 +601,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqciyzi7771994.d.html</link>
             <guid>2198918</guid>
             <pubDate>Fri, 04 Jun 2021 15:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：知情人士称，七国集团可能在伦敦就最低企业税率达成协议，七国集团财长将于周五和周六在伦敦会面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqciyzi7771789.d.html</link>
-            <guid>2198917</guid>
-            <pubDate>Fri, 04 Jun 2021 15:29:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：七国集团接近就至少15%的全球最低企业税率达成一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9171220.d.html</link>
-            <guid>2198916</guid>
-            <pubDate>Fri, 04 Jun 2021 15:29:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美债在就业报告发布后上涨 有迹象显示交易员回补空头】美国国债价格周五上涨，基准10年期国债收益率一度下跌5.8个基点至1.567%，为5月26日以来最低，不过收益率仍大致维持在近期区间内。虽然美国就业报告比前一个月有所好转，失业率也出现下降，但就业增长略低于分析师预期中值，为收益率走低提供了一些动力。美国早盘这一走势的延续以及市场在数据前已经偏向做空，说明周末前可能有空头回补。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9171170.d.html</link>
-            <guid>2198915</guid>
-            <pubDate>Fri, 04 Jun 2021 15:28:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：缅甸将半封锁扩展到西部州的4个城镇。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9170974.d.html</link>
-            <guid>2198914</guid>
-            <pubDate>Fri, 04 Jun 2021 15:25:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  沙特电力公司：本公司电网发生技术故障。（沙特国家电视台）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9170771.d.html</link>
-            <guid>2198913</guid>
-            <pubDate>Fri, 04 Jun 2021 15:22:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中概券商股大涨，老虎证券涨11%，富途证券涨超7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqciyzi7771278.d.html</link>
-            <guid>2198912</guid>
-            <pubDate>Fri, 04 Jun 2021 15:22:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[佛山南海区发布关于做好新冠肺炎疫情分级分类防控工作的通告：桂城街道华福御水岸小区及周边区域，万科金域名都小区，大沥镇景裕嘉园小区及周边区域，以及感染者和密切接触者居住、工作的重点场所（由区指挥部确定），所有人员严格实行居家隔离，做到足不出户，执行封闭管理。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqciyzi7771239.d.html</link>
-            <guid>2198911</guid>
-            <pubDate>Fri, 04 Jun 2021 15:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构分析：交易员关注布伦特原油72.19美元/桶的关键点位 突破或进入新区间】美国非农就业数据公布后，油价随其他大多数资产走高。交易员们目前正在密切关注布伦特原油72.19美元/桶的位置，可能准备突破后再次将资金注入市场，该位置是2012年启动的跌势的斐波那契回撤位。对一些交易员而言，这是当前石油市场最重要的一个点位。随着西方国家需求的反弹，市场对今夏行情预期乐观，突破下一个斐波那契阻力位有望吸引资金回到石油市场。迄今为止资金尚未重新流入市场，净多仓创去年12月以来的新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9170621.d.html</link>
-            <guid>2198910</guid>
-            <pubDate>Fri, 04 Jun 2021 15:21:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数据显示，美国5月份创造的所有新工作岗位中有三分之一是服务员和调酒师，占到了新增休闲和酒店工作岗位中的绝大部分。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9170365.d.html</link>
-            <guid>2198909</guid>
-            <pubDate>Fri, 04 Jun 2021 15:17:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【圣路易斯联储实际GDP模型预测美国第二季度GDP增长8.7%】圣路易斯联邦储备银行GDP预测基于截至周五公布的经济数据，对美国第二季度GDP增速的首次预测为8.24%，先前的预测是增长7.67%，]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqciyzi7770522.d.html</link>
-            <guid>2198908</guid>
-            <pubDate>Fri, 04 Jun 2021 15:11:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国新增6238例新冠肺炎确诊病例，新增11例新冠肺炎死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqciyzi7769731.d.html</link>
-            <guid>2198905</guid>
-            <pubDate>Fri, 04 Jun 2021 15:04:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【内盘商品期货夜盘走势分化 玻璃涨超2%】内盘商品期货夜盘多数收涨，玻璃涨超2%，焦煤、纸浆、铁矿涨超1%。PP、焦炭、PVC跌逾1%，塑料、苯乙烯、甲醇、棕榈小幅下跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqciyzi7769696.d.html</link>
-            <guid>2198904</guid>
-            <pubDate>Fri, 04 Jun 2021 15:03:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为48，表明市场处在中性状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9168999.d.html</link>
-            <guid>2198903</guid>
-            <pubDate>Fri, 04 Jun 2021 15:01:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据Electrek：特斯拉已正式申请在柏林超级工厂生产电池，预计将成为首批生产新型4680电池的工厂之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqciyzi7769476.d.html</link>
-            <guid>2198902</guid>
-            <pubDate>Fri, 04 Jun 2021 15:01:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国卫生大臣汉考克：目前我们没有多余的疫苗剂量。可以在不改变知识产权规则的情况下降低疫苗成本。我们一直预计新冠肺炎确诊病例会随着经济重启而增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqciyzi7769428.d.html</link>
-            <guid>2198901</guid>
-            <pubDate>Fri, 04 Jun 2021 15:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【田湾核电站6号机组此前触发停堆，界定为0级事件无环境污染】6月3日，国家核安全局官网公布一则事件报告称，田湾核电站6号机组汽轮机高压调阀异常开启，导致蒸汽发生器高高液位叠加核功率大于10%FP，触发机组停机停堆运行。营运单位排查发现，故障高压调阀的比例阀阀位反馈航空插头内部2根导线绝缘层破损，导线接触引发阀位反馈信号失真，导致高压调阀异常开启。营运单位已更换故障部件，并按计划开展后续工作。事件过程中，反应堆保护系统响应正常，三道安全屏障保持完整，未产生放射性后果、无人员照射、无环境污染。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9168675.d.html</link>
-            <guid>2198900</guid>
-            <pubDate>Fri, 04 Jun 2021 14:57:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国财长勒梅尔：法国总统马克龙表示，针对数字企业的最低税率越高越好。 美国提出的15%的最低企业税率只是一个起点。爱尔兰和其他国家必须明白需要在谈判中取得重大突破。我们将从税收改革中为所有欧洲国家争取到一些非常可观的资金。强制性气候信息披露方面正取得进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9168585.d.html</link>
-            <guid>2198899</guid>
-            <pubDate>Fri, 04 Jun 2021 14:56:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德国不再将意大利和捷克列为疫情风险地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqciyzi7769041.d.html</link>
-            <guid>2198898</guid>
-            <pubDate>Fri, 04 Jun 2021 14:55:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[奥地利总理对俄罗斯总统在推进全球新冠疫苗接种和抗疫方面做出的努力表示感谢。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqciyzi7768931.d.html</link>
-            <guid>2198897</guid>
-            <pubDate>Fri, 04 Jun 2021 14:54:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利新增2557例新冠肺炎确诊病例，新增73例新冠肺炎死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqciyzi7768881.d.html</link>
-            <guid>2198896</guid>
-            <pubDate>Fri, 04 Jun 2021 14:53:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国财长勒梅尔：我们离达成全球税收协议不远了。英国推动了税收协议的达成。但目前还存在一些轻微的分歧。 希望在七国集团会议结束前就核心问题达成协议。任何协议都必须包括所有数字活动的税收和最低税率。税收协定的对象必须包括所有重要的数字企业。 数字税收的范围仍在讨论中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqciyzi7768834.d.html</link>
-            <guid>2198895</guid>
-            <pubDate>Fri, 04 Jun 2021 14:53:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月非农报告显示，失业少于5周的人数减少了391000人至200万人，长期失业人数（失业27周或以上）减少431000人至380万人，但仍较2020年2月高出260万人，这些长期失业人员占5月份失业总人数的40.9%。工资方面，5月份平均时薪从0.4%的增幅上升至2.0%，超出预期的1.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9168319.d.html</link>
-            <guid>2198894</guid>
-            <pubDate>Fri, 04 Jun 2021 14:53:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党众议员Brady批评拜登有关设定15%最低企业税率的想法。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9168283.d.html</link>
-            <guid>2198893</guid>
-            <pubDate>Fri, 04 Jun 2021 14:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党众议员Brady：拜登政府的税收方案将扭转特朗普的减税政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9168261.d.html</link>
-            <guid>2198892</guid>
-            <pubDate>Fri, 04 Jun 2021 14:52:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标准普尔500信息技术指数触及1个月高位，现上涨1.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9168224.d.html</link>
-            <guid>2198891</guid>
-            <pubDate>Fri, 04 Jun 2021 14:52:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：对美国国家过敏症和传染病研究所所长福奇很有信心。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9168211.d.html</link>
-            <guid>2198890</guid>
-            <pubDate>Fri, 04 Jun 2021 14:52:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：美国经济复苏的道路上将会遇到坎坷。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9167834.d.html</link>
-            <guid>2198889</guid>
-            <pubDate>Fri, 04 Jun 2021 14:47:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
