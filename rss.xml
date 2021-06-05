@@ -4,11 +4,33 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 05 Jun 2021 19:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Jun 2021 20:07:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[土耳其新增6126例新冠肺炎确诊病例，累计确诊5282594例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi7943993.d.html</link>
+            <guid>2199370</guid>
+            <pubDate>Sat, 05 Jun 2021 20:02:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国医疗用品公司梅得朗（Medline）已签署最终协议，将接受黑石集团、凯雷投资集团、私募股权公司Hellman & Friedman的投资。交易完成后，梅得朗仍将是私人控股的家族主导公司，米尔斯家族仍将是最大的单一股东。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi7943656.d.html</link>
+            <guid>2199369</guid>
+            <pubDate>Sat, 05 Jun 2021 19:50:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国务院：美国特别代表扎勒迈·哈利勒扎德将前往卡塔尔和阿富汗讨论阿富汗和平进程。]]></title>
+            <guid>2199368</guid>
+            <pubDate>Sat, 05 Jun 2021 19:45:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：包括黑石集团的企业集团接近达成协议，计划以超300亿美元收购美国大型医疗用品公司梅得朗 （Medline）。]]></title>
+            <guid>2199367</guid>
+            <pubDate>Sat, 05 Jun 2021 19:35:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[消息人士：也门马里卜市加油站附近发生爆炸，造成至少12人死亡。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi7942876.d.html</link>
@@ -577,29 +599,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9308331.d.html</link>
             <guid>2199263</guid>
             <pubDate>Sat, 05 Jun 2021 11:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商务部：推动更高水平开放 为全球和区域发展创造更多机遇】APEC第27届贸易部长会议今天（5日）举行。商务部部长王文涛在部长联合新闻发布会上表示，当前，新冠肺炎疫情对全球和亚太经济造成严重冲击，也给中国经济社会发展带来前所未有的挑战。中方愿同各成员一道，推动会议取得成功，向国际社会发出亚太携手抗疫、维护区域产业链供应链稳定、推动区域经济复苏的积极信号。中方也将加快构建新发展格局，推动更高水平开放，为全球和区域发展创造更多机遇。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7908274.d.html</link>
-            <guid>2199262</guid>
-            <pubDate>Sat, 05 Jun 2021 11:40:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国财政部长：G7国家接近达成对科技巨头征税的历史性协议】德国财政部长舒尔茨在参加完G7国家财长会议后表示，G7国家正接近达成对科技巨头征税的历史性协议，对于这些科技公司的税收改革与先前提出的引入最低企业税率征收的计划一起将“改变世界”，给各国增加数十亿英镑的财政收入，否则这些资金将被转移到那些低税收国家。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9307591.d.html</link>
-            <guid>2199261</guid>
-            <pubDate>Sat, 05 Jun 2021 11:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国财长肖尔茨：七国集团的历史性税收决定意味着企业将不再能够通过在低税收国家登记利润来逃税。下一步将是在未来几周内与G20、经合组织成员国达成协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9307251.d.html</link>
-            <guid>2199260</guid>
-            <pubDate>Sat, 05 Jun 2021 11:31:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[多名日本政府消息人士透露，关于韩国总统文在寅将作为嘉宾出席的七国集团（G7）峰会，日本政府基本决定不事先安排举行日韩首脑会谈。（日本共同网）]]></title>
-            <guid>2199257</guid>
-            <pubDate>Sat, 05 Jun 2021 11:27:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
