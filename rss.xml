@@ -4,11 +4,460 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Wed, 09 Jun 2021 11:38:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Jun 2021 13:04:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美股盘前消息速报】①周三美股盘前，美国股指期货涨跌不一，波动不大，市场静待明日公布的美国通胀数据，交投愈发谨慎。②截至发稿，道指期货跌0.02%，标普500期指涨0.12%，纳指期货涨0.28%。③欧洲股市涨跌互现，英国富时100指数跌0.39%，法国CAC指数涨0.05%，德国DAX指数跌0.45%。④汇市方面，美元指数又跌破90关口，最低触及89.97；欧元、英镑等G10货币有所走高；现货黄金同样承压，仍然交投于1900下方。⑤美国10年期国债收益率跌破1.5%，为5月7日以来首次。⑥比特币日内一度上破35000美元/枚，日内涨近5%。萨尔瓦多国会投票批准总统提交的比特币作为法定货币的提案，萨尔瓦多成全球第一个采用比特币作为法定货币的国家。⑦美股区块链概念盘前普涨，第九城市涨超8%，嘉楠科技涨超2%，Riot Blockchain涨近2%。⑧WSB概念股盘前走强，Clover Health Investments涨18%，Rocket Companies涨超4%，游戏驿站涨超1%。⑨阳光动力盘前暴涨超40%，子公司Phoenix Motorcars开始生产第三代电动传动系统产品。]]></title>
+            <guid>2202827</guid>
+            <pubDate>Wed, 09 Jun 2021 13:03:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[智利央行预测，2021年铜价为4.25美元/磅，2022年为4.00美元/磅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0112643.d.html</link>
+            <guid>2202826</guid>
+            <pubDate>Wed, 09 Jun 2021 13:03:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[智利央行预计，2021年该国的GDP增长率为8.5%至9.5%，高于此前预计的6%至7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0112522.d.html</link>
+            <guid>2202825</guid>
+            <pubDate>Wed, 09 Jun 2021 13:02:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今日财经TOP10】➊「全国人大外事委员会就美通过“2021年美国创新和竞争法案”发表声明」➋「5月份中国CPI同比上涨1.3% 猪肉价格下降23.8％」➌「国家网信办：加大对区块链平台及衍生平台应用监测力度」➍「新华社解读：土地出让收入为何划转税务部门征收」➎「地方债反腐进行时，一官员薅平台公司羊毛推高政府债务被查」➏「80岁的老父亲，一顿操作，把闺女公司的股价搞崩了」➐「高考生将数学考题上传至小猿搜题 教育部还原事情经过」➑「TCL李东生：中国解决高端芯片问题 至少要五年时间」➒「大众探岳颗粒捕捉器问题频发：油耗百公里20升 4S店建议不开空调」➓「世卫组织-中国联合溯源报告：华南海鲜市场不是新冠病毒发源地」 https://finance.sina.com.cn/china/caijingtop10/2021-06-09/doc-ikqciyzi8710122.shtml]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0112497.d.html</link>
+            <guid>2202824</guid>
+            <pubDate>Wed, 09 Jun 2021 13:01:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国内期货夜盘开盘涨跌不一，纸浆涨超2%，棕榈油跌2.24%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8711039.d.html</link>
+            <guid>2202823</guid>
+            <pubDate>Wed, 09 Jun 2021 13:00:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑兑美元GBP/USD持续走低，短线下挫近20点，现报1.4131，日内跌0.14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8710874.d.html</link>
+            <guid>2202822</guid>
+            <pubDate>Wed, 09 Jun 2021 12:59:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国消息人士：没有下次联合委员会正式会议的时间表。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8710701.d.html</link>
+            <guid>2202821</guid>
+            <pubDate>Wed, 09 Jun 2021 12:57:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据中国基金报，尽管近期市场有所反弹，但新基金发行依旧是“冰火两重天”。6月以来，已有27只基金提前结募，已超过整个5月提前结募总数的八成。多位业内人士表示，基金行业强者恒强、二八分化的现象恐将愈演愈烈，而且新基金发行冰火两重天的现象可能在未来很长一段时间都会存在。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8710692.d.html</link>
+            <guid>2202820</guid>
+            <pubDate>Wed, 09 Jun 2021 12:57:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利10年期国债收益率跌至4月底以来的最低点，报0.807%，日内下跌6个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0111812.d.html</link>
+            <guid>2202819</guid>
+            <pubDate>Wed, 09 Jun 2021 12:56:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国消息人士：相信英国首相约翰逊将在G7集团峰会上就北爱尔兰问题提出英国的观点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0111781.d.html</link>
+            <guid>2202818</guid>
+            <pubDate>Wed, 09 Jun 2021 12:56:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国消息人士：预计双方有解决方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8710468.d.html</link>
+            <guid>2202817</guid>
+            <pubDate>Wed, 09 Jun 2021 12:55:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国消息人士：没有人希望卷入贸易战，希望欧盟不要走上报复性行动之路。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0111759.d.html</link>
+            <guid>2202816</guid>
+            <pubDate>Wed, 09 Jun 2021 12:55:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国消息人士：延长一些商品的宽限期是选择之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0111745.d.html</link>
+            <guid>2202815</guid>
+            <pubDate>Wed, 09 Jun 2021 12:55:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国10年期国债收益率跌至4月底以来的最低水平，报-0.26%，日内下跌近4个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0111585.d.html</link>
+            <guid>2202814</guid>
+            <pubDate>Wed, 09 Jun 2021 12:54:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国流行病学家FERGUSON：我们认为新冠病毒Delta变种毒株比Alpha毒株传播能力强60%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0111568.d.html</link>
+            <guid>2202813</guid>
+            <pubDate>Wed, 09 Jun 2021 12:54:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金域医学：“猎鹰号”移动检测车进驻白云机场】广州市要求，6月8日起所有人员都需查验健康码“绿码”和48小时核酸检测阴性证明方可进入广州白云机场航站楼。记者获悉，为方便旅客解决因核酸检测证明不符而误机的问题，金域医学(603882)联合白云机场在一号航站楼12门对面增设金域医学现场核酸检测点，将集装箱“猎鹰号”移动检测车驶入白云机场，面向有出行需求的旅客提供24小时全天候新冠病毒检测服务，并承诺采样后4~8小时出具核酸检测报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0111276.d.html</link>
+            <guid>2202812</guid>
+            <pubDate>Wed, 09 Jun 2021 12:51:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  拜登：将在欧洲之行期间宣布全球疫苗接种计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8709876.d.html</link>
+            <guid>2202811</guid>
+            <pubDate>Wed, 09 Jun 2021 12:50:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席谢夫乔维奇：必须坚持双方在议定书中达成的协议，因为这是最好的解决方案，我们不能重新谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8709832.d.html</link>
+            <guid>2202810</guid>
+            <pubDate>Wed, 09 Jun 2021 12:50:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【民航局与科技部签署《中国新一代智慧民航自主创新联合行动计划纲要》】昨日，中国民用航空局与科学技术部在京签署《中国新一代智慧民航自主创新联合行动计划纲要》。根据《纲要》，到2025年，民航局与科技部将围绕智慧民航建设，瞄准制约民航发展的关键短板，强化科技支撑引领，加大民航科研基础设施建设力度，落实民航安全、适航审定、空事系统、智慧机场、智慧空管、智慧航空器运行与运输服务、民航科技创新能力体系共七个方面的重点任务，实现一批关键核心技术装备自主可控，形成国际一流的民航科技创新能力，为建成保障有力、人民满意、竞争力强的民航强国提供强大科技支撑。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8709519.d.html</link>
+            <guid>2202808</guid>
+            <pubDate>Wed, 09 Jun 2021 12:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑兑美元GBP/USD日内转跌，现报1.4142。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0110544.d.html</link>
+            <guid>2202807</guid>
+            <pubDate>Wed, 09 Jun 2021 12:45:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席谢夫乔维奇：英国对欧盟法律行动的反应并不令人满意。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8709264.d.html</link>
+            <guid>2202806</guid>
+            <pubDate>Wed, 09 Jun 2021 12:45:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【神舟十二号船箭组合体转运至发射区】据中国载人航天工程办公室消息，北京时间2021年6月9日，神舟十二号载人飞船与长征二号F遥十二运载火箭组合体已转运至发射区。目前，发射场设施设备状态良好，后续将按计划开展发射前的各项功能检查、联合测试等工作。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0109911.d.html</link>
+            <guid>2202805</guid>
+            <pubDate>Wed, 09 Jun 2021 12:40:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席谢夫乔维奇：对英国的交叉报复措施可能意味着配额和关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8708661.d.html</link>
+            <guid>2202804</guid>
+            <pubDate>Wed, 09 Jun 2021 12:40:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  博睿数据澄清：截至目前，公司BonreeSDK产品未取得与鸿蒙操作系统相关的订单，也未在鸿蒙操作系统上确认相关收入。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0109679.d.html</link>
+            <guid>2202803</guid>
+            <pubDate>Wed, 09 Jun 2021 12:39:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席谢夫乔维奇：不希望采取报复行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8708244.d.html</link>
+            <guid>2202802</guid>
+            <pubDate>Wed, 09 Jun 2021 12:37:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席谢夫乔维奇：欧盟对英国的耐心正在耗尽。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8708232.d.html</link>
+            <guid>2202801</guid>
+            <pubDate>Wed, 09 Jun 2021 12:37:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席谢夫乔维奇：我们对英国表现出极大的耐心。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8708223.d.html</link>
+            <guid>2202800</guid>
+            <pubDate>Wed, 09 Jun 2021 12:37:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【常铝股份：拟参与设立产业引导基金 对全资子公司增资】常铝股份公告，公司拟与包头市重点产业发展投资基金(有限合伙)、内蒙古恒久通资产管理有限公司签署《包头市重点产业基金稀土高新区叁号子基金(有限合伙)合伙协议》，联合设立产业引导基金，基金规模为2.1亿元。本次投资产业引导基金投资目标唯一，为定向对公司全资子公司包头北方铝业有限公司增资，无其他投资目的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0109406.d.html</link>
+            <guid>2202799</guid>
+            <pubDate>Wed, 09 Jun 2021 12:37:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[利比亚WAHA公司石油产量在管道修复后逐步上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8707950.d.html</link>
+            <guid>2202798</guid>
+            <pubDate>Wed, 09 Jun 2021 12:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际航空运输协会：4月份的国际旅客需求比2019年4月下降了87.3%，与3月录得的87.8%几乎没有变化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8707806.d.html</link>
+            <guid>2202797</guid>
+            <pubDate>Wed, 09 Jun 2021 12:34:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中烟香港：预计上半年公司收入增幅不低于85%，净利润增幅不低于115%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8707658.d.html</link>
+            <guid>2202796</guid>
+            <pubDate>Wed, 09 Jun 2021 12:33:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席谢夫乔维奇：专家们将在8月前开会讨论渔业问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0108747.d.html</link>
+            <guid>2202795</guid>
+            <pubDate>Wed, 09 Jun 2021 12:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席谢夫乔维奇：全面实施脱欧协议是建立信任的条件。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0108682.d.html</link>
+            <guid>2202794</guid>
+            <pubDate>Wed, 09 Jun 2021 12:32:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席谢夫乔维奇：如果英国继续采取单边行动，欧盟将采取报复行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8707439.d.html</link>
+            <guid>2202793</guid>
+            <pubDate>Wed, 09 Jun 2021 12:32:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：欧洲之行是为了加强与盟友的关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8707390.d.html</link>
+            <guid>2202792</guid>
+            <pubDate>Wed, 09 Jun 2021 12:31:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席谢夫乔维奇：我们正处在欧盟和英国关系的十字路口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8707301.d.html</link>
+            <guid>2202791</guid>
+            <pubDate>Wed, 09 Jun 2021 12:31:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登将在欧洲之行期间宣布全球疫苗接种战略。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8707165.d.html</link>
+            <guid>2202790</guid>
+            <pubDate>Wed, 09 Jun 2021 12:30:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席谢夫乔维奇：我们不能取消协议的核心。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0108142.d.html</link>
+            <guid>2202789</guid>
+            <pubDate>Wed, 09 Jun 2021 12:29:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：将向俄罗斯总统普京表明，美国和欧盟会团结一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0108134.d.html</link>
+            <guid>2202788</guid>
+            <pubDate>Wed, 09 Jun 2021 12:29:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席谢夫乔维奇：我从英国“脱欧”谈判首席代表弗罗斯特那里得到保证，所有悬而未决的问题都会很快得到解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8706994.d.html</link>
+            <guid>2202787</guid>
+            <pubDate>Wed, 09 Jun 2021 12:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席谢夫乔维奇：北爱尔兰协议必须得到执行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0108113.d.html</link>
+            <guid>2202786</guid>
+            <pubDate>Wed, 09 Jun 2021 12:28:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席谢夫乔维奇：如果欧盟公民受到英国脱欧协议的保护，他们必须有法律确定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8706972.d.html</link>
+            <guid>2202785</guid>
+            <pubDate>Wed, 09 Jun 2021 12:28:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中兴通讯5G RAN方案成功获得CC EAL3+认证】近日，中兴通讯5G RAN方案成功通过信息技术安全评估通用标准(CC) EAL3+认证，成为业内首家以5G RAN系列产品整套系统作为保护轮廓通过CC EAL3+认证的供应商。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8706508.d.html</link>
+            <guid>2202784</guid>
+            <pubDate>Wed, 09 Jun 2021 12:25:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线走高逾4美元，现报1893.2美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8706462.d.html</link>
+            <guid>2202783</guid>
+            <pubDate>Wed, 09 Jun 2021 12:25:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄外长：俄美双方就美国两公司遭黑客攻击的事件达成一致】当地时间6月9日，俄罗斯外长拉夫罗夫表示，俄罗斯与美国就世界肉类加工企业巨头JBS的美国分部和科洛尼尔输油管道公司遭黑客网络攻击一事已经达成共识，这将有助于两国在该领域展开对话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8705964.d.html</link>
+            <guid>2202782</guid>
+            <pubDate>Wed, 09 Jun 2021 12:22:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【*ST众泰：金华中院裁定受理浙江永康农商行对公司的重整申请】*ST众泰公告，公司收到金华市中级人民法院(“金华中院”)送达的（2020）浙07破申7号《民事裁定书》，金华中院裁定受理浙江永康农村商业银行股份有限公司(“浙江永康农商行”或“申请人”)对公司的重整申请。因金华中院依法受理公司重整，触及相关规定，公司股票将于2021年6月10日被叠加实施退市风险警示特别处理，股票简称仍为“*ST众泰”，股票代码仍为“000980”，股票交易的日涨跌幅限制仍为5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8704911.d.html</link>
+            <guid>2202781</guid>
+            <pubDate>Wed, 09 Jun 2021 12:16:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国财长肖尔茨：预计通货膨胀只是暂时的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8704514.d.html</link>
+            <guid>2202780</guid>
+            <pubDate>Wed, 09 Jun 2021 12:13:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[挪威卫生部长：挪威将允许私人从6月15日开始订购杨森新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0105738.d.html</link>
+            <guid>2202779</guid>
+            <pubDate>Wed, 09 Jun 2021 12:13:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[越南隔离区域新增57例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0105604.d.html</link>
+            <guid>2202778</guid>
+            <pubDate>Wed, 09 Jun 2021 12:12:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【山西路桥：资产重组事项获无条件通过 明起复牌】山西路桥公告，中国证券监督管理委员会上市公司并购重组审核委员会(“并购重组委”)召开2021年第11次并购重组委工作会议，对公司发行股份购买资产并募集配套资金事项进行了审核。根据会议审核结果，公司此次发行股份购买资产并募集配套资金事项获得无条件通过。经向深圳证券交易所申请，公司股票将自2021年6月10日开市起复牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8704200.d.html</link>
+            <guid>2202777</guid>
+            <pubDate>Wed, 09 Jun 2021 12:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：全球航空联盟呼吁制定通用的旅行标准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8704103.d.html</link>
+            <guid>2202776</guid>
+            <pubDate>Wed, 09 Jun 2021 12:10:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【体操中心发文号召开展大众蹦床行业安全自查自纠】根据《体育总局体操中心关于开展全国大众蹦床行业安全自查自纠工作的通知》，为进一步落实大众蹦床行业安全生产工作，防范安全责任事故，体育总局体操中心号召各蹦床公园、蹦床俱乐部、蹦床器材生产和设计企业、各级蹦床协会等单位，按照要求自查自纠。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8703946.d.html</link>
+            <guid>2202775</guid>
+            <pubDate>Wed, 09 Jun 2021 12:09:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【吉利汽车：吉利星瑞5月销量10056辆】吉利汽车：吉利星瑞5月销量10056辆，上市7个月累计销量75332辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0104193.d.html</link>
+            <guid>2202774</guid>
+            <pubDate>Wed, 09 Jun 2021 12:03:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[芝商所（CME）将推出微型国债收益率期货。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0104089.d.html</link>
+            <guid>2202773</guid>
+            <pubDate>Wed, 09 Jun 2021 12:03:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞典新冠肺炎累计死亡病例增至14562例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8702734.d.html</link>
+            <guid>2202772</guid>
+            <pubDate>Wed, 09 Jun 2021 12:02:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国政府：英国敦促欧盟保护英国公民的权利。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8702727.d.html</link>
+            <guid>2202771</guid>
+            <pubDate>Wed, 09 Jun 2021 12:02:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞典新冠肺炎累计确诊病例增至1081898例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8702680.d.html</link>
+            <guid>2202770</guid>
+            <pubDate>Wed, 09 Jun 2021 12:02:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波罗的海干散货指数涨2.52%，报2481点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0103883.d.html</link>
+            <guid>2202769</guid>
+            <pubDate>Wed, 09 Jun 2021 12:01:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国政府：英国将继续与欧盟积极合作，寻找解决方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0103863.d.html</link>
+            <guid>2202768</guid>
+            <pubDate>Wed, 09 Jun 2021 12:01:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海黄金交易所黄金T+D 6月9日（周三）晚盘盘初上涨0.13%报386.37元/克；上海黄金交易所白银T+D 6月9日（周三）晚盘盘初下跌0.05%报5590.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0103836.d.html</link>
+            <guid>2202767</guid>
+            <pubDate>Wed, 09 Jun 2021 12:01:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【圣农发展：5月实现销售收入12.52亿元 同比增长7.57%】圣农发展公告，5月实现销售收入12.52亿元，较去年同期增长7.57%，较上月环比增长4.05%。其中，家禽饲养加工板块鸡肉销售收入为9.73亿元，较去年同期增长6.60%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8702362.d.html</link>
+            <guid>2202766</guid>
+            <pubDate>Wed, 09 Jun 2021 12:00:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国政府：在联合委员会会谈后，许多领域尚未取得实质性进展，对此表示担忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8702340.d.html</link>
+            <guid>2202764</guid>
+            <pubDate>Wed, 09 Jun 2021 12:00:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国政府：迫切需要进行进一步的讨论，以取得真正的进展，特别是避免药品等关键供应的中断。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0103567.d.html</link>
+            <guid>2202763</guid>
+            <pubDate>Wed, 09 Jun 2021 11:59:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国政府：如果无法在与欧盟谈判中找到解决方案，政府当然会继续考虑所有可能的选择，以维护北爱尔兰的和平、繁荣和稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8702246.d.html</link>
+            <guid>2202762</guid>
+            <pubDate>Wed, 09 Jun 2021 11:59:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2021世界半导体大会今日开幕 中国已成为全球增速最快的集成电路市场】以“创新求变，同‘芯’共赢”为主题的2021世界半导体大会今天在南京开幕。工业和信息化部负责人在会上透露，我国已成为全球增速最快的集成电路市场。2020年我国集成电路产业规模达到8848亿元，“十三五”期间年均增速近20%，为全球同期增速的4倍。同时，我国集成电路产业在技术创新与市场化上取得了显著突破，设计工具、制造工艺、封装技术、核心设备、关键材料等方面都有显著提升。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8702211.d.html</link>
+            <guid>2202761</guid>
+            <pubDate>Wed, 09 Jun 2021 11:58:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【6月9日《新闻联播》主要内容】今天《新闻联播》主要内容有：1、习近平在青海考察时强调 坚持以人民为中心深化改革开放 深入推进青藏高原生态保护和高质量发展；2、央视快评：牢记“国之大者”，在推进青藏高原生态保护和高质量发展上取得新成就；3、李克强主持召开国务院常务会议；4、栗战书与全国人大常委会会议列席代表座谈；5、十三届全国人大常委会第二十九次会议举行联组会议；6、十三届全国人大常委会举行第九十五次委员长会议；7、陕西：弘扬延安精神 奋力谱写新时代追赶超越新篇章；8、【奋斗百年路 启航新征程——学党史 悟思想 办实事 开新局】深学实做 推动财政工作高质量发展；9、5月份居民消费价格总体稳定；10、“2021·中欧人权研讨会”举行；11、“国际青年中国行”活动走进四川；12、我国新冠疫苗接种超8亿剂次；13、国家卫生健康委通报最新疫情；14、世行上调2021年中国经济增长预期至8.5%；14、全球新冠肺炎确诊病例超1亿7333万。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8702160.d.html</link>
+            <guid>2202760</guid>
+            <pubDate>Wed, 09 Jun 2021 11:58:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【科技部火炬中心联合多家高新区发起《国家高新区“碳达峰碳中和”行动宣言》】8日，2021全球硬科技创新大会在西安拉开帷幕。在“国家高新区‘碳达峰碳中和’技术革命与产业变革高峰会议”分论坛上，科技部火炬中心联合多个国家高新区发起《国家高新区“碳达峰碳中和”行动宣言》，表示将加快支持前沿性、颠覆性绿色低碳技术研发，为我国“力争2030年前实现碳达峰，2060年前实现碳中和”这一目标贡献力量。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0103260.d.html</link>
+            <guid>2202759</guid>
+            <pubDate>Wed, 09 Jun 2021 11:56:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【隆基股份：专注氢能设备 今年产能目标500MW】隆基股份下属合资公司隆基氢能科技有限公司副总经理王英歌在FCVC2021大会上称降成本是隆基做氢能初衷之一，公司没有做全产业链的布局，而是专注做氢能设备，未来公司会将产品标准化量产，“比如今年要有500MW的产能，明年有1.5GW的产能。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0103052.d.html</link>
+            <guid>2202758</guid>
+            <pubDate>Wed, 09 Jun 2021 11:54:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【富时罗素在美国行政令更新后将重新把部分证券纳入指数】据外媒报道，富时罗素将在富时全球股票指数系列和富时全球含A股指数系列中重新纳入一些股票，这些股票此前因为美国前总统特朗普的行政命令而被剔除。富时罗素评估新的行政命令，一些股票已不包含在新的行政命令里，这些股票包括中国联通、中国中车和中科曙光。变更将在6月21日生效。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0102983.d.html</link>
+            <guid>2202757</guid>
+            <pubDate>Wed, 09 Jun 2021 11:53:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币上破35000美元/枚，日内涨近5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0102938.d.html</link>
+            <guid>2202756</guid>
+            <pubDate>Wed, 09 Jun 2021 11:53:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中美货币政策不同步未来可能施压人民币汇率】今日人民币对美元汇率收于6.3899元。英国央行首席经济学家鹰派表态打压美元指数到90整数关口，利好人民币。比较而言，美国经济复苏较英国更为强劲，下一步舆论焦点很可能转向美国货币政策收紧。今日公布的5月CPI同比上涨1.3%，低于预期，对央行收紧货币政策的预期下降。从本外利差走势看不利于人民币。同时PPI同比上涨9%，为2009年以来的最高点，反映出大宗商品价格涨幅较大，增加进口付汇，减少贸易顺差。相关信息的影响可能仍将持续。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0102835.d.html</link>
+            <guid>2202755</guid>
+            <pubDate>Wed, 09 Jun 2021 11:52:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西部超导：西安工业投资拟询价转让公司2%股份】西部超导(688122)6月9日晚间公告，股东西安工业投资集团有限公司拟参与询价转让，拟转让股份总数为882.54万股，占公司总股本的比例为2.00%，本次询价转让价格下限为51元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8701147.d.html</link>
+            <guid>2202754</guid>
+            <pubDate>Wed, 09 Jun 2021 11:49:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【格力电器：将于6月30日召开2020年年度股东大会】格力电器(000651)6月9日晚间公告，公司将于6月30日（星期三）下午15:00召开2020年年度股东大会，拟出席现场会议的股东及股东代理人须在6月28日17:00前与公司联系。为严防新型冠状病毒肺炎疫情扩散，保障参会人员安全，公司鼓励各位股东通过网络投票方式参与本次股东大会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8700650.d.html</link>
+            <guid>2202753</guid>
+            <pubDate>Wed, 09 Jun 2021 11:44:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【康跃科技：康跃投资拟减持公司不超6%股份】康跃科技(300391)6月9日晚间公告，持股比例为9.71%的股东康跃投资计划六个月内以集中竞价、大宗交易方式，减持公司股份合计不超过2102.02万股（占公司总股本比例6%）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0101637.d.html</link>
+            <guid>2202752</guid>
+            <pubDate>Wed, 09 Jun 2021 11:42:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南方、汇添富、天弘等多家公募宣布全面实现支持鸿蒙系统】南方、汇添富、天弘等多家大型基金公司在近两日陆续官宣，公司旗下APP即日起全面支持华为鸿蒙系统。早在6月2日华为正式发布鸿蒙Harmony OS 2.0系统后，上述基金公司便已立即组织开展对接鸿蒙系统的兼容性测试，在行业内率先满足升级鸿蒙系统客户的使用需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0101107.d.html</link>
+            <guid>2202751</guid>
+            <pubDate>Wed, 09 Jun 2021 11:38:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【IDC：2024年中国视频会议市场规模将超100亿】IDC最新发布的《2020年IDC中国视频会议与协作市场跟踪报告》显示，2020全年，中国视频会议市场规模达约合65.2亿元人民币，市场规模较同比上涨18.9%。其中，硬件视频会议市场同比增长15.3%，达约合47.4亿元人民币；云会议市场同比增长29.4%，达约合18.0亿元人民币。此外，IDC预测，中国视频会议市场规模在2024年将超过100亿元，云会议市场占比将近40%。（TechWeb）]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0101022.d.html</link>
@@ -157,452 +606,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0098447.d.html</link>
             <guid>2202724</guid>
             <pubDate>Wed, 09 Jun 2021 11:22:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  李克强主持召开国务院常务会议，部署推进实施“十四五”规划《纲要》确定的重大工程项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0097975.d.html</link>
-            <guid>2202723</guid>
-            <pubDate>Wed, 09 Jun 2021 11:20:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：俄罗斯总统普京下令启动俄罗斯天然气公司Amur天然气处理厂的建设。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8696713.d.html</link>
-            <guid>2202722</guid>
-            <pubDate>Wed, 09 Jun 2021 11:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯天然气工业股份公司计划不久在俄罗斯远东地区建立氦中心。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0097276.d.html</link>
-            <guid>2202721</guid>
-            <pubDate>Wed, 09 Jun 2021 11:16:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧盟新冠肺炎护照更可能只适用于短途旅行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8696091.d.html</link>
-            <guid>2202720</guid>
-            <pubDate>Wed, 09 Jun 2021 11:16:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【普利制药：特利加压素注射液在德获批上市】普利制药公告，公司于近日收到了德国联邦药物和医疗器械管理局签发的特利加压素注射液的上市许可。特利加压素化学名为三甘氨酰赖氨酸加压素，是一种人工合成的长效血管加压素。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0097232.d.html</link>
-            <guid>2202719</guid>
-            <pubDate>Wed, 09 Jun 2021 11:16:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大商所发布关于《大连商品交易所棕榈油期货期权合约》及相关实施细则修正案的公告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0096487.d.html</link>
-            <guid>2202718</guid>
-            <pubDate>Wed, 09 Jun 2021 11:11:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国9月起将禁售卤素灯泡】据英国媒体当地时间6月9日报道，英国政府本月将提交法案，决定从9月开始全面禁止销售卤素灯泡。英国政府称，停止使用卤素灯泡，将每年让英国减少126万吨的碳排放。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0096446.d.html</link>
-            <guid>2202717</guid>
-            <pubDate>Wed, 09 Jun 2021 11:10:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国经济部长阿尔特迈尔：我们预计今年经济增长良好。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8694670.d.html</link>
-            <guid>2202716</guid>
-            <pubDate>Wed, 09 Jun 2021 11:06:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  广州发展：拟定增募资不超过60亿元，用于城市燃气、综合能源服务、新能源项目和偿还银行贷款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0095480.d.html</link>
-            <guid>2202715</guid>
-            <pubDate>Wed, 09 Jun 2021 11:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【四部门联合整治违规限高限宽设施和检查卡点】为了促进货运行业健康稳定发展，交通运输部等四部门将深入开展坚决整治违规设置妨碍货车通行的道路限高限宽设施和检查卡点工作；坚决拆除未依法设置公示牌或设置主体不明确的限高限宽设施；各地公安部门要按照有关要求，进一步优化城市配送车辆通行管理，最大限度便捷货车通行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0095254.d.html</link>
-            <guid>2202714</guid>
-            <pubDate>Wed, 09 Jun 2021 11:02:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中诚信国际将恒大地产主体及相关债项信用等级列入信用评级观察名单】中诚信国际决定维持恒大地产集团有限公司主体信用等级为AAA，维持“15恒大03”、“19恒大01”、“19恒大02”、“20恒大01”、“20恒大02”、“20恒大03”、“20恒大04”、“20恒大05”和“21恒大01”债项信用等级为AAA，将恒大地产集团有限公司主体及上述债项信用等级列入信用评级观察名单。中诚信国际将持续关注恒大集团及恒大地产降负债战略的实施进度与效果以及此次极少量商票未及时兑付的情况可能对公司经营及偿债造成的负面影响等问题，并及时评估上述事项对公司信用状况的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0094762.d.html</link>
-            <guid>2202712</guid>
-            <pubDate>Wed, 09 Jun 2021 10:59:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利10年期国债收益率下跌5个基点至0.81％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0094652.d.html</link>
-            <guid>2202710</guid>
-            <pubDate>Wed, 09 Jun 2021 10:58:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  龙湖集团5月单月实现合同销售金额人民币295亿元，合同销售面积174.4万平方米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0094369.d.html</link>
-            <guid>2202709</guid>
-            <pubDate>Wed, 09 Jun 2021 10:55:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商务部：预计全年外贸增速将呈现“前高后低”走势】商务部综合司和国际贸易经济合作研究院联合发布的《中国对外贸易形势报告（2021年春季）》指出，预计全年外贸增速将呈现“前高后低”走势，不能盲目乐观。（中证网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8693256.d.html</link>
-            <guid>2202708</guid>
-            <pubDate>Wed, 09 Jun 2021 10:55:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ChinaJoy下月在沪举办，外资参展企业超100家】第十九届中国国际数码互动娱乐展览会（ChinaJoy）将于2021年7月30日至8月2日，在上海新国际博览中心举办。今年ChinaJoy展会的主题是“科技创梦 乐赢未来”。BTOC展商共计300余家，展馆面积达12万平米；BTOB展商共计200余家，展馆面积达1.5万平米。其中，外资参展企业超过100家，约占30%；在国内方面，三大电信运营商、腾讯游戏、网易游戏、盛趣游戏、bilibili、巨人网络、IGG、西山居等均参加。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8693146.d.html</link>
-            <guid>2202707</guid>
-            <pubDate>Wed, 09 Jun 2021 10:54:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  证监会公告，山西路桥股份有限公司发行股份购买资产获无条件通过。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0094096.d.html</link>
-            <guid>2202706</guid>
-            <pubDate>Wed, 09 Jun 2021 10:52:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华邦健康：与新安股份等在农化、转基因领域达成合作】华邦健康(002004)6月9日晚间公告，公司与新安股份、颖泰生物签订了《战略合作协议》，致力于以颖泰生物作为合作平台，在农化、转基因领域的产品布局、产业链拓展、市场及渠道协同等方面建立全面、深入的战略合作伙伴关系。公司未来以择机向新安股份转让颖泰生物股权、同意新安股份参与颖泰生物增资扩股等方式，支持其成为颖泰生物重要股东。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0093948.d.html</link>
-            <guid>2202705</guid>
-            <pubDate>Wed, 09 Jun 2021 10:51:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苏黎世大学流行病学家、世卫组织顾问罗伯特·史蒂芬（Robert Steffen）表示，接种过一剂mRNA新冠疫苗的人可在长时间内得到保护，大概保护期为几年。（卫星新闻）]]></title>
-            <guid>2202704</guid>
-            <pubDate>Wed, 09 Jun 2021 10:51:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国政府将在molnupirvir药物获得紧急使用授权后，购买170万个疗程的药物。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0093329.d.html</link>
-            <guid>2202703</guid>
-            <pubDate>Wed, 09 Jun 2021 10:48:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[默沙东宣布与美国政府就molnupiravir药物达成供应协议，molnupiravir是一种用于治疗轻至中度新冠肺炎的实验性口服抗病毒候选药物。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0093083.d.html</link>
-            <guid>2202702</guid>
-            <pubDate>Wed, 09 Jun 2021 10:46:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家严查利用无线电设备考试作弊】国家无线电管理机构指出，针对利用无线电设备考试作弊的特点，做好考点周边电磁环境监测，对疑似高考作弊信号立即排查定位，如确认为考试作弊信号，一律立即阻断，并会同公安机关、招生考试机构依法查处，确保高考公平公正。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0093007.d.html</link>
-            <guid>2202701</guid>
-            <pubDate>Wed, 09 Jun 2021 10:46:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【嘉泽新能：拟与中车基金等共同设立风能开发产业基金】嘉泽新能(601619)6月9日晚间公告，为寻求符合公司战略发展方向的投资机会以及为公司储备和培育优质项目资源，公司拟与中车基金、开弦资本、中车资本、山东电建，共同投资设立私募投资基金风能开发产业基金(宁夏)。风能开发产业基金(宁夏)目标认缴金额为16亿元。其中嘉泽新能认缴出资4.84亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8691638.d.html</link>
-            <guid>2202700</guid>
-            <pubDate>Wed, 09 Jun 2021 10:44:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四部门：到2023年汽车可回收利用率达到95%】工信部、科技部、财政部、商务部近日印发《汽车产品生产者责任延伸试点实施方案》。方案提出，到2023年，报废汽车规范回收水平显著提升，形成一批可复制、可推广的汽车生产企业为责任主体的报废汽车回收利用模式；报废汽车再生资源利用水平稳步提升，资源综合利用率达到75%；汽车绿色供应链体系构建完备，汽车可回收利用率达到95%，重点部件的再生原料利用比例不低于5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0092662.d.html</link>
-            <guid>2202699</guid>
-            <pubDate>Wed, 09 Jun 2021 10:43:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马来西亚新增新冠肺炎确诊病例6239例，累计确诊633891例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8691387.d.html</link>
-            <guid>2202698</guid>
-            <pubDate>Wed, 09 Jun 2021 10:42:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港特区政府：欢迎IMF评估报告肯定香港宏观经济及金融体系】6月9日，香港特区政府表示欢迎国际货币基金组织（IMF）发表报告，再次肯定香港作为国际金融中心，具备稳健强韧的金融体系、有效的宏观经济及审慎政策，以及健全的规管及监管框架。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8690580.d.html</link>
-            <guid>2202696</guid>
-            <pubDate>Wed, 09 Jun 2021 10:37:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国充电桩初创企业Wallbox将与特殊目的收购公司(SPAC)Kensington合并上市，合并后企业估值约为15亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0090337.d.html</link>
-            <guid>2202695</guid>
-            <pubDate>Wed, 09 Jun 2021 10:29:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海机场：筹划重大资产重组 6月10日起停牌】上海机场公告，正在筹划以发行股份购买资产方式购买上海机场(集团)有限公司持有的上海虹桥国际机场有限责任公司100%股权、上海机场集团物流发展有限公司100%股权及上海浦东国际机场第四跑道相关资产。同时，公司拟非公开发行股份募集配套资金。本次交易预计构成《上市公司重大资产重组管理办法》规定的重大资产重组。公司6月10日起停牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0090275.d.html</link>
-            <guid>2202694</guid>
-            <pubDate>Wed, 09 Jun 2021 10:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京人工智能产业联盟宣布成立】6月9日上午，在北京市经济和信息化局、北京市科委、中关村科技园区管理委员会等单位的指导和支持下，由百度牵头发起的北京人工智能产业联盟宣布成立，36家企事业单位加入联盟。经第一届联盟理事会决议，百度任理事长单位，百度CTO王海峰任联盟理事长。滴滴出行、火山引擎、华为、京东、鲲鹏联创、快手、旷视、北京市大数据中心、好未来集团、美团、小米、智源人工智能研究院、第四范式、京东方、联通数科、360视觉、中国电信北京分公司、中国移动北京分公司、寒武纪共19家任副理事长单位。（中新社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0090224.d.html</link>
-            <guid>2202693</guid>
-            <pubDate>Wed, 09 Jun 2021 10:28:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南自贸港完成首笔非居民线上交易】从海南国际能源交易中心获悉，近日海南首笔非居民线上交易在交易中心完成。该笔非居民参与的线上交易是两家境外企业通过交易中心进行的首单业务试点，是落实“非居民可以参与交易场所的交易和资金结算”的大胆创新。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0089647.d.html</link>
-            <guid>2202691</guid>
-            <pubDate>Wed, 09 Jun 2021 10:24:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【消息人士：欧洲央行将举行为期三天的闭门会，讨论战略评估相关问题】三位消息人士称，欧洲央行决策者下周将举行为期三天的闭门会议，旨在讨论并可能解决与该行战略性评估有关的关键问题。该评估于去年开始，但在2020年的大部分时间里暂停。此次评估将重新定义该行的通胀目标，并可能界定欧洲央行在促进平等和应对气候变化方面的新角色。其中一位消息人士补充说，这次会议旨在取得重大进展。这是自疫情大流行发生以来，欧洲央行管理委员会25名成员的首次面对面会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0089466.d.html</link>
-            <guid>2202690</guid>
-            <pubDate>Wed, 09 Jun 2021 10:23:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州：开展荔湾区非封闭和非封控管理区域新一轮全员核酸检测】广州市荔湾区新型冠状病毒肺炎疫情防控指挥部发布《关于开展荔湾区非封闭和非封控管理区域新一轮全员核酸检测的通告》，定于6月10日上午10时至当晚24时对荔湾区金花、西村、南源、逢源、多宝、龙津、昌华、岭南、华林、沙面、站前、彩虹、桥中等13条街道辖区内全体居民进行新一轮全员核酸检测。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0089340.d.html</link>
-            <guid>2202689</guid>
-            <pubDate>Wed, 09 Jun 2021 10:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【老虎证券宣布完成最高1.8亿美元增发】知名互联网券商老虎证券宣布完成650万股ADS增发，每股发行价格为24.5美元，融资1.6亿美元。同时，公司授予承销商为期30天共计97.5万股的ADS超额配售权，如超额配售权全部行使，总募集金额将达到1.8亿美元。此次募得资金主要将用于公司国际化业务拓展、技术研发等用途。花旗、摩根士丹利和老虎证券共同担任此次ADS发行的联席帐簿管理人。值得注意的是，此次老虎证券则通过旗下自研交易平台Tiger Trade向普通投资者也开放了在线认购通道。这是继公司率先推出美股IPO一键申购后，再次降低散户参与上市公司融资的门槛。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0089253.d.html</link>
-            <guid>2202688</guid>
-            <pubDate>Wed, 09 Jun 2021 10:22:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Westpark：首予英伟达(NVDA.O)买入评级，目标价765美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0088779.d.html</link>
-            <guid>2202687</guid>
-            <pubDate>Wed, 09 Jun 2021 10:20:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【重庆：60条道路开放自动驾驶测试】重庆市经信委、重庆市公安局、重庆市城市管理局近日联合发布通告，指定永川区、重庆高新区60条共计116.76公里道路开放自动驾驶测试。此举旨在进一步丰富自动驾驶“路测”场景，助力重庆加速打造国内自动驾驶道路测试高地，助推智能网联汽车产业发展。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8687691.d.html</link>
-            <guid>2202686</guid>
-            <pubDate>Wed, 09 Jun 2021 10:19:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[古根海姆：将百健(BIIB.O)目标价从325美元上调至455美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0088424.d.html</link>
-            <guid>2202685</guid>
-            <pubDate>Wed, 09 Jun 2021 10:18:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃及政府：埃及将于下周开始在当地生产科兴疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8687401.d.html</link>
-            <guid>2202684</guid>
-            <pubDate>Wed, 09 Jun 2021 10:17:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[空气化工产品有限公司(Air Products and Chemicals, Inc. )：贝克休斯将为全球项目提供先进的氢压缩和燃气轮机技术。]]></title>
-            <guid>2202683</guid>
-            <pubDate>Wed, 09 Jun 2021 10:17:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陕国投A：计划申请股指期货交易业务资格】陕国投A公告，董事会会审议通过了《关于申请股指期货交易业务资格的议案》。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0088082.d.html</link>
-            <guid>2202681</guid>
-            <pubDate>Wed, 09 Jun 2021 10:15:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【永鼎股份：拟定增募资不超10.8亿元】永鼎股份公告，拟定增募资不超过10.8亿元，用于年产20万芯公里特种光纤项目、5G承载网核心光芯片、器件、模块研发及产业化项目和偿还银行借款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8687006.d.html</link>
-            <guid>2202680</guid>
-            <pubDate>Wed, 09 Jun 2021 10:15:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【港航发内部通告指A320机队停飞一年 机师放假半年】香港航空今日（9日）向员工发内部信，称其空客A320机队7月起将全数停飞一年，并向所有A320飞行员推出“有薪长假计划”（Long Pay Leave）。受影响飞行员放半年假可获一个月薪金，而选择放9个月假期的飞行员则可获2个月薪金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0087999.d.html</link>
-            <guid>2202679</guid>
-            <pubDate>Wed, 09 Jun 2021 10:15:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总理Shmyhal：乌克兰的天然气库存接近160亿立方米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8686859.d.html</link>
-            <guid>2202678</guid>
-            <pubDate>Wed, 09 Jun 2021 10:14:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场对希腊10年期债券的需求上升至260亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0087807.d.html</link>
-            <guid>2202677</guid>
-            <pubDate>Wed, 09 Jun 2021 10:14:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[台积电董事会决议配发2021年第一季每股现金股利2.75元台币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8686701.d.html</link>
-            <guid>2202676</guid>
-            <pubDate>Wed, 09 Jun 2021 10:13:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[台积电：董事会批准了约92.97亿美元的资本拨款，用于安装和升级技术能力，以及工厂建设。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8686522.d.html</link>
-            <guid>2202675</guid>
-            <pubDate>Wed, 09 Jun 2021 10:12:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【招商蛇口：1-5月累计签约销售金额同比增加69.75%】招商蛇口公告，2021年5月，公司实现签约销售面积133.56万平方米，同比增加31.73%；实现签约销售金额309.65亿元，同比增加38.01%。2021年1-5月，公司累计实现签约销售面积579.56万平方米，同比增加72.60%；累计实现签约销售金额1,326.45亿元，同比增加69.75%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8686460.d.html</link>
-            <guid>2202674</guid>
-            <pubDate>Wed, 09 Jun 2021 10:12:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洁美科技在接受机构调研时表示，从二季度前面两个月的数据来看，公司销售情况良好，5月份销售收入创出单月历史新高，后续订单能见度良好，整体来看产销两旺，行业景气度高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8686340.d.html</link>
-            <guid>2202673</guid>
-            <pubDate>Wed, 09 Jun 2021 10:11:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世界黄金协会：5月全球黄金ETF投资需求急剧升温】5月，全球黄金ETF总持仓增加61.3吨（约合34亿美元，资产管理规模增加1.7%），扭转了连续三个月的净流出趋势。世界黄金协会认为主要原因在于投资需求随着金价走强而增加，而市场通胀担忧重现，美元走弱和实际收益率下降等因素也同时存在。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8686149.d.html</link>
-            <guid>2202672</guid>
-            <pubDate>Wed, 09 Jun 2021 10:10:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合包裹(UPS.N)：预计2023年营收将达980亿美元-1020亿美元，此前预期为998亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0086622.d.html</link>
-            <guid>2202671</guid>
-            <pubDate>Wed, 09 Jun 2021 10:07:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【币安、OKEx回应被微博屏蔽：不知具体原因，正在沟通】目前虚拟货币交易所币安、火币、OKEx等关键词疑似被百度、微博屏蔽。《区块链日报》记者向币安、OKEx方面求证，对方回复称“已经检测到了，正与微博方面沟通，具体原因还不知道。”截至发稿，火币暂未回复。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0086503.d.html</link>
-            <guid>2202670</guid>
-            <pubDate>Wed, 09 Jun 2021 10:07:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为鸿蒙OS升级用户一周突破1000万】6月9日，记者从华为内部人士处获悉，截至目前，HarmonyOS升级用户已经突破1000万。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8685328.d.html</link>
-            <guid>2202669</guid>
-            <pubDate>Wed, 09 Jun 2021 10:06:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[宏碁5月销售额248.1亿台币，同比增长22.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8685271.d.html</link>
-            <guid>2202668</guid>
-            <pubDate>Wed, 09 Jun 2021 10:06:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧盟起诉波兰，因其未能遵守欧盟采购规定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0086195.d.html</link>
-            <guid>2202667</guid>
-            <pubDate>Wed, 09 Jun 2021 10:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲议会正式批准新冠通行证】当地时间6月9日，正在法国斯特拉斯堡举行的欧洲议会全会正式批准“新冠通行证”。该通行证将于今年7月1日正式启用，将包含疫苗接种证明、核酸检测阴性或新冠康复等信息，旨在促进欧盟成员国公民在欧盟境内自由流动。 欧盟方面此前表示，欧盟27个成员国必须在6月做好充分准备，其中一些成员国还将有6周的过渡期。欧盟委员会将向各成员国提供技术和资金支持，并拨款1亿欧元支持成员国降低检测费用。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0086128.d.html</link>
-            <guid>2202666</guid>
-            <pubDate>Wed, 09 Jun 2021 10:05:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荔湾区将开展非封闭和非封控管理区域新一轮全员核酸检测。（南方Plus）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0086023.d.html</link>
-            <guid>2202665</guid>
-            <pubDate>Wed, 09 Jun 2021 10:05:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[坚朗五金：持股37.74%的控股股东、实际控制人白宝鲲拟减持不超0.33%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0085890.d.html</link>
-            <guid>2202664</guid>
-            <pubDate>Wed, 09 Jun 2021 10:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深交所联合马交所共同举办2021年中马电动汽车行业合作线上对接会】6月8日，深交所和马来西亚交易所共同举办2021年中马电动汽车行业合作线上对接会。三家马来西亚上市公司开展了线上路演，与十家国内相关行业上市公司进行线上对接，近百名中马相关产业和投资机构代表在线参会，就深化两国产业链供应链合作进行深入研讨。接下来，深交所将不断深化与东盟等“一带一路”沿线国家和地区资本市场务实合作，完善跨境资本服务机制，奋力建设优质创新资本中心和世界一流交易所。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0085808.d.html</link>
-            <guid>2202663</guid>
-            <pubDate>Wed, 09 Jun 2021 10:04:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：挪威宣布向预定的区域发放石油、天然气许可证。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8684714.d.html</link>
-            <guid>2202662</guid>
-            <pubDate>Wed, 09 Jun 2021 10:03:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：亚马逊(AMZN.O)本年将在加拿大招聘1800名技术人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0085503.d.html</link>
-            <guid>2202661</guid>
-            <pubDate>Wed, 09 Jun 2021 10:02:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：东南亚打车巨头Grab与特殊目的收购公司(SPAC)Altimeter的合并交易推迟到第四季度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0085446.d.html</link>
-            <guid>2202660</guid>
-            <pubDate>Wed, 09 Jun 2021 10:02:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：欧洲央行决策者将于6月18日至20日举行会议，讨论策略审查。欧洲央行的撤退旨在在战略评估方面取得重大进展，但结论并不确定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0085145.d.html</link>
-            <guid>2202659</guid>
-            <pubDate>Wed, 09 Jun 2021 10:00:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度农业部长：印度提高大米最低支持价格；政府将继续为农作物支付最低支持价格。]]></title>
-            <guid>2202655</guid>
-            <pubDate>Wed, 09 Jun 2021 09:57:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【会通股份：拟发行可转债募资不超8.5亿元】会通股份公告，披露向不特定对象发行可转债预案，拟发行可转债募集资金总额不超过人民币8.5亿元，募资净额用于年产30万吨高性能复合材料项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0084299.d.html</link>
-            <guid>2202653</guid>
-            <pubDate>Wed, 09 Jun 2021 09:54:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为在中国建立其全球最大的网络安全透明中心】华为最大的网络安全透明中心今天在中国东莞正式启用，来自GSMA、阿联酋、印尼的监管机构及英国标准协会、SUSE等机构代表出席并在活动上发言。借此机会，华为发布了《华为产品安全基线》白皮书，首次将产品安全需求基线框架以及管理实践向业界公布，与客户、供应商、行业标准组织等利益相关方沟通，共同提升行业整体网络安全水平。]]></title>
-            <guid>2202652</guid>
-            <pubDate>Wed, 09 Jun 2021 09:54:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[百度、微博不完全屏蔽币安、火币、OKEx等关键词。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8683167.d.html</link>
-            <guid>2202651</guid>
-            <pubDate>Wed, 09 Jun 2021 09:54:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：全球最大的马来西亚橡胶手套制造商Top Glove表示，美国针对马来西亚产橡胶手套的进口禁令将会使公司的香港上市计划延迟几个月。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8683087.d.html</link>
-            <guid>2202650</guid>
-            <pubDate>Wed, 09 Jun 2021 09:53:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拓普集团回应“近期A公司负面新闻较多”：不能只看表象 当前订单正常】拓普集团昨日迎来机构的大规模调研。在回应“近期A公司负面新闻较多”的话题时，公司表示，在与客户的合作过程中，深刻体会到A公司做的所有事情都是正确的，包括产品定位、研发、制造、供应商管理、质量、营销等都是非常正确的，其他车企至少有5年的差距，看到A公司5月份欧洲销量增长240%，北美也大幅增长。一个新物种的产生、成长，会出现这样那样的问题，也是短暂的。我们不能只看表象，我们非常乐观，当前订单正常。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8682485.d.html</link>
-            <guid>2202649</guid>
-            <pubDate>Wed, 09 Jun 2021 09:50:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天健集团：2.41亿元长沙摘地】天健集团公告，下属公司以2.41亿元的成交价格，公开竞得长沙市编号为[2021]长沙市038号地块的国有土地使用权，该地块位于长沙市岳麓区金洲大道与汇智路交会处东南角，土地用途为居住用地，土地面积：33481.98平方米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0082893.d.html</link>
-            <guid>2202648</guid>
-            <pubDate>Wed, 09 Jun 2021 09:47:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信证券：PPI或已位于年内高点】中信证券点评5月物价数据指出，近期大宗商品价格持续上涨，用电需求增加也推升了能源成本，5月工业品价格环比涨幅再度扩大，同比更是创下2008年10月份以来新高。基于对本轮通胀成因的分析，预计当前PPI同比或已位于年内高点，后续PPI环比持续快速攀升的空间相对较小。另外，核心CPI持续温和上行，表明居民消费需求复苏的趋势延续。当前PPI和CPI的剪刀差创有记录以来新高，后续有望收敛。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8681612.d.html</link>
-            <guid>2202647</guid>
-            <pubDate>Wed, 09 Jun 2021 09:46:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行：将福克斯(FOXA.O)评级从与大市持平上调至增持，目标价从42上调至47美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0082544.d.html</link>
-            <guid>2202646</guid>
-            <pubDate>Wed, 09 Jun 2021 09:45:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[科创板上市委公告，珠海冠宇电池股份有限公司、北京富吉瑞光电科技股份有限公司首发6月17日上会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8680909.d.html</link>
-            <guid>2202645</guid>
-            <pubDate>Wed, 09 Jun 2021 09:43:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞士信贷：美国较低的实际利率将推高金价】现货黄金虽回测200日均线，但上行可能性更大，原因是金价会受益于美国较低的实际利率。预计现货黄金会在1943-1966遇到强大阻力，但不排除突破该区间的可能性。甚至有望重返2075美元/盎司的历史新高。若金价跌至1841美元/盎司下方，短期内或转为横盘走势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8680788.d.html</link>
-            <guid>2202644</guid>
-            <pubDate>Wed, 09 Jun 2021 09:42:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国银保监会有关部门负责人就发布《银行保险机构恢复和处置计划实施暂行办法》答记者问：《办法》通过要求各方预先规划恢复和处置措施、预留恢复和处置资源、预估恢复和处置的外部影响，使得恢复和处置更加有序、审慎和有效，将有利于保护金融消费者的权益和社会公共利益，维护金融安全和稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0080902.d.html</link>
-            <guid>2202643</guid>
-            <pubDate>Wed, 09 Jun 2021 09:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【粤高速A：沈海高速三堡至水口段改扩建项目核定收费期】粤高速A公告，广东省交通运输厅发函，核定沈阳至海口国家高速公路三堡至水口段改扩建项目收费期限为2019年11月8日起至2044年6月14日止。粤高速A表示，该路段为佛开高速公路中一段，佛开高速公路为公司佛开分公司的核心资产，核定收费期后，预计在2021年及今后年度可降低佛开高速公路改扩建项目固定资产折旧费增加的幅度，相应降低相关投资对公司营业成本增加的影响幅度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0080773.d.html</link>
-            <guid>2202642</guid>
-            <pubDate>Wed, 09 Jun 2021 09:38:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深交所首批4只公募REITs开通跨系统转托管业务】近日，深交所首批4只基础设施公募REITs发布了《开通转托管业务的公告》。公告信息显示，平安广州交投广河高速公路封闭式基础设施证券投资基金（广州广河）、红土创新盐田港仓储物流封闭式基础设施证券投资基金（盐港REIT）已于6月9日起开始办理跨系统转托管业务，中航首钢生物质封闭式基础设施证券投资基金（首钢绿能）、博时招商蛇口产业园封闭式基础设施证券投资基金（蛇口产园）将于6月10日起开始办理跨系统转托管业务。深交所首批4只基础设施公募REITs将于近期向深交所申请上市交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8679566.d.html</link>
-            <guid>2202641</guid>
-            <pubDate>Wed, 09 Jun 2021 09:37:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[银保监会正式发布《银行保险机构恢复和处置计划实施暂行办法》，办法自发布之日起施行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0080128.d.html</link>
-            <guid>2202640</guid>
-            <pubDate>Wed, 09 Jun 2021 09:35:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
