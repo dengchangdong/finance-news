@@ -4,11 +4,34 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 12 Jun 2021 20:38:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jun 2021 21:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：06月13日05时11分在新疆博尔塔拉州温泉县（北纬44.85度，东经80.81度）发生3.3级地震，震源深度18千米。]]></title>
+            <guid>2205853</guid>
+            <pubDate>Sat, 12 Jun 2021 21:29:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国新冠肺炎确诊病例超过3345万例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9332571.d.html</link>
+            <guid>2205852</guid>
+            <pubDate>Sat, 12 Jun 2021 21:17:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【缅甸因新冠疫情恶化计划建立37个隔离中心】缅甸公共卫生专家、卫生与体育部新闻发言人钦钦基博士6月12日对媒体表示，鉴于目前缅甸新冠疫情加速蔓延，卫生与体育部计划在全国范围内建立37个隔离中心，其中的22个位于最大城市仰光。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9332104.d.html</link>
+            <guid>2205851</guid>
+            <pubDate>Sat, 12 Jun 2021 21:05:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：东太平洋东部开阔水域正在形成热带低气压，预计很快转变为热带风暴。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9331563.d.html</link>
+            <guid>2205850</guid>
+            <pubDate>Sat, 12 Jun 2021 20:50:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[世卫组织：全球新冠肺炎确诊病例超过1.7491亿例，累计死亡病例3782490例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9331212.d.html</link>
@@ -575,30 +598,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0689780.d.html</link>
             <guid>2205747</guid>
             <pubDate>Sat, 12 Jun 2021 11:01:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫官员：总统拜登与普京将举行小型的工作会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0689414.d.html</link>
-            <guid>2205745</guid>
-            <pubDate>Sat, 12 Jun 2021 10:58:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫官员：总统拜登与普京会晤后将举行单独的新闻发布会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0689313.d.html</link>
-            <guid>2205744</guid>
-            <pubDate>Sat, 12 Jun 2021 10:56:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东佛山：佛山机场6月12日至22日取消全部航班，暂停运营】佛山机场从6月12日到22日取消全部航班，暂停运营。客运方面，停止跨省客运线路和包车业务，停运部分跨市公交线路。根据分类分级管理的要求，对有风险的线路进行停开、绕行、抽疏、截短。截至目前，佛山全市公共交通共调整90条线路，其中涉及到广佛线路有29条，佛山市内61条。地铁部分站点实施双向不停站通过或“只出不进”的管控措施。停止巡游出租车、网约车、共享单车在封控区域内的运营。（佛山发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0689252.d.html</link>
-            <guid>2205743</guid>
-            <pubDate>Sat, 12 Jun 2021 10:56:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据韩联社：韩国总统文在寅将与阿斯利康公司的CEO讨论疫苗合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0688793.d.html</link>
-            <guid>2205742</guid>
-            <pubDate>Sat, 12 Jun 2021 10:50:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
