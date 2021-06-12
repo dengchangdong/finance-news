@@ -4,11 +4,35 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 12 Jun 2021 17:06:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jun 2021 17:50:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[法国卫生部：法国新增3972例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9323953.d.html</link>
+            <guid>2205831</guid>
+            <pubDate>Sat, 12 Jun 2021 17:50:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊拉克油长：虽然埃克森美孚退出了West Qurna 1油田项目，但相信该公司会维持在其他项目的投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9322762.d.html</link>
+            <guid>2205830</guid>
+            <pubDate>Sat, 12 Jun 2021 17:31:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊拉克油长：如果欧佩克遵守当前的产量协议，预测第二季度油价将在68-75美元/桶区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0722200.d.html</link>
+            <guid>2205829</guid>
+            <pubDate>Sat, 12 Jun 2021 17:19:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国卫生部：有3014万法国人接种了一剂新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0721430.d.html</link>
+            <guid>2205828</guid>
+            <pubDate>Sat, 12 Jun 2021 17:07:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[法国卫生部：法国新增34例新冠肺炎死亡病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0720747.d.html</link>
@@ -578,30 +602,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0683479.d.html</link>
             <guid>2205722</guid>
             <pubDate>Sat, 12 Jun 2021 10:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊发言人Blain：英国首相约翰逊与欧盟领导人就北爱尔兰议定书进行了讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0683032.d.html</link>
-            <guid>2205721</guid>
-            <pubDate>Sat, 12 Jun 2021 09:58:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湖北：深度放开放宽城市落户限制 取消除武汉市外全省其他地区落户限制】湖北省发改委透露，经省政府同意，省发改委近日印发《2021年全省新型城镇化和城乡融合发展工作要点》（以下简称《工作要点》）。其中明确：深度放开放宽城市落户限制。取消除武汉市外全省其他地区落户限制，进一步降低武汉市落户门槛，实行省内户口迁移一地办结机制。（湖北日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0683007.d.html</link>
-            <guid>2205720</guid>
-            <pubDate>Sat, 12 Jun 2021 09:58:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊发言人Blain：法国总统马克龙没有将法国与英国之间更深层次的关系和脱欧联系起来。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0682994.d.html</link>
-            <guid>2205719</guid>
-            <pubDate>Sat, 12 Jun 2021 09:57:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊在七国峰会上与法国总统马克龙、德国总理默克尔、欧洲理事会主席米歇尔和欧盟委员会主席冯德莱恩会面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0682864.d.html</link>
-            <guid>2205718</guid>
-            <pubDate>Sat, 12 Jun 2021 09:56:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
