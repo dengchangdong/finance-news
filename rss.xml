@@ -4,11 +4,46 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 12 Jun 2021 18:49:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jun 2021 19:35:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[G7消息人士：我们（七国集团成员）可以与美国总统拜登进行坦率的讨论，不必一开始就说“俄罗斯不会重返G7”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9328774.d.html</link>
+            <guid>2205843</guid>
+            <pubDate>Sat, 12 Jun 2021 19:23:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[G7消息人士：特朗普在任期间，G7曾是“完全混乱状态”，G7过去一直很紧张，勉力不让七国集团分崩离析。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0728977.d.html</link>
+            <guid>2205842</guid>
+            <pubDate>Sat, 12 Jun 2021 19:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗谈判代表阿拉奇：至少还需要再进行一轮维也纳会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0728867.d.html</link>
+            <guid>2205841</guid>
+            <pubDate>Sat, 12 Jun 2021 19:20:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗谈判代表阿拉奇：本周不大可能达成恢复伊核协议的条款。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9328382.d.html</link>
+            <guid>2205840</guid>
+            <pubDate>Sat, 12 Jun 2021 19:13:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科威特新增新冠肺炎确病例1437例，累计确诊326451例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0728051.d.html</link>
+            <guid>2205839</guid>
+            <pubDate>Sat, 12 Jun 2021 19:01:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【和贝索斯一起进行太空旅行的机票以2800万美元拍卖】蓝色起源公司创始人贝索斯7月20日搭乘火箭的座位拍卖了2800万美元，这是该公司首次将人送入太空。]]></title>
+            <guid>2205838</guid>
+            <pubDate>Sat, 12 Jun 2021 18:57:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[英国首相约翰逊：美国总统拜登在与俄罗斯总统普京会晤期间将采取强硬的立场。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9327289.d.html</link>
@@ -565,42 +600,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9287148.d.html</link>
             <guid>2205736</guid>
             <pubDate>Sat, 12 Jun 2021 10:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币短线走高近500美元，现报35435.11美元/枚，跌幅收窄至5.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0687030.d.html</link>
-            <guid>2205735</guid>
-            <pubDate>Sat, 12 Jun 2021 10:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以太坊抹去日内跌幅，现报2358.16美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0686982.d.html</link>
-            <guid>2205734</guid>
-            <pubDate>Sat, 12 Jun 2021 10:32:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【六个新国际单项体育组织或将获得国际奥委会正式认证】日前，国际奥委会执委会召开会议，决定将提请国际奥委会全会审议并正式认证六个新的国际单项体育组织。这六个新的国际体育组织包括：国际拉拉队联盟、国际泰拳协会联合会、国际桑博联合会、国际冰盘联合会、世界自由式搏击组织、世界长曲棍球组织。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0686621.d.html</link>
-            <guid>2205732</guid>
-            <pubDate>Sat, 12 Jun 2021 10:28:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【深圳机场自6月13日起 将现场查验旅客“行程码”信息】深圳机场发布防疫政策新调整，自6月13日起，现场还将查验旅客“行程码”信息，确认旅客14天内的行程轨迹。如“行程码”显示14天内有广州、佛山行程经历的旅客，需参照6月7日起实施的查验政策，提供48小时内的核酸检测阴性证明。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0686325.d.html</link>
-            <guid>2205731</guid>
-            <pubDate>Sat, 12 Jun 2021 10:24:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  比特币短线下跌，报34600美元，24小时跌幅超过7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0686205.d.html</link>
-            <guid>2205730</guid>
-            <pubDate>Sat, 12 Jun 2021 10:23:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云南省能源局办公室人士确认：在今年6月底完成比特币挖矿企业用电清理整顿】6月12日，云南省能源局办公室人士确认，根据《云南省能源局关于进一步加强比特币挖矿企业用电管理的通知》要求，及时组织各用电部门开展联合检查，在今年6月底完成比特币挖矿企业用电清理整顿，严肃查处比特币挖矿企业依托发电企业、未经许可私搭私接用电、逃废国家输配电费、基金以及附加牟利的违法行为，一经发现，立即中止供电；严肃查处发电企业未经许可，利用所发电量私自向比特币挖矿企业供电谋取不正当利益的违法行为；严肃查处比特币挖矿企业用电安全隐患，一经发现，立即责令关停整改。南省能源局办公室人士还表示，目前比特币挖矿清理整顿进展需等进一步回访才能确定。 （中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0685728.d.html</link>
-            <guid>2205729</guid>
-            <pubDate>Sat, 12 Jun 2021 10:20:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
