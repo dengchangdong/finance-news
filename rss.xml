@@ -4,11 +4,53 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sun, 13 Jun 2021 17:05:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jun 2021 17:50:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[特斯拉CEO埃隆·马斯克：特斯拉（之前）出售了约10%的比特币持仓，这是为了确认比特币能很容易地结算。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9474269.d.html</link>
+            <guid>2206166</guid>
+            <pubDate>Sun, 13 Jun 2021 17:48:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币持续走高，比特币日涨幅达5%，暂报37457美元/枚，以太坊涨幅超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca0874240.d.html</link>
+            <guid>2206165</guid>
+            <pubDate>Sun, 13 Jun 2021 17:44:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登在访问温莎城堡后表示，他已邀请英国女王伊丽莎白二世访问白宫。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9473602.d.html</link>
+            <guid>2206164</guid>
+            <pubDate>Sun, 13 Jun 2021 17:39:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国新增13例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9473524.d.html</link>
+            <guid>2206163</guid>
+            <pubDate>Sun, 13 Jun 2021 17:38:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士公投否决三项环保议题，加强反恐和疫情防控获民众支持。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca0873306.d.html</link>
+            <guid>2206162</guid>
+            <pubDate>Sun, 13 Jun 2021 17:33:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：荷兰皇家壳牌准备出售在美国二叠纪盆地的资产，这些资产价值或高达100亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9472304.d.html</link>
+            <guid>2206161</guid>
+            <pubDate>Sun, 13 Jun 2021 17:22:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国新增新冠肺炎确诊7490例，累计确诊4565813例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca0871730.d.html</link>
+            <guid>2206160</guid>
+            <pubDate>Sun, 13 Jun 2021 17:11:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IMF总裁格奥尔基耶娃：欢迎G7将加快疫苗接种作为结束疫情的关键步骤，期待G20采取进一步措施。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9470701.d.html</link>
@@ -564,47 +606,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0844288.d.html</link>
             <guid>2206057</guid>
             <pubDate>Sun, 13 Jun 2021 11:21:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据法新社：德国总理默克尔表示，美国总统拜登为七国集团会谈带来了“新动力”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9443089.d.html</link>
-            <guid>2206056</guid>
-            <pubDate>Sun, 13 Jun 2021 11:10:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荣耀50即将发布，预约人数已超百万】6月16日晚间，荣耀将发布荣耀50系列手机。该款手机将首次搭载高通骁龙778G移动平台。截至13日发稿时，荣耀50系列在京东和荣耀商城预约人数合计已超100万人。在荣耀京东自营旗舰店，有57.26万人预约荣耀50，有33.86万人预约荣耀50 Pro；在荣耀商城，有10.73万人预约荣耀50系列。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9442830.d.html</link>
-            <guid>2206055</guid>
-            <pubDate>Sun, 13 Jun 2021 11:07:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广州卫健委：自2021年6月13日起，我市南沙区珠江街道珠江西一路（142、144、146、148、150号）由低风险地区调整为中风险地区。其他地区风险等级不变。]]></title>
-            <guid>2206054</guid>
-            <pubDate>Sun, 13 Jun 2021 11:06:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[七国集团公报：我们重申到2025年，每年从公共和私人渠道共同筹集1000亿美元的集体目标。我们承诺增加和改善公共气候资金，呼吁其他发达国家加入并提高其贡献。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9442450.d.html</link>
-            <guid>2206053</guid>
-            <pubDate>Sun, 13 Jun 2021 11:02:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗总统候选人司法总监莱西表示其支持核协议，希望继续进行核谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0842308.d.html</link>
-            <guid>2206051</guid>
-            <pubDate>Sun, 13 Jun 2021 10:58:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[七国集团公报：我们致力于使用金融和创新措施来实现气候目标。承诺尽快实现温室气体净零排放，此目标最迟在2050年实现。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0842204.d.html</link>
-            <guid>2206050</guid>
-            <pubDate>Sun, 13 Jun 2021 10:56:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州荔湾为区域内外卖骑手安排全员新冠疫苗接种】6月13日从广州市荔湾区获悉，为织密织牢疫情防控“安全网”，切实保障高活跃度、强流动性的外卖从业人员身体健康，确保疫情期间荔湾居民享有安全放心的外卖服务和稳定的物资配送效率，荔湾区统筹协调，为仍在该区非管控区域正常送餐的九百余名网络订餐平台骑手安排了新冠肺炎疫苗接种专场。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9441802.d.html</link>
-            <guid>2206049</guid>
-            <pubDate>Sun, 13 Jun 2021 10:54:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
