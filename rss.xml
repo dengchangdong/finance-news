@@ -4,11 +4,41 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sun, 13 Jun 2021 18:49:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jun 2021 19:33:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国白宫：北约将继续监控俄罗斯在乌克兰及其周边的活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9479650.d.html</link>
+            <guid>2206416</guid>
+            <pubDate>Sun, 13 Jun 2021 19:31:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：北约将重新审议战略构想，以回应挑战，这份文件将于2022年北约峰会前夕起草完成。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9479056.d.html</link>
+            <guid>2206303</guid>
+            <pubDate>Sun, 13 Jun 2021 19:16:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：北约领导人将会支持新的网络防御政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9478712.d.html</link>
+            <guid>2206257</guid>
+            <pubDate>Sun, 13 Jun 2021 19:08:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国方面表示，北约峰会的目标包括网络防御和增加资金投入。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9478370.d.html</link>
+            <guid>2206208</guid>
+            <pubDate>Sun, 13 Jun 2021 19:00:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科威特新增1512例新冠肺炎确诊病例，累计确诊327963例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca0878208.d.html</link>
+            <guid>2206191</guid>
+            <pubDate>Sun, 13 Jun 2021 18:50:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国总统拜登抵达欧盟总部布鲁塞尔，将出席北约峰会和欧盟峰会。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca0877482.d.html</link>
@@ -576,36 +606,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9449880.d.html</link>
             <guid>2206077</guid>
             <pubDate>Sun, 13 Jun 2021 12:24:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱尔兰外长科夫尼：我们需要欧盟的灵活应对，也需要与英国达成伙伴关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9449684.d.html</link>
-            <guid>2206076</guid>
-            <pubDate>Sun, 13 Jun 2021 12:22:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯：如果俄罗斯继续采取侵略行动，我们将采取应对行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0848356.d.html</link>
-            <guid>2206074</guid>
-            <pubDate>Sun, 13 Jun 2021 12:08:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[七国集团：俄罗斯方面应该对从其领土发起的勒索软件攻击采取行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0848332.d.html</link>
-            <guid>2206073</guid>
-            <pubDate>Sun, 13 Jun 2021 12:08:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[七国集团呼吁俄罗斯方面停止破坏稳定的行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9447706.d.html</link>
-            <guid>2206072</guid>
-            <pubDate>Sun, 13 Jun 2021 12:02:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国政府发言人：德国方面将寻求将其对贫穷国家的气候资助从2020年的40亿欧元/年增加到60亿欧元/年，此目标最迟将于2025年实现。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9447420.d.html</link>
-            <guid>2206071</guid>
-            <pubDate>Sun, 13 Jun 2021 12:00:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
