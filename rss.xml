@@ -4,11 +4,389 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Mon, 14 Jun 2021 14:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jun 2021 15:46:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【美国8个州的新冠肺炎新增感染病例数呈上升趋势】当地时间6月14日，据美国当地媒体报道，美国8个州的新冠肺炎新增感染病例数呈上升趋势。美国约翰斯·霍普金斯大学统计数据显示，阿拉巴马州、阿肯色州、夏威夷州、密苏里州、内华达州、得克萨斯州、犹他州和怀俄明州的新冠肺炎新增感染病例数在过去14天内有所增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9621329.d.html</link>
+            <guid>2207931</guid>
+            <pubDate>Mon, 14 Jun 2021 15:46:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛考虑将部分交易员迁往佛罗里达】有市场消息称，高盛将把一些交易员和销售人员迁调至佛罗里达州，目前相关工作还处于早期阶段。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9621315.d.html</link>
+            <guid>2207930</guid>
+            <pubDate>Mon, 14 Jun 2021 15:46:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【股市收盘】西班牙IBEX35指数6月14日（周一）收盘上涨77.00点，涨幅0.84%，报9282.00点；意大利富时MIB指数6月14日（周一）收盘上涨29.08点，涨幅0.11%，报25746.50点；英国富时100指数6月14日（周一）收盘上涨11.74点，涨幅0.16%，报7145.80点；法国CAC40指数6月14日（周一）收盘上涨15.69点，涨幅0.24%，报6616.35点；德国DAX30指数6月14日（周一）收盘下跌20.82点，跌幅0.13%，报15672.45点；欧洲斯托克50指数6月14日（周一）收盘上涨10.96点，涨幅0.27%，报4137.66点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9621068.d.html</link>
+            <guid>2207929</guid>
+            <pubDate>Mon, 14 Jun 2021 15:41:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国伊利诺伊州一化工厂发生爆炸，为全球最大润滑剂制造商旗下工厂】当地时间6月14日，据美国当地媒体报道，美国伊利诺伊州罗克顿地区一化工厂发生爆炸，现场浓烟滚滚。因事故可能导致危险化学物质泄漏，当地警方已要求事发地周围居民撤离。据悉，该化工厂是美国知名化工企业、世界最大的润滑剂制造商Chemtool Incorporated旗下工厂。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9620830.d.html</link>
+            <guid>2207928</guid>
+            <pubDate>Mon, 14 Jun 2021 15:39:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国10年期国债收益率重返1.49%上方，日内整体涨幅扩大至将近4.0个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1021936.d.html</link>
+            <guid>2207927</guid>
+            <pubDate>Mon, 14 Jun 2021 15:39:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纽约联储银行：消费者通胀预期连续第七个月上升】根据纽约联邦储备银行的消费者预期调查，5月份消费者的一年期通胀预期从之前一个月的3.36%上升至4%，连续第七个月上升，并且是2013年开始汇编该数据以来的最高水平，三年期通胀预期中值从3.1%升至3.57%，为2013年8月以来最高。一年期房价变动预期中值从5.49%升至6.22%，连续第三个月创下历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9620588.d.html</link>
+            <guid>2207926</guid>
+            <pubDate>Mon, 14 Jun 2021 15:36:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道指跌超230点，创近三周新低；标普500指数现跌0.28%，纳指涨0.28%。]]></title>
+            <guid>2207925</guid>
+            <pubDate>Mon, 14 Jun 2021 15:35:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为52，表明市场处在中性状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1021616.d.html</link>
+            <guid>2207924</guid>
+            <pubDate>Mon, 14 Jun 2021 15:34:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国新能源汽车产销量连续六年全球第一，电动智能汽车在全球范围内形成先发优势】为期两天的2021中国汽车重庆论坛周日（6月13日）闭幕。工业和信息化部装备工业一司司长罗俊杰表示，企业的研发能力明显增强，产品质量水平在稳步提高，新能源汽车产销量连续六年位居全球第一。今年5月份，我们市场渗透率超过10%，L2级自动驾驶功能新车装载率超过15%在全球范围内形成了一定的先发优势。与会的中国贸促会汽车行业分会负责人同时指出，中国汽车产业迎来了电动智能新时代。2020年，虽然中国乘用车销量略有下降，但智能网联乘用车却上涨，半自动驾驶汽车销量超过300万辆，同比增长107%，占比已达15%左右。有预测认为，到2025年，部分自动驾驶、有条件自动驾驶级别的智能网联汽车市场份额超过50%。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9620398.d.html</link>
+            <guid>2207923</guid>
+            <pubDate>Mon, 14 Jun 2021 15:33:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收涨0.29%，报458.85点。 德国DAX 30指数初步收涨0.09%，报15708.13点。 法国股指初步收涨0.38%，英国股指初步收涨0.43%，意大利股指初步收涨0.18%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1021530.d.html</link>
+            <guid>2207922</guid>
+            <pubDate>Mon, 14 Jun 2021 15:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  世界卫生组织助理总干事：正在调查辉瑞疫苗接种后出现的心肌炎病例报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1021504.d.html</link>
+            <guid>2207921</guid>
+            <pubDate>Mon, 14 Jun 2021 15:32:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[部分明星科技股走强，Adobe(ADBE.O)涨3.5%，奈飞(NFLX.O)涨超2%，苹果(AAPL.O)涨近2%，台积电(TSM.N)涨超1%。]]></title>
+            <guid>2207920</guid>
+            <pubDate>Mon, 14 Jun 2021 15:29:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲央行内部有关结束危机刺激措施的分歧开始显山露水】欧洲央行内部关于如何以及何时讨论结束其抗疫紧急购债计划的冲突，开始在公开场合显现。欧洲央行行长拉加德在采访中表示，现在讨论何时结束刺激措施“远远过早”，几乎就在一个小时后，欧洲央行管委霍尔茨曼却表示，该计划将在明年3月份结束，除非爆发另一轮严重的新冠疫情。欧洲央行已承诺只要有必要，就将维持有利的融资条件，而大多数决策层官员都避免谈论退出刺激措施，因担忧推高市场利率。]]></title>
+            <guid>2207919</guid>
+            <pubDate>Mon, 14 Jun 2021 15:28:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通CEO戴蒙：银行体系将“陷入困境”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9619856.d.html</link>
+            <guid>2207918</guid>
+            <pubDate>Mon, 14 Jun 2021 15:23:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【菲律宾棉兰老岛发生5.3级地震 震源深度10公里】中国地震台网正式测定：06月14日22时38分，在菲律宾棉兰老岛(北纬7.55度，东经124.9度)发生5.3级地震，震源深度10公里。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1020957.d.html</link>
+            <guid>2207917</guid>
+            <pubDate>Mon, 14 Jun 2021 15:22:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【端午假期国内旅游出游近9000万人次】6月14日，文化和旅游部公告称，经数据中心测算，2021年端午节假期3天，全国国内旅游出游8913.6万人次，按可比口径同比增长94.1%，按可比口径恢复至疫情前同期的98.7%。实现国内旅游收入294.3亿元，同比增长139.7%，恢复至疫情前同期的74.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9619754.d.html</link>
+            <guid>2207916</guid>
+            <pubDate>Mon, 14 Jun 2021 15:22:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500金融业指数跌1%，创3周以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1020803.d.html</link>
+            <guid>2207915</guid>
+            <pubDate>Mon, 14 Jun 2021 15:20:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世界卫生组织总干事谭德塞：欢迎七国集团捐赠新冠疫苗，这是一个很大的帮助，但我们需要更多，需要更快。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9619552.d.html</link>
+            <guid>2207914</guid>
+            <pubDate>Mon, 14 Jun 2021 15:20:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  道指跌超200点，成分股WBA、摩根大通、卡特彼勒、思科、家得宝、IBM、高盛等均跌超1%，但苹果和Salesforce.com保持至少1.7%的涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9619512.d.html</link>
+            <guid>2207913</guid>
+            <pubDate>Mon, 14 Jun 2021 15:19:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加密数字货币保管人Brane Capital宣布IPO计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1020610.d.html</link>
+            <guid>2207912</guid>
+            <pubDate>Mon, 14 Jun 2021 15:17:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约秘书长斯托尔滕贝格：美国总统拜登有关美国承诺的信息是明确的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9619370.d.html</link>
+            <guid>2207911</guid>
+            <pubDate>Mon, 14 Jun 2021 15:17:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约峰会最终声明：北约领导人呼吁伊朗停止所有“不符合”联合国安理会决议的弹道导弹活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1020568.d.html</link>
+            <guid>2207910</guid>
+            <pubDate>Mon, 14 Jun 2021 15:17:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中概教育股造好，网易有道涨10%，高途涨5%，哔哩哔哩涨2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9619266.d.html</link>
+            <guid>2207909</guid>
+            <pubDate>Mon, 14 Jun 2021 15:15:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根大通CEO戴蒙：第二季度交易收入将超过60亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1020418.d.html</link>
+            <guid>2207908</guid>
+            <pubDate>Mon, 14 Jun 2021 15:14:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[数据显示，美国民众的购房意向已跌至20年来最低水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9619177.d.html</link>
+            <guid>2207907</guid>
+            <pubDate>Mon, 14 Jun 2021 15:14:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约峰会最终声明：盟国目标是让北约在理解和适应气候变化对安全的影响方面成为领先的国际组织。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9619174.d.html</link>
+            <guid>2207906</guid>
+            <pubDate>Mon, 14 Jun 2021 15:14:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西班牙央行预计该国经济恢复程度将好于此前预期】根据西班牙《国家报》当地时间6月14日的报道，由于新冠肺炎疫情的好转和疫苗接种速度的加快，西班牙中央银行对该国经济恢复程度的最新预测比此前的预期有所好转，该机构估计西班牙在2021年度的经济将增长6.2%，比此前的6%稍高，该机构同时预测2022年该国经济将继续增长5.8%，比起此前预计的增长幅度同样有所上升。西班牙央行预计该国经济将在2022年最后一个季度恢复至新冠疫情之前的水准，比起此前预计的2023年第一季度要更早。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1020378.d.html</link>
+            <guid>2207905</guid>
+            <pubDate>Mon, 14 Jun 2021 15:13:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理默克尔：今天的讨论清楚地表明，俄罗斯是一个巨大的挑战。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9619081.d.html</link>
+            <guid>2207904</guid>
+            <pubDate>Mon, 14 Jun 2021 15:12:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约呼吁俄罗斯取消将美国、捷克列为“不友好”国家。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1020284.d.html</link>
+            <guid>2207903</guid>
+            <pubDate>Mon, 14 Jun 2021 15:12:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【极端天气侵袭美国：西部超九成地区反常干旱】“美国干旱监测”周报的最新数据显示，目前美国西部有高达97.36%的地区处于反常的干旱中，其中，处于D3 级别的“极端干旱”的地区接近55%，处于最高的D4级别，也就是“异常干旱”的地区超过四分之一。据估计，在美国西部地区，处于干旱地区的居民人口接近6000万。在农业重镇加州，干旱以及由此可能引发的山火等问题不仅限制了居民用水，也让不少农场主干脆选择休耕，一些葡萄酒酿造商们也不再采摘葡萄，这可能会让疫情下本就脆弱的农产品供应雪上加霜。加州从2011年12月到2019年3月经历了一场7年多的超长干旱，但也有学者认为，这场干旱其实从来没有结束过，而干旱和高温天气的叠加在去年造成山火，并带来了巨大的经济损失和人员伤亡。其影响，到现在还没有消散。干旱问题同样困扰着加州当地农业，由于担心辛苦耕耘付之于灰烬，再加上可能缺少必要的灌溉用水，一些农场主们干脆让地空着。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9619032.d.html</link>
+            <guid>2207902</guid>
+            <pubDate>Mon, 14 Jun 2021 15:11:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克决定出售名下最后一处房产】特斯拉首席执行官马斯克发布推文称，他已决定卖掉自己拥有的最后一套房产；一周前，有报道称，包括他在内的多位亿万富豪多年来几乎没有或完全没有缴纳任何所得税。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9618811.d.html</link>
+            <guid>2207901</guid>
+            <pubDate>Mon, 14 Jun 2021 15:09:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通CEO戴蒙：摩根大通已经为更高的利率和通胀水平做好准备。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1019944.d.html</link>
+            <guid>2207900</guid>
+            <pubDate>Mon, 14 Jun 2021 15:09:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国首相约翰逊将于周二与澳大利亚总理莫里森进行会晤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9618743.d.html</link>
+            <guid>2207899</guid>
+            <pubDate>Mon, 14 Jun 2021 15:08:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国外交部和伊斯兰开发银行签署合作协议】6月14日，中华人民共和国外交部和伊斯兰开发银行关于援助伊开行成员国抗疫公共卫生实验室的协议签字仪式在沙特吉达举行。中国驻沙特大使兼驻伊斯兰合作组织代表陈伟庆和伊开行副行长曼苏尔代表双方签字。伊斯兰合作组织科技事务助理秘书长穆辛诺夫、驻沙特使馆首席馆员殷立军公参参加。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1019930.d.html</link>
+            <guid>2207898</guid>
+            <pubDate>Mon, 14 Jun 2021 15:08:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理默克尔：北约需要坚持威慑与对话的方针。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1019827.d.html</link>
+            <guid>2207897</guid>
+            <pubDate>Mon, 14 Jun 2021 15:07:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理默克尔：俄罗斯并不认为北约是一个伙伴，而视作是一个对手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9618605.d.html</link>
+            <guid>2207896</guid>
+            <pubDate>Mon, 14 Jun 2021 15:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约联储调查：美国家庭对明年通胀、房价、收入和支出增长的预期均在5月上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9618565.d.html</link>
+            <guid>2207895</guid>
+            <pubDate>Mon, 14 Jun 2021 15:06:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约联储调查：人们认为失业后找到工作的平均可能性从4月份的49.8%急剧上升至5月份的54.0%，这是该调查月度环比增幅最大的一次。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9618542.d.html</link>
+            <guid>2207894</guid>
+            <pubDate>Mon, 14 Jun 2021 15:06:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约将在2022年就截至2030年的具体资金需求达成一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1019753.d.html</link>
+            <guid>2207893</guid>
+            <pubDate>Mon, 14 Jun 2021 15:06:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约联储调查：第二年失业的平均概率下降到12.6%，创该指数新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9618527.d.html</link>
+            <guid>2207892</guid>
+            <pubDate>Mon, 14 Jun 2021 15:06:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约峰会公报显示，北约领导人再次承诺，北约的“核心任务”是集体防御、危机管理、合作安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9618430.d.html</link>
+            <guid>2207891</guid>
+            <pubDate>Mon, 14 Jun 2021 15:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约联储调查：未来一年美国失业率上升的可能性下降到31.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9618422.d.html</link>
+            <guid>2207890</guid>
+            <pubDate>Mon, 14 Jun 2021 15:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约联储调查：三年期通胀预期中值从4月份的3.1%上升到5月份的3.6%，创下该通胀预期指数的次高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1019531.d.html</link>
+            <guid>2207889</guid>
+            <pubDate>Mon, 14 Jun 2021 15:03:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约方面表示，俄罗斯的行动对欧洲-大西洋安全构成威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1019513.d.html</link>
+            <guid>2207888</guid>
+            <pubDate>Mon, 14 Jun 2021 15:03:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国6月14日报告新增7742例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1019463.d.html</link>
+            <guid>2207887</guid>
+            <pubDate>Mon, 14 Jun 2021 15:02:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约联储调查：5月份一年期通胀预期中值从4月份的3.4%升至4.0%，创下2013年推出该通胀预期指数的新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9618182.d.html</link>
+            <guid>2207886</guid>
+            <pubDate>Mon, 14 Jun 2021 15:01:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[因锯木厂产量增加和买家推迟购买，芝加哥商品交易所的木材期货价格上周暴跌18%，为1986年以来最大单周跌幅，较5月份创下的历史高位暴跌了40%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9618137.d.html</link>
+            <guid>2207885</guid>
+            <pubDate>Mon, 14 Jun 2021 15:01:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约联储调查：5月房价预期将升至6.2％，此前预期为5.5％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9618116.d.html</link>
+            <guid>2207884</guid>
+            <pubDate>Mon, 14 Jun 2021 15:00:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股区块链概念加速拉升，嘉楠科技涨23%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9617955.d.html</link>
+            <guid>2207883</guid>
+            <pubDate>Mon, 14 Jun 2021 14:59:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：06月14日22时38分在菲律宾棉兰老岛（北纬7.55度，东经124.90度）发生5.3级地震，震源深度10千米。]]></title>
+            <guid>2207882</guid>
+            <pubDate>Mon, 14 Jun 2021 14:56:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波罗的海干散货运价指数四连涨 因各类船舶运费走强】波罗的海干散货运价指数周一涨87点或3%，至2944，为连续第四个交易日上涨，刷新5月13日以来新高，因船舶运费走强。巴拿马型船运价指数涨41点或1.2%，报3343点，续刷2010年9月以来新高，日均获利增加369美元至30087美元。海岬型船运价指数涨197或5.9%，报3543点，日均获利增加1631美元至29383美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9617711.d.html</link>
+            <guid>2207881</guid>
+            <pubDate>Mon, 14 Jun 2021 14:55:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  AMC院线(AMC.N)持续走强，现涨超15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1018952.d.html</link>
+            <guid>2207880</guid>
+            <pubDate>Mon, 14 Jun 2021 14:55:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波兰央行委员：波兰经济没有过热的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1018874.d.html</link>
+            <guid>2207879</guid>
+            <pubDate>Mon, 14 Jun 2021 14:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  图森未来(TSP.O)盘中持续拉升，现涨超20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1018660.d.html</link>
+            <guid>2207878</guid>
+            <pubDate>Mon, 14 Jun 2021 14:51:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登与土耳其总统埃尔多安在北约的会晤推迟了大约一个小时。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9617330.d.html</link>
+            <guid>2207877</guid>
+            <pubDate>Mon, 14 Jun 2021 14:50:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥周二将收到来自美国的130万剂强生新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9617039.d.html</link>
+            <guid>2207876</guid>
+            <pubDate>Mon, 14 Jun 2021 14:48:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【传奇交易员都铎·琼斯：美联储专注就业 传统经济观点已被颠覆】传奇交易员都铎·琼斯接受采访时表示，尽管通胀和金融稳定越来越令人担忧，但美联储一心专注于失业问题，颠覆了传统经济观点。他表示，通胀风险并不是暂时的。如果美联储说美国经济正走在正确道路上，将会全力押注通胀题材的交易；如果他们纠正做法，会出现减码恐慌，固定收益资产下跌，股市回调。琼斯称，“我认为此次会议将是美联储主席鲍威尔职业生涯中最重要的一次会议。”]]></title>
+            <guid>2207875</guid>
+            <pubDate>Mon, 14 Jun 2021 14:48:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国经济目前正在经历过去20年来最高的工人辞职率，这表明工人对自己在其他地方找到薪水更高或更合适的工作充满信心。但目前还并没有看到美国长期失业率更快下降或更多人重新进入劳动力市场的数据。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1018273.d.html</link>
+            <guid>2207874</guid>
+            <pubDate>Mon, 14 Jun 2021 14:48:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【首批新三板基金成立满一年平均收益率超30%】去年6月12日-22日，华夏、富国、万家、招商、汇添富基金等五家公募首批可投新三板公募基金（简称“新三板基金”）成立，如今，首批新三板基金成立陆续满一年，平均收益率超30%，实现了稳健起步，但新三板精选层投资比例相对偏低。多位业内人士表示，出于组合流动性管理和投研难度的考虑，首批新三板基金投向精选层的比例有限，但部分企业质地和成长性较好，转板预期明确，未来精选层仍然具备较大的投资价值。 (中国基金报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9616993.d.html</link>
+            <guid>2207873</guid>
+            <pubDate>Mon, 14 Jun 2021 14:48:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：菲律宾棉兰老岛发生5.6级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1018173.d.html</link>
+            <guid>2207872</guid>
+            <pubDate>Mon, 14 Jun 2021 14:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  现代汽车：美国阿拉巴马制造工厂将于6月21日恢复生产，并将继续采取必要措施优化生产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9616839.d.html</link>
+            <guid>2207871</guid>
+            <pubDate>Mon, 14 Jun 2021 14:46:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  ContextLogic (WISH.O)涨超10%，此前宣布与领先的电子商务平台Prestashop合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1017897.d.html</link>
+            <guid>2207870</guid>
+            <pubDate>Mon, 14 Jun 2021 14:43:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  BioNTech SE(BNTX.O)跌超10%。Moderna(MRNA.O)跌超7%。]]></title>
+            <guid>2207869</guid>
+            <pubDate>Mon, 14 Jun 2021 14:42:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲央行官员维勒鲁瓦：欧洲央行刺激政策至少要与美联储的持续一样久】欧洲央行管理委员会成员维勒鲁瓦接受《费加罗报》采访时称，欧洲央行对刺激政策的选择“是由经济现实来决定”。刺激措施“并非救援：为了应对一场特殊的危机，我们创造了特殊的工具，包括资产购买计划PEPP”。这项政策的指南针仍然非常简单：那就是欧洲央行的价格稳定目标，我们的通胀率目标接近2%。即使像德国之类的一些国家会时不时超越这一目标，但我们作为一个整体并没有持续达到目标。这证明合理做法是维持货币政策与我们的目标相一致，耐心--至少要跟美联储一样持久，并且务实。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9616544.d.html</link>
+            <guid>2207868</guid>
+            <pubDate>Mon, 14 Jun 2021 14:41:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[摩根大通日前发布报告认为，比特币价格反弹难以维持，期货市场的现货升水（现货价格高于期货价格）是一个危险的信号。报告称，这种现货溢价是不寻常的，反映了目前机构投资者对比特币需求的疲软程度。]]></title>
             <guid>2207867</guid>
@@ -221,387 +599,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9611979.d.html</link>
             <guid>2207831</guid>
             <pubDate>Mon, 14 Jun 2021 13:49:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广发证券建议关注三条主线：一是消费跃迁下的新能源车（锂电池、锂电材料）以及次高端白酒；二是煤炭、玻璃、半导体以及化工、建材、造纸；三是需求扩张的光伏、疫苗及军工、油服。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9611968.d.html</link>
-            <guid>2207830</guid>
-            <pubDate>Mon, 14 Jun 2021 13:49:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银转涨，现报27.89美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1013081.d.html</link>
-            <guid>2207829</guid>
-            <pubDate>Mon, 14 Jun 2021 13:48:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股钢铁股走低，克里夫斯天然资源公司(CLF.N)跌超5%，车里雅宾斯克钢铁(MTL.N)、美国钢铁(X.N)跌超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1012914.d.html</link>
-            <guid>2207828</guid>
-            <pubDate>Mon, 14 Jun 2021 13:45:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典央行副行长弗洛登：瑞典克朗没有被高估，没有看到升值的趋势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9611695.d.html</link>
-            <guid>2207827</guid>
-            <pubDate>Mon, 14 Jun 2021 13:45:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  BioNTech SE(BNTX.O)跌超5%，Moderna(MRNA.O)跌超6%。]]></title>
-            <guid>2207826</guid>
-            <pubDate>Mon, 14 Jun 2021 13:45:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线快速反弹约13美元，现重回1860美元/盎司上方。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1012746.d.html</link>
-            <guid>2207825</guid>
-            <pubDate>Mon, 14 Jun 2021 13:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  海印股份：拟通过公开挂牌方式转让所持有的中邮消费金融公司1.1667%股权；本次股权转让的挂牌价格不低于公司持有的中邮消费金融公司 1.1667%股权对应的经审计净资产，即不低于4475.46万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9611500.d.html</link>
-            <guid>2207824</guid>
-            <pubDate>Mon, 14 Jun 2021 13:42:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金继续反弹，短线涨超10美元，现报1858.83美元/盎司，现货白银短线涨幅扩大至0.25美元，现报27.77美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1012655.d.html</link>
-            <guid>2207823</guid>
-            <pubDate>Mon, 14 Jun 2021 13:42:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典央行副行长弗洛登：没有对瑞典克朗走势过于担心。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9611361.d.html</link>
-            <guid>2207822</guid>
-            <pubDate>Mon, 14 Jun 2021 13:41:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉涨2%，马斯克表示特斯拉没有操作比特币，未来可能恢复比特币交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9611024.d.html</link>
-            <guid>2207821</guid>
-            <pubDate>Mon, 14 Jun 2021 13:37:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银短线走高近0.2美元，现报27.73美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1012142.d.html</link>
-            <guid>2207820</guid>
-            <pubDate>Mon, 14 Jun 2021 13:37:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线拉升约8美元，现报1855.05美元/盎司，日内跌幅收窄至1.15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1012117.d.html</link>
-            <guid>2207819</guid>
-            <pubDate>Mon, 14 Jun 2021 13:37:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  AMC院线(AMC.N)涨幅扩大至10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9610795.d.html</link>
-            <guid>2207818</guid>
-            <pubDate>Mon, 14 Jun 2021 13:35:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Boss直聘(BZ.O)触发熔断，此前涨超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9610781.d.html</link>
-            <guid>2207817</guid>
-            <pubDate>Mon, 14 Jun 2021 13:35:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行行长贝利：加密货币不是支付的良好媒介。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9610702.d.html</link>
-            <guid>2207816</guid>
-            <pubDate>Mon, 14 Jun 2021 13:34:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Lordstown Motors(RIDE.O)跌近15%，公司宣布首席执行官和首席财务官辞职；公司调查确实发现有关公司预订订单声明中的一些准确性的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9610674.d.html</link>
-            <guid>2207815</guid>
-            <pubDate>Mon, 14 Jun 2021 13:34:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据英国卫报：英国“脱欧”谈判首席代表弗罗斯特和欧盟委员会副主席谢夫乔维奇预计会在本周会面，试图打破北爱尔兰脱欧僵局。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9610617.d.html</link>
-            <guid>2207814</guid>
-            <pubDate>Mon, 14 Jun 2021 13:33:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国广播电台运营商Mediaco Holding(MDIA.O)涨超37%，此前任命Rahsan Lindsay为新任CEO。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1011686.d.html</link>
-            <guid>2207813</guid>
-            <pubDate>Mon, 14 Jun 2021 13:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  生物制药公司Enochian Biosciences Inc.(ENOB.O) 大涨超160%；此前美国食品药品监督管理局接受其就潜在HIV疗法召开新药临床申报前会议的要求。]]></title>
-            <guid>2207812</guid>
-            <pubDate>Mon, 14 Jun 2021 13:32:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道指开盘跌0.1%，标普500跌0.1%，纳指涨0.1%】区块链板块普涨，Riot Blockchain涨9.6%，Marathon Digital涨9.2%，第九城市涨5.4%，嘉楠科技涨7.1%。Lordstown Motors跌17.3%，公司宣布首席执行官和首席财务官辞职。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9610311.d.html</link>
-            <guid>2207811</guid>
-            <pubDate>Mon, 14 Jun 2021 13:30:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行行长贝利：英镑Libor转换几乎已经完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1011466.d.html</link>
-            <guid>2207810</guid>
-            <pubDate>Mon, 14 Jun 2021 13:30:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典央行副行长弗洛登：美国的通胀数据没有特别令人担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1011332.d.html</link>
-            <guid>2207809</guid>
-            <pubDate>Mon, 14 Jun 2021 13:28:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行行长贝利：衍生品的转型已经开始，而且更加直接。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1011317.d.html</link>
-            <guid>2207808</guid>
-            <pubDate>Mon, 14 Jun 2021 13:28:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：近年来，美国为了激烈的国内政治竞争牺牲了与俄罗斯的关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9610042.d.html</link>
-            <guid>2207807</guid>
-            <pubDate>Mon, 14 Jun 2021 13:27:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟启动1万亿美元债券的发行 以帮助经济从疫情中复苏】欧盟正在测试投资者对其在五年内发行近1万亿美元债券的兴趣，欧盟希望利用发债融资来帮助其经济从大流行病的冲击中复苏。作为下一代欧盟计划的一部分，欧盟开始登记对其发行10年期债券的需求。下一代欧盟计划将为欧盟成员国提供赠款和贷款。欧洲央行行长拉加德在周一发表的采访中表示，刺激计划将“改变欧洲的未来”。该债券可能在周二定价。德国商业银行策略师预计，发行规模将超过100亿欧元（120亿美元）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1010909.d.html</link>
-            <guid>2207806</guid>
-            <pubDate>Mon, 14 Jun 2021 13:24:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典央行副行长弗洛登：住房价格上涨并不是货币政策所导致的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9609500.d.html</link>
-            <guid>2207805</guid>
-            <pubDate>Mon, 14 Jun 2021 13:21:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：俄罗斯不排除与众多国家在航天领域开展合作，但坚决反对太空军事化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9609490.d.html</link>
-            <guid>2207804</guid>
-            <pubDate>Mon, 14 Jun 2021 13:21:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据英国天空新闻：英国财政大臣苏纳克将拒绝企业援助延期的请求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9609483.d.html</link>
-            <guid>2207803</guid>
-            <pubDate>Mon, 14 Jun 2021 13:21:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行行长贝利：我们正处在就数字货币提出重大问题并寻求答案的阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1010401.d.html</link>
-            <guid>2207802</guid>
-            <pubDate>Mon, 14 Jun 2021 13:19:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典央行副行长弗洛登：认为目前瑞典的信贷市场没有任何问题。新冠疫情仍有许多不确定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1010318.d.html</link>
-            <guid>2207801</guid>
-            <pubDate>Mon, 14 Jun 2021 13:18:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华菱线缆中签号出炉 共240491个】华菱线缆(001208)6月14日晚间中签结果，中签号码共有240491个，每个中签号码只能认购500股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9609109.d.html</link>
-            <guid>2207800</guid>
-            <pubDate>Mon, 14 Jun 2021 13:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典央行副行长弗洛登：认为目前瑞典的信贷市场没有任何问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9608819.d.html</link>
-            <guid>2207799</guid>
-            <pubDate>Mon, 14 Jun 2021 13:14:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行行长贝利：英国央行的资产负债表规模将是我们未来5年的主要问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1009768.d.html</link>
-            <guid>2207798</guid>
-            <pubDate>Mon, 14 Jun 2021 13:11:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委施纳贝尔：欧洲央行倾斜性购买原则上可以减少潜在的错误定价。倾斜性策略可以在行业、公司或债券层面实施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1009620.d.html</link>
-            <guid>2207797</guid>
-            <pubDate>Mon, 14 Jun 2021 13:10:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江开展燃气及相关领域安全专项整治，为期6个月】 浙江省安委会决定在全省范围立即开展为期6个月的燃气及相关领域安全专项整治，有效消除涉燃气企业、管道、用户和运输等环节的重大事故隐患，有效提升行业领域本质安全水平，坚决遏制较大以上燃气安全事故。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9608403.d.html</link>
-            <guid>2207796</guid>
-            <pubDate>Mon, 14 Jun 2021 13:10:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委施纳贝尔：欧洲央行可以根据可持续性的考虑，更逐步地调整其货币政策操作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1009466.d.html</link>
-            <guid>2207795</guid>
-            <pubDate>Mon, 14 Jun 2021 13:10:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委施纳贝尔：用市场效率原则取代市场中性原则似乎是合适的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1009390.d.html</link>
-            <guid>2207794</guid>
-            <pubDate>Mon, 14 Jun 2021 13:09:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：俄罗斯和伊朗有合作计划，包括在军事技术领域。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1009385.d.html</link>
-            <guid>2207793</guid>
-            <pubDate>Mon, 14 Jun 2021 13:09:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委施纳贝尔：在气候变化问题上，我们可以修改我们的政策 , 例如，将创新金融产品作为合格抵押品。各国央行不能在气候变化问题上袖手旁观。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9608153.d.html</link>
-            <guid>2207792</guid>
-            <pubDate>Mon, 14 Jun 2021 13:09:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州黄埔3地实行封闭封控管理】据广州黄埔发布，根据广州市新型冠状病毒肺炎疫情防控指挥部第13、15、16号通告精神，现将有关疫情防控工作通告如下：一、对联和街龙光峰景华庭第10栋B座、万科城科景路12号西北牛肉面广州黄埔店执行封闭管理。严格居家，足不出户。二、对联和街龙光峰景华庭小区执行封控管理。人员只进不出，严禁聚集。三、对联和街立即实施全员核酸检测。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1009328.d.html</link>
-            <guid>2207791</guid>
-            <pubDate>Mon, 14 Jun 2021 13:08:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄新西伯利亚市一座加油站发生火灾并引发爆炸 共有6人受伤送医】据俄新社14日援引俄紧急情况部消息，俄新西伯利亚市一座加油站发生火灾并引发燃料爆炸。截至发稿前，过火面积已达500平方米，共有6人受伤送医，其中包括2名最先抵达现场的消防员。目前当地紧急情况部门正在进行现场救援和事故调查。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1009133.d.html</link>
-            <guid>2207790</guid>
-            <pubDate>Mon, 14 Jun 2021 13:06:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币站上40000美元/枚整数关口，为5月27日以来首次。以太坊短线拉升近30美元，上破2510美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9607661.d.html</link>
-            <guid>2207789</guid>
-            <pubDate>Mon, 14 Jun 2021 13:04:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：土耳其在打击恐怖主义的努力中，没有看到北约盟国的“支持”或“团结”。]]></title>
-            <guid>2207788</guid>
-            <pubDate>Mon, 14 Jun 2021 13:03:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【传奇宏观交易员都铎·琼斯：若美联储继续忽视高物价 将全力押注通胀交易】亿万富翁对冲基金经理都铎·琼斯周一表示，鉴于近期经济数据显示消费者物价上涨，目前正密切关注美联储本周的政策会议。琼斯在采访中称：“这些数字非常重要，如果美联储对这些数字漠不关心，我认为这就为通胀交易开了绿灯。如果他们说，‘我们正处于正轨上，情况很好’，那么我就会全力押注（all in）通胀交易。”琼斯补充称，“我可能会购买大宗商品，买加密货币，或购买黄金。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9607146.d.html</link>
-            <guid>2207787</guid>
-            <pubDate>Mon, 14 Jun 2021 12:59:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【缅甸总统及国务资政所涉案件进入举证质证阶段】金十数据6月14日讯，当地时间6月14日，缅甸总统温敏及国务资政昂山素季所涉案件在内比都泽布迪瑞法院进入举证质证阶段。据辩方律师团队的敏敏梭律师介绍，律师团队当天上午与国务资政昂山素季进行了半个小时的会见，之后于10时30分和11时30分先后在特别法庭就总统和国务资政涉嫌违反缅甸《自然灾害管理法》的案件开庭。当天下午，特别法庭就国务资政昂山素季涉嫌违反《电信法》和《进出口法》的指控开庭。相关案件将在15日继续进行法庭调查。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1008332.d.html</link>
-            <guid>2207786</guid>
-            <pubDate>Mon, 14 Jun 2021 12:58:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[诺瓦瓦克斯高管：试验数据显示，疫苗针对重症新冠肺炎患者的有效率为100％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9607054.d.html</link>
-            <guid>2207785</guid>
-            <pubDate>Mon, 14 Jun 2021 12:57:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度五月通胀数据飙升至6.3%】① 2021年5月，印度的年度消费通胀率从4月向下修正的4.23%上升到6.3%，创下6个月来的最高水平。由于包括原油、食用油和黄金在内的全球大宗商品价格上涨，该数据大大高于市场预期的5.3%。② 食品CPI飙升至5.01%，其中油脂(30.84%)、非酒精饮料(15.1%)、水果(11.98%)和豆类(9.39%)涨幅最大。额外的上升压力来自燃料和照明成本(11.58%);Pan，烟草和酒类(10%);杂项(7.52%);服装和鞋类(5.32%);还有住房(3.86%)。印度联储估计，本财政年度的平均通货膨胀率为5.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1008154.d.html</link>
-            <guid>2207784</guid>
-            <pubDate>Mon, 14 Jun 2021 12:55:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海进一步部署加强安全防范工作 推进安全生产专项整治三年行动】上海市今天召开的安全防范工作视频会议要求，本市将深入推进安全生产专项整治三年行动，全面落实安全责任，切实压实企业主体责任、属地责任、监管部门责任和党政领导责任。加强防范，全面开展排查整治，坚持目标导向、问题导向，聚焦城镇燃气压力站、液化气供应站点、燃气等重点管线，危化品企业、建筑工地、特种设备、消防重点防控单位等风险隐患突出领域部位，严格监管执法，从源头上、从根子上消除隐患。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9606103.d.html</link>
-            <guid>2207783</guid>
-            <pubDate>Mon, 14 Jun 2021 12:47:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【呷哺呷哺建议罢免赵怡的执行董事职务】呷哺呷哺在港交所公告，董事会决定罢免赵怡的执行董事职务，因其管理方式和理念与“董事会其他成员存在重大差异”。董事会认为，允许赵怡继续参与公司管理将不符合公司及其股东的整体最佳利益。董事会拟在股东特别大会上提出罢免赵怡的执行董事职务的普通决议案，详情将发送给股东。董事会认为此事不会对集团的营运造成重大不利影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9605893.d.html</link>
-            <guid>2207782</guid>
-            <pubDate>Mon, 14 Jun 2021 12:44:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国方面表示，首相约翰逊今天会见了西班牙首相桑切斯，两国领导人同意在贸易、国防和安全等一系列重大问题上深化两国双边关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1007142.d.html</link>
-            <guid>2207781</guid>
-            <pubDate>Mon, 14 Jun 2021 12:43:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统泽连斯基：将与北溪2号对抗，不管我们的欧洲伙伴是否喜欢。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1006309.d.html</link>
-            <guid>2207780</guid>
-            <pubDate>Mon, 14 Jun 2021 12:36:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：德国电池企业BMZ准备于9月上市，估值约为20亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1006095.d.html</link>
-            <guid>2207778</guid>
-            <pubDate>Mon, 14 Jun 2021 12:34:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大4月制造业库存月率公布 0.8%，前值 -0.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9604803.d.html</link>
-            <guid>2207777</guid>
-            <pubDate>Mon, 14 Jun 2021 12:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新三板基金成立一年了，平均收益超30%】去年6月12日-22日，华夏、富国、万家、招商、汇添富基金等五家公募首批可投新三板公募基金成立，如今，首批新三板基金成立陆续满一年，平均收益率超30%，实现了稳健起步，但新三板精选层投资比例相对偏低。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1006061.d.html</link>
-            <guid>2207776</guid>
-            <pubDate>Mon, 14 Jun 2021 12:34:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[传奇宏观交易员都铎·琼斯：希望投资组合的5%是比特币以多样化投资组合。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9604741.d.html</link>
-            <guid>2207775</guid>
-            <pubDate>Mon, 14 Jun 2021 12:33:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银短线下跌约0.14美元，现报27.52美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1005490.d.html</link>
-            <guid>2207774</guid>
-            <pubDate>Mon, 14 Jun 2021 12:27:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国金融监督委员会要求逾20家交易所提交被退市或指定为重点项目的虚拟货币名单】据韩联社援引韩国金融监管局和业内人士透露，金融监督委员会今日下午向20多家获得ISMS认证的虚拟货币交易所发送了电子邮件，要求提交“6月7日到16日期间被退市或指定为重点项目的虚拟货币名单”。金融监管局相关负责人解释说：“这是为了了解市场动态。”当局要求在16日之前提交资料，但业内也有传言称，“每日报告”已经开始进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1005468.d.html</link>
-            <guid>2207773</guid>
-            <pubDate>Mon, 14 Jun 2021 12:27:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股盘前消息速报】①周一，市场消息面相对清淡，因此市场维持窄幅震荡，但黄金暴跌是个例外。本周全球市场迎来超级央行周，美联储等央行将公布最新的利率决议；美国还将公布零售销售等经济数据。截至发稿，道指期货跌0.1%，标普500期指涨0.04%，纳指期货涨0.3%。②英国富时100指数上涨0.1%，德国DAX指数上涨0.1%，法国CAC-40指数下跌0.1%。③美元指数徘徊于90.50附近，继续交投于最近交易区间顶部附近，周一接近关键的90.60/70阻力区域。④金价延续上周的大跌势头，连续破位1870、1860、1850关口，日内跌幅扩大至1.45%。⑤石油股美股盘前造好，西方石油涨1.66%，荷兰皇家壳牌涨超1.5%，阿帕奇石油与英国石油涨超1%，埃尼石油涨0.8%。⑥WSB概念股盘前走强，Corsair Gaming盘前涨超14%，Clean Energy Fuels涨超6%，AMC院线涨3.6%，ContextLogic涨近3%，游戏驿站涨2.28%。⑦区块链概念股盘前走高，Riot Blockchain涨近8%，Marathon Patent涨7.3%，第九城市涨4.2%，SOS涨3.6%。⑧特斯拉盘前涨超1%，马斯克表示特斯拉没有操作比特币，未来可能恢复比特币交易。⑨Lordstown Motors盘前跌超13%，公司宣布首席执行官和首席财务官辞职。⑩诺瓦瓦克斯医药盘前涨超12%，诺瓦瓦克斯新冠肺炎疫苗针对中症的保护率为100%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9604086.d.html</link>
-            <guid>2207772</guid>
-            <pubDate>Mon, 14 Jun 2021 12:26:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[传奇宏观交易员都铎·琼斯：如果美联储继续忽视物价上涨，（本人）就在每一笔通胀交易上押下重注。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9603871.d.html</link>
-            <guid>2207771</guid>
-            <pubDate>Mon, 14 Jun 2021 12:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[传奇宏观交易员都铎·琼斯：我喜欢比特币作为投资组合的多元化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1005004.d.html</link>
-            <guid>2207770</guid>
-            <pubDate>Mon, 14 Jun 2021 12:22:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[传奇宏观交易员都铎·琼斯：一直在尽可能多地对冲通胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1004697.d.html</link>
-            <guid>2207769</guid>
-            <pubDate>Mon, 14 Jun 2021 12:20:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[传奇宏观交易员都铎·琼斯：通胀不是暂时性的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1004586.d.html</link>
-            <guid>2207768</guid>
-            <pubDate>Mon, 14 Jun 2021 12:19:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[传奇宏观交易员都铎·琼斯认为目前的财政、货币政策组合是最疯狂的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1004321.d.html</link>
-            <guid>2207767</guid>
-            <pubDate>Mon, 14 Jun 2021 12:16:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金失守1850美元/盎司，创近一个月新低，日内跌幅扩大至1.45%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9603050.d.html</link>
-            <guid>2207766</guid>
-            <pubDate>Mon, 14 Jun 2021 12:16:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
