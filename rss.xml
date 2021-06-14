@@ -4,11 +4,57 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Mon, 14 Jun 2021 18:48:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jun 2021 19:33:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据美国证券交易委员会文件：以色列广告科技公司Tremor International, Ltd预计在美IPO中发行至多677万ADSs。]]></title>
+            <guid>2208041</guid>
+            <pubDate>Mon, 14 Jun 2021 19:30:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据印度《铸币报》：印度可能将电动汽车计划延长到2024年3月。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9636545.d.html</link>
+            <guid>2208040</guid>
+            <pubDate>Mon, 14 Jun 2021 19:28:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世卫组织：新冠病毒传播速度超过了疫苗分发速度】6月14日，世卫组织举行新冠肺炎例行发布会，世卫组织总干事谭德塞表示，现有证据表明，变异新冠病毒显著增加了新冠肺炎在全球范围内的传播，导致全球大部分人的感染风险增加，这些人并未得到保护。目前新冠病毒的传播速度超过了疫苗的分发速度。谭德塞强调，应在最需要疫苗的地区优先为高风险人群接种，现在全球疫苗剂量足以减少病毒传播并挽救许多生命。此外，大多数国家还通过公共卫生措施成功遏制了病毒传播，这些措施对所有变异病毒都有效。但由于出现了更易传播的变异病毒，疫苗接种率较低的地区需要采取更加严格的公共卫生措施。世卫组织也在与多国合作，评估公共卫生措施对病毒传播的影响。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9636066.d.html</link>
+            <guid>2208039</guid>
+            <pubDate>Mon, 14 Jun 2021 19:20:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华特迪士尼CEO：复仇者基地（Avengers Campus）开放得“异常顺利”。]]></title>
+            <guid>2208038</guid>
+            <pubDate>Mon, 14 Jun 2021 19:15:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Roth Capital：将生物制药公司RAPT Therapeutics(RAPT.O)目标价从38美元上调至72美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9635686.d.html</link>
+            <guid>2208037</guid>
+            <pubDate>Mon, 14 Jun 2021 19:11:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[杰富瑞：将中兴通讯(00763.HK)评级上调至买进，目标价32.03港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9635675.d.html</link>
+            <guid>2208036</guid>
+            <pubDate>Mon, 14 Jun 2021 19:11:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[生物制药公司Enochian Biosciences(ENOB.O)直线走低，涨幅缩窄至73%。此前宣布直接发行规模2900万美元的股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqcfnca1036873.d.html</link>
+            <guid>2208035</guid>
+            <pubDate>Mon, 14 Jun 2021 19:11:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥卫生部：墨西哥累计新冠肺炎死亡病例达230187例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9634956.d.html</link>
+            <guid>2208034</guid>
+            <pubDate>Mon, 14 Jun 2021 18:57:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[WTI 7月原油期货收跌0.03美元，跌幅0.04%，报70.88美元/桶。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqcfnca1035180.d.html</link>
@@ -553,54 +599,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9622729.d.html</link>
             <guid>2207942</guid>
             <pubDate>Mon, 14 Jun 2021 16:07:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利新增907例新冠肺炎确诊病例，新增36例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqcfnca1023609.d.html</link>
-            <guid>2207941</guid>
-            <pubDate>Mon, 14 Jun 2021 16:04:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lyft(LYFT.O)盘中涨逾7%，股价达到4月底以来的新高，报60.16美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9622414.d.html</link>
-            <guid>2207940</guid>
-            <pubDate>Mon, 14 Jun 2021 16:04:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝克休斯公司(BKR.N)盘中下跌4.9%，创两个月来的最大跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9622234.d.html</link>
-            <guid>2207939</guid>
-            <pubDate>Mon, 14 Jun 2021 16:02:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[私募KKR全球宏观与资产配置（GMAA）主管Henry McVey：美国通胀将继续上扬，但可能并不会“失控”。美国劳动力成本最终将会上涨。小盘股将受益于复苏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9622175.d.html</link>
-            <guid>2207938</guid>
-            <pubDate>Mon, 14 Jun 2021 16:01:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拜登政府向一个国家捐赠80瓶新冠疫苗，相当于400多剂，仅仅够200余人接种】美国驻特立尼达和多巴哥大使馆当地时间6月13日晚在其官方推特发布声明称，“美国政府已向特立尼达和多巴哥政府捐赠80瓶辉瑞新冠疫苗。美国致力于帮助特立尼达和多巴哥政府开展疫苗接种工作。”根据美国媒体此前报道，一瓶辉瑞新冠疫苗包含5-6剂疫苗，换言之，80瓶疫苗仅相当于400多剂疫苗，按照一人两剂的接种流程，只够为200多人接种。或许是美国大使馆自己也意识到“80瓶”的可笑之处，还特意在声明结尾补充称，“我们相信每一剂疫苗都很重要”。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9621915.d.html</link>
-            <guid>2207937</guid>
-            <pubDate>Mon, 14 Jun 2021 15:58:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：菲律宾Kadingilan地区东北三公里处发生5.2级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1022961.d.html</link>
-            <guid>2207936</guid>
-            <pubDate>Mon, 14 Jun 2021 15:55:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴西参议院将于周三就电力公司私有化进行投票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9621761.d.html</link>
-            <guid>2207935</guid>
-            <pubDate>Mon, 14 Jun 2021 15:55:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世卫组织高级顾问：七国集团的8.7亿剂新冠疫苗将优先流向非洲。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1022797.d.html</link>
-            <guid>2207934</guid>
-            <pubDate>Mon, 14 Jun 2021 15:52:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
