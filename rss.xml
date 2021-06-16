@@ -4,13 +4,461 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Wed, 16 Jun 2021 15:47:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Jun 2021 17:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[国际铜夜盘收涨0.44%，沪铜收涨0.80%，沪铝收涨0.29%，沪锌收涨0.91%，沪铅收涨0.89%，沪镍收跌1.14%，沪锡收涨0.14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0031621.d.html</link>
+            <guid>2210486</guid>
+            <pubDate>Wed, 16 Jun 2021 17:09:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【FXTM富拓：市场对美联储提前收紧政策的预期渐渐消退】FXTM富拓首席中文分析师杨傲指出，美国CPI同比增速创出近13年以来新高，除了近期经济和量宽刺激带来的通胀外，还包括了去年5月的低基数效应。从环比增速放缓可以看出，刺激措施带来的通胀升温效应正在减弱，金融市场的反应也显示投资者开始认同通胀只是暂时性急涨而不会持续，同时也反映出市场对美联储提前收紧政策的预期渐渐消退。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1433656.d.html</link>
+            <guid>2210485</guid>
+            <pubDate>Wed, 16 Jun 2021 17:08:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货转跌，此前一度涨超1%，现报72.06美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1433578.d.html</link>
+            <guid>2210484</guid>
+            <pubDate>Wed, 16 Jun 2021 17:07:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  萨尔瓦多财政部长：国际货币基金组织告诉萨尔瓦多，国际货币基金组织“不反对”将比特币作为法定货币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0031449.d.html</link>
+            <guid>2210483</guid>
+            <pubDate>Wed, 16 Jun 2021 17:07:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  EXFO(EXFO.O)已停牌，Viavi Solutions(VIAV.O)现涨约2.7%。]]></title>
+            <guid>2210482</guid>
+            <pubDate>Wed, 16 Jun 2021 17:06:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网：俄罗斯总统普京与瑞士联邦主席举行了会晤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0030883.d.html</link>
+            <guid>2210481</guid>
+            <pubDate>Wed, 16 Jun 2021 17:00:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  EXFO(EXFO.O)大股东兼创办人Germain Lamonde：相信EXFO是一家独立的公司，不支持Viavi Solutions(VIAV.O)提出的收购邀约。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1432806.d.html</link>
+            <guid>2210480</guid>
+            <pubDate>Wed, 16 Jun 2021 16:59:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场信息：World Acceptance(WRLD.O)将回购价值至多3000万美元的股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0030732.d.html</link>
+            <guid>2210479</guid>
+            <pubDate>Wed, 16 Jun 2021 16:59:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经参：5月中国经济稳定恢复态势不变】国家统计局16日发布的5月国民经济运行情况显示，我国统筹疫情防控和经济社会发展成效继续显现，国民经济保持稳定恢复，继续呈现稳中加固、稳中向好态势。展望下一阶段，国内经济持续恢复基础仍需巩固，疫苗接种范围扩大有利于消费等内生动力回暖，政府仍会有未雨绸缪、托底经济之举。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0030714.d.html</link>
+            <guid>2210478</guid>
+            <pubDate>Wed, 16 Jun 2021 16:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【调控持续深入，房地产多项指标增速现回落】国家统计局6月16日公布最新房地产开发投资等数据之后，贝壳研究院高级分析师潘浩表示，多项指标收窄的原因是调控政策升级加码。5月以来，南京、北京、深圳、西安、宁波、上海、湖州、嘉兴、海口、郑州、绍兴、成都、合肥等地发布房地产调控政策，其中多个城市进行了多次升级版调控，从限购、限售、公开摇号、捂盘惜售及人口落户等方面出台相关政策。此外，在购地方面，近日已有南京、无锡、苏州、南昌、东莞等5个城市相继出台相关政策，限制房企多个“马甲”抢地。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0030551.d.html</link>
+            <guid>2210477</guid>
+            <pubDate>Wed, 16 Jun 2021 16:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以太坊跌破2400美元/枚，日内跌超5.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0030245.d.html</link>
+            <guid>2210476</guid>
+            <pubDate>Wed, 16 Jun 2021 16:53:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  LME期铜收涨98美元，报9667美元/吨。 LME期铝收涨2美元，报2470美元/吨。 LME期锌收跌5美元，报3024美元/吨。 LME期铅收涨27美元，报2202美元/吨。 LME期镍收跌90美元，报17649美元/吨。 LME期锡收跌248美元，报31215美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1432225.d.html</link>
+            <guid>2210475</guid>
+            <pubDate>Wed, 16 Jun 2021 16:53:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沙特表示谨慎恢复OPEC+产量的方法取得了效果】沙特王子、能源大臣Abdulaziz bin Salman表示，沙特对OPEC+恢复产量的谨慎态度已被证明是正确的。在新冠疫情导致石油市场动荡一年后，燃料需求正在出现强劲增长，国际能源署呼吁该组织增加供应。然而，在Abdulaziz王子看来，“我们还没有走出困境”。OPEC+目前依然在限产，限产幅度多达580万桶/日。Abdulaziz王子此前曾表示，希望看到需求强劲复苏的明确证据，再恢复更多闲置产能。周三的评论表明他坚持这一立场，即使原油价格继续上涨、恢复伊朗核协议——可能带来恢复伊朗石油出口——看起来更遥远。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1432189.d.html</link>
+            <guid>2210474</guid>
+            <pubDate>Wed, 16 Jun 2021 16:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中金宏观：美联储或在本次会议上调通胀预期并提及缩减购债问题】中金宏观表示，预计美联储将维持对美国经济的正面看法，暗示就业复苏缓慢是因为劳动力供给不足，不代表经济总需求放缓。与此同时，美联储可能上调通胀预测，在某种程度上承认通胀水平比预期更高。货币政策方面，预计美联储将给市场打上“预防针”，暗示将在接下来的会议上讨论缩减购债问题。但点阵图可能不会出现2023年首次加息的指引，以避免释放出过度鹰派的信号。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0030161.d.html</link>
+            <guid>2210473</guid>
+            <pubDate>Wed, 16 Jun 2021 16:51:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SOHO CHINA在粉单市场涨超80%，此前黑石向SOHO中国发出全面收购要约，交易代价236.58亿港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0029834.d.html</link>
+            <guid>2210472</guid>
+            <pubDate>Wed, 16 Jun 2021 16:48:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯副外长里亚布科夫：俄罗斯驻美大使将在月底前返回美国。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1431716.d.html</link>
+            <guid>2210471</guid>
+            <pubDate>Wed, 16 Jun 2021 16:47:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银短线下挫0.14美元，现报27.62美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0029559.d.html</link>
+            <guid>2210470</guid>
+            <pubDate>Wed, 16 Jun 2021 16:44:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经参头版头条：多项数据稳步回升，我国全年经济向好信号增强】6月16日出炉的5月经济“成绩单”显示，主要宏观经济数据稳步回升。其中，消费、投资、出口同比均保持两位数增长。企业盈利和市场预期持续向好。业内人士指出，我国经济处于稳步复苏进程中，全年经济增速有望保持高增长。面对全球经济复苏和疫情防控仍存在不稳定不确定因素，国内经济持续恢复基础仍需巩固。要保持宏观政策的连续性、稳定性、可持续性，助力企业纾困解难，大力推进改革创新，加快释放内需潜力，推动经济高质量发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0029538.d.html</link>
+            <guid>2210469</guid>
+            <pubDate>Wed, 16 Jun 2021 16:44:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场信息：汇丰控股(HSBC.N)将宣布把法国零售银行业务出售给Cerberus。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0029329.d.html</link>
+            <guid>2210468</guid>
+            <pubDate>Wed, 16 Jun 2021 16:42:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  汇丰控股(HSBC.N)短线小幅下挫，现跌0.23%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0029309.d.html</link>
+            <guid>2210467</guid>
+            <pubDate>Wed, 16 Jun 2021 16:41:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：认为我们能够在与拜登会晤后达成协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1430986.d.html</link>
+            <guid>2210466</guid>
+            <pubDate>Wed, 16 Jun 2021 16:38:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：交谈中没有感受到美方的压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1430575.d.html</link>
+            <guid>2210465</guid>
+            <pubDate>Wed, 16 Jun 2021 16:34:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：与美国总统拜登讨论了两国相互承认新冠疫苗的可能性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1430564.d.html</link>
+            <guid>2210464</guid>
+            <pubDate>Wed, 16 Jun 2021 16:34:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：美国应该为所有恶化的关系负责。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1430490.d.html</link>
+            <guid>2210463</guid>
+            <pubDate>Wed, 16 Jun 2021 16:33:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：看到了互信的“一线希望”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1430477.d.html</link>
+            <guid>2210462</guid>
+            <pubDate>Wed, 16 Jun 2021 16:33:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：很难说俄美关系是否会改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0028572.d.html</link>
+            <guid>2210461</guid>
+            <pubDate>Wed, 16 Jun 2021 16:33:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京与美国总统拜登的战略核稳定的联合声明称，永远不应该爆发核战争。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1430462.d.html</link>
+            <guid>2210460</guid>
+            <pubDate>Wed, 16 Jun 2021 16:33:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：将由美国总统拜登自己决定是否接受俄罗斯媒体的采访。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1430255.d.html</link>
+            <guid>2210459</guid>
+            <pubDate>Wed, 16 Jun 2021 16:30:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛在摩根大通全球投资银行排名中摘得榜首】摩根大通称，高盛是全球投资银行界的翘楚。目前该行业处于有史以来最好状态，有望实现每年至少5%的长期收入增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0028339.d.html</link>
+            <guid>2210458</guid>
+            <pubDate>Wed, 16 Jun 2021 16:30:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯总统普京和美国总统拜登达成了关于战略核稳定的联合声明。]]></title>
+            <guid>2210457</guid>
+            <pubDate>Wed, 16 Jun 2021 16:30:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：与拜登之间没有友谊，因为我们是在捍卫自己国家的利益，对话是务实的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1429986.d.html</link>
+            <guid>2210456</guid>
+            <pubDate>Wed, 16 Jun 2021 16:27:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：对美国不抱幻想。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0028075.d.html</link>
+            <guid>2210455</guid>
+            <pubDate>Wed, 16 Jun 2021 16:27:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：拜登是一个非常有建设性、经验丰富的合作伙伴。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1429935.d.html</link>
+            <guid>2210454</guid>
+            <pubDate>Wed, 16 Jun 2021 16:27:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：美国总统拜登没有邀请他访问美国，我们也没有邀请拜登访问俄罗斯。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0028033.d.html</link>
+            <guid>2210453</guid>
+            <pubDate>Wed, 16 Jun 2021 16:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫表示，两国承诺进行对话以避免风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1429816.d.html</link>
+            <guid>2210452</guid>
+            <pubDate>Wed, 16 Jun 2021 16:25:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京和美国总统拜登达成了关于战略核稳定的联合声明。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1429799.d.html</link>
+            <guid>2210451</guid>
+            <pubDate>Wed, 16 Jun 2021 16:25:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：美国在制裁中的损失并不比俄罗斯少。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0027893.d.html</link>
+            <guid>2210450</guid>
+            <pubDate>Wed, 16 Jun 2021 16:25:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场信息：贝莱德将持有的GrubHub(GRUB.N)的空头头寸降至0.84%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0027750.d.html</link>
+            <guid>2210449</guid>
+            <pubDate>Wed, 16 Jun 2021 16:23:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：我们不希望美国国会大厦发生的事情发生在俄罗斯。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0027541.d.html</link>
+            <guid>2210448</guid>
+            <pubDate>Wed, 16 Jun 2021 16:21:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国海证券给予时代天使买进的初始评级.]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0027519.d.html</link>
+            <guid>2210447</guid>
+            <pubDate>Wed, 16 Jun 2021 16:21:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【The Information：谷歌正在准备外语教学功能】The Information援引知情人士报道，谷歌准备通过谷歌搜索提供外语教学，作为迈向对话式人工智能的一步。报道称，该项目在内部称为“Tivoli”，可能会在今年晚些时候推出。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1429379.d.html</link>
+            <guid>2210446</guid>
+            <pubDate>Wed, 16 Jun 2021 16:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：美国已经公开宣布俄罗斯是敌人，需要避免这种情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0027333.d.html</link>
+            <guid>2210445</guid>
+            <pubDate>Wed, 16 Jun 2021 16:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊：将在路易斯安那州首府巴吞鲁日（Baton Rouge）设立第二家物流中心，新物流中心将创造超过1000个工作岗位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0027315.d.html</link>
+            <guid>2210444</guid>
+            <pubDate>Wed, 16 Jun 2021 16:20:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：将那些接受国外资金的人称为“外国代理人”，但我们没有禁止他们工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0027278.d.html</link>
+            <guid>2210443</guid>
+            <pubDate>Wed, 16 Jun 2021 16:19:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[萨尔瓦多财政部长：已经与国际货币基金组织进行了对话，并澄清不会用比特币取代美元作为法定货币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0027104.d.html</link>
+            <guid>2210442</guid>
+            <pubDate>Wed, 16 Jun 2021 16:17:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广发价值领先A、广发多因子超越、宝盈优势产业争夺基金半程冠军】还剩差不多两周交易时间，2021年主动权益基金半程赛就要结束。截至6月15日，目前这一半程冠军争夺战正争夺激烈，一度领先的林英睿管理的广发价值领先A，被同为广发基金的唐晓斌管理的广发多因子超越，该基金年内收益为46.53%，而目前这两只基金业绩差距仅2.63个百分点。紧随其后的宝盈优势产业的收益率也超过43%，和第二名差距不足1个百分点。近期市场又开启震荡模式，业绩争夺的悬念还有待时间揭开。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1428865.d.html</link>
+            <guid>2210441</guid>
+            <pubDate>Wed, 16 Jun 2021 16:16:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲债市：德国和意大利国债结束两连跌，等待美联储会议结果】在财政部回购短期债券后，意大利国债上涨，收益率曲线变陡，为两周来首次。由于供应面积极，德国和英国国债小幅上涨，美联储将在周三晚些时候公布利率决定。德国下周将发行15年期国债，此后将停止两周。英国下一次常规国债发行为7月1日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1428491.d.html</link>
+            <guid>2210440</guid>
+            <pubDate>Wed, 16 Jun 2021 16:12:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：相信我们应该在北极进行合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0026497.d.html</link>
+            <guid>2210439</guid>
+            <pubDate>Wed, 16 Jun 2021 16:11:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：我们正在恢复苏联时期在北极的基础设施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0026482.d.html</link>
+            <guid>2210438</guid>
+            <pubDate>Wed, 16 Jun 2021 16:11:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：美国对俄罗斯北极军事化的担忧是没有根据的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1428391.d.html</link>
+            <guid>2210437</guid>
+            <pubDate>Wed, 16 Jun 2021 16:11:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：保护美国国家安全和经济安全是头等大事。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0026463.d.html</link>
+            <guid>2210436</guid>
+            <pubDate>Wed, 16 Jun 2021 16:10:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：对拜登的“杀手”言论的解释感到满意。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1428356.d.html</link>
+            <guid>2210434</guid>
+            <pubDate>Wed, 16 Jun 2021 16:10:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：美国正在支持那些寻求遏制俄罗斯的组织。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1428338.d.html</link>
+            <guid>2210433</guid>
+            <pubDate>Wed, 16 Jun 2021 16:10:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  周三（6月16日）欧市尾盘，ICE欧盟碳排放交易许可（期货价格）下跌0.06%，报51.28欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0026347.d.html</link>
+            <guid>2210432</guid>
+            <pubDate>Wed, 16 Jun 2021 16:10:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：美国正在支持那些寻求遏制俄罗斯的组织。对拜登的“杀手”言论的解释感到满意。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1428046.d.html</link>
+            <guid>2210428</guid>
+            <pubDate>Wed, 16 Jun 2021 16:07:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[深圳市卫生健康委员会发布关于公开征求《深圳市独生子女父母计划生育奖励办法（征求意见稿）》意见的通告。]]></title>
+            <guid>2210427</guid>
+            <pubDate>Wed, 16 Jun 2021 16:07:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普京称美国与俄罗斯将恢复互遣大使】俄罗斯总统普京在与美国总统拜登会晤后举行的新闻发布会上表示，两国同意恢复互遣大使。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1427313.d.html</link>
+            <guid>2210426</guid>
+            <pubDate>Wed, 16 Jun 2021 16:01:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  用户行为数据分析（浏览器插件）服务商Walkme美国IPO首日开盘报31.25美元，此前给出的IPO发行价为每股31.00美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1427173.d.html</link>
+            <guid>2210425</guid>
+            <pubDate>Wed, 16 Jun 2021 15:59:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：两国将开始讨论对最近延长的《新削减战略武器条约》进行修改。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0025170.d.html</link>
+            <guid>2210424</guid>
+            <pubDate>Wed, 16 Jun 2021 15:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：双方都表示希望了解对方，会谈是建设性的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0025167.d.html</link>
+            <guid>2210423</guid>
+            <pubDate>Wed, 16 Jun 2021 15:59:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果(AAPL.O)首席执行官蒂姆·库克：欧盟科技法律草案中拟议的改变会损害iPhone的隐私和安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1427069.d.html</link>
+            <guid>2210422</guid>
+            <pubDate>Wed, 16 Jun 2021 15:57:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：与拜登会晤时没有敌意，会谈是具有建设性的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0025006.d.html</link>
+            <guid>2210421</guid>
+            <pubDate>Wed, 16 Jun 2021 15:55:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：美国、俄罗斯大使将各自返回对方的首都。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1426984.d.html</link>
+            <guid>2210420</guid>
+            <pubDate>Wed, 16 Jun 2021 15:55:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：磋商将从外交部层面开始。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0024990.d.html</link>
+            <guid>2210419</guid>
+            <pubDate>Wed, 16 Jun 2021 15:55:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：俄罗斯和美国都对核战略稳定负有责任。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0024982.d.html</link>
+            <guid>2210418</guid>
+            <pubDate>Wed, 16 Jun 2021 15:55:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：土耳其开始为35岁以上人群接种新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0024980.d.html</link>
+            <guid>2210417</guid>
+            <pubDate>Wed, 16 Jun 2021 15:55:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑俄罗斯卢布USD/RUB短线下挫，现报71.72。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1426876.d.html</link>
+            <guid>2210416</guid>
+            <pubDate>Wed, 16 Jun 2021 15:53:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：还讨论了网络安全和乌克兰问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1426767.d.html</link>
+            <guid>2210415</guid>
+            <pubDate>Wed, 16 Jun 2021 15:51:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：外交部门将启动外交谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1426759.d.html</link>
+            <guid>2210414</guid>
+            <pubDate>Wed, 16 Jun 2021 15:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：双方讨论了北极、贸易问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0024768.d.html</link>
+            <guid>2210413</guid>
+            <pubDate>Wed, 16 Jun 2021 15:50:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新加坡民众18日起可申请接种中国新冠疫苗】新加坡卫生部6月16日晚上发布公告指出，卫生部已指定24家私人医疗机构可通过特别采用程序成为中国科兴新冠疫苗的合法供应商。政府将把一批科兴新冠疫苗免费分配给这些医疗机构，新加坡公民、永久居民和长期签证持有者从18日起可进行咨询，预约接种。根据新加坡卫生部提供的获选医疗机构名单及收费名目，这些诊所分布在新加坡全国各处，每剂科兴疫苗的接种费介于10新元（约合48.3元人民币）至25新元（约合120.75元人民币）之间，这些费用包括咨询费与消费税，接种者无须再支付额外费用。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1426712.d.html</link>
+            <guid>2210412</guid>
+            <pubDate>Wed, 16 Jun 2021 15:50:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：双方讨论了战略核稳定、地区冲突等问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1426678.d.html</link>
+            <guid>2210411</guid>
+            <pubDate>Wed, 16 Jun 2021 15:49:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果公司首席执行官蒂姆·库克：对欧盟科技规则谈判的进展持乐观态度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1426662.d.html</link>
+            <guid>2210410</guid>
+            <pubDate>Wed, 16 Jun 2021 15:49:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：普京与拜登的会谈非常紧凑，双方领导人讨论了完整的议程。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1426660.d.html</link>
+            <guid>2210409</guid>
+            <pubDate>Wed, 16 Jun 2021 15:49:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【黑石收购SOHO中国54.93%股份 潘石屹夫妇持股比例降至9%】 交易完成后，SOHO中国现有控股股东将保留9%的股权。潘石屹和张欣将从SOHO中国董事会退任，不再担任执行董事，黑石集团将向董事会提名新的执行董事。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0024567.d.html</link>
+            <guid>2210408</guid>
+            <pubDate>Wed, 16 Jun 2021 15:47:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[市场消息：一些被欧盟禁止参与承销欧盟债券的银行已经提交了补救措施，欧盟预计其他银行很快也会跟进。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1426520.d.html</link>
             <guid>2210407</guid>
             <pubDate>Wed, 16 Jun 2021 15:47:09 GMT</pubDate>
         </item>
@@ -156,450 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0022565.d.html</link>
             <guid>2210382</guid>
             <pubDate>Wed, 16 Jun 2021 15:16:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美油短线上扬逾0.6美元，现报72.63美元/桶，涨0.71%；布油现报74.67美元/桶，涨0.92%。]]></title>
-            <guid>2210381</guid>
-            <pubDate>Wed, 16 Jun 2021 15:13:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Orphazyme(ORPH.O)触发熔断，此前一度涨超47%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1424310.d.html</link>
-            <guid>2210380</guid>
-            <pubDate>Wed, 16 Jun 2021 15:12:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【交易员看好碳排放市场的投资机会 认为其规模有望超过原油市场】大宗商品交易员认为，随着全球领导人采取更强有力的行动来限制气候变化，碳排放交易市场的投资机会越来越多。托克集团的全球碳交易主管Hannah Hauman周三表示，碳市场有达到全球原油市场10倍的潜力。大宗商品交易商和对冲基金正越来越多地建立交易部门以从不断增长的碳排放市场赚取利润。欧盟碳市场在全球规模最大，今年以来，其每吨碳价已经上涨近60%，突破了50欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1424269.d.html</link>
-            <guid>2210379</guid>
-            <pubDate>Wed, 16 Jun 2021 15:12:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国独栋房屋租金创15年最大涨幅】据福布斯杂志网站报道，尽管大宗商品价格下跌给通胀担忧降了温，但美国住房成本却丝毫没有回落的迹象。美国房地产数据分析公司CoreLogic本月15日发布的数据显示，4月份美国独栋房屋的租金中值较去年同期上涨7.9%，创下近15年来最大同比涨幅。各个价位的独栋房屋租金都有所上涨，其中涨幅最大的是高价房，租金同比上涨了近两倍。分析认为，租金上涨的原因之一是待售的独栋住房短缺，一些潜在购房者也被迫租房。另外，疫情期间，租房者寻求更大的居住空间，以便在家工作，也推动了租金上涨。CoreLogic首席经济学家莫莉·伯塞尔表示，去年4月疫情暴发时租金增速曾经一度放缓，但今年4月租金增速即使与2019年相比依然很高，且没有显露出减退的迹象。另一位首席经济学家弗兰克·诺萨福特称，对独栋房屋的租房需求可能在2022年之前都不会下降。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1424241.d.html</link>
-            <guid>2210378</guid>
-            <pubDate>Wed, 16 Jun 2021 15:11:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：我们不知道国税局泄露纳税人数据发生了什么；如有必要，将采取行动加强信息保护。]]></title>
-            <guid>2210377</guid>
-            <pubDate>Wed, 16 Jun 2021 15:11:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：国税局的泄密事件已提交给财政部监督机构司法部，纳税人数据泄露是“非常严重的情况”。]]></title>
-            <guid>2210376</guid>
-            <pubDate>Wed, 16 Jun 2021 15:10:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑巴西雷亚尔USD/BRL跌至一年来最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0022134.d.html</link>
-            <guid>2210375</guid>
-            <pubDate>Wed, 16 Jun 2021 15:10:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泛美卫生组织（PAHO）主任Etienne：七国集团承诺提供10亿剂新冠疫苗，这为克服供应障碍带来了新的信心。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1424026.d.html</link>
-            <guid>2210374</guid>
-            <pubDate>Wed, 16 Jun 2021 15:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：通胀将随着时间推移而下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0022107.d.html</link>
-            <guid>2210373</guid>
-            <pubDate>Wed, 16 Jun 2021 15:09:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：通胀的影响是暂时的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1423962.d.html</link>
-            <guid>2210372</guid>
-            <pubDate>Wed, 16 Jun 2021 15:08:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议院司法委员会下周将最终审议反垄断法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0022055.d.html</link>
-            <guid>2210371</guid>
-            <pubDate>Wed, 16 Jun 2021 15:08:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：我们认为，大多数指标的通胀预期都得到了很好的控制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0022048.d.html</link>
-            <guid>2210370</guid>
-            <pubDate>Wed, 16 Jun 2021 15:08:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国航一入境航班新冠肺炎确诊32例 民航局向国航发出熔断指令】6月16日，民航局向国航CA868航班（约翰内斯堡至深圳）发出熔断指令。根据通报，6月10日入境的国航CA868航班（约翰内斯堡至深圳）确诊新冠肺炎旅客32例。即日起，暂停该航班运行4周。熔断的航班量不得用于其他航线。 民航局要求国航在当地使领馆指导下，做好后续航班旅客安抚和机票退改等服务工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0022036.d.html</link>
-            <guid>2210369</guid>
-            <pubDate>Wed, 16 Jun 2021 15:08:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【世界银行首席经济学家：通货膨胀和债务水平有升高风险】世界银行集团副总裁兼首席经济学家Carmen Reinhart接受采访时表示，令人担忧的是，通胀不仅仅是暂时的现象。金融部门的风险“目前被非常低的利率和疫情期高度宽松的政策所掩盖”，我们确实面临大幅收紧政策的风险。许多之前没有受到关注的资产负债表问题将再度跃入眼前。通胀上升可能导致利率升高以及令局势变得决策者难以控制。]]></title>
-            <guid>2210368</guid>
-            <pubDate>Wed, 16 Jun 2021 15:07:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  百世集团(BEST.N)盘中涨幅扩大至10%，报1.39美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1423743.d.html</link>
-            <guid>2210367</guid>
-            <pubDate>Wed, 16 Jun 2021 15:05:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件：禹佳生活服务集团有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0021774.d.html</link>
-            <guid>2210366</guid>
-            <pubDate>Wed, 16 Jun 2021 15:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[夜盘黑色系商品收盘涨跌不一，铁矿焦炭大幅回升；螺纹期货主力合约收报5053元/吨，跌0.69%；热卷期货收报5309元/吨，跌0.84%；铁矿石期货收报1214.5元/吨，涨0.29%；焦炭期货收报2710.0元/吨，涨0.02%焦煤期货收报1955.0元/吨，跌0.48%；动力煤期货收报856.4元/吨，涨0.33%。]]></title>
-            <guid>2210365</guid>
-            <pubDate>Wed, 16 Jun 2021 15:04:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数成份股公司增加现金储备应对“新常态”：数据显示，在4月和5月发布财报的标普500指数非金融成份股公司持有的现金储备同比增长了12%。亚马逊、Alphabet和美国航空的现金储备增量都名列前茅。Fate Capital Management创始人称，以前公司囤积现金是为了回购股票或者增加派息，但疫情期间增持现金主要是因为“疫情引发的高度不确定性。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0021621.d.html</link>
-            <guid>2210364</guid>
-            <pubDate>Wed, 16 Jun 2021 15:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微软：2025年将终止对Windows10的支持】据俄罗斯卫星通讯社和雅虎网站6月16日报道，微软宣布，将于2025年10月14日终止对Windows 10操作系统的支持，包括专业版和家庭版。根据此前的计划，微软将在下周四（6月24日）发布新款操作系统。分析称，此时公布终止支持服务的时间，可能意味着微软的下一代操作系统将被重新命名。报道指出，这是微软公司首次在推出新的操作系统之前就宣布当前操作系统的支持结束时间。Windows 10操作系统于2015年7月推出，当时微软曾表示这将是最后一代操作系统。但发布后，许多用户反映电脑网络连接出现问题或者文件莫名丢失。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1423543.d.html</link>
-            <guid>2210363</guid>
-            <pubDate>Wed, 16 Jun 2021 15:03:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度国家石油公司：欧佩克+可以轻松地同意增加石油产量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1422931.d.html</link>
-            <guid>2210360</guid>
-            <pubDate>Wed, 16 Jun 2021 14:55:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利新增1400例新冠肺炎确诊病例，新增52例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0020927.d.html</link>
-            <guid>2210359</guid>
-            <pubDate>Wed, 16 Jun 2021 14:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：当前爆发的通胀反映了一个已经关闭的经济体重新开放的难度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0020764.d.html</link>
-            <guid>2210358</guid>
-            <pubDate>Wed, 16 Jun 2021 14:52:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：没有人想重演上世纪70年代的通货膨胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1422722.d.html</link>
-            <guid>2210357</guid>
-            <pubDate>Wed, 16 Jun 2021 14:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中概教育股跌幅扩大，好未来跌超11%，高途教育跌超10%，新东方跌超8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1422694.d.html</link>
-            <guid>2210356</guid>
-            <pubDate>Wed, 16 Jun 2021 14:52:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部公布的最新国际资本流动报告（TIC）显示，4月份外国人净卖出美股133亿美元，为2020年4月以来首次净出售美国股票，也是2019年8月以来最大的净抛售幅度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1422618.d.html</link>
-            <guid>2210355</guid>
-            <pubDate>Wed, 16 Jun 2021 14:51:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：我们正在非常仔细地监控通胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1422525.d.html</link>
-            <guid>2210354</guid>
-            <pubDate>Wed, 16 Jun 2021 14:50:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：国税局需要更多资源来缩小税收差距。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1422407.d.html</link>
-            <guid>2210353</guid>
-            <pubDate>Wed, 16 Jun 2021 14:49:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州黄埔解除联和街封闭封控区域管理】6月16日，广东省广州市黄埔区发布通告，决定对联和街龙光峰景华庭小区（含小区内封闭管控的第10栋B座）、万科城科景路12号西北牛肉面广州黄埔店解除封闭封控管理。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0020319.d.html</link>
-            <guid>2210352</guid>
-            <pubDate>Wed, 16 Jun 2021 14:47:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：上周美国中西部炼油厂利用率升至2019年12月以来最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1422025.d.html</link>
-            <guid>2210351</guid>
-            <pubDate>Wed, 16 Jun 2021 14:44:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：上周美国东岸炼油厂利用率升至2019年6月以来最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0020096.d.html</link>
-            <guid>2210350</guid>
-            <pubDate>Wed, 16 Jun 2021 14:44:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：上周美国炼油厂利用率升至2020年1月以来最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0020026.d.html</link>
-            <guid>2210349</guid>
-            <pubDate>Wed, 16 Jun 2021 14:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国卫生大臣汉考克：政府正在就强制医护人员接种新冠疫苗展开磋商。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1421807.d.html</link>
-            <guid>2210348</guid>
-            <pubDate>Wed, 16 Jun 2021 14:42:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：我们不需要每个人都同意全球最低税率来让它有效。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0019865.d.html</link>
-            <guid>2210347</guid>
-            <pubDate>Wed, 16 Jun 2021 14:42:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：美国提议进行改革，禁止在美的外国公司将利润转移到海外。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0019755.d.html</link>
-            <guid>2210346</guid>
-            <pubDate>Wed, 16 Jun 2021 14:41:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：相信整个欧盟都会同意提高最低税率。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0019625.d.html</link>
-            <guid>2210345</guid>
-            <pubDate>Wed, 16 Jun 2021 14:40:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：美国在企业最低税率方面取得的进展将有助于增加达成广泛协议的机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1421370.d.html</link>
-            <guid>2210344</guid>
-            <pubDate>Wed, 16 Jun 2021 14:38:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：希望在10月的二十国集团领导人峰会之前，在全球最低税率问题上取得进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1421367.d.html</link>
-            <guid>2210343</guid>
-            <pubDate>Wed, 16 Jun 2021 14:38:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：希望七国集团将采纳高于15%的（数字税）税率。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1421363.d.html</link>
-            <guid>2210342</guid>
-            <pubDate>Wed, 16 Jun 2021 14:38:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴拿马国会议员计划在未来几周内提出加密货币相关法案】巴拿马国会议员加布里埃尔·席尔瓦计划于未来几周内提出一项法案，该法案可能会采用加密货币作为法定货币，并为加密相关企业制定税收政策优惠。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1421141.d.html</link>
-            <guid>2210341</guid>
-            <pubDate>Wed, 16 Jun 2021 14:35:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[尽管新冠疫情导致开车人数减少，但美国交通死亡人数去年攀升至2007年以来最高水平。美国联邦公路管理局数据显示，去年估计有38680人死于机动车事故，比2019年的36096人增加了7.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1420994.d.html</link>
-            <guid>2210340</guid>
-            <pubDate>Wed, 16 Jun 2021 14:34:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：美国在数字税方面已经取得显著进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1420961.d.html</link>
-            <guid>2210339</guid>
-            <pubDate>Wed, 16 Jun 2021 14:33:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月营建许可环比下降3%至168.1万户，创下去年10月以来的最低水平；新屋开工环比上涨3.6%至157.2万户，不及预期。待售二手房屋严重短缺对新屋开工构成支撑，但建筑业继续面临昂贵的木材以及其他建筑材料短缺的阻碍。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0019028.d.html</link>
-            <guid>2210338</guid>
-            <pubDate>Wed, 16 Jun 2021 14:33:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：美国正在寻求各种途径，迅速全面地暂停和取消数字服务税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1420879.d.html</link>
-            <guid>2210337</guid>
-            <pubDate>Wed, 16 Jun 2021 14:32:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：如果各国不取消数字服务税，就继续根据301条款威胁征收关税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1420864.d.html</link>
-            <guid>2210336</guid>
-            <pubDate>Wed, 16 Jun 2021 14:32:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至6月11日当周除却战略储备的商业原油库存为2021年2月19日当周以来最低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1420800.d.html</link>
-            <guid>2210335</guid>
-            <pubDate>Wed, 16 Jun 2021 14:31:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至6月11日当周除却战略储备的商业原油进口量为2020年7月3日当周以来最高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0018848.d.html</link>
-            <guid>2210334</guid>
-            <pubDate>Wed, 16 Jun 2021 14:31:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至6月11日当周国内原油产量为2020年5月29日当周以来最高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0018832.d.html</link>
-            <guid>2210333</guid>
-            <pubDate>Wed, 16 Jun 2021 14:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国原油产品四周平均供应量为1934.5万桶/日，较去年同期增加17.4%。]]></title>
-            <guid>2210332</guid>
-            <pubDate>Wed, 16 Jun 2021 14:30:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：除却战略储备的商业原油上周进口674.6万桶/日，较前一周增加10.8万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0018804.d.html</link>
-            <guid>2210331</guid>
-            <pubDate>Wed, 16 Jun 2021 14:30:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：上周美国国内原油产量增加20万桶至1120万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0018785.d.html</link>
-            <guid>2210329</guid>
-            <pubDate>Wed, 16 Jun 2021 14:30:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：除却战略储备的商业原油库存减少735.5万桶至4.667亿桶，减少1.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0018764.d.html</link>
-            <guid>2210328</guid>
-            <pubDate>Wed, 16 Jun 2021 14:30:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国原油产品四周平均供应量为1934.5万桶/日，较去年同期增加17.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0018744.d.html</link>
-            <guid>2210327</guid>
-            <pubDate>Wed, 16 Jun 2021 14:30:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国上周原油出口增加95.3万桶/日至388.4万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1420631.d.html</link>
-            <guid>2210326</guid>
-            <pubDate>Wed, 16 Jun 2021 14:30:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：美国的目标是让歧视性的数字服务税“成为过去”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1420565.d.html</link>
-            <guid>2210325</guid>
-            <pubDate>Wed, 16 Jun 2021 14:29:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据Business Insider：环保组织向法院提交了一份禁令，反对柏林的特斯拉工厂获得临时建筑许可。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1420196.d.html</link>
-            <guid>2210323</guid>
-            <pubDate>Wed, 16 Jun 2021 14:25:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯天然气公司Gazprom：补充欧盟天然气储备的步伐仍然太慢。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0018154.d.html</link>
-            <guid>2210322</guid>
-            <pubDate>Wed, 16 Jun 2021 14:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为公开智能交通系统新专利 市场空间千亿级】据天眼查APP显示，近日，华为技术有限公司公开“交通出行需求的估计方法、装置、设备及可读存储介质”专利。该专利可应用于智能交通系统中，可实现对个体级出行的终点所在的路段的估计，准确率较高。机构普遍认为，智慧交通未来的市场规模很快会突破千亿元，并且年均市场增速达到2位数以上。A股相关概念股主要有亚联发展、易华录、南天信息等。（中证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1420047.d.html</link>
-            <guid>2210321</guid>
-            <pubDate>Wed, 16 Jun 2021 14:23:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【800G光模块赛道开启 相关概念股有望受关注】6月16-17日，第21届中国光网络研讨会在京召开。VIAVI Solutions公司在现场展示了新一代5G和光通信领域测试解决方案，并携手业界领先的设备厂商开展800G/相干光现场测试。预计光模块市场将从2020年的80亿美元增加到2026年的145亿美元，并且2026年全球以太网光模块市场规模接近70亿美元，其中400G/800G高速光模块销售占比将达到60%。相关公司有中际旭创、光迅科技等。（中证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1419991.d.html</link>
-            <guid>2210320</guid>
-            <pubDate>Wed, 16 Jun 2021 14:23:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟气候主管Frans：欧盟将提出削减交通运输排放的雄心勃勃的规定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0017733.d.html</link>
-            <guid>2210319</guid>
-            <pubDate>Wed, 16 Jun 2021 14:19:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【6G争夺战正式打响 俄制定6G发展路线图】据俄媒近期报道，俄罗斯可能于2035年拥有6G（第6代通信系统）网络。目前，俄无线电科学研究所已拟定一份6G研发路线草案，并将其交给俄联邦通信部。前6G在全球处于早期研究阶段，中国“十四五”规划中提到，要前瞻布局6G网络技术储备。在用户的个性化服务以及物联网、工业互联网、无人驾驶、智能工厂等领域，6G都将有较广阔的应用前景。相关公司有盛路通信、远方信息、硕贝德等。（中证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0017711.d.html</link>
-            <guid>2210318</guid>
-            <pubDate>Wed, 16 Jun 2021 14:19:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国将加快推进康复医疗发展 行业高景气望持续】国家卫健委16日印发加快推进康复医疗工作发展意见的通知，提出力争到2022年，每10万人口康复医师达到6人、康复治疗师达到10人；将推动医疗资源丰富地区的部分一级、二级医院转型为康复医院，支持和引导社会力量举办规模化、连锁化的康复医疗中心。东吴证券朱国广表示，中国康复医疗服务市场未来将以20%左右的增速继续成长，2025年将达到2207亿元，康复行业有望持续高景气度。相关公司有大湖股份、诚益通等。（上证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1419310.d.html</link>
-            <guid>2210317</guid>
-            <pubDate>Wed, 16 Jun 2021 14:16:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞银CEO：不认为通胀会持续下去，它只是短期的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1419250.d.html</link>
-            <guid>2210316</guid>
-            <pubDate>Wed, 16 Jun 2021 14:15:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[6月16日，荣耀CEO赵明在接受媒体采访时表示，上市是未来荣耀的可选项之一。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1419237.d.html</link>
-            <guid>2210315</guid>
-            <pubDate>Wed, 16 Jun 2021 14:15:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特油长：超级周期可能发生在缺乏投资的情况下。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0017246.d.html</link>
-            <guid>2210314</guid>
-            <pubDate>Wed, 16 Jun 2021 14:14:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特油长：本人的工作是避免油价超级周期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0017172.d.html</link>
-            <guid>2210313</guid>
-            <pubDate>Wed, 16 Jun 2021 14:13:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万亿资管巨头增持贵州茅台】晨星数据显示，海外茅台“大户”——万亿美元资管巨头美国资本集团旗下基金5月再加仓贵州茅台。该基金4月曾小幅加仓。欧洲资管巨头安本投资旗下旗舰基金，也在5月加仓了贵州茅台。数据显示，资本集团-新世界基金（Capital group-New World Fund）5月底持有贵州茅台股份数较4月底增加了11.94%，目前贵州茅台为其第5大重仓股。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1419056.d.html</link>
-            <guid>2210312</guid>
-            <pubDate>Wed, 16 Jun 2021 14:12:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国最大碳捕集和封存项目之一采用霍尼韦尔技术 捕碳并产氢】霍尼韦尔近日宣布，沃巴什谷资源有限责任公司在其位于美国印第安纳州西特雷霍特的气化厂改建项目中采用一系列霍尼韦尔UOP技术，每年将捕集和封存165万吨二氧化碳并生产清洁氢能。该项目将成为美国迄今为止最大的碳封存项目之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1419044.d.html</link>
-            <guid>2210311</guid>
-            <pubDate>Wed, 16 Jun 2021 14:12:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：美国依然面临着薪资不平等、劳动参与率下降、种族差距和气候变化等挑战，都需要大量公共投资，拜登政府为此提出一个4万亿美元的支出计划用于儿童保育、基建以及绿色投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0016633.d.html</link>
-            <guid>2210310</guid>
-            <pubDate>Wed, 16 Jun 2021 14:08:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：感谢国会通过美国救援计划，相信我们正朝着正确的方向前进。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0016454.d.html</link>
-            <guid>2210309</guid>
-            <pubDate>Wed, 16 Jun 2021 14:06:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄新社：普京-拜登峰会的扩大会议开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0016385.d.html</link>
-            <guid>2210308</guid>
-            <pubDate>Wed, 16 Jun 2021 14:05:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：美国经济处于经济复苏的道路。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0015947.d.html</link>
-            <guid>2210307</guid>
-            <pubDate>Wed, 16 Jun 2021 14:01:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外汇市场自律机制：坚持“风险中性”理念 适应汇率双向波动】外汇市场自律机制微信公号16日消息，2021年，在外汇市场指导委员会和监管机构指导下，外汇市场自律机制将推动市场主体树立并坚持“风险中性”理念作为工作重点，帮助企业加强汇率风险管理，聚焦主业发展业务，提升财务稳健性。未来人民币汇率走势面临较大不确定性，这是企业践行“风险中性”理念的前提。在市场化的汇率形成机制下，汇率既可能升值，也可能贬值，测不准是必然，双向波动是常态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqcfnca1417581.d.html</link>
-            <guid>2210306</guid>
-            <pubDate>Wed, 16 Jun 2021 13:59:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港现货股票市场总市值升至53.3万亿港元】香港交易所今天于香港金融大会堂举行上市周年志庆活动，庆祝于香港上市21年。港现货股票市场总市值由2000年的48.6亿港元升至2021年6月的53.3万亿港元；截至今年5月底，现货市场的日均成交额及衍生产品市场的日均成交量分别达1,970亿港元及126万张合约（2000年：130亿港元、3.75万张合约）。而香港交易所的收入从2000年至2020年亦大幅上升七倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0015566.d.html</link>
-            <guid>2210305</guid>
-            <pubDate>Wed, 16 Jun 2021 13:57:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道明证券前瞻美联储利率决议：或开始讨论缩减购债的计划】相信本次美联储政策会议基调会略微温和一些。美联储主席鲍威尔或声称，委员会已经开始讨论一个取决于进展的缩减购债计划，同时强调最终行动需要实质性进展。预计2022年、2023年核心通胀预期中值会小幅上升，2021年会大幅向上修正。若美联储总体基调不那么温和，应该有利于美元币值短期稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0015430.d.html</link>
-            <guid>2210303</guid>
-            <pubDate>Wed, 16 Jun 2021 13:56:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【科创板上市委：均普智能等3公司首发获通过 美埃科技暂缓审议】科创板上市委公告，宁波均普智能制造股份有限公司、精进电动科技股份有限公司、上海谊众药业股份有限公司首发获通过。美埃（中国）环境科技股份有限公司暂缓审议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-16/detail-ikqciyzk0014911.d.html</link>
-            <guid>2210302</guid>
-            <pubDate>Wed, 16 Jun 2021 13:50:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
