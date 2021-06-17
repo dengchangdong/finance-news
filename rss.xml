@@ -4,11 +4,59 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Thu, 17 Jun 2021 18:50:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Jun 2021 19:34:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国多个市场将在拜登的首个JuneTeenth联邦假日继续开放】在美国国会山已经通过相关立法草案的情况下，美国总统拜登料将签署6月19日为JuneTeenth联邦假日的文件为法律，但主要的美国交易所周五（6月18日）和下周一将照常开放。据华尔街日报报道，纽交所和纳斯达克交易所周五将按正常的工作日运行——至少2021年是这样。纽交所称，将评估2022年的JuneTeenth是否停业过节。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1654552.d.html</link>
+            <guid>2212572</guid>
+            <pubDate>Thu, 17 Jun 2021 19:22:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车(F.N)CEO Jim Farley：预计在2022年内，供应将恢复到正常水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0252317.d.html</link>
+            <guid>2212571</guid>
+            <pubDate>Thu, 17 Jun 2021 19:16:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车(F.N)CEO Jim Farley：定价情况“逐日好转”，这样的情况令人惊讶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1654296.d.html</link>
+            <guid>2212570</guid>
+            <pubDate>Thu, 17 Jun 2021 19:16:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥卫生部：墨西哥新冠肺炎死亡病例累计达230792例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0251992.d.html</link>
+            <guid>2212569</guid>
+            <pubDate>Thu, 17 Jun 2021 19:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：司机工会将为Uber(UBER.N)和Lyft(LYFT.O)司机提供支持服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1653774.d.html</link>
+            <guid>2212568</guid>
+            <pubDate>Thu, 17 Jun 2021 19:07:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【十堰燃气爆炸事故刑拘8名犯罪嫌疑人】据微信公众号“十堰发布”消息，湖北省十堰市张湾区艳湖社区集贸市场燃气爆炸事故发生后，湖北省委省政府立即成立调查组进行调查，十堰市公安机关也同步立案调查。根据初步调查结果，十堰市公安机关对包括十堰东风中燃城市燃气发展有限公司总经理黄某在内的8名犯罪嫌疑人采取刑事拘留措施。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0251384.d.html</link>
+            <guid>2212567</guid>
+            <pubDate>Thu, 17 Jun 2021 19:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：美国已有1亿7587万人至少接种了一剂新冠疫苗，其中1亿4776万人完成了疫苗接种。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0251263.d.html</link>
+            <guid>2212566</guid>
+            <pubDate>Thu, 17 Jun 2021 18:59:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：截至昨日，美国新冠肺炎确诊病例累计达33327096例，死亡病例累计达598301例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0250982.d.html</link>
+            <guid>2212565</guid>
+            <pubDate>Thu, 17 Jun 2021 18:53:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美股银行股持续走弱，富国银行(WFC.N)跌5.6%，美国银行(BAC.N)、花旗集团(C.N)均跌超4%，摩根大通(JPM.N)跌3%，瑞银(UBS.N)、巴克莱(BCS.N)跌约2%。]]></title>
             <guid>2212564</guid>
@@ -554,54 +602,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0233969.d.html</link>
             <guid>2212004</guid>
             <pubDate>Thu, 17 Jun 2021 15:25:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑加元USD/CAD升至1.2347，日内涨0.6%，上看5月4日的高位1.2351。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0233928.d.html</link>
-            <guid>2212003</guid>
-            <pubDate>Thu, 17 Jun 2021 15:25:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场分析：受风险规避和美元走强的影响，WTI原油价格延续下跌趋势，日内一度跌超1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0233913.d.html</link>
-            <guid>2212002</guid>
-            <pubDate>Thu, 17 Jun 2021 15:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委魏德曼：不希望使用资产购买计划作为紧急抗疫购债计划（PEPP）退出的缓冲。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1636246.d.html</link>
-            <guid>2212001</guid>
-            <pubDate>Thu, 17 Jun 2021 15:24:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为42，表明市场处在恐惧状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1635987.d.html</link>
-            <guid>2212000</guid>
-            <pubDate>Thu, 17 Jun 2021 15:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中概教育股跌幅扩大，好未来跌12%，高途自纪录高位累跌92%】中概教育股跌幅扩大，好未来跌超12%，高途、新东方跌10%，网易有道跌6%。其中，高途较1月底纪录高位累计下跌92%；好未来较2月高位累跌76%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0233569.d.html</link>
-            <guid>2211999</guid>
-            <pubDate>Thu, 17 Jun 2021 15:20:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国30年期国债收益率跌至2.120%，创2月26日以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1635730.d.html</link>
-            <guid>2211998</guid>
-            <pubDate>Thu, 17 Jun 2021 15:18:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油期货短线急挫近1美元，日跌幅扩大至1.68%，报73.18美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0233364.d.html</link>
-            <guid>2211997</guid>
-            <pubDate>Thu, 17 Jun 2021 15:18:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油期货短线急挫0.7美元，现报71.14美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1635699.d.html</link>
-            <guid>2211996</guid>
-            <pubDate>Thu, 17 Jun 2021 15:18:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
