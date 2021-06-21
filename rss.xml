@@ -4,11 +4,408 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Mon, 21 Jun 2021 14:36:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Jun 2021 15:46:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登在周一将自上任以来首次与美联储主席鲍威尔进行会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0994799.d.html</link>
+            <guid>2216100</guid>
+            <pubDate>Mon, 21 Jun 2021 15:45:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世界卫生组织总干事谭德塞：南非的mRNA技术中心可以在9-12个月内开始生产新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2395842.d.html</link>
+            <guid>2216099</guid>
+            <pubDate>Mon, 21 Jun 2021 15:45:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非总统拉马福萨：第三波新冠疫情似乎比先前的更为严重。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2395828.d.html</link>
+            <guid>2216098</guid>
+            <pubDate>Mon, 21 Jun 2021 15:45:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【欧股集体收涨 德国DAX指数涨0.95%】欧股集体收涨，德国DAX指数涨0.95%，法国CAC40指数涨0.51%，英国富时100指数涨0.64%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0994294.d.html</link>
+            <guid>2216097</guid>
+            <pubDate>Mon, 21 Jun 2021 15:39:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在岸人民币兑美元夜盘报6.4653，较上一交易日夜盘收跌116个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2395304.d.html</link>
+            <guid>2216096</guid>
+            <pubDate>Mon, 21 Jun 2021 15:39:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟驻美国大使Lambrinidis：欧盟希望美国在年底前停止征收金属关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2395092.d.html</link>
+            <guid>2216095</guid>
+            <pubDate>Mon, 21 Jun 2021 15:35:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：已有1.5亿美国人接种两剂新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0994011.d.html</link>
+            <guid>2216094</guid>
+            <pubDate>Mon, 21 Jun 2021 15:35:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行行长拉加德：若有需要，欧洲央行仍有空间下调利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2394776.d.html</link>
+            <guid>2216093</guid>
+            <pubDate>Mon, 21 Jun 2021 15:32:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟驻美国大使：欧盟对美国感到失望，因为特朗普时期的（钢铝）关税仍然有效。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2394768.d.html</link>
+            <guid>2216092</guid>
+            <pubDate>Mon, 21 Jun 2021 15:32:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：这一次，美联储将不得不以不同的方式管理缩债计划，以防通胀风险加剧。 今年秋天，美国继续采取重新开放的措施，然后经济在全球范围内也将继续恢复，这将在“相当长的一段时间”带来高于趋势水平的增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0993695.d.html</link>
+            <guid>2216091</guid>
+            <pubDate>Mon, 21 Jun 2021 15:31:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行行长拉加德认为有理由更新欧盟的《稳定与增长协定》。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2394739.d.html</link>
+            <guid>2216090</guid>
+            <pubDate>Mon, 21 Jun 2021 15:31:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：目前调整逆回购利率是一个技术问题，但可能会成为更广泛缩减规模的辩论中一个问题。 美联储将有“好几个月”的时间来改善劳动力市场，然后才会在政策上采取行动。目前的假设是美联储在缩债计划完成之前不会加息，但如果有必要，它可以加息。从重大金融危机中退出的“剧本”可能与这次使用的不一样。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0993660.d.html</link>
+            <guid>2216089</guid>
+            <pubDate>Mon, 21 Jun 2021 15:31:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利新增495例新冠肺炎确诊病例，新增21例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2394314.d.html</link>
+            <guid>2216088</guid>
+            <pubDate>Mon, 21 Jun 2021 15:26:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：退休制度大幅改变了劳动力市场的状况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2394260.d.html</link>
+            <guid>2216087</guid>
+            <pubDate>Mon, 21 Jun 2021 15:25:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：美联储主席鲍威尔必须带头讨论缩减购债规模的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2394253.d.html</link>
+            <guid>2216086</guid>
+            <pubDate>Mon, 21 Jun 2021 15:25:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：美国经济很明显已经处于“繁荣”状态，现在的GDP已经超过了疫情前的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2394239.d.html</link>
+            <guid>2216085</guid>
+            <pubDate>Mon, 21 Jun 2021 15:25:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：逆回购使用规模增加似乎没有问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2394211.d.html</link>
+            <guid>2216084</guid>
+            <pubDate>Mon, 21 Jun 2021 15:24:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：考虑到退休的情况，疫情前的就业水平并不是衡量进展的“正确基准”。]]></title>
+            <guid>2216083</guid>
+            <pubDate>Mon, 21 Jun 2021 15:24:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：不应将就业复苏与疫情前的水平进行比较。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2394066.d.html</link>
+            <guid>2216082</guid>
+            <pubDate>Mon, 21 Jun 2021 15:23:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：随着缩债和加息，美联储应该保持选项和策略的开放性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2394017.d.html</link>
+            <guid>2216081</guid>
+            <pubDate>Mon, 21 Jun 2021 15:22:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：毫无疑问，我们已经取得了实质性的进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2393965.d.html</link>
+            <guid>2216080</guid>
+            <pubDate>Mon, 21 Jun 2021 15:22:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：致力于让市场有充足的时间来调整。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2393952.d.html</link>
+            <guid>2216079</guid>
+            <pubDate>Mon, 21 Jun 2021 15:22:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：美国经济并没有陷入衰退，而是坚定地处于扩张模式。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0992888.d.html</link>
+            <guid>2216078</guid>
+            <pubDate>Mon, 21 Jun 2021 15:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：我们希望这是透明的，而不是破坏性的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2393923.d.html</link>
+            <guid>2216077</guid>
+            <pubDate>Mon, 21 Jun 2021 15:21:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【国家知识产权局与中国银行签署战略合作协议】今日，国家知识产权局、中国银行在京举行战略合作协议签约仪式。国家知识产权局局长申长雨与中国银行董事长刘连舸出席签约仪式并致辞。申长雨表示，此次战略合作将发挥双方优势，进一步推动知识产权质押融资提质扩面，加大金融创新力度，更好支撑实体经济发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0992862.d.html</link>
+            <guid>2216076</guid>
+            <pubDate>Mon, 21 Jun 2021 15:21:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：这取决于美联储主席鲍威尔制定的缩减计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2393883.d.html</link>
+            <guid>2216075</guid>
+            <pubDate>Mon, 21 Jun 2021 15:21:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：市场预计美联储在减码QE时不会加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0992818.d.html</link>
+            <guid>2216074</guid>
+            <pubDate>Mon, 21 Jun 2021 15:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：美联储认为应该缩减购债，如果需要的话，可以进行调整。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2393859.d.html</link>
+            <guid>2216073</guid>
+            <pubDate>Mon, 21 Jun 2021 15:21:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据美国证券交易委员会文件：火花思维教育科技公司提交在美IPO申请，拟筹资达1亿美元，寻求在纳斯达克上市，股票代码为SPRK。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0992773.d.html</link>
+            <guid>2216072</guid>
+            <pubDate>Mon, 21 Jun 2021 15:20:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪首席经济学家赞迪日前警告，美联储“转鹰”将引发美股10%至20%回调。美联储上周公布的利率点阵图暗示，官员们预计将在2023年底之前加息两次，比3月时预期的时间大为提前。赞迪暗示，在这种背景下，美国股市调整可能已经在进行了，因为投资者已经开始感到恐慌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0992672.d.html</link>
+            <guid>2216071</guid>
+            <pubDate>Mon, 21 Jun 2021 15:19:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为32，表明市场处在恐惧状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0992621.d.html</link>
+            <guid>2216070</guid>
+            <pubDate>Mon, 21 Jun 2021 15:19:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世界卫生组织总干事谭德塞：南非的BIOVAC将生产mRNA疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0992356.d.html</link>
+            <guid>2216069</guid>
+            <pubDate>Mon, 21 Jun 2021 15:15:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家药监局：2020年度药品审评报告发布，全年审评通过创新药20个】国家药监局6月21日发布《2020年度药品审评报告》。《报告》显示，全年有59件新冠病毒疫苗和新冠肺炎治疗药物的注册申请被纳入特别审批程序并完成技术审评；受理1类创新药注册申请共1062件（597个品种），较2019年增长51.71%；审评通过新药上市申请208件，较2019年增长26.83%；审评通过创新药上市申请20个品种（1类化学药14个、中药创新药4个、创新生物制品2个），审评通过境外生产原研药品新药上市申请72个品种（含新增适应症品种）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0991819.d.html</link>
+            <guid>2216068</guid>
+            <pubDate>Mon, 21 Jun 2021 15:10:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线走高4美元，现报1785.42美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0991734.d.html</link>
+            <guid>2216067</guid>
+            <pubDate>Mon, 21 Jun 2021 15:09:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  DoorDash(DASH.N)持续走高，现涨2.78%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2392767.d.html</link>
+            <guid>2216066</guid>
+            <pubDate>Mon, 21 Jun 2021 15:09:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[圣路易斯联储GDPNowcast模型：预计美国第二季度GDP增长9.3%，此前预期为9.23%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2392757.d.html</link>
+            <guid>2216065</guid>
+            <pubDate>Mon, 21 Jun 2021 15:09:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行行长拉加德：欧洲央行将非常关注工资方面的谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0991265.d.html</link>
+            <guid>2216064</guid>
+            <pubDate>Mon, 21 Jun 2021 15:04:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  DoorDash(DASH.N)小幅拉涨，现涨0.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0990950.d.html</link>
+            <guid>2216063</guid>
+            <pubDate>Mon, 21 Jun 2021 15:02:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国报告新增10633例新冠肺炎确诊病例，新增5例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0990940.d.html</link>
+            <guid>2216062</guid>
+            <pubDate>Mon, 21 Jun 2021 15:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行行长拉加德：财政支持仍将是必要的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2391915.d.html</link>
+            <guid>2216061</guid>
+            <pubDate>Mon, 21 Jun 2021 15:01:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：DoorDash(DASH.N)与食品和药品零售商艾伯森公司(ACI.N)达成了史无前例的合作。]]></title>
+            <guid>2216060</guid>
+            <pubDate>Mon, 21 Jun 2021 15:01:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【大商所、郑商所夜盘收盘 铁矿跌超4%】大商所、郑商所夜盘收盘，黑色领跌，铁矿跌超4%，焦炭、焦煤跌超1%，PVC、纸浆等小幅下跌；油脂油料领涨，豆油、豆二等涨逾2%，棕榈、郑油等涨超1%，塑料、菜粕等小幅上涨；上期所螺纹、热卷跌超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2391876.d.html</link>
+            <guid>2216059</guid>
+            <pubDate>Mon, 21 Jun 2021 15:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国遭遇千年一见的干旱 今夏恐面临大范围停电危机】据美国媒体Insider News 6月21日报道，美国西部遭遇1200年来罕见干旱，水力发电厂蓄水量创下新低。而席卷这一地区的热浪不断打破高温纪录，又加剧了干旱，美国在今夏恐爆发大范围停电危机。加州水资源厅（California Department of Water Resources）目前共管理8座水力发电厂，但今年的供电量预计只能达到10年平均的30％；而加州水力发电占美国整体发电量的16%，有些水力能源还得向别州购买。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0990834.d.html</link>
+            <guid>2216058</guid>
+            <pubDate>Mon, 21 Jun 2021 15:01:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据港交所文件：宁波健世科技公司向港交所提交上市申请书。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2391836.d.html</link>
+            <guid>2216057</guid>
+            <pubDate>Mon, 21 Jun 2021 15:00:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【澳门与香港就通关豁免隔离医学观察事宜达成初步共识】澳门特区政府新冠病毒感染应变协调中心21日表示，基于香港与澳门两地疫情平稳的前提下，两地达成了一些共识，来自香港的人士可在一定前提条件下豁免隔离医学观察的措施，执行的时机为香港连续28日没有本地个案，并将循序渐进分阶段开展，每一阶段均设名额限制。具体执行细节还有待两地政府深入商讨。（央视新闻）]]></title>
+            <guid>2216056</guid>
+            <pubDate>Mon, 21 Jun 2021 15:00:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据港交所文件：Landsea Green Life Service Company Limited（朗诗绿色生活服务有限公司）通过港交所上市聆讯。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0990660.d.html</link>
+            <guid>2216055</guid>
+            <pubDate>Mon, 21 Jun 2021 14:59:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西农业部长：巴西将遭遇严重的玉米（种植）损失。 可能会限制灌溉用水。 2023年粮食作物产量可能为3亿吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0990253.d.html</link>
+            <guid>2216054</guid>
+            <pubDate>Mon, 21 Jun 2021 14:54:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WSB概念股涨跌互现，ContextLogic (WISH.O)涨超11%，3B家居(BBBY.O)涨2.12%，游戏驿站(GME.N)跌超5%，Sundial Grower(SNDL.O)跌4.32%，AMC院线(AMC.N)、黑莓(BB.N)跌超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0990224.d.html</link>
+            <guid>2216053</guid>
+            <pubDate>Mon, 21 Jun 2021 14:53:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【澳门与香港就通关豁免隔离医学观察事宜达成初步共识】澳门特区政府新冠病毒感染应变协调中心21日表示，基于香港与澳门两地疫情平稳的前提下，两地达成了一些共识，来自香港的人士可在一定前提条件下豁免隔离医学观察的措施，执行的时机为香港连续28日没有本地个案，并将循序渐进分阶段开展，每一阶段均设名额限制。具体执行细节还有待两地政府深入商讨。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2391172.d.html</link>
+            <guid>2216052</guid>
+            <pubDate>Mon, 21 Jun 2021 14:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴克劳德特目前位于纽约蒙托克点西南偏南约530公里处；最大持续风速为每小时65公里。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2391121.d.html</link>
+            <guid>2216051</guid>
+            <pubDate>Mon, 21 Jun 2021 14:52:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊Prime会员日今日正式开始，据Adobe数据，玩具、电子产品、电脑和电视在2020年亚马逊Prime会员日期间的折扣最大，该公司预计今年的销售将遵循类似的模式。Adobe估计，去年Prime会员日的两天期间，美国在线支出达到104亿美元，略低于网络星期一的109亿美元，但超过黑色星期五的90亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0989854.d.html</link>
+            <guid>2216050</guid>
+            <pubDate>Mon, 21 Jun 2021 14:50:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：不能忽视较低的欧洲和日本国债收益率。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2390884.d.html</link>
+            <guid>2216049</guid>
+            <pubDate>Mon, 21 Jun 2021 14:49:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储卡普兰：美联储的购债对利率有一定影响，但老龄化和劳动力增长减速也对利率造成影响。]]></title>
+            <guid>2216048</guid>
+            <pubDate>Mon, 21 Jun 2021 14:48:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行行长拉加德：欧洲央行将于7月14日讨论数字欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0989692.d.html</link>
+            <guid>2216047</guid>
+            <pubDate>Mon, 21 Jun 2021 14:48:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储卡普兰：美联储的购债对利率有一定影响，但老龄化和劳动力增长减速也对利率造成影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2390640.d.html</link>
+            <guid>2216046</guid>
+            <pubDate>Mon, 21 Jun 2021 14:46:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行行长拉加德：市场和银行没有充分预测气候变化风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2390630.d.html</link>
+            <guid>2216045</guid>
+            <pubDate>Mon, 21 Jun 2021 14:46:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储卡普兰：认为美国的利率不会比欧洲和日本高出太多。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2390629.d.html</link>
+            <guid>2216044</guid>
+            <pubDate>Mon, 21 Jun 2021 14:46:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股汽车零配件股集体上涨，Lydall涨82%，泰坦国际、Adient涨超5%，天纳克、商用汽车、福克斯工厂控股、美驰涨超4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2390622.d.html</link>
+            <guid>2216043</guid>
+            <pubDate>Mon, 21 Jun 2021 14:46:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储卡普兰：美联储的重点是政策利率，这些（隔夜逆回购利率调整）都是技术性调整。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0989360.d.html</link>
+            <guid>2216042</guid>
+            <pubDate>Mon, 21 Jun 2021 14:44:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广州市番禺区新型冠状病毒肺炎疫情防控指挥部发布关于调整大石街分级分类防控措施的通告，自印发之日起施行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0989292.d.html</link>
+            <guid>2216041</guid>
+            <pubDate>Mon, 21 Jun 2021 14:43:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储卡普兰：过于宽松的政策和过高的流动性会鼓励人们走出风险曲线。]]></title>
+            <guid>2216040</guid>
+            <pubDate>Mon, 21 Jun 2021 14:42:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储卡普兰：我们可能会看到泡沫的形成，这也是持续争论的一部分焦点。好消息是，美联储对泡沫的监测能力比全球金融危机前要好。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2390268.d.html</link>
+            <guid>2216039</guid>
+            <pubDate>Mon, 21 Jun 2021 14:42:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储卡普兰：过于宽松的政策和过高的流动性会鼓励人们走出风险曲线。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0988981.d.html</link>
+            <guid>2216038</guid>
+            <pubDate>Mon, 21 Jun 2021 14:40:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储卡普兰：担心非银行金融机构承担过度的风险。尽早调整资产购买将更加健康。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2389960.d.html</link>
+            <guid>2216037</guid>
+            <pubDate>Mon, 21 Jun 2021 14:40:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储卡普兰：不能假设美元会无限期地保留全球储备货币的地位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2389804.d.html</link>
+            <guid>2216036</guid>
+            <pubDate>Mon, 21 Jun 2021 14:39:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储卡普兰：当你有非常宽松的货币政策以及如此规模的资产购买和流动性注入时，会产生对金融资产实质性影响的副作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0988738.d.html</link>
+            <guid>2216035</guid>
+            <pubDate>Mon, 21 Jun 2021 14:39:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股高开高走，道指涨幅扩大至500点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2389707.d.html</link>
+            <guid>2216034</guid>
+            <pubDate>Mon, 21 Jun 2021 14:37:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美联储卡普兰：美联储需要理解财政政策建议，并在这些建议被实施时采取相应的政策。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2389566.d.html</link>
@@ -206,405 +603,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2386951.d.html</link>
             <guid>2216001</guid>
             <pubDate>Mon, 21 Jun 2021 14:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储卡普兰：我们正处在一个通胀高于目标的新时代。2021年通胀高于目标似乎没有太多疑问。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0985550.d.html</link>
-            <guid>2216000</guid>
-            <pubDate>Mon, 21 Jun 2021 14:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储卡普兰：赞成尽早踩下“刹车”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0985476.d.html</link>
-            <guid>2215999</guid>
-            <pubDate>Mon, 21 Jun 2021 14:09:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【工信部正式发文 低速电动车有望纳入正规化管理】近日，工业和信息化部正式公开征求对推荐性国家标准《纯电动乘用车技术条件》的意见，增加针对微型低速纯电动乘用车的技术要求。微型低速电动车在市场上俗称“老年代步车”。这次征求意见的《技术条件》首次将这类车辆作为纯电动乘用车的一个子门类，提出相关技术要求。这意味着，这类车辆有望从监管灰色地带纳入正规化管理，相关企业和行业将受到深远影响。相关概念股主要有隆鑫通用、力帆科技等。（中证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0985307.d.html</link>
-            <guid>2215998</guid>
-            <pubDate>Mon, 21 Jun 2021 14:07:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油期货短线上扬0.4美元，现报72.49美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2386362.d.html</link>
-            <guid>2215997</guid>
-            <pubDate>Mon, 21 Jun 2021 14:07:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储卡普兰：预测总体通胀率为2.4%，有上行风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0985255.d.html</link>
-            <guid>2215996</guid>
-            <pubDate>Mon, 21 Jun 2021 14:07:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国债券跌幅扩大，30年期德国国债收益率上涨5个基点至0.3％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0984802.d.html</link>
-            <guid>2215995</guid>
-            <pubDate>Mon, 21 Jun 2021 14:04:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储卡普兰：对通货膨胀的恐惧，儿童缺少看管，阻碍了部分工人恢复就业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0984772.d.html</link>
-            <guid>2215994</guid>
-            <pubDate>Mon, 21 Jun 2021 14:04:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD站上1.39，日内涨幅达0.74%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2385717.d.html</link>
-            <guid>2215993</guid>
-            <pubDate>Mon, 21 Jun 2021 14:02:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会：将对78名白俄罗斯人和8家企业实施制裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2385702.d.html</link>
-            <guid>2215992</guid>
-            <pubDate>Mon, 21 Jun 2021 14:02:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储卡普兰：需求似乎非常强劲，而现在看到的是供应紧张。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2385429.d.html</link>
-            <guid>2215991</guid>
-            <pubDate>Mon, 21 Jun 2021 14:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国10年期国债收益率涨至1.48%上方，日内整体上涨大约3.0%个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0984144.d.html</link>
-            <guid>2215990</guid>
-            <pubDate>Mon, 21 Jun 2021 14:00:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加密货币以太坊重回2000美元/枚上方，日内跌幅收窄至10.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2385168.d.html</link>
-            <guid>2215989</guid>
-            <pubDate>Mon, 21 Jun 2021 13:59:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：美联储提高利率的时候，我们将清楚地看到，我们有一个强劲的劳动力市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0983968.d.html</link>
-            <guid>2215988</guid>
-            <pubDate>Mon, 21 Jun 2021 13:58:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【建发股份：下属企业厦门益悦拟6.53亿元受让合诚股份19.69%】建发股份公告，厦门益悦作为购买方与合诚股份原股东签署了《股份转让协议》，厦门益悦拟通过协议转让方式受让合诚股份原股东持有的标的公司股份3948.58万股(占标的公司总股本的19.69%)，总转让价款为6.53亿元人民币，每股转让价格为16.53元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0983957.d.html</link>
-            <guid>2215987</guid>
-            <pubDate>Mon, 21 Jun 2021 13:58:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：委员会现在才开始讨论缩债的问题，需要一些时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2385048.d.html</link>
-            <guid>2215986</guid>
-            <pubDate>Mon, 21 Jun 2021 13:57:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【士兰微拟采购相关半导体设备 行业高景气度持续】士兰微最新公告，控股子公司成都士兰半导体制造有限公司，拟向关联企业厦门士兰集科微电子有限公司采购9台12英寸晶圆外延炉、测试仪等设备，交易总金额4631万元。国海证券吴吉森表示，全球半导体行业景气度仍在持续上行，受益于芯片供不应求，全球各地晶圆厂产能正在加速扩充，根据SEMI预测，全球12英寸晶圆厂的数量预计将从2020年的129个增加到2022年的149个。相关公司有万业企业、至纯科技等。（上证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2385007.d.html</link>
-            <guid>2215985</guid>
-            <pubDate>Mon, 21 Jun 2021 13:57:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构密集调研光伏产业链 市场需求有望好于预期】根据上市公司最新发布的投资者调研报告，金博股份、奥特维、中利集团等公司均在近日接受了多家机构调研，光伏业务受到了重点关注。安信证券认为，5月份光伏组件、逆变器出口金额均同比增长，海外市场需求和景气度超预期。只要硅料等产业链价格进入良性区间，短期需求拐点可期。尤其是逆变器和跟踪支架，短期伴随行业起量，全年业绩确定性强。公司方面，阳光电源、锦浪科技是光伏逆变器龙头。（上证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2384917.d.html</link>
-            <guid>2215984</guid>
-            <pubDate>Mon, 21 Jun 2021 13:56:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：预计2022年核心PCE通胀将为2.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2384870.d.html</link>
-            <guid>2215983</guid>
-            <pubDate>Mon, 21 Jun 2021 13:55:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【为严防疫情输出 深圳将按一定比例调整航班和铁路班次】深圳市交通运输局副局长徐忠平表示，从6月20日0时起，所有从深圳机场、火车站、汽车站、码头等场地离深出省的旅客，都需要提供48小时以内的核酸检测阴性证明。同时根据掌握的情况，为严防疫情的输出，各航空公司和铁路部门暂停了部分线路。下一步民航和铁路部门将在科学评估阶段性市场需求和运行保障能力的基础上，按一定比例合理调整航班和铁路班次。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2384859.d.html</link>
-            <guid>2215982</guid>
-            <pubDate>Mon, 21 Jun 2021 13:55:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：如果把过去几年的通胀率平均起来，会得到接近2%的通胀率。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0983709.d.html</link>
-            <guid>2215981</guid>
-            <pubDate>Mon, 21 Jun 2021 13:55:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：没有人真正知道事态将如何发展，但需要做好应对通胀上行风险的准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2384791.d.html</link>
-            <guid>2215980</guid>
-            <pubDate>Mon, 21 Jun 2021 13:55:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：美国经济重启的速度比预期要强。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2384780.d.html</link>
-            <guid>2215979</guid>
-            <pubDate>Mon, 21 Jun 2021 13:55:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：我们在重新开放方面处于更有利的地位，通货膨胀也随之而来。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2384767.d.html</link>
-            <guid>2215978</guid>
-            <pubDate>Mon, 21 Jun 2021 13:55:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道指涨1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0983555.d.html</link>
-            <guid>2215977</guid>
-            <pubDate>Mon, 21 Jun 2021 13:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纳斯达克100指数下滑 科技股表现落后】纳斯达克100指数周一一度下跌0.6%，科技股表现落后。拼多多跌幅最大，达3.4%；Peloton Interactive跌2.8%，英伟达跌2.6%，DocuSign跌2.6%。标普500指数上涨0.3%，信息科技板块在主要板块中表现最差。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0983523.d.html</link>
-            <guid>2215976</guid>
-            <pubDate>Mon, 21 Jun 2021 13:53:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国前财长努钦：许多加密行业都应该受到监管。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2384418.d.html</link>
-            <guid>2215974</guid>
-            <pubDate>Mon, 21 Jun 2021 13:52:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储卡普兰：点阵图反映出前景“显著改善”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2384404.d.html</link>
-            <guid>2215973</guid>
-            <pubDate>Mon, 21 Jun 2021 13:52:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储卡普兰：疫苗接种加速和实质性的财政政策提高了流动性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2384392.d.html</link>
-            <guid>2215972</guid>
-            <pubDate>Mon, 21 Jun 2021 13:51:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美元跌至盘中低点 受达利欧和萨默斯评论影响】美元跌至盘中低点，为原油和金价带来提振，此前桥水的瑞·达利欧和前美国财长萨默斯在卡塔尔经济论坛上就利率政策发表讲话。达利欧说，除非出现负利率，否则美联储不会更进一步收紧政策，他对金融资产的通胀风险更为担忧。而萨默斯表示，美联储没有对通胀高枕无忧的基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2384371.d.html</link>
-            <guid>2215971</guid>
-            <pubDate>Mon, 21 Jun 2021 13:51:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股走势分化，道指涨超300点，纳指跌0.2%，标普500指数涨0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0983213.d.html</link>
-            <guid>2215970</guid>
-            <pubDate>Mon, 21 Jun 2021 13:51:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国希望与伊朗现政府达成核协议】①外媒6月19日报道，一名美国官员称，美国当局希望在伊朗新总统宣誓就职之前，就恢复伊核协议与伊朗达成交易。他说，谈判拖延到伊朗政权交接的8月初将会令人不安，因为谈判的时间越长，成功的机会就越小；②他说：如果我们不能在伊朗组建新政府之前达成协议，我认为达成协议的可能性会显著降低。在伊朗新总统就职典礼后会发生什么，那是另一个问题，但我希望能在此之前达成协议；③报道称，这位官员没有说明目前达成协议存在哪些障碍。不过他指出，在美国放松制裁以恢复伊核协议方面，以及在伊朗为此目的应采取的步骤方面，都取得了一定进展。据报道，关于恢复伊核协议的谈判自4月份开始在维也纳举行，第六轮磋商于6月12日开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2383978.d.html</link>
-            <guid>2215969</guid>
-            <pubDate>Mon, 21 Jun 2021 13:49:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储卡普兰：预计失业率将降至4%至4.5%左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2383949.d.html</link>
-            <guid>2215968</guid>
-            <pubDate>Mon, 21 Jun 2021 13:49:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股区块链板块早盘下挫，比特矿业(BTCM.N)跌超9%，亿邦国际(EBON.O)跌8.2%，第九城市(NCTY.O)跌7.17%，Bit Digital(BTBT.O)跌5.73%，Coinbase(COIN.O)跌3.39%。]]></title>
-            <guid>2215967</guid>
-            <pubDate>Mon, 21 Jun 2021 13:49:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国前财长努钦：担心通胀持续上升，美联储可能需要行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0982579.d.html</link>
-            <guid>2215966</guid>
-            <pubDate>Mon, 21 Jun 2021 13:46:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Day One Biopharma Inc.（DAWN）美股盘初上涨逾3%，刷新6月3日以来盘中高位至22.01美元（美股盘前一度涨超9.0%），5月28日（美国IPO翌日）曾涨至27.04美元，该公司的试验性神经胶质瘤药品Gliomas在欧洲市场被授予“孤儿药”资格，美国药品监管部门也已经授予其“突破性疗法”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2383392.d.html</link>
-            <guid>2215965</guid>
-            <pubDate>Mon, 21 Jun 2021 13:44:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国前财长努钦：鼓励两党达成1万亿美元左右的基础设施协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2383109.d.html</link>
-            <guid>2215964</guid>
-            <pubDate>Mon, 21 Jun 2021 13:42:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海干散货运价指数周下跌，因海岬型和巴拿马型船费率下跌】波罗的海干散货运价指数周一跌28点或0.9%，至3190。巴拿马型船运价指数跌39点或1.1%，报3505点，日均获利跌630美元至32785美元。海岬型船运价指数跌76或1.9%，报3953点，日均获利下降630美元至32785美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0981961.d.html</link>
-            <guid>2215963</guid>
-            <pubDate>Mon, 21 Jun 2021 13:41:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股新能源车股走低，小鹏汽车(XPEV.N)跌6.65%，Fisker(FSR.N)跌4.25%，Nikola(NKLA.O)跌3.57%，蔚来汽车(NIO.N)跌3.2%，理想汽车(LI.O)、小牛电动(NIU.O)跌超2%。]]></title>
-            <guid>2215962</guid>
-            <pubDate>Mon, 21 Jun 2021 13:39:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湖北：加快产业转型升级，培育壮大5个万亿级支柱产业】中国共产党湖北省第十一届委员会第九次全体会议于2021年6月21日在武汉举行。全会指出，要建设科技强省，打造具有全国影响力的科技创新中心。加快以东湖科学城为核心的光谷科技创新大走廊建设。全会指出，要加快产业转型升级，构建以先进制造业为主导的现代产业体系。培育壮大5个万亿级支柱产业、10个五千亿级优势产业、20个千亿级特色产业集群。（湖北日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0981189.d.html</link>
-            <guid>2215961</guid>
-            <pubDate>Mon, 21 Jun 2021 13:36:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国基建股盘初走强，美国钢铁(X.N)涨3.65%，卡特彼勒(CAT.N)涨2.38%，奥盛创新(OSN.O)涨1.74%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0981004.d.html</link>
-            <guid>2215960</guid>
-            <pubDate>Mon, 21 Jun 2021 13:35:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股中概教育股普跌，好未来跌超5%，华富教育跌4.06%，新东方跌超3%，高途跌2.39%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0980915.d.html</link>
-            <guid>2215959</guid>
-            <pubDate>Mon, 21 Jun 2021 13:34:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[桥水基金创始人达里奥：我更担心金融资产的通胀问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2381797.d.html</link>
-            <guid>2215958</guid>
-            <pubDate>Mon, 21 Jun 2021 13:33:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：美国商务部撤销对TikTok和WeChat的禁令】路透社援引一份文件内容称，美国商务部将撤销对社交媒体应用TikTok和WeChat的禁令。本月早些时候，美国总统拜登撤销了特朗普政府对社交媒体应用TikTok和微信的禁令，并计划颁布一项对外国运营的应用程序审查范围更加广泛的行政命令取而代之。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0980675.d.html</link>
-            <guid>2215957</guid>
-            <pubDate>Mon, 21 Jun 2021 13:31:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道指开盘涨0.6%，标普500涨0.4%，纳指涨0.1%】区块链板块走低，Marathon Patent跌7.4%，Riot Blockchain跌7.5%。前程无忧涨3.9%，德弘资本领导的财团据悉将以每ADS 79.05美元将前程无忧私有化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0980536.d.html</link>
-            <guid>2215956</guid>
-            <pubDate>Mon, 21 Jun 2021 13:30:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[桥水基金创始人达里奥：如果通胀超过3%，可能会引发政策困境。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0980229.d.html</link>
-            <guid>2215955</guid>
-            <pubDate>Mon, 21 Jun 2021 13:28:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【半导体硅晶圆下半涨幅将进一步扩大 供不应求或将延续至2023年】据台媒报道，今年以来包括晶圆代工厂、IDM厂、记忆体厂均产能全开运作，硅晶圆需求明显转强，随着半导体厂手中的硅晶圆库存持续下降，第二季对硅晶圆厂的采购量已见回升，然而下半年产能增幅有限。因为供给愈形吃紧，硅晶圆市场已转为卖方市场，今年下半年价格涨幅扩大，涨价趋势亦将延续到2023年。 (证券时报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0979882.d.html</link>
-            <guid>2215954</guid>
-            <pubDate>Mon, 21 Jun 2021 13:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为（武汉）智能网联汽车产业创新中心在汉揭牌】6月21日，华为（武汉）智能网联汽车产业创新中心成功揭牌。这是华为在全国成立的第二个智能网联汽车产业创新中心，积极承接本地行业科技创新、人才孵化、产业生态培育等相关领域工作，力争“把数字世界带入每一辆车”，助力武汉打造万亿级汽车产业集群。（湖北日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2380652.d.html</link>
-            <guid>2215953</guid>
-            <pubDate>Mon, 21 Jun 2021 13:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[非美货币短线上扬，欧元兑美元EUR/USD走高15点，站上1.19关口；英镑兑美元GBP/USD短线上扬逾20点。]]></title>
-            <guid>2215952</guid>
-            <pubDate>Mon, 21 Jun 2021 13:22:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线走低10点，跌破92关口。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0979381.d.html</link>
-            <guid>2215951</guid>
-            <pubDate>Mon, 21 Jun 2021 13:21:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【台湾5月销往大陆订单同比增长四成】台当局经济事务主管部门21日发布统计数据显示，今年5月台湾企业销往大陆（含香港）的订单达142.2亿美元，同比增长40%。前五个月累计销往大陆（含香港）订单681亿美元，同比增长44.1%。销往大陆（含香港）的订单中，以电子产品增加金额最多，同比增加20.6亿美元；光学器材次之，同比增加5.4亿美元。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0979304.d.html</link>
-            <guid>2215950</guid>
-            <pubDate>Mon, 21 Jun 2021 13:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑巴西雷亚尔USD/BRL日内跌1%，报5.0421。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2380186.d.html</link>
-            <guid>2215949</guid>
-            <pubDate>Mon, 21 Jun 2021 13:20:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[桥水基金创始人达里奥：认为如果美联储进一步收紧政策必定会有负面影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0978858.d.html</link>
-            <guid>2215948</guid>
-            <pubDate>Mon, 21 Jun 2021 13:18:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国前财长萨默斯：看不到政策制定者可以对通胀发展保持平静的基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2379820.d.html</link>
-            <guid>2215947</guid>
-            <pubDate>Mon, 21 Jun 2021 13:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天齐锂业：与IGO协商同意在6月30日或之前完成项目交割】天齐锂业公告，公司和TLEA正在继续与澳大利亚税务局进行沟通协商，鉴于澳大利亚税务局针对税务影响的审查评估时间可能较长，经与IGO协商，双方同意按照《投资协议》约定的时间在2021年6月30日或之前完成项目交割。公司及相关子公司与IGO及投资者于2021年6月21日签署了《税务分担协议》，双方同意，如经澳大利亚税务局审查和评估后确认内部重组实施步骤将产生资本利得税，IGO和投资者同意在不超过该《税务分担协议》约定的最高总额的前提下，基于其在合资公司49%的股权比例与TLH分担该税务责任。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0978559.d.html</link>
-            <guid>2215946</guid>
-            <pubDate>Mon, 21 Jun 2021 13:15:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据官方文件：美国商务部撤销了去年9月发布的TikTok和微信的禁令。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2379313.d.html</link>
-            <guid>2215945</guid>
-            <pubDate>Mon, 21 Jun 2021 13:13:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[前程无忧美股盘前涨近4%。市场消息称，前程无忧达成私有化协议，对价每股79.05美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2379112.d.html</link>
-            <guid>2215944</guid>
-            <pubDate>Mon, 21 Jun 2021 13:12:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[东方证券拟吸收合并全资子公司东方投行，充分发挥全牌照优势。东方投行前身是东方花旗证券，去年完成股权融资项目21个。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0978127.d.html</link>
-            <guid>2215943</guid>
-            <pubDate>Mon, 21 Jun 2021 13:12:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线走高5美元，现报1778.75美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2378611.d.html</link>
-            <guid>2215942</guid>
-            <pubDate>Mon, 21 Jun 2021 13:08:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：芝加哥商业交易所将推出基于自然的全球碳排放抵消期货。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2378282.d.html</link>
-            <guid>2215941</guid>
-            <pubDate>Mon, 21 Jun 2021 13:06:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[螺纹钢主力合约日内跌超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2378016.d.html</link>
-            <guid>2215940</guid>
-            <pubDate>Mon, 21 Jun 2021 13:04:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油期货日内跌幅达1%，现报70.92美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0976684.d.html</link>
-            <guid>2215939</guid>
-            <pubDate>Mon, 21 Jun 2021 13:01:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国内期货夜盘开盘多数低开，铁矿跌4.23%，热卷跌超3%，螺纹跌2.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0976522.d.html</link>
-            <guid>2215938</guid>
-            <pubDate>Mon, 21 Jun 2021 13:00:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海泰科：中签号出炉 共3.2万个】海泰科公告，中签号码共32000个，每个中签号码能认购500股海泰科A股股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2377450.d.html</link>
-            <guid>2215937</guid>
-            <pubDate>Mon, 21 Jun 2021 13:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国政协十三届常委会第十七次会议开幕汪洋出席】政协第十三届全国委员会常务委员会第十七次会议21日上午在京开幕，围绕“推进‘十四五’规划落实，着力构建新发展格局”协商议政。中共中央政治局常委、全国政协主席汪洋出席开幕会。会议期间，常委会组成人员将围绕“深化供给侧结构性改革”“坚持扩大内需战略”“加快科技自立自强”“加快农业农村现代化”“提高人民生活品质”“实行高水平对外开放”等专题进行讨论。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2377344.d.html</link>
-            <guid>2215936</guid>
-            <pubDate>Mon, 21 Jun 2021 12:59:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：德国方面计划在2022到2025年将每年投资金额控制在510亿欧元左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2377256.d.html</link>
-            <guid>2215935</guid>
-            <pubDate>Mon, 21 Jun 2021 12:58:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美芝股份：签约1.14亿元的人才保障性住房施工合同】美芝股份公告，近日，公司与深圳市光明人才安居有限公司签署了《中山大学深圳校区人才保障性住房(一期)项目精装修工程Ⅱ标段施工合同》，签约合同价为1.14亿元，占公司2020年度经审计营业收入的9.12%，合同履行对公司未来的经营业绩产生一定的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0976231.d.html</link>
-            <guid>2215934</guid>
-            <pubDate>Mon, 21 Jun 2021 12:57:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：德国方面寻求从2023年开始遵守“债务刹车”措施。德国计划2023年净借入54亿欧元，2024年净借入120亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2376751.d.html</link>
-            <guid>2215933</guid>
-            <pubDate>Mon, 21 Jun 2021 12:53:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
