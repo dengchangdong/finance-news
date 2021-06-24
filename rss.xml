@@ -4,11 +4,565 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Wed, 23 Jun 2021 23:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jun 2021 01:30:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[韩国央行行长李柱烈：已明确表示将在今年开始有序的政策正常化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2894060.d.html</link>
+            <guid>2218855</guid>
+            <pubDate>Thu, 24 Jun 2021 01:29:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国电科与中国普天实施重组，旗下相关公司开盘大涨，东方通信、东信和平双双涨超8%，中瓷电子、杰赛科技、国睿科技、电科数字、天奥电子、凤凰光学、四创电子、电能股份等集体高开。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2893540.d.html</link>
+            <guid>2218854</guid>
+            <pubDate>Thu, 24 Jun 2021 01:27:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国央行行长李柱烈：在经济复苏的同时，需求方面的压力也越来越大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2893506.d.html</link>
+            <guid>2218853</guid>
+            <pubDate>Thu, 24 Jun 2021 01:27:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科创50指数开盘报1531.24点，跌0.20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2893370.d.html</link>
+            <guid>2218852</guid>
+            <pubDate>Thu, 24 Jun 2021 01:26:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三大股指高开，沪指涨0.07％，深成指涨0.22％，创业板涨0.22％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2893279.d.html</link>
+            <guid>2218851</guid>
+            <pubDate>Thu, 24 Jun 2021 01:26:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股恒指高开涨0.17％，国企指数涨0.14％。港股部分教育股走高，新东方涨超5％，思考乐教育涨超2％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1492470.d.html</link>
+            <guid>2218849</guid>
+            <pubDate>Thu, 24 Jun 2021 01:23:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[香港恒生指数开盘涨0.17%，报28865.46点。福莱特玻璃涨近5%，阿里巴巴涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1492033.d.html</link>
+            <guid>2218847</guid>
+            <pubDate>Thu, 24 Jun 2021 01:21:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央行开展300亿元逆回购操作 实现净投放200亿元】央行今日开展300亿元7天期逆回购操作，中标利率2.2%。因今日有100亿元逆回购到期，实现净投放200亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2892009.d.html</link>
+            <guid>2218846</guid>
+            <pubDate>Thu, 24 Jun 2021 01:21:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【神州租车遭调出港股通股票名单】深交所6月24日消息，因恒生综合小型股指数实施成份股调整，港股通股票名单发生调整并自今日起生效，神州租车（00699.HK）调出港股通股票名单。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2891498.d.html</link>
+            <guid>2218845</guid>
+            <pubDate>Thu, 24 Jun 2021 01:19:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥卫生部：墨西哥累计新冠肺炎确诊病例升至231847例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1491044.d.html</link>
+            <guid>2218844</guid>
+            <pubDate>Thu, 24 Jun 2021 01:17:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国央行行长李柱烈：如果高油价持续下去，通胀上行风险将加大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2890943.d.html</link>
+            <guid>2218843</guid>
+            <pubDate>Thu, 24 Jun 2021 01:17:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[人民币中间价报6.4824，下调203点，上一交易日中间价报6.4621，在岸人民币上一交易日收报6.4808。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1490889.d.html</link>
+            <guid>2218842</guid>
+            <pubDate>Thu, 24 Jun 2021 01:16:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华创证券：我国提出到2035年建成体育强国 行业发展韧劲强】华创证券指出，我国体育产业还处于初级发展阶段，目前产业发展的最大驱动力在于国家顶层政策的强力助推，产业空间大、发展韧劲强的特点将持续显现。中体产业积极布局体育全产业链。金陵体育是体育装备和体育文化设施系统集成服务商。其他个股：莱茵体育、舒华体育。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1490675.d.html</link>
+            <guid>2218841</guid>
+            <pubDate>Thu, 24 Jun 2021 01:15:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中泰证券：给予佳兆业集团买进的初始评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1490367.d.html</link>
+            <guid>2218840</guid>
+            <pubDate>Thu, 24 Jun 2021 01:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国央行行长李柱烈：应注意金融稳定问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1490245.d.html</link>
+            <guid>2218839</guid>
+            <pubDate>Thu, 24 Jun 2021 01:13:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【第五批国家药品集采平均降价56% 国家医保局：预计患者10月可用降价药】第五批国家组织的药品集中采购大会日前在上海召开，拟采购药品62种，61种采购成功，平均降价达到56%。拟中选结果公示后，将于6月底正式公布，全国患者于2021年10月使用上降价后的药品。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2890199.d.html</link>
+            <guid>2218838</guid>
+            <pubDate>Thu, 24 Jun 2021 01:13:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国央行：明年韩国通胀率预计将在2%以内】韩国央行行长李柱烈：明年韩国通胀预计将在2%以内，长期通胀上升可能刺激通胀压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2889765.d.html</link>
+            <guid>2218837</guid>
+            <pubDate>Thu, 24 Jun 2021 01:11:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国央行：随着国内经济的改善，韩国的消费通胀可能会进一步增长。国际大宗商品价格和新冠肺炎疫情蔓延已对通胀构成风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1489243.d.html</link>
+            <guid>2218836</guid>
+            <pubDate>Thu, 24 Jun 2021 01:10:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报刊文：警惕“疯狂的油价”再上演】近期油价大幅上涨，背后投机炒作风起云涌。虽然说沙特及其主导的欧佩克控制着原油供应和市场价格稳定，但是美元和美联储货币政策才是真正的关键因素。投机者的真实目的可能是通过推高期权价格加大油价波动以获利。美联储一再强调通胀压力可能是短期现象，市场预期美联储仍会在相当长时间延续极度宽松的货币政策，对冲基金才敢于放手一搏，大举投机买涨原油等大宗商品。能否遏制大宗商品价格继续上涨，很大程度上得看美联储的态度。美国以邻为壑、损人不利己的做法正遭遇反噬，滥用美元霸权难以独善其身。而且，反映美国是一个不敢作决断、没有担当、不负责任的大国。世界各国都要警惕起来，共同应对美国通胀的破坏性溢出影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1489029.d.html</link>
+            <guid>2218835</guid>
+            <pubDate>Thu, 24 Jun 2021 01:09:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国央行：由于韩国经济显示出从新冠大流行中强劲复苏的迹象，预计韩国核心通胀将超过1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1488778.d.html</link>
+            <guid>2218834</guid>
+            <pubDate>Thu, 24 Jun 2021 01:08:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【海合会对自中国进口的铝合金产品反倾销案做出终裁决定征税】商务部消息，6月15日，海合会国际贸易反损害行为技术秘书局对自中国进口的铝合金产品反倾销案做出终裁，决定自2021年7月22日起征税，税率为33%，期限为5年。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1488718.d.html</link>
+            <guid>2218833</guid>
+            <pubDate>Thu, 24 Jun 2021 01:08:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【发改委召开海南自贸港全岛封关运作准备工作部门座谈会】发改委消息，6月22日上午，地区司主持召开座谈会，围绕海南自由贸易港口岸规划建设、人员设施配备、跨境资金流动、税收制度制定、行政体制改革等问题，听取了有关部门的意见建议。中央编办、财政部、交通运输部、商务部、人民银行、海关总署、税务总局、移民局、民航局、邮政局、外汇局相关司局参加会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2888662.d.html</link>
+            <guid>2218832</guid>
+            <pubDate>Thu, 24 Jun 2021 01:08:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【看好成长股 机构筹谋调仓备战下半年】机构普遍认为，市场仍将处于震荡状态，但短期因素对市场影响有限。考虑到整体估值水平，高增长、高成长的板块将成为市场配置主线。从6月调研情况来看，不少增长较快的中小市值公司位居机构调研榜前列。（经参报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2887990.d.html</link>
+            <guid>2218829</guid>
+            <pubDate>Thu, 24 Jun 2021 01:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[台湾加权指数开盘上涨0.22%，报17374.65点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1487313.d.html</link>
+            <guid>2218828</guid>
+            <pubDate>Thu, 24 Jun 2021 01:02:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚新南威尔士州新增18例本土新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2887318.d.html</link>
+            <guid>2218827</guid>
+            <pubDate>Thu, 24 Jun 2021 01:02:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国信达：公司获准在境外发行不超过等值180亿元的优先股】根据公司提交香港交易所的文件，中国信达资产管理股份有限公司已获中国银保监会批准在境外发行不超过等值180亿元人民币的优先股。将按照有关规定计入公司其他一级资本。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2887282.d.html</link>
+            <guid>2218826</guid>
+            <pubDate>Thu, 24 Jun 2021 01:02:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【“云知声”正式开始D轮融资】“云知声”正式开始D轮融资，截止目前已完成D1轮次近1亿美金的交割。本轮融资由挚信资本领投，启明创投、磐谷创投跟投。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2887246.d.html</link>
+            <guid>2218825</guid>
+            <pubDate>Thu, 24 Jun 2021 01:02:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时中国A50指数期货低开0.02%，上一交易日夜盘收跌0.12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2886936.d.html</link>
+            <guid>2218824</guid>
+            <pubDate>Thu, 24 Jun 2021 01:00:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[生猪、纸浆期货主力开盘涨超3%，LPG、焦煤、玻璃、焦炭、螺纹涨超2%。菜粕、豆粕开盘跌超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2886847.d.html</link>
+            <guid>2218823</guid>
+            <pubDate>Thu, 24 Jun 2021 01:00:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【朝聚眼科拟在香港IPO中募集至多2.33亿美元 7月7日开始交易】朝聚眼科医疗控股有限公司拟在香港首次公开募股(IPO)中，以每股9.48至10.60港元的价格，发行1.709亿股股份。公司已锁定四家基石投资者，同意认购约1.02亿美元的股份。将于6月29日定价，7月7日开始交易。海通国际和华泰国际为联席保荐人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2886276.d.html</link>
+            <guid>2218821</guid>
+            <pubDate>Thu, 24 Jun 2021 00:58:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[荷兰国际银行前瞻英国央行利率决议：一位通常鸽派的委员会成员最近的一次讲话引发了一场关于英国央行是否会在美联储之前或在2022年加息的辩论。我们不排除这种可能性，尽管目前我们都预计第一次加息将发生在2023年初。不管怎样，我们都认为决策者们都将极力避免在周四的会议上给出新的暗示。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1486035.d.html</link>
+            <guid>2218820</guid>
+            <pubDate>Thu, 24 Jun 2021 00:57:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【第五批国家组织药品集采结果“出炉” 平均降价56% 多个品种降幅超97%】23日，第五批国家组织药品集中带量采购在上海开标，并产生拟中选结果。据悉，第五批国家集采共涉及62个品种，实际到场参与竞标药企共201家，最终61个品种集采成功，普萘洛尔流标。此次中选药品平均降幅56%，明显高于此前几批52%、53%的降幅。据不完全统计，此轮采购中24个品种降幅超过90%，其中恒瑞的多西他赛注射剂（20mg）、齐鲁的利伐沙班口服常释剂型（10mg/15mg/20mg）、朝晖药业的比卡鲁胺口服常释剂型（50mg）等降幅均超过97%。据悉，此次集采纳入的药品，在2020年省级平台采购金额高达550亿元，创下历次集采新高。（经参报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2885419.d.html</link>
+            <guid>2218819</guid>
+            <pubDate>Thu, 24 Jun 2021 00:54:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国家卫健委：31个省（自治区、直辖市）和新疆生产建设兵团报告新增无症状感染者18例（均为境外输入）；当日转为确诊病例7例（均为境外输入）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1484936.d.html</link>
+            <guid>2218818</guid>
+            <pubDate>Thu, 24 Jun 2021 00:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【湖南：“十四五”末全省上市公司200家以上 总市值超3万亿元 】湖南省政府发布《关于推动湖南省上市公司高质量发展的若干措施》，要求到“十四五”末，全省上市公司达200家以上，总市值超3万亿元，资产证券化率达50%以上。目前该省有120家A股上市公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2884929.d.html</link>
+            <guid>2218817</guid>
+            <pubDate>Thu, 24 Jun 2021 00:51:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  10年期国开活跃券210205首笔成交收益率上行0.35bp报3.5225%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2884839.d.html</link>
+            <guid>2218815</guid>
+            <pubDate>Thu, 24 Jun 2021 00:51:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【湖南要求依法认定上市公司对违规担保不承担担保责任】昨日印发的《关于推动湖南省上市公司高质量发展的若干措施》要求，依法认定上市公司对违规担保不承担担保责任。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1484789.d.html</link>
+            <guid>2218814</guid>
+            <pubDate>Thu, 24 Jun 2021 00:51:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[越南报告新增37例本地新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1484715.d.html</link>
+            <guid>2218813</guid>
+            <pubDate>Thu, 24 Jun 2021 00:51:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【31省区市新增16例境外输入】国家卫健委：6月23日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例16例，均为境外输入病例（广东8例，四川3例，云南3例，辽宁1例，福建1例）；无新增死亡病例；新增疑似病例1例，为境外输入病例（在上海）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2884681.d.html</link>
+            <guid>2218812</guid>
+            <pubDate>Thu, 24 Jun 2021 00:50:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【奈雪的茶通过香港IPO筹资6.56亿美元 预计6月30日开始交易】根据交易条款，奈雪的茶将香港IPO价格定在指导价区间的高端，筹资6.56亿美元。公司以每股19.80港元发行2.573亿股股票，此前发行指导价区间在每股17.20-19.80港元。预计股票6月30日开始交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1484285.d.html</link>
+            <guid>2218811</guid>
+            <pubDate>Thu, 24 Jun 2021 00:49:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  深交所公告，港股通股票名单发生调整并自今日起生效，调出神州租车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2884127.d.html</link>
+            <guid>2218810</guid>
+            <pubDate>Thu, 24 Jun 2021 00:48:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国平安连续4日获北向资金净买入】6月23日深沪股通成交活跃股中，中国平安全天成交11.77亿元，成交净买入2.68亿元，为连续第4日净买入，期间该股获沪股通累计成交51.23亿元，合计净买入9.9亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1483647.d.html</link>
+            <guid>2218809</guid>
+            <pubDate>Thu, 24 Jun 2021 00:46:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构分析：预期澳洲联储在2022年加息可能为时尚早】经济学家们纷纷将澳洲联储首次加息时间预期从2023年提前至2022年，但这可能为时尚早。澳洲联储仍在讨论2024年的事情，澳洲联储主席助理埃利斯此前强调，实现充分就业是国家的优先事项。澳大利亚国民银行认为，尽管存在澳洲联储于2023年晚些时候采取行动的可能性，但考虑到其设定的薪资增速保持在3%以上的高门槛，仍然认为该联储可能在2024年采取行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2883587.d.html</link>
+            <guid>2218808</guid>
+            <pubDate>Thu, 24 Jun 2021 00:46:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【台湾144人打阿斯利康疫苗后死亡 部分死者解剖结果出炉】据台湾《中时电子报》23日报道，台湾昨日新增25例接种阿斯利康疫苗后死亡案例，累计144例。多名死者有待司法解剖后判别死因，有死者经解剖后发现有本身潜在疾病。台湾“疾管署”署长周志浩表示，目前感染新冠病毒后死亡的原因可能是新冠病毒，也可能是本身潜在疾病，其中的比例需要逐步厘清。  （海外网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2883412.d.html</link>
+            <guid>2218807</guid>
+            <pubDate>Thu, 24 Jun 2021 00:45:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国斯坦福大学“意念写字”研究获新进展】近日，美国斯坦福大学研究人员首次破译了与手写书信相关的大脑活动，并结合人工智能算法，实现“意念写字”。此次让瘫痪者想象自己书写，能达到90字符/分钟的速度和99%的准确度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2882759.d.html</link>
+            <guid>2218805</guid>
+            <pubDate>Thu, 24 Jun 2021 00:41:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新西兰媒体：瑞科生物开发的新型新冠疫苗在新西兰进行临床试验】《新西兰先驱报》援引New Zealand Clinical Research Ltd.(NZCR)医学总监Chris Wynne报道，一小组新西兰人将首批试用由江苏瑞科生物技术股份有限公司在中国开发的新型第二代新冠病毒疫苗。NZCR正在与开发商合作进行试验。第一组本周接种了瑞科生物的疫苗。NZCR预计到9月份将有100人接种该种疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1482698.d.html</link>
+            <guid>2218804</guid>
+            <pubDate>Thu, 24 Jun 2021 00:41:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【两市融资余额增加35.37亿元】截至6月23日，上交所融资余额报8518.14亿元，较前一交易日增加5.40亿元；深交所融资余额报7598.71亿元，较前一交易日增加29.97亿元；两市合计16116.85亿元，较前一交易日增加35.37亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1482234.d.html</link>
+            <guid>2218803</guid>
+            <pubDate>Thu, 24 Jun 2021 00:40:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中信证券：股、债、商品三市齐涨，大概率是债市错误定价，后续或面临调整】中信证券指出，本周以来，股票、债券和大宗商品市场均上涨，呈现出股、债、商三牛的局面。历史上看，大宗商品与股市可通过盈利周期相连通，进而出现二者齐升。但从通胀预期角度来看，大宗商品上涨和债市上涨往往难以持续，其间的矛盾说明其中一方存在错误定价。本轮三市齐涨中，债市暂时回暖是由于资金面“幻觉”叠加通胀担忧消退，因此我们认为此次或是债市上涨出错。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2882067.d.html</link>
+            <guid>2218802</guid>
+            <pubDate>Thu, 24 Jun 2021 00:38:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲疾控中心：“德尔塔”变异毒株或很快增至欧盟新增病例90%】当地时间6月23日，根据总部在瑞典的欧洲疾控中心（ECDC）的数据，在印度首次发现的“德尔塔”变异毒株可能在未来几个月，占欧盟所有新增新冠病例的90%。“德尔塔”变异毒株很可能会在夏季广泛传播，尤其是在年轻人中，如果他们没有完全接种新冠疫苗，这可能会导致身体更脆弱的人被感染，并会经历严重疾病和死亡的风险。欧洲疾控中心主任阿蒙表示，“德尔塔”变异毒株比其他毒株更具传染性，估计它在8月底占（新病例）的90%。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2881879.d.html</link>
+            <guid>2218801</guid>
+            <pubDate>Thu, 24 Jun 2021 00:38:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构前瞻英国央行利率决议：料维持利率和购债不变 关注购债投票情况及通胀表述】英国通胀已超过央行设定的2%的目标，且看来还将继续攀升，英国央行周四将公布是否对近期通胀飙升感到担忧。预计英国央行将维持基准利率在0.1%的历史低点，并继续实施其8950亿英镑的购债计划。但投资者正在观察是否还有其他货币政策委员会成员加入首席经济学家霍尔丹的行列，霍尔丹可能在离开英国央行前的最后一次会议上再次投票支持缩减债券购买计划。摩根大通全球市场策略师Gimber表示，除霍尔丹外，一些MPC成员可能认为采取行动的时机正在临近。上周，美联储迈出了引导投资者迈向不那么宽松政策的第一步，英国央行可能也离我们不远了。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1481349.d.html</link>
+            <guid>2218800</guid>
+            <pubDate>Thu, 24 Jun 2021 00:36:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国特勤局承认：自新冠疫情暴发以来，已有近900名员工确诊感染】美国特勤局22日承认，自新冠疫情暴发以来，已有将近900名特勤局员工确诊感染新冠病毒，这反映出这支以保护总统为主要职责的队伍感染情况是多么严重。（环球网）]]></title>
+            <guid>2218799</guid>
+            <pubDate>Thu, 24 Jun 2021 00:35:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【民生银行：恒大集团授信提用敞口自去年9月以来有所下降 授信风险整体可控】民生银行在投资者互动平台上表示：自去年9月份以来，恒大集团加大了房地产销售回笼力度，在我行授信提用敞口有所下降。从抵质押担保措施上看，我行对恒大集团授信业务主要以抵质押和保证方式为主，抵质押物主要包括变现能力较高的土地、房产、在建工程等，抵质押物符合本行办理抵质押业务的相关规定，截至目前在我行授信项下的抵质押物足值有效，我行授信风险整体可控。后续，我行将持续对恒大集团及其关联企业经营情况、财务状况的变化进行跟踪监测，保持与恒大集团的密切沟通，如出现风险状况，将会积极采取风险控制措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2881258.d.html</link>
+            <guid>2218798</guid>
+            <pubDate>Thu, 24 Jun 2021 00:35:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国称已有15150121人接种了首剂新冠肺炎疫苗，4413494人接种了第二剂新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2880941.d.html</link>
+            <guid>2218797</guid>
+            <pubDate>Thu, 24 Jun 2021 00:34:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【持续争论！约翰逊发言人：关于英舰被俄军开火以及英舰进入俄水域的说法“不正确”】英国俄罗斯黑海对抗事件又有新说法，宣称战机向英国军舰投弹警告的俄罗斯军方23日公布了现场视频，而路透社报道说，英国首相发言人的最新表态称，关于英国军舰被（俄军）开火以及宣称英国军舰进入俄罗斯水域的说法都是不正确的。（环球网）]]></title>
+            <guid>2218796</guid>
+            <pubDate>Thu, 24 Jun 2021 00:33:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国新增610例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2880700.d.html</link>
+            <guid>2218795</guid>
+            <pubDate>Thu, 24 Jun 2021 00:33:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国谈判代表准备重返伊朗核谈判 官员称最快下周可以复谈】一位高级政府官员表示，一旦德黑兰领导层准备就绪，美国谈判代表准备恢复与伊朗就重返2015年核协议进行的第七轮间接谈判。该名官员称， 美国总统拜登由伊朗特使Robert Malley率领的谈判小组，最早可能会在下周恢复在维也纳举行的会谈，但该日期可能会推迟。周三早些时候，报道称美国政府希望推迟下一轮会谈的开始时间，以听取以色列新政府就此问题的意见。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2880603.d.html</link>
+            <guid>2218794</guid>
+            <pubDate>Thu, 24 Jun 2021 00:32:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【宁波将规定每年至少专项督导一次校外培训机构】昨日，《宁波市教育督导条例（修订草案）》提交市十五届人大常委会第三十八次会议一审。《修订草案》规定，教育督导机构应当对本行政区域的校外教育培训机构每年至少实施一次专项督导，对办学资质和教师资格、办学场所和设施安全、培训合同的签订履行、费用的收取退还等事项实施重点督导。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1480127.d.html</link>
+            <guid>2218793</guid>
+            <pubDate>Thu, 24 Jun 2021 00:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国股指期货上涨，标普100指数期货涨0.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1479832.d.html</link>
+            <guid>2218792</guid>
+            <pubDate>Thu, 24 Jun 2021 00:29:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[奈雪的茶将香港IPO价格定在每股19.80港元，在香港IPO中筹资6.56亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2879146.d.html</link>
+            <guid>2218791</guid>
+            <pubDate>Thu, 24 Jun 2021 00:25:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  6月23日0-24时，四川新增新型冠状病毒肺炎确诊病例3例，均为境外输入：2例为6月21日自中国台湾乘机抵蓉，6月23日确诊；1例为6月22日无症状感染者转确诊；新增治愈出院病例2例，无新增疑似病例，无新增死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2878844.d.html</link>
+            <guid>2218790</guid>
+            <pubDate>Thu, 24 Jun 2021 00:24:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中信证券：5月用电量维持双位数增长 水电核电主力增发】中信证券研报指出，5月单月全社会用电量同比增长12.5%，继续维持高景气，主因是经济向好、且南方高温天气提前到来。在多地用电紧张的局面下，火电受制于燃料成本高企增发乏力，水电与核电利用小时数增速显著提升，成为保供主力。维持全年全社会用电量增速预测为7.9%，看好大水电装机高增长启动、电价趋势性向好；核电利用小时数提升、装机加速重启；龙头新能源运营商受益于抢装，业绩呈现高弹性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2878734.d.html</link>
+            <guid>2218789</guid>
+            <pubDate>Thu, 24 Jun 2021 00:23:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【郭明錤：2022年上半年新款SE将成为最便宜5G iPhone】天风国际郭明錤最新研报指出，我们重申先前苹果将在2022年上半年推出新款iPhone SE的预测。2022上半年新款SE的外观设计与既有SE大致相同，主要差异在于2022上半年新款SE支援5G与处理器升级。我们认为新款SE的产品定位为有史以来最便宜的5G iPhone，并正向看待此机种对5G iPhone换机需求的贡献。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1478603.d.html</link>
+            <guid>2218788</guid>
+            <pubDate>Thu, 24 Jun 2021 00:23:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗：将2022年布伦特原油-WTI原油价差预期缩减1美元至3美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1478394.d.html</link>
+            <guid>2218787</guid>
+            <pubDate>Thu, 24 Jun 2021 00:22:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中金：看好食品饮料行业长期稳健增长前景，建议关注四条主线】中金公司指出，食品饮料行业有望长期受益于内循环加速和消费升级趋势，并看好板块长期稳健增长前景。展望2021年下半年，我们建议投资者关注四条主线：1）不断享受消费升级和集中度提升的高端和次高端白酒龙头；（2）高景气度食品饮料赛道（餐饮供应链上的速冻食品、预制菜等）；3）原材料成本上行背景下，具备提价能力的板块（白酒、啤酒、调味品等）；4）去年业绩受疫情冲击今年逐季恢复的企业（休闲卤味等）。往后看，我们判断有望出现传统行业龙头强者恒强，高成长行业与新消费品牌崛起等中长期趋势。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2878381.d.html</link>
+            <guid>2218786</guid>
+            <pubDate>Thu, 24 Jun 2021 00:22:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【史上最大加密货币盗窃案：南非两兄弟携36亿美元比特币人间蒸发】南非一对20岁左右的兄弟最近携价值36亿美元的比特币人间蒸发，这可能是史上最大的加密货币盗窃案。今年4月，他们创办的加密货币投资公司通知客户，称遭到黑客攻击，并要求他们不要向当局报告此事，因为这会阻碍追回资金的努力。之后这对兄弟就消失了，连同4月份峰值时价值约40亿美元的6.9万枚比特币也不见了踪影。]]></title>
+            <guid>2218785</guid>
+            <pubDate>Thu, 24 Jun 2021 00:21:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国谈判人员准备重返伊朗核谈判】美国谈判代表为重返伊朗核谈判做好准备，称会谈最快于下周恢复。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2877045.d.html</link>
+            <guid>2218783</guid>
+            <pubDate>Thu, 24 Jun 2021 00:16:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中金：全国碳交易市场即将启动 关注林业碳汇、垃圾焚烧等相关受益领域】中金公司指出，全国碳交易市场即将启动，资本市场对碳交易关注度亦不断提升，而市场对碳交易仍然存在较大认知预期差。建议关注林业碳汇、填埋气发电、资源化、垃圾焚烧等相关受益领域。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1476845.d.html</link>
+            <guid>2218782</guid>
+            <pubDate>Thu, 24 Jun 2021 00:15:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚S&P/ASX200指数开盘下跌0.24%，报7280.70点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2876801.d.html</link>
+            <guid>2218781</guid>
+            <pubDate>Thu, 24 Jun 2021 00:14:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[东莞麻涌：6月24日下午，麻涌镇将开展全员核酸筛查工作，请广大市民朋友积极配合，按照工作人员指引到各临时检测点检测。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2876765.d.html</link>
+            <guid>2218780</guid>
+            <pubDate>Thu, 24 Jun 2021 00:14:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【报道称台积电明年代工价格将上涨10%-20% 台积电回应：不评论价格问题】据媒体报道，IC设计业者透露，明年初晶圆代工价格已经敲定，不仅联电8英寸和12英寸的晶圆代工价格续涨，晶圆代工龙头台积电也涨价，部分8英寸和12英寸制程价格上涨一到两成，且12英寸制程涨幅高于8英寸。台积电发言窗口表示，不评论价格问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2876657.d.html</link>
+            <guid>2218779</guid>
+            <pubDate>Thu, 24 Jun 2021 00:14:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【人民日报评论员：勇于攀登航天科技高峰】人民日报头版刊发评论员文章称，中国是一个大国，必须成为科技创新大国。我国广大科技工作者、航天工作者要大力弘扬“两弹一星”精神、载人航天精神和探月精神，自立自强、创新超越，敢于战胜一切艰难险阻，勇于攀登航天科技高峰，让探索太空的脚步迈得更稳更远，早日实现建设航天强国的伟大梦想。要继续发挥新型举国体制优势，加大自主创新工作力度，统筹谋划，再接再厉，推动中国航天空间科学、空间技术、空间应用创新发展，积极开展国际合作，为增进人类福祉作出新的更大贡献。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1476570.d.html</link>
+            <guid>2218778</guid>
+            <pubDate>Thu, 24 Jun 2021 00:13:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【人民日报：规范发展是校外培训行业的必答题】人民日报刊发时评文章称，校外培训机构开展非学历教育培训是学校教育的补充，对于满足中小学生选择性学习需求、培育发展兴趣特长、拓展综合素质具有积极作用。但如果失范失序，就会加剧学生与家长负担，破坏教育公平，形成“校内减负、校外增负”的现象。从这个意义上讲，无论是增设专门监管机构，深化校外教育培训改革；还是相关部门重拳出击，加大校外培训行业整改力度，都是为了让校外培训回归正轨，从而实现教育生态的良性发展。因而，校外培训机构做好合规转型，是必答题，而非选择题。只有回归到其本身的功能定位，校外培训才能行稳致远。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2875449.d.html</link>
+            <guid>2218777</guid>
+            <pubDate>Thu, 24 Jun 2021 00:08:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天风证券：看好半导体、军工电子和原材料下半年实现超额收益】天风证券称，根据历史来看，高景气的行业股价发生偏离，未来能否修复，重点在于这些行业的高景气能否延续。而修复的力度，在于高景气改善的幅度。其中，改善幅度最大的是半导体、军工上游。因此，看好半导体、军工电子和原材料下半年实现超额收益，关注化学纤维、动物疫苗、面板及组件、光伏、金融IT的估值修复。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2874733.d.html</link>
+            <guid>2218776</guid>
+            <pubDate>Thu, 24 Jun 2021 00:04:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  仙琚制药：产品盐酸罗哌卡因注射液、米索前列醇片拟中选全国药品集中采购。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2874635.d.html</link>
+            <guid>2218775</guid>
+            <pubDate>Thu, 24 Jun 2021 00:04:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  金城医药：产品注射用头孢唑林钠、注射用头孢他啶拟中选第五批全国药品集中采购。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1474473.d.html</link>
+            <guid>2218774</guid>
+            <pubDate>Thu, 24 Jun 2021 00:04:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 东信和平、宁通信B：中国普天与中国电科重组获批准，待重组完成后，公司实控人均将由中国普天变更为中国电科。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2874581.d.html</link>
+            <guid>2218773</guid>
+            <pubDate>Thu, 24 Jun 2021 00:04:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【媒体社论：房地产调控需及时下沉，防范县城房价过热风险】县城原本是绝大部分农民入城的首选之地，如果县城房价过热现象蔓延开来，会大幅增加农民入城的门槛，让他们背负更大的债务负担。中国正在构建新发展格局，扩内需的政策也瞄准了下沉市场，重点挖掘农村与县域的消费潜力。地产下沉就是和消费下沉争夺，不利于扩大县域与乡村的消费，也不利于城市化率的提高。这种风险要求房地产调控也要及时下沉，抑制住这种风潮以及给当地带来的房价上涨预期。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2874398.d.html</link>
+            <guid>2218772</guid>
+            <pubDate>Thu, 24 Jun 2021 00:03:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国KOSPI指数触及历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2874130.d.html</link>
+            <guid>2218771</guid>
+            <pubDate>Thu, 24 Jun 2021 00:01:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【阳普医疗：控股股东与格力金投签署股份转让协议 珠海市国资委拟成为公司实际控制人】阳普医疗公告，控股股东、实际控制人邓冠华与格力金投6月23日签署了《股份转让协议》《不可撤销的表决权放弃协议》。根据上述协议，邓冠华将向格力金投转让其持有的阳普医疗1809万股股份（占阳普医疗总股本的5.86%），转让总价款为2.74亿元；自前述股份交割完成之日起36个月内，邓冠华将不可撤销地放弃其所持公司剩余全部股份的表决权。邓冠华的一致行动人赵吉庆于同日与格力金投签署了《不可撤销的表决权放弃协议》，赵吉庆将同步不可撤销地放弃所持1996万股公司股份（占上市公司总股本的 6.46%）的表决权。上述交易完成后，珠海市国资委将成为上市公司的实际控制人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1473940.d.html</link>
+            <guid>2218770</guid>
+            <pubDate>Thu, 24 Jun 2021 00:01:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日韩股市开盘涨跌不一】日经225指数开盘下跌0.22%，报28811.82点。韩国KOSPI指数开盘上涨0.13%，报3280.59点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1473915.d.html</link>
+            <guid>2218769</guid>
+            <pubDate>Thu, 24 Jun 2021 00:01:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗：即时伊朗制裁突然取消，仍然预期全球油市供应不足的情况将持续至下季度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1473659.d.html</link>
+            <guid>2218768</guid>
+            <pubDate>Wed, 23 Jun 2021 23:59:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【半导体材料 硫化铂光电特性研究获新突破】云南大学材料与能源学院获杨鹏、万艳芬团队经过持续研发，解决了类石墨烯材料大面积均匀少层硫化铂的合成及其结构和物理性能的一系列问题，为更丰富的应用场景器件开发提供支持，同时给行将终结的摩尔定律注入新的希望，提供极具潜力的半导体材料。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1473374.d.html</link>
+            <guid>2218767</guid>
+            <pubDate>Wed, 23 Jun 2021 23:58:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国泰君安：抛储落地 铝或走出独立行情】国泰君安认为，电解铝抛储落地，预计总量约50万吨，第一期抛5万吨，判断抛储量和抛储节奏对基本面影响较为有限。近期铝价回调主要系宏观情绪所累，铝供需基本面仍较为健康，往后看产能天花板坐实，消费增长良好，铝行业迎来实质性拐点。铝仍有望走出独立行情。维持电解铝板块增持评级，推荐云铝股份、神火股份、天山铝业、南山铝业、中国宏桥（H）、明泰铝业等标的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1473168.d.html</link>
+            <guid>2218766</guid>
+            <pubDate>Wed, 23 Jun 2021 23:56:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗：预计布油在2021年第三季度平均价格为77美元/桶，2021年第四季度为78美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2873284.d.html</link>
+            <guid>2218765</guid>
+            <pubDate>Wed, 23 Jun 2021 23:56:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今日财经日历大事件提醒】经济数据关注：①14:45 法国6月制造业信心指数；②16:00 德国6月Ifo企业信心指数；③20:30 美国5月先期商品贸易余额；④20:30 美国5月批发库存环比初值（预估为0.8%，前值为0.8%）；⑤20:30 美国5月耐用品订单环比初值；⑥20:30 美国第一季度GDP环比折合年率终值（预估6.4%，修正值6.4%）；⑦20:30 美国第一季度GDP个人消费环比终值；⑧20:30 美国上周首次申领失业救济人数（预估38万，前值41.2万）。全球央行和政府动态关注：①14:45 日本央行行长黑田东彦讲话；②16:00 菲律宾央行基准利率（预估2%，现值2%）；③19:00 英国央行基准利率（预估0.1%，现值0.1%）；④19:30 欧洲央行执委Panetta讲话；⑤21:00 美国里士满联储行长Barkin讲话；⑥21:30 美国亚特兰大联储行长Bostic和费城联储行长Harker讲话；⑦23:00 美国纽约联储行长Williams讲话；⑧23:30 欧洲央行执委Schnabel讲话；⑨25日01:00 美国圣路易斯联储行长Bullard讲话；⑩25日01:00：美国达拉斯联储行长Kaplan讲话；⑪25日04:00 里士满联储行长Barkin讲话；⑫25日04:30 美联储公布银行压力测试结果。]]></title>
+            <guid>2218764</guid>
+            <pubDate>Wed, 23 Jun 2021 23:54:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【北京6月23日无新增新冠肺炎确诊病例 新增1例境外输入无症状感染者】6月23日0时至24时，北京无新增本地确诊病例、疑似病例和无症状感染者；无新增境外输入确诊病例、疑似病例，新增1例无症状感染者。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1472287.d.html</link>
+            <guid>2218762</guid>
+            <pubDate>Wed, 23 Jun 2021 23:52:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  上海昨日无新增本地新冠肺炎确诊病例，无新增境外输入病例，治愈出院17例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1472017.d.html</link>
+            <guid>2218761</guid>
+            <pubDate>Wed, 23 Jun 2021 23:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【四川信托原总裁陈军被四川银保监局禁业8年】 6月23日，四川银保监局官网公告称，经查，陈军在四川信托工作期间，涉嫌对该单位严重违反审慎经营规则负有领导责任。根据相关规定，四川银保监局拟对陈军作出禁止从事银行业工作8年的行政处罚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1470878.d.html</link>
+            <guid>2218759</guid>
+            <pubDate>Wed, 23 Jun 2021 23:43:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天风证券郭明錤：中国iPhone供应链有望受益于两点因素】天风证券分析师郭明錤表示，预期iPhone在2021与2022年将分别出货2.3亿–2.4亿与2.5亿–2.6亿部 (vs. 2020年约1.95亿部)。在股价基期相对低下，iPhone供应链股价可望显著受益于：1) 近期iPhone在2H21的出货显著增长；2) 与长期2年内iPhone成长能见度高。在目前iPhone供应商中，立讯因组装业务成长能见度高与垂直整合的潜在成长机会故为最大受益者。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1470721.d.html</link>
+            <guid>2218758</guid>
+            <pubDate>Wed, 23 Jun 2021 23:42:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党参议员柯林斯：基础设施框架还有一些细节需要解决。国会领导人仍必须听取有关框架的简报。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2870563.d.html</link>
+            <guid>2218757</guid>
+            <pubDate>Wed, 23 Jun 2021 23:41:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黑海“对抗”视频曝光！英国否认军舰在黑海被俄方开火警告后，俄国防部公布视频】俄罗斯国防部23日亮出了证据。过去24小时，俄轰炸机在黑海对“入侵领海”的英国驱逐舰投弹警告，成为国际最大焦点。这是两个大国近年来最接近发生直接军事冲突的一次。而英国的离奇否认又使得事件笼罩上了一层神秘色彩。 俄罗斯国防部公布了三段现场画面，总时长49秒。第二段是从一架俄军苏-30SM战斗机的座舱视角拍摄，当时该机正从英国驱逐舰左侧上空飞过，画面中能够清晰看到海面上的英国军舰。 （环球网)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1470410.d.html</link>
+            <guid>2218756</guid>
+            <pubDate>Wed, 23 Jun 2021 23:40:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷新增27319例新冠肺炎确诊病例，新增706例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1469901.d.html</link>
+            <guid>2218755</guid>
+            <pubDate>Wed, 23 Jun 2021 23:38:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：两党在朝着潜在协议的框架上取得进展。总统拜登已邀请两党人士周四前往白宫会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2869324.d.html</link>
+            <guid>2218754</guid>
+            <pubDate>Wed, 23 Jun 2021 23:35:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新iPhone有望加入指纹解锁：苹果最快2022年发布 售价不高】天风国际分析师郭明錤给出的最新报告显示，预测2022款iPhone的部分型号可能会支持屏下指纹功能。报告中提到，与去年和今年相同，2022年秋天，苹果也会推出四款全新iPhone，两款高端 iPhone （6.1寸与6.7寸） 与两款较低端iPhone （6.1寸与6.7寸）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2869290.d.html</link>
+            <guid>2218753</guid>
+            <pubDate>Wed, 23 Jun 2021 23:35:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【日媒：日本考虑批准阿斯利康新冠疫苗用于18岁及以上人群接种】共同社援引一位未具名知情人士的话报道称，虽然日本建议阿斯利康新冠疫苗仅用于60岁及以上人群接种，但厚生省正在考虑批准该疫苗用于18岁及以上人群接种。日本政府目前没有使用该疫苗的计划，但将准备好在必要时使用。就像已经批准的辉瑞和Moderna疫苗一样，阿斯利康疫苗也将根据法律免费提供给居民，并对于严重副作用给予补偿。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2868998.d.html</link>
@@ -50,562 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1467595.d.html</link>
             <guid>2218746</guid>
             <pubDate>Wed, 23 Jun 2021 23:25:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通在一份备忘录中警告称，该公司可能会要求员工接种新冠肺炎疫苗。该公司员工上报疫苗接种情况的截止日期为下周三（6月30日）。当前，该公司仍然预计7月份可以实现全面的复工复产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1467312.d.html</link>
-            <guid>2218745</guid>
-            <pubDate>Wed, 23 Jun 2021 23:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党参议员Romney：两党小组已经就基础设施计划达成框架协议，将于周四提交白宫。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2867101.d.html</link>
-            <guid>2218744</guid>
-            <pubDate>Wed, 23 Jun 2021 23:22:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【深圳技术大学联合中芯国际成立集成电路学院】近日，由深圳技术大学新材料与新能源学院与中芯国际联合打造的集成电路学院正式成立，致力于培养集成电路设计和制造方面的高级应用型技术人才。学院成立后，将坚持应用技术型大学的办学特色，坚持产教融合，深度开展校企合作，积极与集成电路制造和设计领域的骨干企业如中芯国际、比亚迪、华为等联合办学，着力探索订单式培养的校企合作新模式，在专业课程设计、项目研发、实习实训、科技成果转化等领域开展全方位合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1466991.d.html</link>
-            <guid>2218743</guid>
-            <pubDate>Wed, 23 Jun 2021 23:21:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国民主党参议员曼钦：基建计划将通过一系列的措施来抵消成本。两党小组和白宫助手已经就两党基建法案框架达成一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1466963.d.html</link>
-            <guid>2218742</guid>
-            <pubDate>Wed, 23 Jun 2021 23:21:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫顾问Ricchetti：针对基础设施法案召开了良好的会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1466430.d.html</link>
-            <guid>2218741</guid>
-            <pubDate>Wed, 23 Jun 2021 23:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【水泥价格进入普跌模式】中国水泥网行情数据显示，6月22日起，浙江地区一些主要厂家对浙北杭州、绍兴、湖州、嘉兴地区再次通知下调各品种水泥价格30元/吨，至此，6月以来浙北地区水泥价格已普降三轮，累计幅度达90元/吨。近段时间南方多省份受梅雨、高温等因素影响，叠加市场淡季需求下滑，企业库存当前高位运行。多重因素作用下，水泥价格进入普跌模式。（经济参考报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1466243.d.html</link>
-            <guid>2218740</guid>
-            <pubDate>Wed, 23 Jun 2021 23:18:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党参议员Portman：美国国税局的执法工作仍在进行中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2866098.d.html</link>
-            <guid>2218739</guid>
-            <pubDate>Wed, 23 Jun 2021 23:16:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长期配置价值渐显 市场机构增持保险股】今年以来，由于基本面承压，保险股呈现持续调整态势。但数据显示，一季度公募机构仍在不断逆势买入。二季度以来，外资机构也频频增持部分龙头险企H股。长期来看，保险行业仍有较大增长空间，政策的推动有望加速行业发展。分析人士认为，提升主动管理能力及保持投资收益率稳定将是险企的发力方向，也将成为保险板块后市的助推器。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1465820.d.html</link>
-            <guid>2218738</guid>
-            <pubDate>Wed, 23 Jun 2021 23:15:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【制造成本大降 自动驾驶商业化提速破局在即】近日，百度与禾赛科技合作，将ApolloMoon制造成本压缩到每辆48万元，较行业平均成本减少2/3，有望推动无人车商业化发展。同时，以特斯拉、小鹏汽车为代表的车企自动驾驶系统商业化步伐不断加速。业内人士认为，除了整车硬件销售外，智能系统的商业化变现有望成为造车新势力未来持续性收入和利润的来源。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2865697.d.html</link>
-            <guid>2218737</guid>
-            <pubDate>Wed, 23 Jun 2021 23:15:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【部委地方年中密集调研把脉经济 进一步扩大内需、纾困中小企业成重点】国家发展改革委、工业和信息化部等多个部委就当前经济形势展开密集摸底，召开上半年经济运行会，不少地方也陆续召开经济运行监测调度会，在分析研判上半年经济形势的基础上，研究部署下一步工作。从这些会议释放的信号看，当前国内经济全面恢复的基础仍不牢固，结构性分化仍在延续，需求持续恢复仍受到制约。稳定工业增长、进一步扩大内需、纾困中小企业等依旧是下一步稳经济的重中之重。（经济参考报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2865520.d.html</link>
-            <guid>2218736</guid>
-            <pubDate>Wed, 23 Jun 2021 23:14:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广东卫健委消息，6月23日0-24时，全省无新增本土确诊病例和本土无症状感染者。全省新增境外输入确诊病例8例，新增境外输入无症状感染者8例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2865433.d.html</link>
-            <guid>2218735</guid>
-            <pubDate>Wed, 23 Jun 2021 23:14:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内备案慈善信托财产规模接近34亿元】作为信托本源业务之一，慈善信托近年来蓬勃发展。慈善中国信息平台公开数据显示，截至记者发稿时，国内累计备案的慈善信托数量达到581单，财产规模达到33.88亿元。不过，相比于传统信托业务，慈善信托的规模占比较小，仍有待进一步壮大。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1465239.d.html</link>
-            <guid>2218734</guid>
-            <pubDate>Wed, 23 Jun 2021 23:13:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党参议员Portman：已受邀与总统拜登进行会面，基建法案十分接近（达成一致）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2865260.d.html</link>
-            <guid>2218733</guid>
-            <pubDate>Wed, 23 Jun 2021 23:13:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议员Cassidy：在基础设施法案方面达成框架。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2864865.d.html</link>
-            <guid>2218732</guid>
-            <pubDate>Wed, 23 Jun 2021 23:10:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【新产品“三箭齐发” 首批公募MOM全亮相】继建信基金和创金合信基金之后，招商基金、鹏华基金和华夏基金旗下的公募管理人中管理人(MOM)于近日开闸发行。这意味着，首批获批的5只公募MOM，已全部亮相。这类产品根据投资目标优选投资顾问，适合一站式配置的个人投资者以及中小机构。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1463617.d.html</link>
-            <guid>2218731</guid>
-            <pubDate>Wed, 23 Jun 2021 23:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今日在售高收益银行理财产品一览】今日业绩比较基准在3.95%以上的银行人民币理财产品共9款。理财非存款、产品有风险、投资须谨慎！]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1463599.d.html</link>
-            <guid>2218730</guid>
-            <pubDate>Wed, 23 Jun 2021 23:03:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【逾500份半年报预告透底行业热度】目前已有516家上市公司披露半年度业绩预告，从行业上看，医药、化工、新能源汽车、光伏和通信电子行业延续了去年下半年以来的强势。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2863603.d.html</link>
-            <guid>2218729</guid>
-            <pubDate>Wed, 23 Jun 2021 23:03:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【私募坦言上半年业绩平平 下半年主攻“灰马股”】在近期部分私募召开的2021年度中期策略会中，一些私募人士坦言上半年业绩平平。谈及策略展望，多数私募人士认为后市存在丰富的结构性机会。特别是在过去一年涨幅较小的成长行业中，中小市值的细分行业龙头股值得关注，可着重在这些“灰马股”中寻找投资标的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2863525.d.html</link>
-            <guid>2218728</guid>
-            <pubDate>Wed, 23 Jun 2021 23:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧洲疾控中心：德尔塔毒株八月底前或占欧洲新增病例九成】欧洲疾控中心(ECDC)主任阿蒙23日表示，该中心预测，最晚到今年8月底之前，欧盟及欧洲经济区国家新增新冠确诊病例中将会有90%感染德尔塔毒株。阿蒙指出，初步数据显示，只接种了一剂现有疫苗的个体仍可能被德尔塔毒株感染，但令人感到欣慰的是，已经接种两剂现有疫苗的人群对德尔塔毒株仍拥有较高的免疫力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1463092.d.html</link>
-            <guid>2218726</guid>
-            <pubDate>Wed, 23 Jun 2021 23:00:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港贸发局：香港出口指数连升五季度，预料今年出口增长15%】香港贸易发展局23日公布，香港第二季度出口指数环比上升至48.7，已连续上升五个季度，并预料今年全年出口增长15%。香港贸发局调查显示，本季度指数环比大幅升9.7点至48.7，几乎所有行业和出口市场都录得正增长，反映出口商情绪持续改善。其中机械业升13点至55.9、电子升9.8点至48.8，升幅高于整体水平。出口市场方面，中国内地已重返扩张领域，受访港商对日本、欧盟、东盟和美国的前景比之前乐观。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2862574.d.html</link>
-            <guid>2218724</guid>
-            <pubDate>Wed, 23 Jun 2021 22:57:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰航空监管部门批准波音737 Max飞机飞入新西兰。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2862222.d.html</link>
-            <guid>2218723</guid>
-            <pubDate>Wed, 23 Jun 2021 22:56:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【需求拉动 磷化工产业链公司业绩持续向好】在上游供给趋紧和下游需求旺盛的拉动下，今年以来磷化工产品景气度持续走高。据百川资讯，目前磷矿石价格为500元/吨，较年初的370元/吨上涨35%；磷酸一胺、磷酸二胺价格分别为3020元/吨、3050元/吨，其年初价格则均在每吨2000多元。此外，磷酸铁锂均价为5.1万元/吨，较年初上涨近46%。 “主营产品价格上涨有助于增厚公司业绩。”近期，多家磷化工类上市公司在投资者互动平台称。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1462184.d.html</link>
-            <guid>2218722</guid>
-            <pubDate>Wed, 23 Jun 2021 22:55:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蚂蚁链发言人：NFT与比特币等加密货币在本质上有所不同】针对网友有关“支付宝销售NFT产品。这不是非法交易吗？”的问题，开发基于区块链技术解决方案的蚂蚁链（AntChain）的发言人表示，NFT不可互换，也不可分割，这使其与比特币等加密货币在本质上有所不同，NFT可用于为数字资产创建独特的签名。此前消息，支付宝《伍六七》NFT皮肤首轮抢购于零点开启，几秒钟内售罄。下一轮销售将在今天下午2点进行。支付宝此前还联合敦煌美术研究所发行了NFT数字作品，1.6万件NFT已售罄。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1461904.d.html</link>
-            <guid>2218721</guid>
-            <pubDate>Wed, 23 Jun 2021 22:53:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【9家“摘帽”公司获机构扎堆调研 主业盈利能力最受关注】在今年以来“摘帽”的逾80家ST公司中，有28家通过网上路演或者接待投资者调研等形式，与市场投资者进行了交流。其中，海马汽车、秦川机床、藏格控股、海陆重工、胜利精密、江特电机、融捷股份、北清环能、中国铁物等9家公司更是获得机构投资者的关注，甚至被调研频次不止一次。机构投资者对公司包括产销、项目进展、核心技术等主业经营情况，以及未来的盈利能力及发展规划颇为关注。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1461275.d.html</link>
-            <guid>2218720</guid>
-            <pubDate>Wed, 23 Jun 2021 22:48:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【配置需求旺盛 CTA策略产品封盘“谢客”】近日，量化私募白鹭资管发布公告称，公司暂停CTA（管理期货策略）单策略产品的募集。从CTA策略产品今年前5个月平均收益率超过7%，在私募八大策略产品中居于冠军位置，资金关注热情明显提升。多位业内人士表示，CTA策略具有容量限制，今年的亮眼业绩使得资金涌入速度有所加快，部分私募选择主动限流。由于与其他资产相关性较低，CTA策略产品具备配置价值，其中短周期CTA策略产品下半年有望表现更佳。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2860746.d.html</link>
-            <guid>2218719</guid>
-            <pubDate>Wed, 23 Jun 2021 22:43:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  芯片与半导体板块再度成为市场的香饽饽。公募、私募机构普遍认为，半导体阶段性景气或将延续，长期发展空间广阔。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2860706.d.html</link>
-            <guid>2218718</guid>
-            <pubDate>Wed, 23 Jun 2021 22:43:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【现场督导约束保荐质量 工作底稿成重要抓手】近期，多家接受过现场督导的注册制拟IPO企业在完成财务资料更新后恢复了上市审核。最新更新的审核问询回复显示，现场督导对中介机构执业质量的关注环节不断前移，传递出IPO审核监管新动向。在“严监管”下，保荐机构责任不断压实，券商内控内核责任更加凸显，投行工作底稿成为现场督导的重要抓手。（上海证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2860178.d.html</link>
-            <guid>2218717</guid>
-            <pubDate>Wed, 23 Jun 2021 22:39:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通：我们对黄金的势头信号表明，商品交易顾问（CTA）基金已经转为相当看空，这意味着较高的均值回归风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2859973.d.html</link>
-            <guid>2218716</guid>
-            <pubDate>Wed, 23 Jun 2021 22:37:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【券商激辩下半年行情 智能制造获集体看好】券商中期策略是当下投资者最关注的话题之一，目前已有十多家券商发布了对今年下半年宏观经济及A股走势的观点。在多家券商看来，下半年国内经济增速将从高位向常态回归；对于A股后市，一些券商认为有望乘势而上，指数或创年内新高；也有观点认为系统性机会出现的几率不大，需要挖掘结构性机会。智能制造领域受关注。海通证券认为年智能制造有望崛起。招商证券认为，三季度盈利保持高位、外需导向或供给受限的中国优势制造有望有超预期的业绩表现。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1460019.d.html</link>
-            <guid>2218715</guid>
-            <pubDate>Wed, 23 Jun 2021 22:37:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特殊目的收购公司（SPAC）890 5th Avenue（ENFA）美股盘后涨超6.0%，道琼斯新闻报道称，Buzzfeed接近与该公司达成合并协议、从而实现公开上市的目的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1459981.d.html</link>
-            <guid>2218714</guid>
-            <pubDate>Wed, 23 Jun 2021 22:36:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【年中揽储大战熄火 银行存款压力犹存】临近年中，银行以往惯用的“揽储大战”并未打响。日前走访调研多家银行网点了解到，以往在季末会“蠢蠢欲动”的存款利率今年不升反降，在以高息存款吸引客户的民营银行APP上，也很难见到年化利率4%以上的存款产品。专家认为，在存款利率自律上限确定方式优化后，1年期以上存款利率下调，有利于打击高息揽储行为，但银行揽储的难度有所加大，存款竞争压力仍然存在。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1459509.d.html</link>
-            <guid>2218713</guid>
-            <pubDate>Wed, 23 Jun 2021 22:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：新加坡关注新冠病毒流行的国家。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1458753.d.html</link>
-            <guid>2218712</guid>
-            <pubDate>Wed, 23 Jun 2021 22:27:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：新加坡预计在路线图中逐步放松对新冠病毒的限制措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1458744.d.html</link>
-            <guid>2218711</guid>
-            <pubDate>Wed, 23 Jun 2021 22:27:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：新加坡认为将在边境持续进行的“严格”的新冠病毒检测。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2858504.d.html</link>
-            <guid>2218710</guid>
-            <pubDate>Wed, 23 Jun 2021 22:25:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【515份半年报业绩预告亮相 钢铁化工等三类上市公司表现抢眼】截至6月23日晚，共有515家A股上市公司披露2021年半年度业绩预告。其中，315家公司预喜，预喜率达61.17%。在预喜的上市公司中，业绩略增公司66家，扭亏64家，续盈4家，预增181家。钢铁、化工、纺织等周期行业上市公司业绩出现较大幅度增长。 Wind数据显示，在上述515家上市公司中，预计上半年实现归属于上市公司股东的净利润超过1亿元的有122家，超过5亿元的有43家，超过10亿元的有18家。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1458539.d.html</link>
-            <guid>2218709</guid>
-            <pubDate>Wed, 23 Jun 2021 22:24:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日本共同社：日本方面考虑批准阿斯利康新冠疫苗适用于18岁以上人群。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2857878.d.html</link>
-            <guid>2218708</guid>
-            <pubDate>Wed, 23 Jun 2021 22:20:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：新加坡部长们正在为新加坡拟定“新常态”的路线图。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1457944.d.html</link>
-            <guid>2218707</guid>
-            <pubDate>Wed, 23 Jun 2021 22:20:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【控排企业料“惜售”碳配额，机构投资者入场呼声高】 “控排企业以履约为主且尚未引入机构投资者，全国碳市场启动初期交易或不会太活跃。”上海碳交易市场主要设计者之一、上海市节能减排中心副总工程师齐康近日预测。“启动初期，没有投资机构参与，且距离履约期尚有半年之际，涨跌幅限制预计不会触及。”在齐康看来，全国碳市场启动初期参与交易主体只有控排企业，对控排企业而言，只有多余的碳配额才会出售，目前很大程度上会惜售。“条件成熟后，会尽快将机构投资者纳入交易。”上海环境能源交易所董事长赖晓明表示。国碳市场定价方面，齐康预计，“可能会采取全国试点区域的平均价，大概率落在15元/吨至40元/吨之间。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2857778.d.html</link>
-            <guid>2218706</guid>
-            <pubDate>Wed, 23 Jun 2021 22:19:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国碳市场启动开始“读秒”，企业机构抢站投资风口】 从权威渠道获悉，全国碳市场将于近日举行启动仪式，采取“1+2”启动形式，即北京、上海和湖北三地线上启动。在碳市场的启动和“碳中和”、“碳达峰”的愿景之下，各类投资风口不断涌现，更有上市公司和投资机构抓紧布局。随着全国碳市场的启动，有研究预测，2021年我国碳交易市场成交量或将达到2.5亿吨，为2020年各试点交易所交易总量的3倍，成交金额将达60亿元。这意味着，参与碳交易的市场主体有望在其中获益。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1456967.d.html</link>
-            <guid>2218705</guid>
-            <pubDate>Wed, 23 Jun 2021 22:10:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国民主党参议员曼钦、Tester以及共和党参议员Romney表示两党小组接近就基建计划达成协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2856637.d.html</link>
-            <guid>2218704</guid>
-            <pubDate>Wed, 23 Jun 2021 22:08:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日经新闻：日本将任命Koji Yano为财务省副大臣。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2856593.d.html</link>
-            <guid>2218703</guid>
-            <pubDate>Wed, 23 Jun 2021 22:08:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【证券时报头版评论：拒绝价格战，回归存款竞争的起点】近日，市场利率定价自律机制对存款利率自律上限的确定方式予以优化，将定价方式由上浮倍数改为加点。无论是前期叫停靠档计息产品、规范结构性存款和互联网存款，还是此番存款利率自律上限确定方式的优化，目的都是维护市场竞争秩序，防止出现存款市场由坏银行定价的问题。可以预见，客户基础优异、具有财富管理优势的银行有望进一步扩大其存款相对优势，而客户基础较弱的银行在失去高息揽存利器后，如果还不能回归基本户的经营，其资产负债管理、全行经营或许都将面临巨大的压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1456418.d.html</link>
-            <guid>2218702</guid>
-            <pubDate>Wed, 23 Jun 2021 22:05:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国新冠肺炎确诊病例超过3357万例】根据美国约翰斯·霍普金斯大学（Johns Hopkins University）数据，截至美国东部时间6月23日17时22分（北京时间6月24日5时22分），美国新冠肺炎累计确诊病例已超过3357万例，达到33573448例；死亡病例超过60万例，达到602705例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2856025.d.html</link>
-            <guid>2218701</guid>
-            <pubDate>Wed, 23 Jun 2021 22:01:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国民主党为达成跨党派基建协议设定24小时目标】美国国会和白宫的民主党人周三敦促共和党人加入他们的行列，在周四结束前就1.2万亿美元的基建计划达成协议。当天下午，白宫官员与参议院的9名民主党人、1名独立人士和11名共和党人就基建计划举行了会谈，白宫官员还将于美东时间周三晚上7:30（北京时间周四早上7:30）与参议院多数党领袖舒默和众议院议长佩洛西举行会谈。民主党参议员曼钦称，他们希望在参议院周四因7月4日独立日假期休会前达成协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2855805.d.html</link>
-            <guid>2218700</guid>
-            <pubDate>Wed, 23 Jun 2021 21:57:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内新冠疫苗年产能预计超70亿剂】 根据此前公布的新冠疫苗产能情况显示，国药集团中国生物年产能达到30亿剂，北京科兴中维公司披露新冠疫苗年产能超20亿剂，康希诺全国产能有望今年达到7亿剂。此外智飞生物今年将生产5亿剂疫苗，康泰生物的灭活疫苗年产能为2亿剂，最大可提升至6亿剂，医科院生物所灭活疫苗年产量将达5亿至10亿剂。我国新冠疫苗在2021年的总计产能预计超70亿剂。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1455631.d.html</link>
-            <guid>2218699</guid>
-            <pubDate>Wed, 23 Jun 2021 21:54:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿根廷一季度GDP季环比增长2.6%，同比增长2.5%——创2018年以来最快。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2855433.d.html</link>
-            <guid>2218698</guid>
-            <pubDate>Wed, 23 Jun 2021 21:52:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全球最大黄金ETF--SPDR Gold Trust持仓较上日下降2.91吨，当前持仓量为1046.65吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2855213.d.html</link>
-            <guid>2218697</guid>
-            <pubDate>Wed, 23 Jun 2021 21:48:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【首批证监系统离职人员入股情况问询出炉，业内人士呼吁明晰穿透核查底线】 随着《系统离职人员入股行为监管指引》落地，对证监会系统离职人员的穿透核查将成为常态，保荐机构将主动提交相关的专项核查说明，相关的问询频次可能会逐步减少。据不完全统计，已有华海清科、雅艺金属、一通密封、标榜汽车四家拟IPO公司收到监管问询，要求对股东中可能存在的证监会系统离职人员进行核查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1455343.d.html</link>
-            <guid>2218696</guid>
-            <pubDate>Wed, 23 Jun 2021 21:47:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：埃及将于下周与“长赐”号船东签署最终协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1455254.d.html</link>
-            <guid>2218695</guid>
-            <pubDate>Wed, 23 Jun 2021 21:45:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西报告新增115228例新冠肺炎确诊病例，创疫情以来单日新增最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1455247.d.html</link>
-            <guid>2218694</guid>
-            <pubDate>Wed, 23 Jun 2021 21:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全球最大白银ETF--iShares Silver Trust持仓较上日减少57.68吨，当前持仓量为17493.78吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1455181.d.html</link>
-            <guid>2218693</guid>
-            <pubDate>Wed, 23 Jun 2021 21:43:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西官员：巴西政府并没有购买印度Covaxin新冠疫苗，也不存在疫苗价格过高的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1454836.d.html</link>
-            <guid>2218692</guid>
-            <pubDate>Wed, 23 Jun 2021 21:38:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登将在6月23日夜间评估国会山的跨党派基建计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2854670.d.html</link>
-            <guid>2218691</guid>
-            <pubDate>Wed, 23 Jun 2021 21:37:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储罗森格伦：预计美国劳动力市场的紧张状况将持续一段时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2854657.d.html</link>
-            <guid>2218690</guid>
-            <pubDate>Wed, 23 Jun 2021 21:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储罗森格伦：停止延长失业救济对紧张的劳动力市场而言不会产生帮助。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2854652.d.html</link>
-            <guid>2218689</guid>
-            <pubDate>Wed, 23 Jun 2021 21:36:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【经参头版评论：乡村振兴关键在于产业振兴】 在当前谋划乡村产业发展时，要高度重视对乡村产业发展重要趋势和规律的尊重和运用。人越来越成为乡村产业振兴最大的生产力。乡村产业发展形成的产品和服务需要通过流通半径的扩大与更广泛的消费者结合，唯有如此，才能实现产品和服务市场空间扩张和价值增殖。提升乡村产业发展水平，增强其产品市场竞争力，必须适应消费者心理需求的变化，实现由单纯地卖产品向既卖产品也展示产品生产过程的转化。乡村产业发展和振兴效果的好坏，最重要的检验标准是其效益的高低。发展乡村产业必须贯彻落实绿色发展理念，要将生态和绿色铸造为产业发展的基因和灵魂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1454233.d.html</link>
-            <guid>2218688</guid>
-            <pubDate>Wed, 23 Jun 2021 21:26:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储罗森格伦：我们需要做得更好，以确保国债和抵押贷款支持证券的融资继续下去。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2853947.d.html</link>
-            <guid>2218687</guid>
-            <pubDate>Wed, 23 Jun 2021 21:24:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储罗森格伦：如果预期是正确的，我们将在明年实现或者接近充分就业水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1453882.d.html</link>
-            <guid>2218686</guid>
-            <pubDate>Wed, 23 Jun 2021 21:20:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网自动测定：06月24日05时17分在河北唐山市滦州市附近（北纬39.84度，东经118.75度）发生3.0级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>2218685</guid>
-            <pubDate>Wed, 23 Jun 2021 21:20:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储罗森格伦：央行数字货币已经引起了国会的极大兴趣。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1453563.d.html</link>
-            <guid>2218684</guid>
-            <pubDate>Wed, 23 Jun 2021 21:15:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储罗森格伦：数字货币对没有银行账户的人来说是有利的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1453557.d.html</link>
-            <guid>2218683</guid>
-            <pubDate>Wed, 23 Jun 2021 21:15:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储罗森格伦：美联储定于7月初发布的一项研究将表明，（我们）有可以安全创建央行数字货币的技术。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1453394.d.html</link>
-            <guid>2218682</guid>
-            <pubDate>Wed, 23 Jun 2021 21:11:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：70名美国众议院议员敦促拜登推翻特朗普的以色列政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1453176.d.html</link>
-            <guid>2218681</guid>
-            <pubDate>Wed, 23 Jun 2021 21:07:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储罗森格伦：利率长期处于低位将鼓励人们的冒险情绪。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1453174.d.html</link>
-            <guid>2218680</guid>
-            <pubDate>Wed, 23 Jun 2021 21:07:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储罗森格伦：需要特别关注货币市场改革和加密货币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2852867.d.html</link>
-            <guid>2218679</guid>
-            <pubDate>Wed, 23 Jun 2021 21:04:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储罗森格伦：预计目前的大多数物价上涨将在2022年逆转。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2852505.d.html</link>
-            <guid>2218678</guid>
-            <pubDate>Wed, 23 Jun 2021 20:59:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：06月24日04时49分在新疆克孜勒苏州阿图什市发生3.4级地震，震源深度18千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1452661.d.html</link>
-            <guid>2218677</guid>
-            <pubDate>Wed, 23 Jun 2021 20:58:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储罗森格伦：通胀面临的风险有所提高，美联储应适应这些（风险）模式。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1452575.d.html</link>
-            <guid>2218676</guid>
-            <pubDate>Wed, 23 Jun 2021 20:56:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储罗森格伦：房价持续上涨可能会产生溢出效应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1452488.d.html</link>
-            <guid>2218675</guid>
-            <pubDate>Wed, 23 Jun 2021 20:54:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储罗森格伦：美联储不得不担心出现房价不断上涨以及经济繁荣破灭的情景。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1452482.d.html</link>
-            <guid>2218674</guid>
-            <pubDate>Wed, 23 Jun 2021 20:54:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：拜登任命Jack Markell担任美国驻经合组织大使。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1452473.d.html</link>
-            <guid>2218673</guid>
-            <pubDate>Wed, 23 Jun 2021 20:54:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国特勤局承认：自新冠疫情暴发以来，已有近900名员工确诊感染】 据美国有线电视新闻网（CNN）22日报道，美国特勤局在当天发布的一份声明中称，2020年3月1日至2021年3月9日期间，该部门有881名雇员的新冠病毒检测结果呈阳性。声明中说，“保证全体工作人员的健康和福利是特勤局的首要任务。本部门还获得美国疾控中心推荐的个人防护装备，包括口罩、防护面罩、手套和其他设备，并确保将其分发给世界各地的雇员。”（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2852166.d.html</link>
-            <guid>2218672</guid>
-            <pubDate>Wed, 23 Jun 2021 20:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储罗森格伦：就业状况仍远低于疫情前水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1452096.d.html</link>
-            <guid>2218671</guid>
-            <pubDate>Wed, 23 Jun 2021 20:45:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储罗森格伦：美联储预计二手车价格不会继续以同样的速度上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2851961.d.html</link>
-            <guid>2218670</guid>
-            <pubDate>Wed, 23 Jun 2021 20:45:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储罗森格伦：虽然很多商品和服务的价格都在上涨，但明年的物价将会温和一些。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1452031.d.html</link>
-            <guid>2218669</guid>
-            <pubDate>Wed, 23 Jun 2021 20:44:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储罗森格伦：预计明年通胀将略高于2％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1452024.d.html</link>
-            <guid>2218668</guid>
-            <pubDate>Wed, 23 Jun 2021 20:44:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据Coindesk：火币暂停向部分用户提供加密衍生品服务，并对部分用户的期货杠杆水平设置了某些限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2851878.d.html</link>
-            <guid>2218667</guid>
-            <pubDate>Wed, 23 Jun 2021 20:44:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股大全新能源盘后跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2851772.d.html</link>
-            <guid>2218666</guid>
-            <pubDate>Wed, 23 Jun 2021 20:41:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国国务卿布林肯会见德国总理默克尔 “北溪-2”项目仍存争端】 美国国务卿布林肯当地时间6月23日在柏林会见德国总理默克尔。双方会议的话题包括新冠肺炎疫情、气候危机、和阿富汗等问题，但两国在“北溪-2”输油管道问题上仍旧存在争端。布林肯在会中强调，美国仍在“北溪-2”输油管道问题上持反对意见，并鼓励德国采取具体步骤，以减少它对乌克兰和欧洲能源安全构成的风险。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2851588.d.html</link>
-            <guid>2218665</guid>
-            <pubDate>Wed, 23 Jun 2021 20:38:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储罗森格伦：经济正强劲复苏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2851573.d.html</link>
-            <guid>2218664</guid>
-            <pubDate>Wed, 23 Jun 2021 20:37:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国SEC主席正深入研究ESG投资问题】 美国证券交易委员会（SEC）近期完成了关于扩大公司气候变化信息披露的公开意见征求，并成立了一个气候与ESG（环境、社会、及公司治理）执法工作组。SEC主席Gary Gensler在6月23日表示，SEC斩获超过400份关于ESG的意见函，他开始考虑SEC应当更加关注哪些类型的信息。Gensler已经要求下属关注大范围的具体衡量维度，其中就包括温室气体排放，以判断哪些因素与投资者关联度更高。Gensler还希望，能确定相关公司是否兑现自身在气候相关问题上已经做出的承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2850492.d.html</link>
-            <guid>2218663</guid>
-            <pubDate>Wed, 23 Jun 2021 20:20:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【迈克菲杀毒软件创始人约翰·迈克菲被发现死于位于巴塞罗那的监狱中】根据多家西班牙媒体的消息，当地时间6月23日，今年75岁的迈克菲杀毒软件创始人约翰·迈克菲日前被发现死于位于巴塞罗那一家监狱的牢房中。据悉，因涉嫌逃税而被等待引渡到美国的迈克菲死因很可能是自杀。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2850401.d.html</link>
-            <guid>2218662</guid>
-            <pubDate>Wed, 23 Jun 2021 20:18:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：卫材和百健的第二种阿尔茨海默症药物取得突破性进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2850381.d.html</link>
-            <guid>2218661</guid>
-            <pubDate>Wed, 23 Jun 2021 20:17:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南非消费者物价指数迅速攀升，食品通胀达46个月以来最高】 据南非国家统计局当地时间6月23日公布的数据显示，近期南非消费者物价指数（CPI）迅速攀升，从2021年4月份的4.4%上升至5月份的5.2%，这标志着近期南非通货膨胀明显。2021年5月份的消费者物价指数涨幅5.2%为该国近30个月来的最高位，年度总体通货膨胀已超过南非储备银行政策目标范围的中点4.5%，其中燃料和食品对此攀升影响最大。和2020年同期相比，南非汽油价格上涨了41.8%，而柴油价格上涨了27.0%，食品通胀升至46个月来最高点，涨幅前三名的食品分别为葵花籽油：+30.3%、西红柿：+29.4%、干豆：+27%。南非国家统计局称南非通胀压力正在从服务转向商品。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2850295.d.html</link>
-            <guid>2218660</guid>
-            <pubDate>Wed, 23 Jun 2021 20:16:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  生物技术公司Applied Genetic Technologies(AGTC.O)盘后涨超15%，将在周四公布最新数据。]]></title>
-            <guid>2218659</guid>
-            <pubDate>Wed, 23 Jun 2021 20:16:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳指创收盘历史新高，收报14271.7点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1449793.d.html</link>
-            <guid>2218658</guid>
-            <pubDate>Wed, 23 Jun 2021 20:03:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股芯片股多数上涨，半导体板块ETF涨0.4%，奇景光电涨6%，美光科技、西部数据涨超1%。特斯拉涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1449784.d.html</link>
-            <guid>2218657</guid>
-            <pubDate>Wed, 23 Jun 2021 20:03:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[热门中概股集体上涨，中国科技指数ETF涨超2%，老虎证券涨10%，涂鸦智能涨9%，理想汽车涨8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2849552.d.html</link>
-            <guid>2218656</guid>
-            <pubDate>Wed, 23 Jun 2021 20:03:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股收盘，三大股指涨跌不一，道指收跌约70点，电信业务、抗疫概念板块回吐日前涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2849402.d.html</link>
-            <guid>2218655</guid>
-            <pubDate>Wed, 23 Jun 2021 20:00:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国疾控中心：美国累计新冠肺炎确诊病例数升至33395620例，昨日为33382705例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2848982.d.html</link>
-            <guid>2218654</guid>
-            <pubDate>Wed, 23 Jun 2021 19:53:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国疾控中心：美国累计新冠肺炎死亡病例数升至600086例，昨日为599751例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1449211.d.html</link>
-            <guid>2218653</guid>
-            <pubDate>Wed, 23 Jun 2021 19:53:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国疾控中心的一个工作小组表示，目前没有足够的数据来建议加强新冠疫苗剂量，但是该机构将继续密切监测是否有这个需要。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1448955.d.html</link>
-            <guid>2218652</guid>
-            <pubDate>Wed, 23 Jun 2021 19:48:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股三大股指尾盘涨幅收窄。道指微跌0.01%，标普500指数涨0.08%，纳指涨0.26%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1448732.d.html</link>
-            <guid>2218651</guid>
-            <pubDate>Wed, 23 Jun 2021 19:42:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
