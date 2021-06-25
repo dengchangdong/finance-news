@@ -4,11 +4,334 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Fri, 25 Jun 2021 17:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Jun 2021 18:44:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[达拉斯联储4月PCE物价指数平减中值年率录得2.8%，4月为2.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1883570.d.html</link>
+            <guid>2221024</guid>
+            <pubDate>Fri, 25 Jun 2021 18:39:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗特使：伊朗没有义务对国际原子能机构延长监督协议的要求作出回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3281965.d.html</link>
+            <guid>2221023</guid>
+            <pubDate>Fri, 25 Jun 2021 18:38:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：SpaceX计划在7月发射星际飞船。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1883486.d.html</link>
+            <guid>2221022</guid>
+            <pubDate>Fri, 25 Jun 2021 18:38:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国总统拜登批准佛罗里达州进入紧急状态】美国总统拜登当地时间6月25日通过白宫声明宣布，佛罗里达州存在紧急情况，拜登下令联邦政府提供援助，以支持州和地方政府应对6月24日发生的住宅楼坍塌事件以及后续援救措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3281929.d.html</link>
+            <guid>2221021</guid>
+            <pubDate>Fri, 25 Jun 2021 18:38:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果公司：用户可能会遇到交易通知的延迟。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3281856.d.html</link>
+            <guid>2221020</guid>
+            <pubDate>Fri, 25 Jun 2021 18:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICE布伦特8月原油期货实盘价格周五收涨0.62美元，涨幅0.82%，报76.18美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1883387.d.html</link>
+            <guid>2221019</guid>
+            <pubDate>Fri, 25 Jun 2021 18:36:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英特尔首席执行官：数字经济将推动芯片产业的发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1883346.d.html</link>
+            <guid>2221018</guid>
+            <pubDate>Fri, 25 Jun 2021 18:36:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英特尔首席执行官：到2023年，半导体行业供应将恢复“健康”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1883296.d.html</link>
+            <guid>2221017</guid>
+            <pubDate>Fri, 25 Jun 2021 18:35:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：缩债计划的细节尚未确定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1883282.d.html</link>
+            <guid>2221016</guid>
+            <pubDate>Fri, 25 Jun 2021 18:35:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：这意味着在我们停止国债购买计划之前，就停止住房抵押贷款支持证券计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1883275.d.html</link>
+            <guid>2221015</guid>
+            <pubDate>Fri, 25 Jun 2021 18:35:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：美联储应该考虑同等规模地减少购买国债和抵押贷款支持证券。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1883130.d.html</link>
+            <guid>2221014</guid>
+            <pubDate>Fri, 25 Jun 2021 18:32:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：我们最不想做的事情就是以充分就业为目标，却无意中导致房地产市场的繁荣和萧条。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3281553.d.html</link>
+            <guid>2221013</guid>
+            <pubDate>Fri, 25 Jun 2021 18:31:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海原油期货主力合约夜盘收涨0.86%，报470元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1883039.d.html</link>
+            <guid>2221012</guid>
+            <pubDate>Fri, 25 Jun 2021 18:30:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交易所收盘】上海黄金交易所黄金T+D 6月26日（周六）晚盘收盘下跌0.22%报369.75元/克；上海黄金交易所白银T+D 6月26日（周六）晚盘收盘下跌0.28%报5352.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3281518.d.html</link>
+            <guid>2221011</guid>
+            <pubDate>Fri, 25 Jun 2021 18:30:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：支持性的财政政策将需要正常化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1882911.d.html</link>
+            <guid>2221010</guid>
+            <pubDate>Fri, 25 Jun 2021 18:28:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[芝商所（CME）：6月25日，微型比特币期货合约成交量超过100万张。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1882795.d.html</link>
+            <guid>2221009</guid>
+            <pubDate>Fri, 25 Jun 2021 18:26:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：美联储在达到充分就业之前不会加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1882653.d.html</link>
+            <guid>2221008</guid>
+            <pubDate>Fri, 25 Jun 2021 18:23:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：不预计在2022年工资和价格都会更高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1882643.d.html</link>
+            <guid>2221007</guid>
+            <pubDate>Fri, 25 Jun 2021 18:23:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：要时间来解决劳动力市场的不景气。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1882640.d.html</link>
+            <guid>2221006</guid>
+            <pubDate>Fri, 25 Jun 2021 18:23:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[每日优鲜跌幅扩大至32%，报8.77美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1882592.d.html</link>
+            <guid>2221005</guid>
+            <pubDate>Fri, 25 Jun 2021 18:22:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：对利率的具体预测不予置评。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1882544.d.html</link>
+            <guid>2221004</guid>
+            <pubDate>Fri, 25 Jun 2021 18:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：有可能在2022年底前满足美联储设定的条件。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1882542.d.html</link>
+            <guid>2221003</guid>
+            <pubDate>Fri, 25 Jun 2021 18:21:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：确定充分就业率是相当困难的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3280994.d.html</link>
+            <guid>2221002</guid>
+            <pubDate>Fri, 25 Jun 2021 18:21:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：预计失业率将下跌，到年底跌至4%区间的中部。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3280969.d.html</link>
+            <guid>2221001</guid>
+            <pubDate>Fri, 25 Jun 2021 18:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：预计2022年将实现充分就业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3280888.d.html</link>
+            <guid>2221000</guid>
+            <pubDate>Fri, 25 Jun 2021 18:19:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国宣布葡萄牙和俄罗斯为病毒变异地区，对这两个国家实施了旅行限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3280798.d.html</link>
+            <guid>2220999</guid>
+            <pubDate>Fri, 25 Jun 2021 18:18:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：价格上涨的持续时间可能比我们预期的要长一些。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1882283.d.html</link>
+            <guid>2220998</guid>
+            <pubDate>Fri, 25 Jun 2021 18:18:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：二手车价格不太可能持续走高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1882228.d.html</link>
+            <guid>2220997</guid>
+            <pubDate>Fri, 25 Jun 2021 18:17:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：预计今年美国GDP增长将达到7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1882222.d.html</link>
+            <guid>2220996</guid>
+            <pubDate>Fri, 25 Jun 2021 18:17:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：预计通胀的攀升是暂时的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1882141.d.html</link>
+            <guid>2220995</guid>
+            <pubDate>Fri, 25 Jun 2021 18:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：核心通胀率的上升并不完全令人意外。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3280617.d.html</link>
+            <guid>2220994</guid>
+            <pubDate>Fri, 25 Jun 2021 18:16:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥央行副行长：如果CPI符合预期，墨西哥央行可能避免进一步加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3280492.d.html</link>
+            <guid>2220993</guid>
+            <pubDate>Fri, 25 Jun 2021 18:13:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥央行副行长：墨西哥央行的加息并不一定是紧缩周期的开始。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1881981.d.html</link>
+            <guid>2220992</guid>
+            <pubDate>Fri, 25 Jun 2021 18:13:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国两党参议员小组将在北京时间凌晨3点讨论基础设施计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3280482.d.html</link>
+            <guid>2220991</guid>
+            <pubDate>Fri, 25 Jun 2021 18:13:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥国家石油公司5月汽油产量为217.0万桶/天，环比增长9.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1881965.d.html</link>
+            <guid>2220990</guid>
+            <pubDate>Fri, 25 Jun 2021 18:13:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：由于新冠疫情导致工厂关闭，美国炼油能力萎缩了4.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3280037.d.html</link>
+            <guid>2220989</guid>
+            <pubDate>Fri, 25 Jun 2021 18:06:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：希望能解决劳动力短缺的问题；在做决定之前，我们可能需要更多的数据。]]></title>
+            <guid>2220988</guid>
+            <pubDate>Fri, 25 Jun 2021 18:03:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：是时候考虑退出宽松的货币政策的速度了。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1881245.d.html</link>
+            <guid>2220987</guid>
+            <pubDate>Fri, 25 Jun 2021 18:03:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：与佛罗里达州州长德桑蒂斯就建筑倒塌一事进行了交谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1881077.d.html</link>
+            <guid>2220986</guid>
+            <pubDate>Fri, 25 Jun 2021 18:00:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：我们正在迅速走向充分就业和可持续2%的通货膨胀，但目前还没有达到。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3279560.d.html</link>
+            <guid>2220985</guid>
+            <pubDate>Fri, 25 Jun 2021 18:00:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：现在有很多关于通货膨胀的炒作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1881004.d.html</link>
+            <guid>2220984</guid>
+            <pubDate>Fri, 25 Jun 2021 18:00:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：看到劳动力市场出现严重的疲软。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1881000.d.html</link>
+            <guid>2220983</guid>
+            <pubDate>Fri, 25 Jun 2021 17:59:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：一些商品正在调整到更正常的价格结构。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1880909.d.html</link>
+            <guid>2220982</guid>
+            <pubDate>Fri, 25 Jun 2021 17:58:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：通胀不太可能在2022年和2023年成为问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1880803.d.html</link>
+            <guid>2220981</guid>
+            <pubDate>Fri, 25 Jun 2021 17:57:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：尼日利亚7月QUA IBOE原油官方售价设定为较布伦特原油升水50美分/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1880580.d.html</link>
+            <guid>2220980</guid>
+            <pubDate>Fri, 25 Jun 2021 17:55:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：气候变化是银行监管者应该考虑的一个正当领域。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3278981.d.html</link>
+            <guid>2220979</guid>
+            <pubDate>Fri, 25 Jun 2021 17:54:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX 8月黄金期货收涨将近0.1%，报1777.80美元/盎司，本周累涨约0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1880048.d.html</link>
+            <guid>2220978</guid>
+            <pubDate>Fri, 25 Jun 2021 17:50:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：我们应该朝着集中清算的方向前进，但不会马上实现。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1879849.d.html</link>
+            <guid>2220977</guid>
+            <pubDate>Fri, 25 Jun 2021 17:48:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：我们需要考虑国债市场的各种变化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3278429.d.html</link>
+            <guid>2220976</guid>
+            <pubDate>Fri, 25 Jun 2021 17:47:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：关于央行数字货币还有很多工作要做，正在取得很大的进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3278376.d.html</link>
+            <guid>2220975</guid>
+            <pubDate>Fri, 25 Jun 2021 17:47:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：即时付款可能会带来潜在的财务稳定性问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1879774.d.html</link>
+            <guid>2220974</guid>
+            <pubDate>Fri, 25 Jun 2021 17:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：除非银行体系发生体制上的变化，否则我们不会触及美国经济中的非银行部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1879703.d.html</link>
+            <guid>2220973</guid>
+            <pubDate>Fri, 25 Jun 2021 17:46:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储罗森格伦：央行数字货币与实时支付系统FedNow之间有很强的协同效应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1879633.d.html</link>
+            <guid>2220972</guid>
+            <pubDate>Fri, 25 Jun 2021 17:45:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国卫生部公告：部分新冠肺炎变异毒株对礼来制药的抗体组合具有耐受性，美方故而暂停分配这种抗体组合。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1879545.d.html</link>
+            <guid>2220971</guid>
+            <pubDate>Fri, 25 Jun 2021 17:43:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美联储隔夜逆回购使用量创6月15日以来最大降幅】周五美联储隔夜逆回购工具使用量创一周多来最大降幅。74家机构参与，使用量总计7708亿美元，低于周四的8130亿美元，6月23日创下的纪录高点为8136亿美元。422亿美元降幅为6月15日以来最大。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1879386.d.html</link>
@@ -280,327 +603,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1876736.d.html</link>
             <guid>2220924</guid>
             <pubDate>Fri, 25 Jun 2021 17:08:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国民主党参议员Manchin：民主党版的基础设施法案“不可避免”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3274521.d.html</link>
-            <guid>2220923</guid>
-            <pubDate>Fri, 25 Jun 2021 16:59:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：白宫正在审议加强汽车排放标准的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1875688.d.html</link>
-            <guid>2220922</guid>
-            <pubDate>Fri, 25 Jun 2021 16:57:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：有关基础设施计划的工作仍在继续。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3274342.d.html</link>
-            <guid>2220921</guid>
-            <pubDate>Fri, 25 Jun 2021 16:56:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：两党达成的基础设施协议没有陷入困境。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1875616.d.html</link>
-            <guid>2220920</guid>
-            <pubDate>Fri, 25 Jun 2021 16:56:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：拜登将于下周五就非农就业报告发表讲话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1875532.d.html</link>
-            <guid>2220919</guid>
-            <pubDate>Fri, 25 Jun 2021 16:55:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新股生物制药试剂供应商Alpha Teknova(TKNO.O)首日上市开涨超30%，报20.26美元，IPO定价16美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1875433.d.html</link>
-            <guid>2220918</guid>
-            <pubDate>Fri, 25 Jun 2021 16:54:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：拜登将在下周一接待以色列总统访问白宫。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3274127.d.html</link>
-            <guid>2220917</guid>
-            <pubDate>Fri, 25 Jun 2021 16:54:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  LME期铜收跌6美元，报9414美元/吨。 LME期铝收涨46美元，报2486美元/吨。 LME期锌收跌8美元，报2908美元/吨。 LME期铅收平，报2220美元/吨。 LME期镍收涨116美元，报18523美元/吨。 LME期锡收涨140美元，报30774美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3274026.d.html</link>
-            <guid>2220916</guid>
-            <pubDate>Fri, 25 Jun 2021 16:53:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[汇丰：将港铁公司(00066.HK)评级上调至买进，目标价49.4港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1875159.d.html</link>
-            <guid>2220915</guid>
-            <pubDate>Fri, 25 Jun 2021 16:51:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国共和党参议员希望民主党议员曼钦和SINEMA就预算和解程序作出承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3273569.d.html</link>
-            <guid>2220914</guid>
-            <pubDate>Fri, 25 Jun 2021 16:48:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议员莫兰放弃支持基础设施协议. 。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3273547.d.html</link>
-            <guid>2220913</guid>
-            <pubDate>Fri, 25 Jun 2021 16:48:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【为遏制聚集性疫情 泰国对疫情严重地区工地进行封闭管控】泰国劳工部部长素察于当地时间6月25日表示，自6月28日起对疫情严重的首都曼谷及周边地区以及南部4府建筑工地实施为期1个月的停工和封闭式管理，封闭期间将保障劳工的食宿并支付相应生活费，以期快速遏制建筑工地内不断出现的聚集性疫情。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1874797.d.html</link>
-            <guid>2220912</guid>
-            <pubDate>Fri, 25 Jun 2021 16:47:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：Perspectum Group申请美国IPO，寻求在纳斯达克交易所上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1874244.d.html</link>
-            <guid>2220911</guid>
-            <pubDate>Fri, 25 Jun 2021 16:42:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：拜登感谢美国民主党议员Sinema对基础设施协议的支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1874232.d.html</link>
-            <guid>2220910</guid>
-            <pubDate>Fri, 25 Jun 2021 16:41:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大公共卫生机构：加拿大两个月的预测显示，预计新冠肺炎病例将在全国范围内下降，如果重新开放增加接触率，疫情可能会卷土重来。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1874075.d.html</link>
-            <guid>2220909</guid>
-            <pubDate>Fri, 25 Jun 2021 16:40:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[突尼斯政府：突尼斯总理Hisham Amchichi感染了新冠病毒。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1874052.d.html</link>
-            <guid>2220908</guid>
-            <pubDate>Fri, 25 Jun 2021 16:39:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大公共卫生机构：更具传染性德尔塔变种毒株可能会导致疫情在今年秋冬季出现比预期更严重的恶化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1874010.d.html</link>
-            <guid>2220907</guid>
-            <pubDate>Fri, 25 Jun 2021 16:39:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股区块链板块普跌。嘉楠科技跌超6%，Marathon Patent、Riot Blockchain跌超4%，Coinbase、Square跌超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1873282.d.html</link>
-            <guid>2220906</guid>
-            <pubDate>Fri, 25 Jun 2021 16:30:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币跌破32000美元/枚，日内跌超7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1873136.d.html</link>
-            <guid>2220905</guid>
-            <pubDate>Fri, 25 Jun 2021 16:28:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯驻美国大使表示，俄罗斯副外长将率领俄罗斯代表团参加战略稳定问题会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3271591.d.html</link>
-            <guid>2220904</guid>
-            <pubDate>Fri, 25 Jun 2021 16:26:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世卫组织助理总干事Simao：预计下个月或两个月内会有一到两份新的新冠疫苗紧急使用清单。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3271470.d.html</link>
-            <guid>2220903</guid>
-            <pubDate>Fri, 25 Jun 2021 16:25:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：俄罗斯驻美国大使表示，美俄可能会在7月讨论战略稳定问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1872566.d.html</link>
-            <guid>2220902</guid>
-            <pubDate>Fri, 25 Jun 2021 16:21:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西经济部长盖德斯：希望通胀率达到5.5%，最高6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1872390.d.html</link>
-            <guid>2220901</guid>
-            <pubDate>Fri, 25 Jun 2021 16:20:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿富汗驻俄罗斯大使表示，美国撤军是对阿富汗人不负责任的行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1872240.d.html</link>
-            <guid>2220900</guid>
-            <pubDate>Fri, 25 Jun 2021 16:18:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚利桑那州Mister Car Wash（MCW）美国IPO首日开盘报18.90美元，此前给出的IPO发行价为每股15.00美元。该公司为美国最大洗车品牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3270781.d.html</link>
-            <guid>2220899</guid>
-            <pubDate>Fri, 25 Jun 2021 16:16:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯驻美国大使表示，美国关于可能对俄罗斯实施新制裁的声明无助于为两国关系创造积极气氛。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1872112.d.html</link>
-            <guid>2220898</guid>
-            <pubDate>Fri, 25 Jun 2021 16:16:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周五（6月25日）欧市尾盘，ICE欧盟碳排放交易许可（期货价格）涨1.00%，报55.54欧元，本周累涨7.20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3270724.d.html</link>
-            <guid>2220897</guid>
-            <pubDate>Fri, 25 Jun 2021 16:16:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯驻美国大使的签证问题仍然没有解决。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3270709.d.html</link>
-            <guid>2220896</guid>
-            <pubDate>Fri, 25 Jun 2021 16:15:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯驻美国大使表示，美国官员已接到指示，要加强与俄罗斯的接触。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3270653.d.html</link>
-            <guid>2220895</guid>
-            <pubDate>Fri, 25 Jun 2021 16:14:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：冰岛将从周六开始取消所有新冠疫情限制措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1871943.d.html</link>
-            <guid>2220894</guid>
-            <pubDate>Fri, 25 Jun 2021 16:13:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：阿斯利康的糖尿病治疗药物达到三期临床试验的终点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1871826.d.html</link>
-            <guid>2220893</guid>
-            <pubDate>Fri, 25 Jun 2021 16:11:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：福特汽车(F.N)向财团提交关于再融资计划的报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3270342.d.html</link>
-            <guid>2220892</guid>
-            <pubDate>Fri, 25 Jun 2021 16:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[吉利控股：和宁波市政府签署战略合作协议，极氪智能科技全球总部落户宁波，积极探索实践吉利共同富裕先行市示范点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3270095.d.html</link>
-            <guid>2220891</guid>
-            <pubDate>Fri, 25 Jun 2021 16:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广州南沙区发布通告：除中风险地区外，今日起餐饮服务单位恢复堂食。（南方Plus）]]></title>
-            <guid>2220890</guid>
-            <pubDate>Fri, 25 Jun 2021 16:07:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国农业部和联邦通信委员会同意协调宽带资金部署。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1871472.d.html</link>
-            <guid>2220889</guid>
-            <pubDate>Fri, 25 Jun 2021 16:07:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新股基因编辑技术服务商Graphite Bio(GRPH.O)首日上市开涨超23%，报21.06美元，IPO定价17美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1871440.d.html</link>
-            <guid>2220888</guid>
-            <pubDate>Fri, 25 Jun 2021 16:07:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今夜北京四警齐发，延庆最大冰雹直径达4.5厘米】今夜，北京的天气上演了一场“四重奏”，市气象台先后发布了雷电黄色、冰雹黄色、大风蓝色和暴雨蓝色预警。目前，四警仍然生效中。根据市气象台统计，从25日18时至23时，全市平均降水量17.6毫米，城区平均14.6毫米，东北30.4毫米，西北27.8毫米，东南10.3毫米，西南1.1毫米；城区最大朝阳崔各庄站50.0毫米，全市最大密云查子沟79.3毫米。在这场降雨中，本市局地出现7到9级短时大风，北部和城区的局地降雹，延庆本站最大冰雹直径达4.5厘米。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1871173.d.html</link>
-            <guid>2220887</guid>
-            <pubDate>Fri, 25 Jun 2021 16:04:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利新增753例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1871104.d.html</link>
-            <guid>2220886</guid>
-            <pubDate>Fri, 25 Jun 2021 16:04:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：世界卫生组织将在未来几周召集专家重新评估该组织关于疫苗护照的建议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3269447.d.html</link>
-            <guid>2220885</guid>
-            <pubDate>Fri, 25 Jun 2021 16:01:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【钟南山判断广州疫情防控取得阶段性胜利】6月25日，钟南山院士在广州接受采访时表示，近一个月，德尔塔变异病毒株第一次在中国出现社区传播，重点战场在广州。他作出判断，目前广州疫情防控已取得第一阶段胜利，我国在应对德尔塔变异株社区感染的第一阶段“战疫”中取得了阶段性重大成绩！（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3268962.d.html</link>
-            <guid>2220884</guid>
-            <pubDate>Fri, 25 Jun 2021 15:54:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：随着对技术和基础设施的投资增加，这种情况可能会改变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3268751.d.html</link>
-            <guid>2220883</guid>
-            <pubDate>Fri, 25 Jun 2021 15:50:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[迪士尼下跌0.13%；欧洲将对流媒体服务实施新规则，欧盟委员会规定，流媒体服务上至少有30%的电影和电视节目来自欧洲，且各国会根据具体情况做出进一步规定。法国刚刚通过了欧洲内容最低占比60%的规定。]]></title>
-            <guid>2220882</guid>
-            <pubDate>Fri, 25 Jun 2021 15:44:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：由于生产率增长放缓，我们的潜在增长率较低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3268232.d.html</link>
-            <guid>2220881</guid>
-            <pubDate>Fri, 25 Jun 2021 15:43:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：经济增长取决于劳动力市场的增长和经济产出。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1869570.d.html</link>
-            <guid>2220880</guid>
-            <pubDate>Fri, 25 Jun 2021 15:42:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  WTI原油期货日内涨幅达1%，现报74.03美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3268120.d.html</link>
-            <guid>2220879</guid>
-            <pubDate>Fri, 25 Jun 2021 15:41:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【股市收盘】西班牙IBEX35指数6月25日（周五）收盘上涨21.90点，涨幅0.24%，报9096.00点；法国CAC40指数6月25日（周五）收盘下跌8.28点，跌幅0.13%，报6622.87点；英国富时100指数6月25日（周五）收盘上涨25.50点，涨幅0.36%，报7135.47点；意大利富时MIB指数6月25日（周五）收盘上涨85.28点，涨幅0.34%，报25507.50点；德国DAX30指数6月25日（周五）收盘上涨19.97点，涨幅0.13%，报15609.20点；欧洲斯托克50指数6月25日（周五）收盘下跌1.48点，跌幅0.04%，报4120.95点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1869456.d.html</link>
-            <guid>2220878</guid>
-            <pubDate>Fri, 25 Jun 2021 15:41:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  在岸人民币兑美元（CNY）北京时间23:30收报6.4550元，较上一日夜盘收盘涨177点。成交量381.99亿美元，较上一日减少82.53亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3267750.d.html</link>
-            <guid>2220877</guid>
-            <pubDate>Fri, 25 Jun 2021 15:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世界卫生组织总干事谭德塞：对德尔塔变种新冠病毒感到担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3267437.d.html</link>
-            <guid>2220876</guid>
-            <pubDate>Fri, 25 Jun 2021 15:34:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京已为300余家拟上市企业提供培训辅导，发挥协同加速作用】从北京市文资中心获悉，北京市文资中心已举办8期文化企业上市培训班，为300余家拟上市挂牌文化企业提供专业的财务、法律、税务、保荐知识培训辅导。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1868791.d.html</link>
-            <guid>2220875</guid>
-            <pubDate>Fri, 25 Jun 2021 15:33:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国驻世贸组织代表：欢迎关于疫苗专利豁免的谈判取得进展，我们需要紧急行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3267335.d.html</link>
-            <guid>2220874</guid>
-            <pubDate>Fri, 25 Jun 2021 15:33:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油期货站上76美元，日内涨幅达0.49%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3267312.d.html</link>
-            <guid>2220873</guid>
-            <pubDate>Fri, 25 Jun 2021 15:32:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【钟南山院士：广州将建5000个独立空间的国际健康驿站】中国工程院院士、国家呼吸系统疾病临床医学研究中心主任钟南山表示，虽然广州某些高发区采取了整区在酒店隔离，这样解决了不少问题，但是普通酒店作为隔离酒店是不太合格的。大概有全国超过80%以上，甚至接近90%国外来往的旅客都在这里。广州已经决定在郊区建立一个占地25万平方米的广州国际健康驿站，有5000个独立的空间，房间严格按照隔离（标准），不会互相传染，这样才叫隔离酒店。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3267114.d.html</link>
-            <guid>2220872</guid>
-            <pubDate>Fri, 25 Jun 2021 15:30:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  抗生素生物科技公司Acurx Pharmaceuticals(ACXP.O)上市首日破发，开盘价报5.95美元，IPO价为6美元/股，现涨11.33%。]]></title>
-            <guid>2220871</guid>
-            <pubDate>Fri, 25 Jun 2021 15:29:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【钟南山：入境人员在隔离期内不需增加隔离时间 应增加核酸检测频次】对于目前大家担心的“德尔塔(Delta)变种病毒潜伏期是否更长，入境人员是否应增加隔离时间、加强隔离管理”问题，钟南山院士表示：我不认为还要再增加。因为一般来说绝大多数的潜伏期并不长，有极少数的潜伏期长，再增加隔离观察的话，那是弊大于利。我们应该加强对这些人员在隔离时间内的核酸检测，加强对频度的检测，我觉得这是有效的办法。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3266675.d.html</link>
-            <guid>2220870</guid>
-            <pubDate>Fri, 25 Jun 2021 15:25:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
