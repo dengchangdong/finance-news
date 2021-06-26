@@ -4,11 +4,46 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 26 Jun 2021 03:40:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jun 2021 04:46:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【特斯拉回应召回：深表歉意 用户无需到店即可通过汽车远程升级完成】针对召回事件，特斯拉方面6月26日表示，本次召回范围内的车辆（Model 3/Model Y），由于主动巡航控制功能可能被驾驶员误激活，在极端情况下存在安全隐患，特斯拉主动向国家市场监督管理总局备案了召回计划。用户无需到店即可通过汽车远程升级（OTA）完成。特斯拉表示，对于此次召回事件给各位车主带来的不便深表歉意。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3357027.d.html</link>
+            <guid>2221209</guid>
+            <pubDate>Sat, 26 Jun 2021 04:36:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海南启动打击治理离岛免税“套代购”走私专项行动】昨日上午，海南省举行打击治理离岛免税“套代购”走私专项行动启动仪式。海关总署、海南省政府决定自即日起，对“套代购”走私离岛免税商品行为开展为期一年的专项打击治理行动。行动将清理整治非法销售行为，夯实免税经营主体的责任，加强对寄递行业的监管，严厉打击非法揽货、非法寄递等行为。]]></title>
+            <guid>2221208</guid>
+            <pubDate>Sat, 26 Jun 2021 04:24:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚新南威尔士州长Berejiklian： 新南威尔士州宣布对悉尼进行更大规模的封锁，至7月9日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3351130.d.html</link>
+            <guid>2221207</guid>
+            <pubDate>Sat, 26 Jun 2021 04:05:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特斯拉召回部分进口和国产Model 3、国产Model Y电动汽车 共计285520辆】特斯拉汽车（北京）有限公司召回2019年1月12日至2019年11月27日期间生产的部分进口Model 3电动汽车，共计35665辆。特斯拉（上海）有限公司召回2019年12月19日至2021年6月7日期间生产的部分国产Model 3电动汽车，共计211256辆；2021年1月1日至2021年6月7日期间生产的部分国产Model Y电动汽车，共计38599辆。本次召回范围内的车辆由于主动巡航控制系统问题，易造成驾驶员误激活主动巡航功能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3349754.d.html</link>
+            <guid>2221205</guid>
+            <pubDate>Sat, 26 Jun 2021 03:58:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印度新增新冠肺炎确诊病例48698例 累计确诊超3018万例】据印度卫生部最新数据，截至当地时间6月26日早8时（北京时间10时30分），过去24小时，印度新增新冠肺炎确诊病例48698例，累计确诊30183143例；新增死亡病例1183例，累计死亡394493例；累计治愈29193085例；现存确诊病例595565例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1950866.d.html</link>
+            <guid>2221204</guid>
+            <pubDate>Sat, 26 Jun 2021 03:53:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网：德国另类选择党联席主席表示，希望能够举行欧盟-俄罗斯峰会，尽管有部分欧盟国家表示反对。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1949988.d.html</link>
+            <guid>2221203</guid>
+            <pubDate>Sat, 26 Jun 2021 03:49:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[墨西哥卫生部：截至6月25日晚7时，墨西哥新冠肺炎确诊病例新增5270例，累计达2498357例，新增死亡病例278例，累计升至232346例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3345675.d.html</link>
@@ -567,42 +602,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3287795.d.html</link>
             <guid>2221083</guid>
             <pubDate>Fri, 25 Jun 2021 21:00:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：Enrique预计将于明天加强为飓风，已向墨西哥湾西南部地区发出热带风暴警告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3287652.d.html</link>
-            <guid>2221082</guid>
-            <pubDate>Fri, 25 Jun 2021 20:56:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[渤健盘后几无波动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1889403.d.html</link>
-            <guid>2221081</guid>
-            <pubDate>Fri, 25 Jun 2021 20:56:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF：执行委员会就6500亿美元的新特别提款权拨款进行了讨论，这标志着下一步行动将于8月完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1889294.d.html</link>
-            <guid>2221080</guid>
-            <pubDate>Fri, 25 Jun 2021 20:53:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【标普500指数连续第二天走高，市场波动性回归疫情前水平】① 美国股市周五收盘连续第二个交易日走高。在刚刚结束的一周，市场波动性大幅下降，与经济复苏联系密切的公司股票受到投资者追捧。美国国债则大幅下跌；② 标普500指数成份股中401只个股上涨，11个行业类股中有10个走高，金融股领涨；② 标普500指数一周累计上涨2.7%，为2月以来最大单周涨幅，金融和零售股的表现超越了作为居家工作投资策略核心的科技股；③ VIX指数跌至大流行病爆发前的水平；④ 一些大型银行股周五上涨，投资者猜测在美联储发布压力测试结果之后，可能会出现一波银行派息和回购股票浪潮美国监管机构批准维珍银河控股提供太空游服务，公司股价大涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3287529.d.html</link>
-            <guid>2221079</guid>
-            <pubDate>Fri, 25 Jun 2021 20:53:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国会山民主党成员们宣布调查渤健的阿尔茨海默症药品Aduhelm获批一事。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1889279.d.html</link>
-            <guid>2221078</guid>
-            <pubDate>Fri, 25 Jun 2021 20:53:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国政府：自2004年以来美国五角大楼共记录了144起UFO目击事件，其中一起事件的报告中给出的原因是出现“空中杂波”，其余143起事件的报告都没有给出具体原因解释。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3287510.d.html</link>
-            <guid>2221077</guid>
-            <pubDate>Fri, 25 Jun 2021 20:53:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
