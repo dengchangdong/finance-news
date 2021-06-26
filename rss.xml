@@ -4,11 +4,23 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 26 Jun 2021 21:37:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jun 2021 22:36:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国累计新冠肺炎确诊病例超过3360万例】根据美国约翰斯·霍普金斯大学于美国东部时间6月26日17时21分（北京时间6月27日5时21分）公布的统计数据显示，美国累计新冠肺炎确诊病例已超过3360万例，达到33607739例。累计死亡病例超过60.3万例，达到603647例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2071649.d.html</link>
+            <guid>2221656</guid>
+            <pubDate>Sat, 26 Jun 2021 22:17:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  智利新增新冠肺炎确诊病例5628例，新增死亡病例215例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3468127.d.html</link>
+            <guid>2221655</guid>
+            <pubDate>Sat, 26 Jun 2021 21:57:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美媒：美国西部90%以上地区正在遭受历史性干旱的威胁】据美国福克斯新闻当地时间6月26日报道，美国西部90%以上地区都处于历史性的、危及生命的干旱状态中，超5800万居民将受到影响。美国国家海洋和大气局（NOAA）的国家综合干旱信息系统报告称，"极端"和"异常"的干旱水平已经连续第三周创下纪录，49.7%的美国西部地区正在经历“极端”干旱。美国西部地区近几周来一直遭受干旱和高温的影响，野火风险随之增加，多位州长已经宣布进入紧急状态。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3466732.d.html</link>
@@ -592,18 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3409992.d.html</link>
             <guid>2221286</guid>
             <pubDate>Sat, 26 Jun 2021 10:40:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[工银瑞信基金证实，已接到基金投顾试点批文。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3409688.d.html</link>
-            <guid>2221285</guid>
-            <pubDate>Sat, 26 Jun 2021 10:38:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万亿市场大动作 新一批基金投顾试点出炉】记者获悉，目前至少有6家券商和6家基金已正式成为新一批获准试点开展基金投顾的公司。其中，基金公司包括：博时基金、兴证全球基金、广发基金、工银瑞信基金、招商基金、交银施罗德基金等多家公募。6家券商分别有兴业证券、招商证券、国信证券、东方证券、中信证券、安信证券等。业内人士认为，新一批机构的加入，将会对投顾业务生态的形成和多元化发展，起到积极的助推作用。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3409675.d.html</link>
-            <guid>2221284</guid>
-            <pubDate>Sat, 26 Jun 2021 10:38:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
