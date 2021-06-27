@@ -4,11 +4,35 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sun, 27 Jun 2021 12:55:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Jun 2021 13:36:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据西雅图时报：美国联邦航空管理局（FAA）表示，波音777X可能需要更多的飞行测试。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2195927.d.html</link>
+            <guid>2221884</guid>
+            <pubDate>Sun, 27 Jun 2021 13:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据西雅图时报：美国联邦航空管理局（FAA）推迟了波音777X的认证。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3594090.d.html</link>
+            <guid>2221883</guid>
+            <pubDate>Sun, 27 Jun 2021 13:22:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫顾问Richmond：预计美国总统拜登将签署基建法案和其他（规模）更大的法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3594080.d.html</link>
+            <guid>2221882</guid>
+            <pubDate>Sun, 27 Jun 2021 13:22:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中亚多国疫情反弹 防疫措施再收紧】6月中旬以来,中亚多国疫情由于“德尔塔”毒株蔓延等因素出现反弹迹象,为遏制病毒进一步传播,包括哈萨克斯坦在内等多个国家近期宣布将恢复或加强防疫限制措施。在哈萨克斯坦,截至26日,除首都努尔苏丹外,哈最大城市阿拉木图与阿特劳州、西哈州和卡拉干达州再次进入疫情风险等级“红区”。为遏制病毒变异毒株蔓延,努尔苏丹自27日起加强限制和检疫隔离措施。（中新社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3593050.d.html</link>
+            <guid>2221881</guid>
+            <pubDate>Sun, 27 Jun 2021 13:11:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【淮北矿业集团方良才：积极创造紫朔环境公司上市条件】据淮北矿业集团消息，6月27日，集团党委书记、董事长方良才到紫朔环境公司调研指导工作。他表示，要下定决心培育发展壮大新兴产业。尘硫硝一体化技术经过近几年的推广应用，得到了市场认可，一定要把这个品牌打响、擦亮。全力打造上市公司，明确上市目标，确保生产安全、经营安全，以及廉洁安全，积极创造上市的条件和环境。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3591117.d.html</link>
@@ -581,30 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2142289.d.html</link>
             <guid>2221762</guid>
             <pubDate>Sun, 27 Jun 2021 05:38:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国联通：与特变电工签署战略合作协议 将在工业互联网等领域展开合作】据中国联通微博消息，6月23日，中国联通与特变电工在新疆昌吉市签署战略合作协议。根据协议，双方将以企业信息化和工业互联网为重点合作领域，在工业互联网、云计算、大数据、物联网、国际通信业务、企业数字化转型及系统集成等领域展开深度合作，共同打造5G智能制造示范项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3539983.d.html</link>
-            <guid>2221761</guid>
-            <pubDate>Sun, 27 Jun 2021 05:34:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蔚来：全国第280座蔚来换电站，芜湖奥体中心换电站今日正式上线。这是该区域的首座二代站。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2141024.d.html</link>
-            <guid>2221760</guid>
-            <pubDate>Sun, 27 Jun 2021 05:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【汇丰银行：预计英国央行2022年将加息两次至0.50%】2023年或至少加息一次预计英国央行将在2022年加息两次，明年5月料加息15个基点至0.25%，11月再加息25个基点至0.50%。此外，预计2023年可能至少还会有一次加息。预计英国今年薪资增速为5.3%，而CPI在今年和明年将保持在目标之上。在此背景下，逐步逆转2020年中65个基点的降息似乎并不过分。另外，该行还料将在开始缩减资产负债表上留有一定空间，最早可能在2022年下半年，但也可能在2023年。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3538421.d.html</link>
-            <guid>2221759</guid>
-            <pubDate>Sun, 27 Jun 2021 05:21:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港财政司司长：电子消费券计划将有力推动香港经济朝数码方向转型】6月27日，香港特区政府财政司司长陈茂波发表网上日志表示，消费券计划公布后，无论是政府、储值支付工具营运商或大小商户，都积极解说详情或推广优惠。他自己在外出吃饭或活动时，不时也听到市民在讨论有关消费券的登记程序、不同电子钱包的叠加优惠，或者是各自的消费计划。陈茂波说，可以预期，这股正面的气氛将带动市民的消费意欲，有助消费券计划发挥“乘数效应”，更广泛地提振本地经济。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2139211.d.html</link>
-            <guid>2221757</guid>
-            <pubDate>Sun, 27 Jun 2021 05:14:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
