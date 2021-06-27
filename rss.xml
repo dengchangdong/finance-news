@@ -4,11 +4,40 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sun, 27 Jun 2021 16:58:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Jun 2021 17:39:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【草甘膦行业迎高景气周期 价格再创十年新高】今年以来，草甘膦行业进入罕见的高景气周期。6月25日，草甘膦价格再度走高，草甘膦价格最新报价48817元/吨，价格直逼5万元/吨的大关，当日涨幅4.27%。从市场周期来看，上一次草甘膦的价格高点出现在2013年9月，彼时国内草甘膦（95%）现货价约为4.46万元/吨。但从今年3月开始，草甘膦价格曲线近乎直线的拉升已经突破了这一关口，价格创下十年新高。中金公司认为，草甘膦十年一遇的景气周期再现。]]></title>
+            <guid>2221926</guid>
+            <pubDate>Sun, 27 Jun 2021 17:39:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【钢铁板块年内涨超26%，多股上半年业绩亮眼】今年以来，我国经济运行持续稳定恢复，钢材市场产销两旺，钢铁企业盈利明显好转。截至目前，A股钢铁板块36家上市公司已有9家发布2021年半年度业绩预告，其中8家实现预增。二级市场表现方面，上半年钢铁板块在28个申万一级行业中涨幅居前，截至6月25日收盘，钢铁板块年内涨幅达26.59%。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-28/detail-ikqcfnca3617219.d.html</link>
+            <guid>2221925</guid>
+            <pubDate>Sun, 27 Jun 2021 17:39:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯国家杜马主席：任何对核大国的挑衅都会威胁和平与全球安全】当地时间6月27日，俄罗斯国家杜马（议会下院）主席沃洛金在其社交主页评论英国驱逐舰事件，称任何对核大国的挑衅都会对和平与全球安全造成威胁。沃洛金强调，欧盟国家和美国都保持沉默，只字不提“有必要对英国实施制裁”。他们显然是在试图通过“避而不谈”来掩盖这一事件。这是双重标准的又一表现。联合国、欧安组织、欧洲理事会议会大会和欧洲议会应该谴责英国当局的行为，并追究这起事件幕后黑手的责任。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-28/detail-ikqciyzk2217583.d.html</link>
+            <guid>2221924</guid>
+            <pubDate>Sun, 27 Jun 2021 17:24:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新一轮利好纷至，工业互联网建设提档加速】我国工业互联网建设发展取得积极进展，具有一定行业和区域影响力的重点工业互联网平台超过100个。下一步，工业互联网政策体系将进一步完善，加快出台两化融合发展“十四五”规划。培育一批工业互联网创新中心，面向原材料、装备、消费品等重点行业加快工业互联网应用落地，同时加大专项资金支持力度，突破企业“不会用”和“不敢用”难题。业内认为，随着更具针对性政策举措的落地，工业互联网将加速向传统产业渗透，成为国民经济中增长最为活跃的领域之一。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-28/detail-ikqciyzk2216512.d.html</link>
+            <guid>2221923</guid>
+            <pubDate>Sun, 27 Jun 2021 17:11:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【重庆市水利局启动洪水防御IV级应急响应】根据《重庆市水利局水旱灾害防御工作预案（试行）》（渝水防〔2019〕26号），结合市防指6月27日20时发布的江河洪水和山洪灾害IV级预警。经会商研判，重庆市水利局决定自6月27日22时起启动洪水防御IV级应急响应。请各区县水行政主管部门及有关单位务必高度重视，加强防范，守住不发生人员伤亡的底线。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-28/detail-ikqcfnca3613892.d.html</link>
+            <guid>2221922</guid>
+            <pubDate>Sun, 27 Jun 2021 17:01:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  土耳其单日新冠肺炎新增确诊病例数自去年11月以来首次降至5000例以下。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-28/detail-ikqciyzk2214850.d.html</link>
@@ -573,36 +602,6 @@
             <title><![CDATA[  海正药业：公司通过国家药品监督管理局网站获悉，公司海博麦布片（曾用名：海泽麦布片）已获得《药品注册证书》，正式获批生产。]]></title>
             <guid>2221812</guid>
             <pubDate>Sun, 27 Jun 2021 08:13:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【新疆交建：联合体中标阿勒泰市阿禾文旅康养度假区建设项目工程总承包1-9标段】新疆交建公告，公司于近日收到阿勒泰市阿禾文旅康养度假区建设项目工程总承包中标通知书，公司与成都基准方中建筑设计有限公司组成的联合体被确定为该项目1-9标段的中标人。项目预算：项目总投资约38亿元，建安费约30亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2161718.d.html</link>
-            <guid>2221811</guid>
-            <pubDate>Sun, 27 Jun 2021 08:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  近日，中国移动四川成都分公司携手华为在天府国际机场部署5G分布式Massive MIMO技术，打造全国首个泛在千兆体验5G机场。（华为官网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2161587.d.html</link>
-            <guid>2221810</guid>
-            <pubDate>Sun, 27 Jun 2021 08:12:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【格力电器：高瓴资本充分尊重公司经营班子和高管团队】格力电器表示，高瓴资本充分尊重公司经营班子和高管团队，公司管理层也将恪尽职守，把业务做好，推动公司做大做强，稳健发展。另外，原材料涨价对行业整体而言是普遍性挑战，公司在积极推动从产品设计和成本控制角度来降低原材料涨价带来的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3559752.d.html</link>
-            <guid>2221809</guid>
-            <pubDate>Sun, 27 Jun 2021 08:12:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【协鑫能科：拟收购协鑫智慧能源10%股权 其将成为公司全资子公司】协鑫能科公告，公司拟以自筹资金现金收购协鑫集团持有的协鑫智慧能源10%的股权。本次交易完成后，公司持有标的公司100%的股权，标的公司将成为公司全资子公司。本次标的股权转让价格为7.3亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2161352.d.html</link>
-            <guid>2221808</guid>
-            <pubDate>Sun, 27 Jun 2021 08:10:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【格力电器回应“员工持股计划退休后行使的限制”：希望激励员工跟随企业发展】格力电器今日就“员工持股方案中员工退休后才能行使权利的限制”回应称，公司在设计员工持股方案时考虑尽可能让更多员工参与进来。公司对工作10年以上、20年以上老员工和技术工人，都进行了筛选，尽可能覆盖更多核心员工。本次员工持股方案不止为员工创造福利，更主要的是希望激励员工跟随企业发展。尽管方案设定的锁定期是两年，但实际原则上是持有至退休。公司希望员工持股计划带来的是激励，让员工更加有信心，有精气神，和企业一起发展，而不是只追求短期利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2160997.d.html</link>
-            <guid>2221807</guid>
-            <pubDate>Sun, 27 Jun 2021 08:09:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
