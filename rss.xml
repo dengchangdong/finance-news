@@ -4,11 +4,46 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sun, 27 Jun 2021 19:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Jun 2021 20:34:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【基金投顾业务试点“扩招” 6家券商同被二批“录取”】从多家券商处了解到，至少有6家券商已于6月25日收到第二批基金投顾业务试点资格批文。本次试点扩容可谓幅度不小，除了中信证券、招商证券、国信证券、兴业证券、东方证券、安信证券等至少6家券商获批，还有博时基金、广发基金、汇添富基金、银华基金、兴证全球基金、工银瑞信基金、招商基金、交银施罗德基金等8家公募基金公司同时入列。]]></title>
+            <guid>2221951</guid>
+            <pubDate>Sun, 27 Jun 2021 20:34:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多地银行暂停新房、二手房房贷业务“接单” 年内房贷放款或仍趋紧】继多个热点城市房贷利率上升之后，近期，有关多个城市二手房“停贷”的消息引发热议。热点二线城市中，南京、郑州、重庆、武汉、杭州、合肥等城市出现了银行房贷业务收紧的现象：部分银行暂停了二手房贷款业务，甚至有银行暂停受理新房房贷业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-28/detail-ikqciyzk2227825.d.html</link>
+            <guid>2221950</guid>
+            <pubDate>Sun, 27 Jun 2021 20:20:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  南非总统拉马福萨：将在6月30日起关闭所有学校。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-28/detail-ikqciyzk2227452.d.html</link>
+            <guid>2221948</guid>
+            <pubDate>Sun, 27 Jun 2021 20:10:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[雷诺将购买中国远景集团生产的电动车电池，远景集团将为雷诺建立价值24亿美元的电池工厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-28/detail-ikqcfnca3625742.d.html</link>
+            <guid>2221947</guid>
+            <pubDate>Sun, 27 Jun 2021 20:03:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国单日新增新冠肺炎确诊病例1578例 累计确诊5770021例】根据法国公共卫生署27日公布的统计数字，法国24小时新增新冠肺炎确诊病例1578例，累计确诊5770021例。新增医院内死亡17例，累计死亡110997例。过去七天新增住院患者957例，其中接受重症治疗患者226例。过去七天病毒检测呈阳性比例为0.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-28/detail-ikqciyzk2227069.d.html</link>
+            <guid>2221946</guid>
+            <pubDate>Sun, 27 Jun 2021 20:02:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交易平台币安（Binance）：集团在2020年5月收购了BML，但并未推出在英国的业务，也并不适用于FCA的监管许可。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-28/detail-ikqcfnca3624798.d.html</link>
+            <guid>2221945</guid>
+            <pubDate>Sun, 27 Jun 2021 19:37:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[交易平台币安（Binance）：英国金融行为监管局（FCA）的通知对币安提供的服务未产生直接影响。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-28/detail-ikqciyzk2225762.d.html</link>
@@ -568,42 +603,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3569555.d.html</link>
             <guid>2221839</guid>
             <pubDate>Sun, 27 Jun 2021 09:35:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国新任卫生大臣贾维德：希望看到疫情尽快结束，这是我的首要任务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2170855.d.html</link>
-            <guid>2221838</guid>
-            <pubDate>Sun, 27 Jun 2021 09:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黑龙江和嫩江洪峰正向中下游演进 27日仍有7条河流超警】水利部消息，截至今天（27日）中午12点，黑龙江干流洪峰已通过三道卡江段，正在向张地营子乡江段演进。嫩江干流洪峰正在通过江桥江段。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2170169.d.html</link>
-            <guid>2221836</guid>
-            <pubDate>Sun, 27 Jun 2021 09:26:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼新增21342例新冠肺炎确诊病例，单日新增病例续创纪录新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3568396.d.html</link>
-            <guid>2221835</guid>
-            <pubDate>Sun, 27 Jun 2021 09:24:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国国务大臣刘易斯：在找到长期解决方案之前，我们已经就北爱尔兰议定书提出了一个明智的建议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3568305.d.html</link>
-            <guid>2221834</guid>
-            <pubDate>Sun, 27 Jun 2021 09:23:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【发改委：下一步要完善居民阶梯电价制度 还原电力的商品属性】国家发改委透露，“按照进一步深化电价市场化改革要求，下一步要完善居民阶梯电价制度，逐步缓解电价交叉补贴，使电力价格更好地反映供电成本，还原电力的商品属性，形成更加充分反映用电成本、供求关系和资源稀缺程度的居民电价机制。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3567743.d.html</link>
-            <guid>2221833</guid>
-            <pubDate>Sun, 27 Jun 2021 09:19:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国风塑业：拟与中科大先研院建立新型显示与集成电路PI材料联合实验室】国风塑业(000859)6月27日晚间公告，公司近期与中科大先研院签署协议，决定共同建立“中科大先研院-国风塑业新型显示与集成电路PI材料联合实验室”。同时，公司与哈工大无锡新材料研究院/无锡海特新材料研究院签署合同，决定共同建立“安徽国风塑业股份有限公司-哈尔滨工业大学无锡新材料研究院功能膜材料联合实验室”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2168228.d.html</link>
-            <guid>2221832</guid>
-            <pubDate>Sun, 27 Jun 2021 09:10:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
