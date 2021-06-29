@@ -6,6 +6,111 @@
     "description": "新浪最新财经新闻100条",
     "items": [
         {
+            "id": 2224160,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4054341.d.html",
+            "title": "美股大类资产类ETF中，恐慌指数做多ETF收涨逾2.1%领跑，美国布伦特原油基金（BNO）涨超0.6%紧随其后，纳指100ETF涨超0.3%，黄金ETF表现最差，收跌逾1.0%，罗素2000指数ETF和大豆基金至少跌0.4%，农产品基金也跌将近0.4%。",
+            "date_modified": "2021-06-29T20:31:46.000Z"
+        },
+        {
+            "id": 2224159,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2653938.d.html",
+            "title": "美股行业ETF中，科技行业ETF收涨逾0.7%领跑，全球科技股ETF涨0.5%，可选消费ETF也涨超0.2%，公用事业ETF表现最差，跌超1.6%，全球航空业ETF也跌将近1.0%，银行业ETF跌0.7%，区域银行ETF也跌超0.5%。",
+            "date_modified": "2021-06-29T20:31:35.000Z"
+        },
+        {
+            "id": 2224158,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4054301.d.html",
+            "title": "美、布两油期货短线波动不大，分别报73.35美元/桶和74.62美元/桶。",
+            "date_modified": "2021-06-29T20:30:54.000Z"
+        },
+        {
+            "id": 2224157,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2653898.d.html",
+            "title": "  美国至6月25日当周API原油库存减少815.3万桶。",
+            "date_modified": "2021-06-29T20:30:47.000Z"
+        },
+        {
+            "id": 2224156,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4054086.d.html",
+            "title": "巴西卫生部长：巴西将在9月前为年满18岁的人接种新冠疫苗。",
+            "date_modified": "2021-06-29T20:25:45.000Z"
+        },
+        {
+            "id": 2224155,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4053816.d.html",
+            "title": "  【汽车芯片荒下半年有望缓解 概念股大幅跑赢市场】高端汽车芯片传来新消息，由芯擎科技自主研发的第一代智能驾舱芯片SE1000已经进入流片阶段，将于今年四季度推向市场。不过芯片短缺的状况正悄然发生变化。一些汽车厂商、研究机构都认为汽车行业的芯片短缺将于今年下半年得到缓解。当前A股市场涉及汽车芯片业务的公司共28家，截至最新收盘，这些公司A股市值合计1.92万亿。",
+            "date_modified": "2021-06-29T20:19:17.000Z"
+        },
+        {
+            "id": 2224154,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4053765.d.html",
+            "title": "标普500指数的11个板块大面积收跌，公用事业板块跌超1.6%，通信和能源板块至少跌0.5%，仅仅医疗保健、可选消费、以及科技这三个板块收涨，其中科技板块涨0.7%。",
+            "date_modified": "2021-06-29T20:17:26.000Z"
+        },
+        {
+            "id": 2224153,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2653325.d.html",
+            "title": "  【上半年全球IPO募资同比增2倍 A股H股市场各有千秋】近日，毕马威发布2021年上半年中国内地、香港乃至全球IPO市场情况报告。该报告显示，全球市场上半年集资总额和上市家数分别为2100亿美元、1047家，较去年同期分别上升196%、134%。近日，毕马威发布2021年上半年中国内地、香港乃至全球IPO市场情况报告。该报告显示，全球市场上半年集资总额和上市家数分别为2100亿美元、1047家，较去年同期分别上升196%、134%。在流动资金雄厚、二次上市火热和大宗交易的支持下，中国香港IPO市场受到投资者需求增加和市场气氛旺盛的提振，2021上半年的集资总额达到260亿美元，创历史新高。",
+            "date_modified": "2021-06-29T20:15:03.000Z"
+        },
+        {
+            "id": 2224152,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2652921.d.html",
+            "title": "【花旗：提高蔚来汽车目标价及销售预期，预计出货量将保持强劲增长】 花旗上调蔚来汽车目标价，分析师Jeff Chung预计该公司第二季度出货数量料强劲，并且在今年剩余两个季度保持环比增长。该分析师预计，即使全行业芯片短缺没有明显缓解，蔚来汽车下半年也会有强劲的业绩；预计该公司今年向北欧的首次电动汽车出口将是一个亮点，而市场对其存在低估。花旗将蔚来汽车2021年销量预期从90,000上调至93,000辆，将2022年销量预期从155,000辆上调至160,000辆，将2022年目标价从58.30美元上调至72美元；维持买入评级。当前，蔚来汽车获得22个买入评级，6个持有评级，1个卖出评级；平均目标价60美元。",
+            "date_modified": "2021-06-29T20:04:44.000Z"
+        },
+        {
+            "id": 2224151,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2652732.d.html",
+            "title": "美股三大股指全线收涨，道指初步收涨约11点，抗疫概念股和银行股走高。",
+            "date_modified": "2021-06-29T20:00:20.000Z"
+        },
+        {
+            "id": 2224149,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4052943.d.html",
+            "title": "【美国议员：政府必须有权逆转加密货币交易】美国国会区块链核心小组联席主席Bill Foster周二表示，政府必须有权逆转已经完成了的加密货币交易。他表示，许多国会议员认为比特币使用者是犯罪活动的实际参与者，因此必须通过法律以允许美国联邦法院找出数字资产持有者，然后将使用比特币及其他数字货币完成的交易无效化，这也是许多加密货币投资者厌恶的政策。",
+            "date_modified": "2021-06-29T19:55:45.000Z"
+        },
+        {
+            "id": 2224148,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4052633.d.html",
+            "title": "穆迪：尽管处于高油价环境，墨西哥国家石油公司的自由现金流将继续为负值。",
+            "date_modified": "2021-06-29T19:48:33.000Z"
+        },
+        {
+            "id": 2224147,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2652052.d.html",
+            "title": "【OPEC+推迟联合部长级监督委员会会议，期待更多时间弥合分歧】① 据与会代表透露，OPEC+将联合部长级监督委员会会议的时间推迟一天，以便各国有更多时间化解分歧。随着全球需求从疫情冲击中反弹，以沙特阿拉伯和俄罗斯为首的OPEC+正在考虑是否继续恢复更多的原油供应。俄罗斯考虑提议增产，但利雅得暗示更希望循序渐进；② OPEC+原定周三举行联合部长级监督委员会会议。现在将改到周四，即与部长级会议同一天。代表们表示，这是为了留出更多时间进行讨论。根据官方信函，俄罗斯副总理Alexander Novak以“总统承诺”为由提出了推迟会议的要求；③ 随着国际油价飙升至每桶逾75美元的两年高位，分析师普遍预计OPEC+将部分重启去年关停的庞大产能，平均预期将日增产55万桶，大约占闲置产能的10%；④ 但领导人之间存在意见分歧。知情人士称，与许多中东盟友相比，俄罗斯与高油价相关的预算压力较小，所以该国希望OPEC+允许提高产量。而利雅得方面的立场与莫斯科不一致；近几个月来，沙特能源部长阿卜杜勒阿齐兹·本·萨勒曼亲王一直敦促OPEC+在恢复产出方面采取谨慎态度。",
+            "date_modified": "2021-06-29T19:41:47.000Z"
+        },
+        {
+            "id": 2224146,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2651851.d.html",
+            "title": "墨西哥财长：墨西哥金融体系继续展现出韧性。",
+            "date_modified": "2021-06-29T19:38:31.000Z"
+        },
+        {
+            "id": 2224145,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2651634.d.html",
+            "title": "据CNN：巴西卫生部暂停印度Covaxin新冠疫苗相关合约。",
+            "date_modified": "2021-06-29T19:32:49.000Z"
+        },
+        {
             "id": 2224144,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4052041.d.html",
@@ -597,110 +702,6 @@
             "url": "https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2630446.d.html",
             "title": "【上半年全球App开支达649亿美元 TikTok成为全球收入最高App】据报道，调研公司Sensor Tower今日发布报告称，今年上半年，全球移动应用开支为649亿美元，同比增长24.8%。今年上半年，收入最高的移动该应用是TikTok，其次是YouTube和Tinder。下载量最高的移动应用是TikTok，其次是Facebook、Instagram和WhatsApp。",
             "date_modified": "2021-06-29T15:10:17.000Z"
-        },
-        {
-            "id": 2224008,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4030635.d.html",
-            "title": "美股早盘，恐惧与贪婪指数读数为44，表明市场处在恐惧状态。",
-            "date_modified": "2021-06-29T15:08:02.000Z"
-        },
-        {
-            "id": 2224005,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4030479.d.html",
-            "title": "国际锡业协会：全球精炼锡需求预计将从2021年的37.21万吨升至2022年的37.51万吨。",
-            "date_modified": "2021-06-29T15:06:23.000Z"
-        },
-        {
-            "id": 2224004,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4030466.d.html",
-            "title": "国际锡业协会：精炼锡产量预计将从2021年的35.85万吨升至2022年的36.24万吨。",
-            "date_modified": "2021-06-29T15:06:18.000Z"
-        },
-        {
-            "id": 2224002,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2629861.d.html",
-            "title": "国际锡业协会：预计2021年全球锡市场供应出现1.02万吨缺口，2022年为1.27万吨。",
-            "date_modified": "2021-06-29T15:05:15.000Z"
-        },
-        {
-            "id": 2224001,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2629841.d.html",
-            "title": "  英国新增20479例新冠肺炎确诊病例，新增23例死亡病例。",
-            "date_modified": "2021-06-29T15:05:08.000Z"
-        },
-        {
-            "id": 2223999,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2629759.d.html",
-            "title": "  云企业营销软件Marin Software(MRIN.O)盘中涨超60%，该股昨日收涨96%。",
-            "date_modified": "2021-06-29T15:04:14.000Z"
-        },
-        {
-            "id": 2223996,
-            "content_html": "",
-            "title": "  螺纹期货夜盘收跌0.39%，热卷收跌0.11%；铁矿石期货收跌2.22%。焦炭夜盘收跌1.25%，焦煤收跌0.53%，动力煤收跌0.68%。橡胶夜盘收跌0.89%，沥青收涨0.63%。豆粕夜盘收涨0.12%，菜粕收涨0.24%。郑棉夜盘收跌0.06%。",
-            "date_modified": "2021-06-29T15:02:51.000Z"
-        },
-        {
-            "id": 2223995,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4029806.d.html",
-            "title": "截至本周一，不同程度的干旱影响了美国大陆近61%的地区。自2020年9月或40周以来，该数字一直徘徊在60%左右。美国上一次持续如此长时间的大旱是在2012年4月至 2013年5月之间，当时持续60周的干旱影响了美国60%以上的地区，并一度扩大到80%左右。但即使在那段时间里，被列为异常干旱（exceptional drought）的地区也从未超过7%。而目前异常干旱的地区已经连续31周保持在8%以上，近期已接近10%。",
-            "date_modified": "2021-06-29T15:00:17.000Z"
-        },
-        {
-            "id": 2223994,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2629222.d.html",
-            "title": "  维珍银河(SPCE.N)跌超10%，现报49.3美元。",
-            "date_modified": "2021-06-29T14:58:55.000Z"
-        },
-        {
-            "id": 2223993,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4029598.d.html",
-            "title": "欧元兑美元EUR/USD短线走高20点，现报1.1908。",
-            "date_modified": "2021-06-29T14:57:28.000Z"
-        },
-        {
-            "id": 2223992,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4029441.d.html",
-            "title": "天然气期货日内涨幅扩大至6.01%，现报3.81美元/百万英热。",
-            "date_modified": "2021-06-29T14:55:13.000Z"
-        },
-        {
-            "id": 2223991,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4028969.d.html",
-            "title": "  据《消费者报告》：在美国公路安全保险协会IIHS测试证明新的基于摄像头的前向碰撞预警（FCW）和自动紧急制动（AEB）的有效性后，特斯拉(TSLA.O)Model 3重新被评为“首选”。",
-            "date_modified": "2021-06-29T14:50:45.000Z"
-        },
-        {
-            "id": 2223988,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4028573.d.html",
-            "title": "据俄罗斯卫星网：荷兰国防部表示，俄罗斯战斗机在黑海给荷兰军舰制造了危险状况。",
-            "date_modified": "2021-06-29T14:47:13.000Z"
-        },
-        {
-            "id": 2223983,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4028231.d.html",
-            "title": "据Case-Shiller指数，4月份美国20个最大城市房价同比上涨14.88%，为2005年11月以来的最高水平；Case-Shiller全国房价指数在4月份同比上涨14.59%，为有记录以来最快的房价通胀速度。",
-            "date_modified": "2021-06-29T14:44:01.000Z"
-        },
-        {
-            "id": 2223978,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2627606.d.html",
-            "title": "  AMD(AMD.O)涨超3%，现报89.75美元，此前英国监管机构批准AMD收购赛灵思(XLNX.O)的交易。",
-            "date_modified": "2021-06-29T14:42:05.000Z"
         }
     ]
 }
