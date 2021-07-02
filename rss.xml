@@ -4,11 +4,88 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Fri, 02 Jul 2021 18:43:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jul 2021 19:33:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至6月29日当周，COMEX白银期货投机性净多头头寸增加3260手至33142手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4643345.d.html</link>
+            <guid>2228407</guid>
+            <pubDate>Fri, 02 Jul 2021 19:30:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至6月29日当周，COMEX黄金期货投机性净多头头寸减少3647手至72516手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3243080.d.html</link>
+            <guid>2228406</guid>
+            <pubDate>Fri, 02 Jul 2021 19:30:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：阿联酋同意让欧佩克+推迟一个月做出决定，但俄罗斯反对推迟决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4643275.d.html</link>
+            <guid>2228405</guid>
+            <pubDate>Fri, 02 Jul 2021 19:29:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美债收益率曲线趋陡 受非农数据好坏不一影响】① 周五美国国债上涨，短期和中期收益率均走低，因就业数据好坏参半支持美联储的宽松立场。七年期及以下期限国债收益率领跌。5年期/30年期利差从美国就业报告公布前的约114个基点一度扩大至接近120个基点的盘中高点。数据显示失业率意外上升，但就业人口增幅高于分析师预期；② Mischler Financial的董事总经理Tony Farren表示，6月非农就业报告给美联储提供了按兵不动的更多掩护，在就业报告接连出现井喷式强劲表现后，美联储感受到的压力将增加，但今天没有达到井喷程度；③ 美债收益率在数据发布后的一小时内出现震荡走势，不过曲线趋陡趋势相当稳定。美国证券行业和金融市场协会(Sifma)建议美国固定收益交易周五下午2点提前收盘，下周一因公众假期全天休市；④ 在数据公布后的起初上涨之后，10年期收益率一度下跌4个基点至1.42％，为6月21日以来最低水平。美元下跌，标普500指数期货上涨。美国国债期货在该数据发布前后交投活跃；⑤ 虽然上个月非农就业人数增加了85万，但失业率意外上升至5.9％。5月份非农就业人数被上修至增加58.3万。劳动力参与率保持稳定，但远未达到疫情前水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3243012.d.html</link>
+            <guid>2228404</guid>
+            <pubDate>Fri, 02 Jul 2021 19:28:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【RBC Capital：上调淡水河谷目标价 维持跑赢大市评级】RBC Capital分析师Tyler Broda将淡水河谷(VALE.N)目标价从29美元下调至27美元，维持跑赢大市评级。分析师指出，新谷大坝的复杂情况减缓了Timbopeba铁矿的开工速度，同时巴西第二季度的航运数据“看起来很疲弱”。然而，分析师补充表示，即使有这些不利因素，考虑到“第二季度异常强劲的价格”，他将该公司2021财年每股收益的预期上调10美分至4.86美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4642894.d.html</link>
+            <guid>2228403</guid>
+            <pubDate>Fri, 02 Jul 2021 19:23:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX黄金期货8月合约收涨6.5美元，涨幅0.37%，收报1783.3美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4642774.d.html</link>
+            <guid>2228402</guid>
+            <pubDate>Fri, 02 Jul 2021 19:20:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：一位欧佩克+的官员建议，那些希望改变基线产量的国家将在未来一周向秘书处提交请求。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4642377.d.html</link>
+            <guid>2228401</guid>
+            <pubDate>Fri, 02 Jul 2021 19:13:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克100指数涨幅扩大至1%；标普500指数涨0.71%，涨至日内高点。]]></title>
+            <guid>2228400</guid>
+            <pubDate>Fri, 02 Jul 2021 19:11:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋同意放松石油减产（即实际增产），但表示该国支持延长协议的条件是欧佩克+同意修改阿联酋的基线产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3241578.d.html</link>
+            <guid>2228399</guid>
+            <pubDate>Fri, 02 Jul 2021 19:04:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛：上调京东目标价 维持强烈推荐买入评级】高盛分析师Ronald Keung将京东(JD.O)目标价从119美元上调至130美元，维持强烈推荐买入评级。分析师预计，该公司的核心业务京东零售在第二季度保持“稳健势头”。他指出，京东当前的股价意味着，要么是已经对京东零售进行全面估值（同时无视其他业务），要么是对其上市业务进行估值，并对京东零售的估值进行大幅折价。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3241565.d.html</link>
+            <guid>2228398</guid>
+            <pubDate>Fri, 02 Jul 2021 19:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：除阿联酋外，欧佩克+所有成员国都同意从2021年8月至2022年9月逐步恢复40万桶/月的产量。阿联酋继续坚持自己的立场，这可能会在今晚瓦解共识。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3241505.d.html</link>
+            <guid>2228397</guid>
+            <pubDate>Fri, 02 Jul 2021 19:03:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收涨0.61%，报28320点，高水10点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3241408.d.html</link>
+            <guid>2228396</guid>
+            <pubDate>Fri, 02 Jul 2021 19:02:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICE布伦特8月原油期货实盘价格周五收涨0.33美元，涨幅0.44%，报76.17美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3240423.d.html</link>
+            <guid>2228394</guid>
+            <pubDate>Fri, 02 Jul 2021 18:46:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：有很多欧佩克+代表支持将减产协议延长到2022年4月以后，目前投票仍在继续。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3240160.d.html</link>
@@ -523,84 +600,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqcfnca4627688.d.html</link>
             <guid>2228287</guid>
             <pubDate>Fri, 02 Jul 2021 15:48:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【英国与欧盟分享在印度生产的阿斯利康疫苗数据 以推动其适用于疫苗护照】当地时间7月2日，据英国媒体报道，英国与欧盟已分享在印度生产的阿斯利康新冠疫苗的数据。当天，英国首相约翰逊在与德国总理默克尔举行的新闻发布会上说，“没有理由”不将英国药品和健康产品管理局批准的疫苗适用于疫苗护照。默克尔表示，“在可预见的未来”，接种2剂新冠疫苗的人将能够再次旅行而无需进行隔离。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqcfnca4627638.d.html</link>
-            <guid>2228286</guid>
-            <pubDate>Fri, 02 Jul 2021 15:47:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[迈阿密戴德县县长：迈阿密建筑倒塌事件已造成20人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqcfnca4627572.d.html</link>
-            <guid>2228283</guid>
-            <pubDate>Fri, 02 Jul 2021 15:46:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国会预算办公室（CBO）预计不良资产救助计划（TARP）的净成本为310亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3227389.d.html</link>
-            <guid>2228282</guid>
-            <pubDate>Fri, 02 Jul 2021 15:46:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Marin Software目前上涨28%，盘初一度涨近70%，在WSB散户论坛上该股获得关注。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3227106.d.html</link>
-            <guid>2228276</guid>
-            <pubDate>Fri, 02 Jul 2021 15:41:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【在岸人民币兑美元夜盘收跌20个基点】在岸人民币兑美元（CNY）北京时间23:30收报6.4720元，较上一交易日夜盘收盘跌20点。成交量404.24亿美元，较上一交易日增加83.43亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3227022.d.html</link>
-            <guid>2228273</guid>
-            <pubDate>Fri, 02 Jul 2021 15:40:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧股收盘涨跌不一 德国DAX指数涨0.22％】欧股收盘涨跌不一，德国DAX指数涨0.22％，本周累涨0.2％；法国CAC40指数跌0.08％，本周累跌1.13％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3226801.d.html</link>
-            <guid>2228268</guid>
-            <pubDate>Fri, 02 Jul 2021 15:37:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国新增新冠肺炎确诊病例27125例 累计确诊4855169例】，英国卫生部7月2日公布的最新数据显示，过去24小时英国新增新冠肺炎确诊病例27125例，累计确诊4855169例；新增死亡病例27例，累计死亡病例128189例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3226699.d.html</link>
-            <guid>2228265</guid>
-            <pubDate>Fri, 02 Jul 2021 15:36:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Workhorse(WKHS.O)直线下挫，现跌幅扩大至11%。Lordstown Motors(RIDE.O)恢复交易，现跌超14%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqcfnca4626806.d.html</link>
-            <guid>2228262</guid>
-            <pubDate>Fri, 02 Jul 2021 15:35:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉转跌，此前涨超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3226374.d.html</link>
-            <guid>2228256</guid>
-            <pubDate>Fri, 02 Jul 2021 15:31:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Lordstown Motors(RIDE.O)盘中直线跳水，现跌13.62%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3226332.d.html</link>
-            <guid>2228255</guid>
-            <pubDate>Fri, 02 Jul 2021 15:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国司法部正在调查Lordstown Motors。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3226327.d.html</link>
-            <guid>2228253</guid>
-            <pubDate>Fri, 02 Jul 2021 15:31:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：白俄罗斯总统卢卡申科下令全面关闭白俄罗斯与乌克兰边境。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3226212.d.html</link>
-            <guid>2228252</guid>
-            <pubDate>Fri, 02 Jul 2021 15:30:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世卫组织：德尔塔变异株已在至少98个国家和地区出现 且在继续变异和进化】当地时间7月2日，世卫组织举行新冠肺炎例行发布会，世卫组织总干事谭德塞表示，德尔塔变异株正在很多国家成为主要流行毒株。目前，疫情正处于非常危险的阶段，还没有国家能脱离困境。在新冠疫苗覆盖率较低的国家，当地医院正逐渐人满为患。德尔塔变异株已在至少98个国家和地区出现。该变异株较为危险，而且在继续变异和进化，因此需要持续不断评估和调整公共卫生措施。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqcfnca4626328.d.html</link>
-            <guid>2228247</guid>
-            <pubDate>Fri, 02 Jul 2021 15:28:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
