@@ -4,11 +4,111 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 03 Jul 2021 06:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jul 2021 07:32:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[比特币站上34000美元/枚，日内涨近1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4738691.d.html</link>
+            <guid>2228579</guid>
+            <pubDate>Sat, 03 Jul 2021 07:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马来西亚方面表示， 有5个州已经满足了所有3个标准，从而终止限制措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3339163.d.html</link>
+            <guid>2228578</guid>
+            <pubDate>Sat, 03 Jul 2021 07:32:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马来西亚方面表示，该国13个州已达到10%的疫苗接种里程碑。]]></title>
+            <guid>2228577</guid>
+            <pubDate>Sat, 03 Jul 2021 07:31:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马来西亚方面表示，该国2个州可以进入第三阶段重启，1个州可以进入第四阶段重启。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3338479.d.html</link>
+            <guid>2228576</guid>
+            <pubDate>Sat, 03 Jul 2021 07:26:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马来西亚方面表示，6个州有资格进入第二阶段的重启。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4737923.d.html</link>
+            <guid>2228575</guid>
+            <pubDate>Sat, 03 Jul 2021 07:25:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马来西亚财政部长：自6月1日以来，大多数州的病例都有所下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4737538.d.html</link>
+            <guid>2228574</guid>
+            <pubDate>Sat, 03 Jul 2021 07:23:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马来西亚国防部长：马来西亚将设定全国层面的标准来决定放宽限制措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3337695.d.html</link>
+            <guid>2228573</guid>
+            <pubDate>Sat, 03 Jul 2021 07:20:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委诺特：欧洲央行可能低估了通货膨胀。]]></title>
+            <guid>2228572</guid>
+            <pubDate>Sat, 03 Jul 2021 07:19:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：孟加拉国获得了450万剂莫德纳和国药的新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3337240.d.html</link>
+            <guid>2228571</guid>
+            <pubDate>Sat, 03 Jul 2021 07:17:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委诺特：欧洲央行可能低估了通货膨胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4736645.d.html</link>
+            <guid>2228570</guid>
+            <pubDate>Sat, 03 Jul 2021 07:16:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【保时捷全球召回Taycan，全球范围内已售出约43000辆Taycan】保时捷正在全球范围内召回其首款电动车Taycan，以解决一些汽车在行驶中突然失去动力的问题。起因是12伏电池（即汽车不运行时为配件提供动力的经典矩形电池）电量耗尽时，就会造成动力损失。在售的奥迪E-Tron GT、野马Mach-E、特斯拉Model S Plaid都有这块12V的锂电池。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4736436.d.html</link>
+            <guid>2228569</guid>
+            <pubDate>Sat, 03 Jul 2021 07:14:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：普京就白俄罗斯独立日向卢卡申科表示祝贺，称俄罗斯和白俄罗斯将继续加强双边关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3336666.d.html</link>
+            <guid>2228568</guid>
+            <pubDate>Sat, 03 Jul 2021 07:12:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【市监总局拟发新规：大数据杀熟最高可罚上一年度销售总额5‰】7月2日，市场监督管理总局公开《价格违法行为行政处罚规定》修订征求意见稿，其中新增多条规定直指新业态经济中大数据杀熟、电商低价倾销的不正当价格行为。有关哄抬价格、价格欺诈等违法行为的罚款形式，也从根据情节严重程度罚款5万到500万元不等，改为处违法行为发生期间销售额1%以上10%以下的罚款。据悉，此次意见稿将持续向社会征求建议至2021年8月2日。违法者将被给予警告，没收违法所得，可以并处上一年度销售总额1‰以上5‰以下的罚款。情节严重的，将被责令停业整顿，或吊销营业执照。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3336390.d.html</link>
+            <guid>2228567</guid>
+            <pubDate>Sat, 03 Jul 2021 07:10:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据德国市场消息：奥迪首席执行官提高长期盈利目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3334492.d.html</link>
+            <guid>2228565</guid>
+            <pubDate>Sat, 03 Jul 2021 06:58:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家卫健委：全国累计报告接种新冠病毒疫苗12.8亿剂次】截至7月2日，31个省（自治区、直辖市）和新疆生产建设兵团累计报告接种新冠病毒疫苗128317.5万剂次。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4733869.d.html</link>
+            <guid>2228564</guid>
+            <pubDate>Sat, 03 Jul 2021 06:57:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【王毅：当务之急是加紧构筑抵御病毒的“免疫长城”】国务委员兼外交部长王毅在清华大学出席第九届世界和平论坛开幕式并发表主旨演讲。王毅表示，为共同应对全球挑战，当务之急是加紧构筑抵御病毒的“免疫长城”，早日战胜新冠肺炎疫情。各国应当秉持人类卫生健康共同体理念，超越政治歧见，毫无保留地开展国际抗疫合作。针对日益突出的疫苗接种不平衡问题，必须坚决反对“疫苗民族主义”，解决好疫苗产能和分配问题，弥合全球“免疫鸿沟”。中国提出并坚定履行疫苗作为全球公共产品的庄重承诺，在自身疫苗需求巨大情况下，仍然克服困难，向全球提供了超过4.8亿剂疫苗，覆盖近100个有需要的国家。下一步我们将继续竭尽所能，不断提高疫苗在发展中国家的可及性和可负担性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4733244.d.html</link>
+            <guid>2228563</guid>
+            <pubDate>Sat, 03 Jul 2021 06:52:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天风证券：升级替代燃油车，混动助力自主品牌崛起】天风证券认为，由于完全实现纯电动化周期较长，而政策法规对燃油车排放及能耗的多重限制日益严苛，因此在一定时期内混动车型将逐步成为市场的主力。我国混动技术经过多年的发展和积累已逐步走向成熟，随着相关产品逐步投入市场，从2021年开始，混动车的渗透率预计将迎来快速提升。据测算，混合动力汽车在2020-2025这5年时间里可能有超过16倍增长空间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4732760.d.html</link>
+            <guid>2228562</guid>
+            <pubDate>Sat, 03 Jul 2021 06:48:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：土耳其据悉计划为国有输电公司启动IPO。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3331681.d.html</link>
@@ -28,7 +128,7 @@
             <pubDate>Sat, 03 Jul 2021 06:28:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【王毅：日本政府不得擅自向太平洋排放核污染水】王毅在第九届世界和平论坛开幕式上发表主旨演讲时表示，要共同应对迫在眉睫的全球性挑战。当务之急是加紧构筑抵御病毒的“免疫长城”，秉持人类卫生健康共同体理念，超越政治歧见，开展国际抗疫合作；中国提出并坚定履行疫苗作为全球公共产品的庄重承诺，将继续竭尽所能，不断提高疫苗在发展中国家的可及性和可负担性。要共同应对气候变化这一重大挑战，构建“人与自然生命共同体”，共促人与自然和谐共生；中国将力争兑现2030年前碳达峰、2060年前碳中和的承诺。日本福岛核电站事故污染水处置，事关全球海洋生态环境和各国人民生命健康，日本政府应当充分倾听国际社会合理关切，在同利益攸关方和国际机构协商一致之前，不得擅自向太平洋排放核污染水。]]></title>
+            <title><![CDATA[【王毅：日本福岛核电站事故污染水处置应当也必须在阳光下运行】7月3日，国务委员兼外交部长王毅在清华大学出席第九届世界和平论坛开幕式并发表主旨演讲。王毅表示，日本福岛核电站事故污染水处置，事关全球海洋生态环境和各国人民生命健康。这一问题的处理应当也必须在阳光下运行。日本政府应当充分倾听国际社会合理关切，在同利益攸关方和国际机构协商一致之前，不得擅自向太平洋排放核污染水。今年是日本挑起太平洋战争80周年，希望日方认真反省历史，做出负责任的选择。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4729879.d.html</link>
             <guid>2228557</guid>
             <pubDate>Sat, 03 Jul 2021 06:26:50 GMT</pubDate>
@@ -504,107 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3254012.d.html</link>
             <guid>2228467</guid>
             <pubDate>Fri, 02 Jul 2021 22:56:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【芝加哥农产品期价2日涨跌不一】芝加哥期货交易所玉米、小麦和大豆期价2日涨跌不一。当天，芝加哥期货交易所玉米市场交投最活跃的12月合约收于每蒲式耳5.7975美元，比前一交易日下跌9.25美分，跌幅为1.57%；小麦9月合约收于每蒲式耳6.5275美元，比前一交易日下跌12.75美分，跌幅为1.92%；大豆11月合约收于每蒲式耳13.99美元，比前一交易日上涨3.5美分，涨幅为0.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4654153.d.html</link>
-            <guid>2228466</guid>
-            <pubDate>Fri, 02 Jul 2021 22:55:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储Daly表示“今年晚些时候”可能达到减码条件】旧金山联储主席Mary Daly本周早些时候表示，考虑今年晚些时候或明年初缩减资产购买规模是合适的。经济正在能够开始越来越多地自行运转，意味着我们可以撤回一点我们的宽松。当然不是大部分。因为我们还没有接近我们的充分就业目标；我们已经准备好开始讨论缩减债券购买的时间、缩减的速度、缩减的构成，所有这些现在都可讨论。我认为这是合适的。购买国债和抵押债券都有助于整体金融宽松，金融市场支持经济复苏，这就是为什么你不能简单地说，房地产市场强劲，让我们撤了吧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3253033.d.html</link>
-            <guid>2228465</guid>
-            <pubDate>Fri, 02 Jul 2021 22:45:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上半年1109家公司完成1539起并购重组，汽车、通信和房地产三行业成重点领域】2021年上半年，A股市场的并购重组保持较为活跃的状态，共有1109家公司完成了1539起并购重组事项，涉及资金6201.57亿元，覆盖28类申万一级行业。其中，汽车、通信、房地产等三行业的并购重组公司数量占比居前。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4652227.d.html</link>
-            <guid>2228464</guid>
-            <pubDate>Fri, 02 Jul 2021 22:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上半年387家上市公司斥资656亿元实施回购，业内专家提示，回购并非股价上涨信号】截至6月30日，年内243家上市公司发布250单回购计划（以董事会预案公告日统计），同比增长117.74%。其中，沪深交易所主板187单，创业板54单，科创板9单。从行业来看，家用电器、计算机、电子和公用事业行业回购金额较高。市场人士认为，近年来，上市公司股份回购完成度逐年提升。今年上半年，上市公司回购热度提升，主要是由于政策支持和鼓励、公司看好未来业绩增长以及提振股价等三方面原因。但上市公司回购并非股价上涨信号，投资者需要理性看待。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3251713.d.html</link>
-            <guid>2228463</guid>
-            <pubDate>Fri, 02 Jul 2021 22:29:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【机构看好今年银行转债投资机会】今年以来，上海银行、杭州银行、苏州银行、南京银行先后启动可转债发行工作，发行规模共计600亿元。而2020年仅有两家银行发行可转债，发行总额仅为95亿元。今年以来，银行可转债迎来发行高峰，受到投资者关注。机构人士表示，银行转债的抗跌属性较强，是较好的防御型投资品种。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3250998.d.html</link>
-            <guid>2228462</guid>
-            <pubDate>Fri, 02 Jul 2021 22:18:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上半年A股IPO企业245家，共募资2109.5亿元】随着当日百洋医药、雷尔伟、威骨高科等5家公司上市，今年上半年A股实现IPO的企业数量达到245家，共计实现募资2109.5亿元；这两个指标同比分别增长约105.88%和51.46%。同时，上半年单个公司平均募资额为8.61亿元，处于近年来低位。（证券时报）]]></title>
-            <guid>2228461</guid>
-            <pubDate>Fri, 02 Jul 2021 22:12:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【6月新房市场销售火热】中指研究院监测数据显示，6月商品房成交面积整体位于高位，一线城市环比上升幅度达57.15%。其中，上海成交面积环比增幅约为112%。被监测的城市中，杭州库存量环比降幅较大，环比下降幅度达37.82%，北京、深圳环比下降分别为3.17%和2.44%。从土地市场看，商品房成交面积大幅增长的城市，土地成交规模居前。预计下半年新房市场和土地市场热度均会下降。在市场和融资的双重压力下，行业出清可能加速，龙头房企利润空间可能逐步打开。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3250488.d.html</link>
-            <guid>2228460</guid>
-            <pubDate>Fri, 02 Jul 2021 22:10:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上半年A股IPO企业245家，共募资2109.5亿元】随着当日百洋医药、雷尔伟、威骨高科等5家公司上市，今年上半年A股实现IPO的企业数量达到245家，共计实现募资2109.5亿元；这两个指标同比分别增长约105.88%和51.46%。同时，上半年单个公司平均募资额为8.61亿元，处于近年来低位。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3249567.d.html</link>
-            <guid>2228459</guid>
-            <pubDate>Fri, 02 Jul 2021 21:58:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【证券时报评论：电价市场化需要一个过程】现在，政府为了减轻工业用电成本，一直在压制工业用电价格，电网和发电企业的利润薄了，加上最近煤炭价格上涨，不少企业就亏了。如果是市场化，那么就要把煤炭价格上涨的部分转移到下游，工商业用电和居民用电价格都要涨上去。电力行业并不会完全市场化，但价格中，应该更真实地反映成本和各方利益，居民用电价格应适当上涨，让电价和成本更接近一些，少一些交叉补贴，市场就能更好地发挥作用。电网投入成本很高，如果不赚钱，就不能做到持续投入，有些国家因为电网持续老化，经常出现停电现象，对经济影响更为负面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4649410.d.html</link>
-            <guid>2228458</guid>
-            <pubDate>Fri, 02 Jul 2021 21:50:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国医药公司Ocugen：研究表明，印度生物技术公司Bharat Biotech的Covaxin新冠疫苗有效率为77.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3249128.d.html</link>
-            <guid>2228457</guid>
-            <pubDate>Fri, 02 Jul 2021 21:47:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【人民币资产获投资者青睐 国际化提速迈入新周期】受市场预期美联储会提前收紧货币政策影响，今年以来，全球资金出于避险需求从新兴市场国家以及其他发达经济体大量回流美国市场。人民币资产能够逆势而上，继续受到境外资金的增持，其投资避险属性进一步强化，说明人民币资产获得越来越多境外资金的认可和青睐。越来越多的迹象表明，人民币国际化进入新的发展周期，未来人民币国际货币地位有望继续稳步提升。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3249002.d.html</link>
-            <guid>2228456</guid>
-            <pubDate>Fri, 02 Jul 2021 21:44:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国支持的利比亚问题谈判未能取得共识。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4649010.d.html</link>
-            <guid>2228455</guid>
-            <pubDate>Fri, 02 Jul 2021 21:40:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储隔夜逆回购两连降，策略师预计未来使用量将反弹】美联储隔夜逆回购工具使用量连续第二天下降。策略师预测未来可能会反弹，因为财政部料减少国库券发行，这将加剧银行体系中的失衡，寻求短期投资的资金将越来越多。69家机构参与，使用量共计7315亿美元，为6月16日以来最低水平，周三创下的纪录高位接近1万亿美元。美联储隔夜逆回购协议支付0.05%的利率，有助于暂时减少银行系统的准备金余额。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4648530.d.html</link>
-            <guid>2228454</guid>
-            <pubDate>Fri, 02 Jul 2021 21:30:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[   汽车之家表示，首席财务官邹钧因其他个人追求而提交辞呈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3248229.d.html</link>
-            <guid>2228453</guid>
-            <pubDate>Fri, 02 Jul 2021 21:27:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  离岸人民币（CNH）兑美元北京时间04:59报6.4714元，较周四纽约尾盘涨11点，盘中整体交投于6.4689-6.4907元区间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4648374.d.html</link>
-            <guid>2228452</guid>
-            <pubDate>Fri, 02 Jul 2021 21:26:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  周五（7月2日）纽约尾盘，CME比特币期货BTC主力合约报33165美元，较周四纽约尾盘跌220美元，跌幅0.65%，盘中交投于32675-33965美元区间。 CME以太币期货DCR主力合约报2098.75美元，较周四纽约尾盘跌32美元，跌幅1.5%，盘中交投于2028.75-2150.75美元区间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4648332.d.html</link>
-            <guid>2228451</guid>
-            <pubDate>Fri, 02 Jul 2021 21:25:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥卫生部：墨西哥累计新冠肺炎死亡病例升至233425例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3248099.d.html</link>
-            <guid>2228450</guid>
-            <pubDate>Fri, 02 Jul 2021 21:24:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
