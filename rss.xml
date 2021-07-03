@@ -4,11 +4,35 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 03 Jul 2021 16:57:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jul 2021 17:38:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欧洲央行行长拉加德：欧元区的GDP可能会在2022年第一季度之前达到大流行前的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3390936.d.html</link>
+            <guid>2228716</guid>
+            <pubDate>Sat, 03 Jul 2021 17:29:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国报告单日新增3006例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3389689.d.html</link>
+            <guid>2228715</guid>
+            <pubDate>Sat, 03 Jul 2021 17:11:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据以色列媒体援引该国国防部官员证实，一艘以色列货船遭袭击，原因尚不清楚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4789779.d.html</link>
+            <guid>2228714</guid>
+            <pubDate>Sat, 03 Jul 2021 17:11:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约州州长科莫：纽约州新增2例新冠肺炎死亡病例，创2020年9月20日以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3389327.d.html</link>
+            <guid>2228713</guid>
+            <pubDate>Sat, 03 Jul 2021 17:07:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[南非单日新增26485例新冠肺炎确诊病例，累计病例达2046311例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3388164.d.html</link>
@@ -578,30 +602,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3350632.d.html</link>
             <guid>2228608</guid>
             <pubDate>Sat, 03 Jul 2021 09:11:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【狗狗币创始人Billy Markus建议美国连锁电影院AMC接受狗狗币付款】7月3日，狗狗币创始人之一Billy Markus发推建议美国连锁电影院AMC接受狗狗币付款，并表示自己会使用狗狗币购买爆米花等产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4749939.d.html</link>
-            <guid>2228607</guid>
-            <pubDate>Sat, 03 Jul 2021 09:08:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼新增27913例新冠肺炎确诊病例，单日新增病例创新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4749910.d.html</link>
-            <guid>2228606</guid>
-            <pubDate>Sat, 03 Jul 2021 09:08:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国产半导体刻蚀机设备龙头中微公司的定增情况出炉】中微公司披露发行情况报告书，最终以每股102.29元的价格发行8022.93万股，合计募得资金82.07亿元。本次定增吸引了众多机构参与。其中，国家大基金二期斥资25亿元认购。这是国家大基金二期成立以来，以定增方式投出的首个项目。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4749753.d.html</link>
-            <guid>2228605</guid>
-            <pubDate>Sat, 03 Jul 2021 09:06:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅谈巴以问题：要还巴勒斯坦人民一个公道正义】国务委员兼外交部长王毅表示，在巴以问题上，最根本的是还巴勒斯坦人民一个迟迟没有到来的公道正义。没有正义的根基，就难以构筑持久的和平。“两国方案”是国际社会的共识，也是公道正义的体现，只有在“两国方案”基础上尽快重启和谈，巴勒斯坦问题才能得到公正的解决，中东地区才能实现持久的和平。（外交部）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3349582.d.html</link>
-            <guid>2228604</guid>
-            <pubDate>Sat, 03 Jul 2021 09:02:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
