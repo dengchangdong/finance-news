@@ -4,11 +4,29 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 03 Jul 2021 18:42:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jul 2021 19:32:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【天风证券：美国历史最快的复苏，可能也是最快结束的复苏】天风证券认为，美国疫情好转后改善型需求回落，房地产销售和投资放缓；生产端的耐用品订单增速和ISM制造业订单指数已经从高点回落，连续走平。以上需求回落、生产放缓的种种迹象表明，历史最快的复苏可能正在演变成历史最快结束的复苏，财政刺激到期后的“戒断反应”正在到来。而已经进入财政货币化的美国政府能否回归政策正常化，将是一个巨大的疑问。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3398006.d.html</link>
+            <guid>2228734</guid>
+            <pubDate>Sat, 03 Jul 2021 19:27:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华泰证券：美国6月非农就业超预期、7月或更高】华泰证券认为，今年7月，非农就业的季节性因素或将转正（2011-2019年7月季节性因素均值为+130万人），而经济重启之下，“恢复性雇佣”需求有望持续凸显；这两大因素有望对今年Q3非农就业（季调）数值产生显著正向拉动，意味着只要7月未季调的新增就业不为负值，考虑各行业就业缺口仍较大，这一可能性不大，则季调后的非农就业可能突破+100万人，升幅明显。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3396761.d.html</link>
+            <guid>2228733</guid>
+            <pubDate>Sat, 03 Jul 2021 19:04:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯驻美大使表示，莫斯科做好准备与美国改善关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3395776.d.html</link>
+            <guid>2228732</guid>
+            <pubDate>Sat, 03 Jul 2021 18:46:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：俄罗斯驻美大使预计美国将继续向俄罗斯施压。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3395490.d.html</link>
@@ -584,24 +602,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3357328.d.html</link>
             <guid>2228627</guid>
             <pubDate>Sat, 03 Jul 2021 10:15:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗布什尔核电站在关停两周后恢复工作，此前因技术故障紧急停电】伊朗Press TV国家电视台援引电力行业代表说法，伊朗的布什尔核电站在关闭两周后恢复运营。6月20日，该核电站因发生技术故障紧急停电。伊朗外交部发言人赛义德·哈蒂布扎德称，布什尔核电站并没有遭到袭击，是技术故障暂停。哈蒂布扎德证实，在故障完全排除之前，核电站的工作将暂停数天。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3357062.d.html</link>
-            <guid>2228626</guid>
-            <pubDate>Sat, 03 Jul 2021 10:12:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗新增新冠肺炎确诊病例8341例，累计确诊3241037例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4756806.d.html</link>
-            <guid>2228625</guid>
-            <pubDate>Sat, 03 Jul 2021 10:10:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄海军航空兵与空军部队在黑海上空举行联合作战训练】当地时间7月3日，俄罗斯黑海舰队新闻处发布消息，该舰队所属海军航空兵与南部军区空军部队在黑海上空举行联合作战训练。据悉，当天的训练重点是执行对假想敌海军舰艇的导弹和炸弹攻击任务。有俄媒报道指出，此次训练是在北约及其伙伴国在黑海举行“海上微风-2021” 演习的背景下举行的，带有明显针对性。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4756748.d.html</link>
-            <guid>2228624</guid>
-            <pubDate>Sat, 03 Jul 2021 10:10:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
