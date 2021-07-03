@@ -4,11 +4,41 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 03 Jul 2021 21:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jul 2021 22:35:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【外媒：以色列一货船在印度洋遇袭】当地时间7月3日晚，据与真主党有关联的Al-Mayadeen新闻网站报道，一艘以色列货船在印度洋北部海域被“不明武器”击中。报道称其消息来源可靠，并说“目前没有人表示对此袭击事件负责”。以色列媒体援引消息人士的话说，这艘悬挂利比里亚国旗的货船，名为 CSAV Tyndall。货船受到轻微损坏，目前仍然在海上继续航行。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3405970.d.html</link>
+            <guid>2228757</guid>
+            <pubDate>Sat, 03 Jul 2021 22:27:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【冰箱业加速步入高端】1月至5月冰箱累计零售量1142万台，同比增长12.3%，零售额341亿元，同比增长26.1%。中国家用电器协会秘书长王雷表示，面对成本压力，冰箱企业需要思考怎样调整产品结构转型升级，为消费者提供真正需要的、有价值的产品，同时保证自身利润。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3405655.d.html</link>
+            <guid>2228756</guid>
+            <pubDate>Sat, 03 Jul 2021 22:23:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Windows 11的微软商店放弃了HTML 以获得完整的XAML体验】微软表示Windows 11商店已经 “从头开始重新设计”。在Windows 11中，微软将用一个新的商店取代现有的商店，这个商店是用XAML/C#编写的，它完全是 “UWP”形式的。这让商店的性能有了明显的改善，下载软件不再容易出现报错。据悉，大型游戏的下载速度将加快。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3404181.d.html</link>
+            <guid>2228755</guid>
+            <pubDate>Sat, 03 Jul 2021 22:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国新冠肺炎确诊人数超3371万】当地时间7月3日，根据美国约翰斯·霍普金斯大学数据，截至美东时间当天17点21分（北京时间7月4日凌晨5点21分），美国累计确诊新冠病毒感染人数达33711940人，因为新冠肺炎感染相关死亡人数累计达605467人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3403681.d.html</link>
+            <guid>2228754</guid>
+            <pubDate>Sat, 03 Jul 2021 21:47:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿根廷新增新冠肺炎确诊病例14034例 累计确诊达4526473例】当地时间7月3日，阿根廷卫生部公布最新数据，该国新增新冠肺炎确诊病例14034例，累计确诊达4526473例；新增死亡病例215例，累计达95594例；累计治愈病例4136824例。在刚刚过去的6月，阿根廷接种疫苗数超过841万剂。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4803673.d.html</link>
+            <guid>2228753</guid>
+            <pubDate>Sat, 03 Jul 2021 21:39:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【南非各省市市政费用大幅度上涨 民众不堪重负】据南非媒体当地时间7月3日报道，从7月起南非各地开始提高市政收费，该国民众纷纷表示已难以承受。根据6月份数据，南非普通工人月平均工资为3643.92兰特（约1655元人民币），其中52.3%的收入用于电力和交通开支，剩下的收入仅够购买食品。过去10个月，南非家庭食品的平均成本增加了7.1%，7月开始，南非各地市政府费用均有不同幅度的增长。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3402734.d.html</link>
@@ -573,36 +603,6 @@
             <title><![CDATA[美国国家飓风中心：飓风位于多米尼加共和国岛约110英里（175公里）处；最大持续风速为每小时75英里(120km/h)。]]></title>
             <guid>2228655</guid>
             <pubDate>Sat, 03 Jul 2021 12:04:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：飓风艾尔莎正在迅速向伊斯帕尼奥拉岛南部移动，预计当地天气在未来几小时内会恶化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4766903.d.html</link>
-            <guid>2228654</guid>
-            <pubDate>Sat, 03 Jul 2021 12:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【7月3日《新闻联播》主要内容】今天《新闻联播》主要内容有：1、坚定理想信念 努力为党和人民争取更大光荣——习近平总书记在庆祝中国共产党成立一百周年大会上的重要讲话引发热烈反响；2、人民日报评论员文章：在中华大地上全面建成了小康社会——论学习贯彻习近平总书记在庆祝中国共产党成立一百周年大会上重要讲话；3、努力为党和人民争取更大光荣；4、【奋斗百年路 启航新征程·小康梦圆】摆脱贫困 为全面小康作出关键性贡献；5、新华社长篇通讯：百年梦圆照此心——以习近平同志为核心的党中央引领全面建成小康社会纪实；6、人民日报署名文章：实现中华民族伟大复兴中国梦的关键一步——习近平总书记关于全面建成小康社会重要论述综述；7、中共中央办公厅发出通知 要求认真学习贯彻习近平总书记在庆祝中国共产党成立100周年大会上的重要讲话精神；8、人民日报评论员：拼搏奉献，知重负重攻坚克难——论学习贯彻习近平总书记在“七一勋章”颁授仪式上重要讲话；9、国务院办公厅印发《关于加快发展保障性租赁住房的意见》；10、【奋斗百年路 启航新征程】“七一勋章”获得者：护海模范王书茂；11、香港“百年伟业——庆祝中国共产党成立100周年大型主题展览”开幕；12、以史为鉴 开创未来 大型文献专题片《敢教日月换新天》引发热烈反响；13、我国对外抗疫援助惠及150多个国家；14、国家卫生健康委通报最新疫情；15、多国人士高度评价习近平在庆祝中国共产党成立100周年大会上的重要讲话；16、多国政党政府领导人等热烈祝贺中国共产党成立100周年；17、全球新冠肺炎确诊病例超1亿8231万；18、加拿大民众抗议政府种族灭绝行径；19、日本静冈县发生泥石流 约20人失联；20、奋斗百年路 启航新征程。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3366836.d.html</link>
-            <guid>2228653</guid>
-            <pubDate>Sat, 03 Jul 2021 12:01:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[越南新增确诊922例新冠肺炎确诊病例，创记录新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3366340.d.html</link>
-            <guid>2228651</guid>
-            <pubDate>Sat, 03 Jul 2021 11:54:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RJO Futures高级商品经纪Daniel Pavilonis：金价若在下周突破1820美元，将为其再次上涨打开大门。如果下周的收盘价高于1820美元/盎司，金价可能会进一步走高，甚至创下新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3365626.d.html</link>
-            <guid>2228650</guid>
-            <pubDate>Sat, 03 Jul 2021 11:44:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gainesville Coins贵金属分析师Everett Millman：对欧佩克+会议上发生的事情很感兴趣。围绕石油的不确定性可能对通胀产生重大影响，而通胀仍是推动黄金上涨的主要因素之一。如果他们达成限制产量的协议，应该会推高油价。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3364606.d.html</link>
-            <guid>2228649</guid>
-            <pubDate>Sat, 03 Jul 2021 11:32:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
