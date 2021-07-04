@@ -4,11 +4,53 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sun, 04 Jul 2021 17:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jul 2021 18:43:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：南桑威奇群岛发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3544418.d.html</link>
+            <guid>2229027</guid>
+            <pubDate>Sun, 04 Jul 2021 18:35:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三因素推动人民币外汇储备连续9个季度增长】对于人民币外汇储备连续9个季度增长，以及人民币在全球外汇储备占比创新高的原因，分析师陈梦洁在接受采访时认为，这与人民币的汇率表现、资产吸引力以及我国资本市场的稳定性等因素密切相关。她表示，一方面，我国一直坚持稳健的货币政策，人民币资产的吸引力不断上升，国际资本不断涌入中国市场。中央国债登记结算有限责任公司6月份发布的债券托管量数据显示，5月份，境外机构的人民币债券托管面额达到32632.62亿元人民币，与4月份相比增加了413.17亿元。另一方面，全球央行、主权基金、大型资管机构等近年来都在增配人民币资产，中国资产的相对收益率较高，且人民币资产和欧美国家资产的相关性仍相对较低，可起到分散投资组合风险的作用。此外，随着我国资本市场改革不断深化，资本市场稳定性不断增强，其国际吸引力也不断提升。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca4944153.d.html</link>
+            <guid>2229026</guid>
+            <pubDate>Sun, 04 Jul 2021 18:31:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国卫生部长：由于德尔塔变种具有高感染性，法国可能会在本月底迎来第四波疫情。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca4943405.d.html</link>
+            <guid>2229025</guid>
+            <pubDate>Sun, 04 Jul 2021 18:17:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【尼泊尔首都地区封禁措施再延长10天】尼泊尔首都加德满都所在的加德满都谷地官方4日宣布，将抗击新冠疫情采取的封禁措施再延长10天，同时进一步放松管制，包括延长所有店铺营业时间等。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3543182.d.html</link>
+            <guid>2229024</guid>
+            <pubDate>Sun, 04 Jul 2021 18:11:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：美国已有逾1亿8241万人至少接种了一剂新冠疫苗，其中逾1亿5732万人完全接种。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3543122.d.html</link>
+            <guid>2229023</guid>
+            <pubDate>Sun, 04 Jul 2021 18:10:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[越南总理范明政要求该国央行在未来两年试点基于区块链的加密货币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3543110.d.html</link>
+            <guid>2229022</guid>
+            <pubDate>Sun, 04 Jul 2021 18:10:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【半年报业绩密集披露 多行业景气度高企】当前已有656家A股上市公司发布了2021年上半年业绩预告，近七成公司业绩预喜，更有27家公司净利润增幅超10倍。上半年化工、医药、集成电路、设备制造、汽车零部件等行业表现亮眼。在217家上半年净利润增幅超100%的上市公司中，设备制造企业占比约12%，电子行业占比约11%（多为集成电路企业），化工企业占比约17%。而在净利润增幅超10倍的公司中，医药、化工、汽车制造行业同样占比明显。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca4941356.d.html</link>
+            <guid>2229021</guid>
+            <pubDate>Sun, 04 Jul 2021 17:45:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【兴业证券首席经济学家王涵 ：强非农之下，市场为何交易联储“难紧”】① 6月非农略超预期，服务业的恢复是主要支撑，休闲及酒店行业就业增加34.3万人，已连续5个月维持20万人以上的增长，恢复斜率尚未放缓；② 6月非农给出的两点信号：通胀预期边际减弱+就业恢复缺口仍然较大；随着美国经济恢复逐渐由商品消费转向服务消费，服务涨价压力较大；③ 强非农后，市场反而交易联储“难紧”，或正是因为通胀预期有所回落。从市场反应来看，强非农之后，美元跌、黄金涨，短端美债利率明显回落，市场似乎是在向联储“难紧”的方向交易，同时对联储加息的预期也有所回落。而这背后的原因，或正是上述提到的通胀压力边际下降叠加就业市场恢复缺口仍然较大；④ 短期市场对联储信号仍较敏感，但联储长期“易松难紧”的格局并未改变。往后看，通胀压力边际回落或将减弱联储收紧的压力，而随着就业后续的逐渐恢复，市场仍处在对联储taper信号的高敏感时期。但长期来看，在高额政府债务的压力下，联储长期“易松难紧”的格局并未改变。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3540575.d.html</link>
@@ -563,47 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4898244.d.html</link>
             <guid>2228917</guid>
             <pubDate>Sun, 04 Jul 2021 09:10:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼新增27233例新冠肺炎确诊病例，新增555例新冠肺炎死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4897987.d.html</link>
-            <guid>2228916</guid>
-            <pubDate>Sun, 04 Jul 2021 09:08:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【兴证策略：市场没有系统性风险 科创“小巨人”正是布局时】兴业证券策略团队今日发布研报表示，近3个月以来，创业板指、科创板等新兴成长方向表现较好。7月份市场整体上没有系统性风险，平淡中寻找新奇，结构性机会依然精彩纷呈，特别是围绕中报挖掘业绩超预期、市场关注度不足的科创“小巨人”。1）宏观平淡，市场有惊无险，短期震荡恰是立足长逻辑淘金科创长牛的良机。海外政策预期引发的波动，国内化解部分存量风险过程中的扰动，都不是系统性风险。2）配置层面：成长依然是推荐的核心主线，但是更关注性价比，更关注赔率更好的方向与个股，特别是市场关注度不足的“小而美”科创小巨人。另外，淘金中报超预期的绩优股，如汽车、化工、机械、交运、有色等行业具有阿尔法属性的优质核心资产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4897876.d.html</link>
-            <guid>2228915</guid>
-            <pubDate>Sun, 04 Jul 2021 09:07:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【10天9板ST摩登：股票异常波动 “酒企借壳”传闻不属实】ST摩登公告，近日，公司关注到存在关于公司“酒企借壳”的相关传闻。经核实，上述传闻并不属实，公司并不涉及与酒企业的“借壳”、“重组”的洽谈或谈判等行为。股票异常波动期间，公司控股股东被动减持50.96万股股票，实际控制人及一致行动人不存在买卖公司股票的情形。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4897348.d.html</link>
-            <guid>2228914</guid>
-            <pubDate>Sun, 04 Jul 2021 09:03:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大全能源：拟发行3亿股A股 投建高纯半导体材料及多晶硅项目】大全能源(688303)7月4日晚间发布《首次公开发行股票并在科创板上市发行安排及初步询价公告》。公司自7月5日开始网下及网上路演，7月13日网上网下同时申购。大全能源此次拟发行3亿股A股，预计募资50亿元投建年产1000吨高纯半导体材料项目、年产35000吨太阳能光伏多晶硅项目及补充流动资金。公司预计2021年上半年可实现营收41.3亿元至41.7亿元，实现净利润18.8亿元至19.2亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4897333.d.html</link>
-            <guid>2228913</guid>
-            <pubDate>Sun, 04 Jul 2021 09:03:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：阿联酋能源部长称阿联酋无条件支持增加石油产量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4896742.d.html</link>
-            <guid>2228912</guid>
-            <pubDate>Sun, 04 Jul 2021 08:59:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  东北制药：东药集团、盛京金控集团与方大钢铁签署《股份转让协议》，转让股份数量为2.55亿股，占公司总股本18.91%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4896331.d.html</link>
-            <guid>2228911</guid>
-            <pubDate>Sun, 04 Jul 2021 08:55:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2021年7月4日，根据监管部门提供的首发企业信息披露质量抽查名单，中国证券业协会组织了首发企业信息披露质量抽查名单第30次随机抽取工作。（中国证券业协会）]]></title>
-            <guid>2228910</guid>
-            <pubDate>Sun, 04 Jul 2021 08:54:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
