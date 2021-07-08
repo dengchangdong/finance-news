@@ -4,13 +4,181 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Thu, 08 Jul 2021 03:39:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jul 2021 04:46:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[印度过去24小时新增45892例新冠肺炎确诊病例。]]></title>
+            <title><![CDATA[【日本央行调查：日本家庭预计五年内通胀率为2%】日本家庭预计五年内通货膨胀率为2%，这一预期与三个月前持平。周四显示。一年期通货膨胀预测中值为2%，与上一季度持平。家庭部门对当前经济状况的预期从3个月前的-69.4上调至-61.6，对经济前景的预期从-8.5下调至-14.9。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5649984.d.html</link>
+            <guid>2233067</guid>
+            <pubDate>Thu, 08 Jul 2021 04:45:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯外长拉夫罗夫：美国撤军实际上承认了在阿富汗的任务失败了。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4250127.d.html</link>
+            <guid>2233066</guid>
+            <pubDate>Thu, 08 Jul 2021 04:37:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度2035年到期的国债收益率下跌3个基点，报6.76%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4250087.d.html</link>
+            <guid>2233065</guid>
+            <pubDate>Thu, 08 Jul 2021 04:37:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【媒体：零氪科技搁置美国IPO计划】据路透报道，零氪科技搁置美国IPO计划。公司原计划将于本周五（7月9日）在纳斯达克挂牌上市，股票代码“LDOC”，拟发行1080万股ADS，发行价区间定为17.5美元至19.5美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5647924.d.html</link>
+            <guid>2233064</guid>
+            <pubDate>Thu, 08 Jul 2021 04:34:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东京奥运会或在紧急事态宣言下进行】据日本时事通讯社消息，当地时间8日上午，日本政府召开了由新型冠状病毒感染症专家组成的基本应对方针分科会议，提出了向东京都发布紧急事态宣言的方针建议，建议紧急事态宣言适用时间为7月12日至8月22日，为期6周。由于东京奥运会从7月23日开始到8月8日结束，所以整个东京奥运会都可能在紧急事态宣言下进行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4249292.d.html</link>
+            <guid>2233063</guid>
+            <pubDate>Thu, 08 Jul 2021 04:33:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【李彦宏参观集度汽车首款油泥模型：要把最先进的人工智能技术第一时间推向市场】2021世界人工智能大会前夕，百度创始人、董事长兼CEO李彦宏到访集度公司，并参观了集度造型工作室及首款车型的油泥模型。集度研发团队已基于确定的造型设计方案，开始进入工程开发阶段。李彦宏表示：“百度从2013年开始研发自动驾驶技术，从今年年初1月份宣布了集度的成立，可以说集度承载了百度的造车梦，我们希望把最先进的人工智能的技术能够第一时间推向市场”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4247897.d.html</link>
+            <guid>2233061</guid>
+            <pubDate>Thu, 08 Jul 2021 04:27:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[全国碳排放权交易市场已完成启动交易的各项准备工作，将于7月择时启动上线交易。（生态环境部）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4247661.d.html</link>
+            <guid>2233060</guid>
+            <pubDate>Thu, 08 Jul 2021 04:26:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央行副行长范一飞：北京冬奥会场景是下一步数字人民币试点的重点领域】中国央行副行长范一飞表示，我们有信心把这项工作继续扩大试点面，加大试点范围。我们主要是白名单邀请方式，据我所知，白名单用户已达1000万，我希望大家有机会也可以尝试使用。北京冬奥会场景是下一步试点的重点领域。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4247598.d.html</link>
+            <guid>2233059</guid>
+            <pubDate>Thu, 08 Jul 2021 04:25:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【范一飞回应央行将如何帮助中小微企业发展】中国央行副行长范一飞在发布会上表示，汇率我们会继续保持稳定，根据政策工具及时作出一些调整。我们会继续落实两项直达货币政策工具，保持对小微企业的金融支持力度不减。督促金融机构优化内部资源配置和政策安排，强化金融科技手段运用，扩大信用贷款、首贷、中长期贷款、无还本续贷业务规模，推广随借随还贷款，不断提升金融机构中小微企业服务能力，加快形成敢贷、愿贷、能贷、会贷的长效机制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4247217.d.html</link>
+            <guid>2233058</guid>
+            <pubDate>Thu, 08 Jul 2021 04:23:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【范一飞：努力确保数字人民币体系对宏观方面的影响降到最低】中国央行副行长范一飞表示，目前我们正在数字人民币的试点过程之中，这些数字人民币究竟对货币体系、货币政策、金融稳定带来哪些影响，我们始终高度关注，我们也努力通过业务、技术和政策设计，确保数字人民币体系对这些宏观方面的影响降到最低。针对数字人民币试点，我们主要是白名单邀请方式，据我所知，白名单用户已达1000万。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4246247.d.html</link>
+            <guid>2233057</guid>
+            <pubDate>Thu, 08 Jul 2021 04:19:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央行副行长范一飞：垄断现象不仅仅存在于蚂蚁集团一家】央行副行长范一飞表示，前段时间，包括像蚂蚁集团反垄断情况进行了一些约谈，另外也披露了相关信息。垄断现象其实不仅仅存在于蚂蚁集团一家，其他机构也有这样的情况。对蚂蚁集团采取的措施，我们也会推行到其他的支付服务市场主体。我相信，大家不久就会看到这个情况，希望大家批评监督，有什么批评和建议也可以向我们提出来，我们共同推动支付服务市场往前走。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5644354.d.html</link>
+            <guid>2233056</guid>
+            <pubDate>Thu, 08 Jul 2021 04:18:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央行副行长范一飞：各种所谓“稳定币”已经成为投机性工具】中国央行副行长范一飞表示，私人数字货币的典型代表是比特币等这样的货币，也包括推出的各种所谓“稳定币”。这些货币本身已经成为一个投机性工具，市场出现了这种情况，也存在威胁金融安全和社会稳定潜在的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4245355.d.html</link>
+            <guid>2233055</guid>
+            <pubDate>Thu, 08 Jul 2021 04:15:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【币安将调整短信通知服务，合约、杠杆交易等未来可能无法提供通知】币安通过邮件通知，将针对短信通知服务进行调整，币安合约、杠杆交易及质押借币未来可能无法提供短信通知的服务，其中包含追加保证金通知、强平通知、借款逾期通知等时效性较强的重要通知。具体短信提醒暂停服务时间将另行通知。币安表示，未来将通过邮件、站内信、App推送的形式发送相关通知。（币世界）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4245021.d.html</link>
+            <guid>2233054</guid>
+            <pubDate>Thu, 08 Jul 2021 04:13:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【报告：半数省份拥有环境产业投资平台 未来将是两类企业竞争】今天在四川成都举办的“2021中国生态环境产业高峰论坛”上，全国工商联环境商会、和君咨询生态环保事业部联合发布《环境产业“十四五”发展趋势展望：达峰•拐点•下半场》报告。报告显示，目前，我国环境产业市场正快速变化，近半数省份拥有环境产业投资平台，地市县平台所能发挥的作用将会越来越小。报告同时预测，未来市场中将主要是掌握资源的平台公司和掌握技术的专业公司这两类企业的竞争。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5642809.d.html</link>
+            <guid>2233053</guid>
+            <pubDate>Thu, 08 Jul 2021 04:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【李新创：预计2025年我国不锈钢消费量在3300万吨左右】冶金工业规划研究院党委书记、俄罗斯自然科学院院士李新创在2021（第一届）中国建筑用不锈钢创新论坛上表示，2016年-2020年，我国不锈钢表观消费量由1884万吨增长至2560万吨，年均增长率8%。预计2025年我国不锈钢消费量在3300万吨左右。其中，建筑领域用不锈钢消费量将呈现较快增长，不锈钢围护系统、不锈钢饮用水管将迎来更大的市场空间，预计“十四五”年均消费量增速为6%，高品质、适用性、可替代性是未来建筑用不锈钢的发展方向。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4243719.d.html</link>
+            <guid>2233052</guid>
+            <pubDate>Thu, 08 Jul 2021 04:07:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【周鸿祎：数据安全直接和国家安全挂钩】7月8日，在世界人工智能大会上，周鸿祎谈及一企业被国家安全调查时表示，当数据积攒到一定程度，量变产生质变，数据的安全和国家安全建立会直接的联系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5641865.d.html</link>
+            <guid>2233051</guid>
+            <pubDate>Thu, 08 Jul 2021 04:06:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【超过招商银行，宁德时代成为A股市值第四高的公司】截至7月8日上午收盘，宁德时代上涨3.95%，报563.91元，市值达到1.31万亿元。招商银行下跌逾5%，市值下滑至约1.27万亿元。目前A股市值榜前三位的企业为贵州茅台、工商银行和建设银行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4242667.d.html</link>
+            <guid>2233050</guid>
+            <pubDate>Thu, 08 Jul 2021 04:03:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【生态环境部：将逐步扩大碳市场覆盖行业范围 有序纳入水泥、有色等高排放行业】今天在四川成都主办的“2021中国生态环境产业高峰论坛”上，生态环境部应对气候变化司司长李高在致辞时表示，中国的碳达峰必须是高质量达峰，要防止碳达峰变成“攀高峰”。据了解，下一步，生态环境部将逐步扩大碳市场覆盖行业范围，有序纳入水泥、有色、钢铁、石化和化工等高排放行业。 （第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5640962.d.html</link>
+            <guid>2233049</guid>
+            <pubDate>Thu, 08 Jul 2021 04:02:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【午间公告：永清环保联合中标2.21亿元污染土壤治理修复项目】永清环保：公司和中国恩菲工程技术有限公司组成的联合体中标重钢炼铁厂原址场地污染土壤治理修复项目，中标金额2.21亿元。英派斯：持股2.15%的股东青岛青英计划五个交易日后的六个月内以集中竞价交易或大宗交易方式合计减持不超0.54%股份。珈伟新能：全资子公司上海珈伟拟以现金8020万元的价格收购古浪绿舟光伏发电有限公司20%股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5640727.d.html</link>
+            <guid>2233048</guid>
+            <pubDate>Thu, 08 Jul 2021 04:01:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息，国际奥委会主席巴赫抵达东京羽田机场。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5640653.d.html</link>
+            <guid>2233047</guid>
+            <pubDate>Thu, 08 Jul 2021 04:01:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马化腾称王者荣耀将举办AI电竞赛】 腾讯公司董事会主席兼首席执行官马化腾在2021世界人工智能大会开幕式上表示，这次将带来王者荣耀AI电竞赛，希望能让大家欣赏到最高水平的AI竞技，同时激发青年人对通用AI的研究兴趣。（新京报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5640332.d.html</link>
+            <guid>2233046</guid>
+            <pubDate>Thu, 08 Jul 2021 03:59:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑韩元USD/KRW创去年11月以来新高，报1141.10。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4241680.d.html</link>
+            <guid>2233045</guid>
+            <pubDate>Thu, 08 Jul 2021 03:58:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【生态环境部将逐步扩大碳市场覆盖行业范围 有序纳入水泥、有色、钢铁、石化和化工等高排放行业】今天在四川成都主办的“2021中国生态环境产业高峰论坛”上，生态环境部应对气候变化司司长李高在致辞时表示，中国的碳达峰必须是高质量达峰，要防止碳达峰变成“攀高峰”。据了解，下一步，生态环境部将逐步扩大碳市场覆盖行业范围，有序纳入水泥、有色、钢铁、石化和化工等高排放行业。 (第一财经)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4240628.d.html</link>
+            <guid>2233043</guid>
+            <pubDate>Thu, 08 Jul 2021 03:53:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【IDC：2021年中国商业智能软件市场规模预计达7亿美元】IDC预测，2021年中国商业智能软件市场增速将快速恢复，2021年市场规模预计达到7.0亿美元，同比增长恢复到21%，到2025年，中国商业智能软件市场规模将达到13.3亿美元，未来5年整体市场年复合增长率（CAGR）为17.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5638635.d.html</link>
+            <guid>2233041</guid>
+            <pubDate>Thu, 08 Jul 2021 03:52:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚总理莫里森：遵守新南威尔士州的疫情规定至关重要。病毒不会自己消失。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5638565.d.html</link>
+            <guid>2233040</guid>
+            <pubDate>Thu, 08 Jul 2021 03:51:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度昨日接种了338万剂新冠疫苗，累计接种3.648亿剂。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4239360.d.html</link>
+            <guid>2233039</guid>
+            <pubDate>Thu, 08 Jul 2021 03:48:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本经济再生大臣西村康稔：冲绳的紧急情况可能会提前解除。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4238362.d.html</link>
+            <guid>2233038</guid>
+            <pubDate>Thu, 08 Jul 2021 03:43:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒生科技指数跌幅扩大至3%，哔哩哔哩跌近8%，美团跌超5.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4237866.d.html</link>
+            <guid>2233037</guid>
+            <pubDate>Thu, 08 Jul 2021 03:41:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度过去24小时新增45892例新冠肺炎确诊病例。新增817例新冠肺炎死亡病例。印度新冠肺炎确诊病例累计达3071万例，死亡病例累计达405028例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4237281.d.html</link>
             <guid>2233036</guid>
             <pubDate>Thu, 08 Jul 2021 03:39:12 GMT</pubDate>
@@ -435,174 +603,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5613856.d.html</link>
             <guid>2232950</guid>
             <pubDate>Thu, 08 Jul 2021 02:13:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中静新华声明：对徽商银行的投资行为合法合规 不存在“融资高利息倒挂”】中静新华声明称，中静对徽商银行的投资行为符合相关法律法规要求，完全不存在《杉杉声明》所称的“融资高利息倒挂”。中静在担任徽商银行股东期间，积极参与公司治理，履行股东职责，依法依规进行提案及表决，完全不存在《杉杉声明》所称“为要求足额分红，利用大股东地位在徽商银行公司治理中处处设阻”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5613678.d.html</link>
-            <guid>2232949</guid>
-            <pubDate>Thu, 08 Jul 2021 02:12:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场监管总局等五部门印发《公平竞争审查制度实施细则》】《细则》要求：不得设置不合理或者歧视性的准入和退出条件，未经公平竞争不得授予经营者特许经营权，设置歧视性条件，使经营者无法公平参与特许经营权竞争。 不得强制经营者从事《中华人民共和国反垄断法》禁止的垄断行为，主要指以行政命令、行政授权、行政指导等方式或者通过行业协会商会，强制、组织或者引导经营者达成垄断协议、滥用市场支配地位，以及实施具有或者可能具有排除、限制竞争效果的经营者集中等行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4214894.d.html</link>
-            <guid>2232948</guid>
-            <pubDate>Thu, 08 Jul 2021 02:11:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马来西亚股指跌1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5613097.d.html</link>
-            <guid>2232947</guid>
-            <pubDate>Thu, 08 Jul 2021 02:10:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马化腾：腾讯将和国家天文台共同发布探星计划】2021世界人工智能大会期间，腾讯公司董事会主席兼首席执行官马化腾在开幕式上发言表示，腾讯将和国家天文台共同发布探星计划，把上海优图实验室的AI技术用于探索宇宙。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4214310.d.html</link>
-            <guid>2232946</guid>
-            <pubDate>Thu, 08 Jul 2021 02:09:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【6月中国手游发行商收入排行榜：《摩尔庄园》发行商跻身第6名】Sensor Tower商店情报平台显示，本期共36个中国厂商入围全球手游发行商收入榜TOP100，合计吸金近22.4亿美元，占全球TOP100手游发行商收入的38%。在全球手游发行商收入榜，雷霆游戏位列第23名，与Sony(21名)、Niantic(22名)、AppLovin(24名)和Electronic Arts(25名)相邻，成为又一家进入全球头部队列的中国手游厂商。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5611696.d.html</link>
-            <guid>2232945</guid>
-            <pubDate>Thu, 08 Jul 2021 02:07:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[斯里兰卡央行：将应对持续不断的价格压力，通货膨胀仍然温和。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4213207.d.html</link>
-            <guid>2232944</guid>
-            <pubDate>Thu, 08 Jul 2021 02:06:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  斯里兰卡维持5.5%的贷款利率不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4213121.d.html</link>
-            <guid>2232943</guid>
-            <pubDate>Thu, 08 Jul 2021 02:06:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【宁德时代1亿成立新公司 经营范围含电子专用材料研发】7月7日，成都金堂时代新材料科技有限公司成立，注册资本1亿人民币，法定代表人为吴锡雄，经营范围包括电子专用材料销售；电子专用材料制造；电子专用材料研发等。股东信息显示，该公司由宁德时代新能源科技股份有限公司全资持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4212965.d.html</link>
-            <guid>2232941</guid>
-            <pubDate>Thu, 08 Jul 2021 02:05:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股黄金及贵金属板块表现疲软，龙资源跌近6%，紫金矿业跌3.34%，金山能源跌3%，中国黄金国际跌超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5611174.d.html</link>
-            <guid>2232940</guid>
-            <pubDate>Thu, 08 Jul 2021 02:05:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黑色商品短线下挫，焦煤主力合约跌超5%，铁矿主力合约跌超3%，焦炭主力合约跌超4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4212499.d.html</link>
-            <guid>2232939</guid>
-            <pubDate>Thu, 08 Jul 2021 02:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[科创50指数涨超2%，中芯概念、超导概念、第三代半导体等涨幅居前。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5610174.d.html</link>
-            <guid>2232938</guid>
-            <pubDate>Thu, 08 Jul 2021 02:01:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[碳中和概念股早盘拉升，绿茵生态涨停，岳阳林纸、三峡能源、百川畅银、维尔利、国网英大等跟随走高，消息面上，国常会决定今年7月择时启动发电行业全国碳排放权交易市场上线交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4211268.d.html</link>
-            <guid>2232936</guid>
-            <pubDate>Thu, 08 Jul 2021 02:00:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【肖亚庆：我国人工智能发明专利授权总量全球排名第一】7月8日，在2021世界人工智能大会开幕式上，工信部部长肖亚庆表示，我国人工智能产业发展取得了显著成效，图像识别、语音识别等技术创新应用进入了世界先进行列，人工智能发明专利授权总量全球排名第一，核心产业规模持续增长，已经形成覆盖基础层、技术层和应用层的完整产业链和应用生态。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4211159.d.html</link>
-            <guid>2232934</guid>
-            <pubDate>Thu, 08 Jul 2021 01:59:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马来西亚股指自去年12月的高点跌去10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5609057.d.html</link>
-            <guid>2232933</guid>
-            <pubDate>Thu, 08 Jul 2021 01:58:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒生科技指数跌幅扩大至2%，哔哩哔哩跌超6%，美团跌约5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4210593.d.html</link>
-            <guid>2232932</guid>
-            <pubDate>Thu, 08 Jul 2021 01:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，便利蜂据悉已提交美国IPO申请。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4210544.d.html</link>
-            <guid>2232931</guid>
-            <pubDate>Thu, 08 Jul 2021 01:57:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[焦炭主力合约日内跌4.00%，现报2506.5元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5608567.d.html</link>
-            <guid>2232930</guid>
-            <pubDate>Thu, 08 Jul 2021 01:55:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑泰铢USD/THB一度涨0.5%至32.438，创去年5月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5608454.d.html</link>
-            <guid>2232929</guid>
-            <pubDate>Thu, 08 Jul 2021 01:55:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CRO板块早盘再度走弱，泰格医药跌超7%，成都先导、博腾股份、凯莱英、博济医药等跟跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4209924.d.html</link>
-            <guid>2232927</guid>
-            <pubDate>Thu, 08 Jul 2021 01:54:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[医美板块继续走低，华熙生物跌超5%，苏宁环球、爱美客、哈三联、鲁商发展等跌超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4209879.d.html</link>
-            <guid>2232926</guid>
-            <pubDate>Thu, 08 Jul 2021 01:54:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒指跌幅扩大至1%，科技股与石油股普跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5608142.d.html</link>
-            <guid>2232925</guid>
-            <pubDate>Thu, 08 Jul 2021 01:53:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【广州本轮疫情在院病例清零】7日上午，根据国家卫生健康委新型冠状病毒肺炎诊疗方案的出院标准，经专家评估，又有6名确诊患者从广州医科大学附属市八医院出院。随之，广州本轮本地疫情的在院感染者实现清零，无一例感染者死亡。（人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5607907.d.html</link>
-            <guid>2232924</guid>
-            <pubDate>Thu, 08 Jul 2021 01:52:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【李彦宏：未来2-3年计划将共享无人车服务推广到30个城市】百度创始人李彦宏在2021年人工智能大会上表示，不久前，百度刚刚推出了新一代的共享无人车。目标就是让出行比现在的网约车更便宜。未来2到3年，我们计划将共享无人车的服务推广到全国30个城市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4209343.d.html</link>
-            <guid>2232923</guid>
-            <pubDate>Thu, 08 Jul 2021 01:51:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[华为鸿蒙概念股早盘回暖，超图软件一度涨超10%，润和软件涨超6%，九联科技、思特奇、梦网科技等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5607354.d.html</link>
-            <guid>2232922</guid>
-            <pubDate>Thu, 08 Jul 2021 01:50:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国约翰斯·霍普金斯大学统计数据显示，全球新冠肺炎死亡病例已超过400万例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5607314.d.html</link>
-            <guid>2232921</guid>
-            <pubDate>Thu, 08 Jul 2021 01:50:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富时中国A50指数期货跌超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4209014.d.html</link>
-            <guid>2232920</guid>
-            <pubDate>Thu, 08 Jul 2021 01:50:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[软件服务股早盘走强，新致软件拉升涨逾18%，超图软件、润和软件、东方通、虹软科技等冲高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5606918.d.html</link>
-            <guid>2232919</guid>
-            <pubDate>Thu, 08 Jul 2021 01:49:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[有色板块早盘走强，宝钛股份涨停，怡球资源、和胜股份、焦作万方、厦门钨业、中国铝业等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4208482.d.html</link>
-            <guid>2232918</guid>
-            <pubDate>Thu, 08 Jul 2021 01:48:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
