@@ -6,6 +6,55 @@
     "description": "新浪最新财经新闻100条",
     "items": [
         {
+            "id": 2234060,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5765359.d.html",
+            "title": "【欧盟称英国脱欧后欠欧盟475亿欧元】欧盟在一份评估报告称，作为脱欧协议的一部分，英国欠欧盟475亿欧元，这个数字高于英国最初的估计。这份欧盟评估报告发表在一份预算文件中，旨在反映英国对其仍在受益的欧盟项目的费用，以及对欧盟的其他债务。未来几年，将有大量债务到期。这笔账可能会引发欧盟与英国的新谈判，英国在2018年估计，欠款总额为414亿欧元。欧盟表示，英国2021年应支付总计68亿欧元，其余款项稍后支付。英国政府已经承认，向欧盟支付的部分款项可能会持续数十年。",
+            "date_modified": "2021-07-08T19:23:02.000Z"
+        },
+        {
+            "id": 2234059,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4366692.d.html",
+            "title": "【拜登：美国在阿富汗的军事任务将于8月31日结束】美国总统拜登于当地时间7月8日就美国的阿富汗撤军计划发表讲话，拜登表示，美国在阿富汗持续近20年的军事任务将提前于8月31日正式结束。据悉，拜登曾于4月宣布，在“911”恐怖袭击事件发生20周年的纪念日，也就是今年9月11日前完成所有撤离工作。（央视）",
+            "date_modified": "2021-07-08T19:17:06.000Z"
+        },
+        {
+            "id": 2234058,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5764921.d.html",
+            "title": "市场消息：美国共和党参议员图米在提倡减少监管后投资了加密货币。",
+            "date_modified": "2021-07-08T19:12:04.000Z"
+        },
+        {
+            "id": 2234057,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5764415.d.html",
+            "title": "美国5月消费信贷(亿美元)：前值 186.12，预期 184，公布 352.81。",
+            "date_modified": "2021-07-08T19:01:39.000Z"
+        },
+        {
+            "id": 2234056,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5764342.d.html",
+            "title": "【英国新增新冠肺炎确诊32551例，累计确诊5022893例】当地时间7月8日，英国卫生和社会保障部公布最新数据显示，过去24小时英国新增新冠肺炎确诊病例32551例，累计确诊5022893例；新增死亡病例35例，目前累计死亡128336例。（央视）",
+            "date_modified": "2021-07-08T19:00:45.000Z"
+        },
+        {
+            "id": 2234055,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5764227.d.html",
+            "title": "【花旗：美元应会走强 但未来一年只会温和上涨】花旗认为美元应该会走强，但在未来一年只会温和上涨。美联储料将在欧洲央行和日本央行之前减少刺激措施，但由于美联储在紧缩政策和经济增长势头指标方面预计仍落后于许多其他央行，美元不太可能大幅升值。“加拿大央行、挪威央行和新西兰联储预计都将先于美联储加息，澳洲联储和英国央行也有可能决定尽快恢复正常。”预计未来6至12个月，美元指数DXY将升至93.28。",
+            "date_modified": "2021-07-08T18:58:24.000Z"
+        },
+        {
+            "id": 2234054,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5763769.d.html",
+            "title": "WTI 8月原油期货收涨0.74美元，涨幅1.02%，报72.94美元/桶。",
+            "date_modified": "2021-07-08T18:48:27.000Z"
+        },
+        {
             "id": 2234053,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4365124.d.html",
@@ -647,55 +696,6 @@
             "url": "https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5748499.d.html",
             "title": "  汽车制造商Stellantis(STLA.N)CFO：2021年，我们将有30-40款轻型电动车（LEV）上市销售。",
             "date_modified": "2021-07-08T15:18:28.000Z"
-        },
-        {
-            "id": 2233908,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4350099.d.html",
-            "title": "经合组织主任：全球税收协定非常公平，将完善税收体制。",
-            "date_modified": "2021-07-08T15:17:41.000Z"
-        },
-        {
-            "id": 2233906,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5748448.d.html",
-            "title": "汽车制造商Stellantis(STLA.N)CFO：计划到2025年在欧洲和美国推出55款轻型电动车（LEV）。",
-            "date_modified": "2021-07-08T15:17:21.000Z"
-        },
-        {
-            "id": 2233905,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5748423.d.html",
-            "title": "现货黄金短线下挫4美元，报1794.38美元/盎司。",
-            "date_modified": "2021-07-08T15:16:57.000Z"
-        },
-        {
-            "id": 2233904,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4349930.d.html",
-            "title": "  汽车制造商Stellantis(STLA.N)高管：Abarth将在2024年成为集团内第一个转型为全电动的品牌。",
-            "date_modified": "2021-07-08T15:15:07.000Z"
-        },
-        {
-            "id": 2233901,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5748267.d.html",
-            "title": "  美股白银股持续下挫，First Majestic(AG.N)跌4.5%，Endeavour Silver(EXK.N)跌4.5%，迈力达电子(MAG.A)跌4%，泛美白银(PAAS.O)跌2.6%。",
-            "date_modified": "2021-07-08T15:14:16.000Z"
-        },
-        {
-            "id": 2233898,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5748235.d.html",
-            "title": "美国白宫新冠疫情协调员表示，几乎所有美国新冠死亡和住院病例都发生在未接种疫苗的人群中。",
-            "date_modified": "2021-07-08T15:13:47.000Z"
-        },
-        {
-            "id": 2233897,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4349807.d.html",
-            "title": "现货白银跌逾1%，刷新6月30日以来低点至25.86美元/盎司。",
-            "date_modified": "2021-07-08T15:13:22.000Z"
         }
     ]
 }
