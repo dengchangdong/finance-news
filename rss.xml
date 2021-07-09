@@ -4,11 +4,58 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Fri, 09 Jul 2021 20:34:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jul 2021 21:36:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[巴西新增57737例新冠肺炎确诊病例，新增1509例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4577272.d.html</link>
+            <guid>2235159</guid>
+            <pubDate>Fri, 09 Jul 2021 21:31:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[公报草案显示，20国集团对疫情风险发出警告，经济复苏存在“巨大分化”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5974633.d.html</link>
+            <guid>2235158</guid>
+            <pubDate>Fri, 09 Jul 2021 21:16:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[公报草案显示，20国集团将签署全球税收协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5974593.d.html</link>
+            <guid>2235157</guid>
+            <pubDate>Fri, 09 Jul 2021 21:15:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法官未同意孟晚舟引入新证据的申请】当地时间7月9日下午，加拿大不列颠哥伦比亚省高等法院就孟晚舟的律师要求引入新证据的申诉做出判决，法官不同意引入从汇丰银行获取的新证据。这意味着，孟晚舟在8月举行的最后阶段审理中，将无法使用这些新证据来证明美方提交法庭的引渡依据——《案件记录》存在重大遗漏并误导了法庭。有法律界人士认为，如果引入这些新证据，将对美方要求引渡的关键证据构成挑战。法官不同意引入这些新证据，对辩方律师在最后阶段的审理中要求终止引渡程序是不利的。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4576482.d.html</link>
+            <guid>2235156</guid>
+            <pubDate>Fri, 09 Jul 2021 21:09:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉确认俄罗斯评级为“BBB”；前景展望稳定。]]></title>
+            <guid>2235155</guid>
+            <pubDate>Fri, 09 Jul 2021 21:04:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储首次在金融风险评估中提及加密资产】美联储在其对金融体系稳定性的总体评估中首次特别提到加密货币资产价格的飙升，称这种上涨反映出投资者风险偏好的增加。报告还称，如果投资者风险偏好下降、利率意外上升或复苏停滞，资产价格可能容易大幅下跌。美联储在货币政策报告中表示，自2月份向国会提交上一份报告以来，金融体系的某些部分已经变得更容易受到潜在不稳定因素的影响，但体系的核心依然具有韧性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5973828.d.html</link>
+            <guid>2235154</guid>
+            <pubDate>Fri, 09 Jul 2021 20:56:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：强生公司欢迎美国捐赠最初的1200万剂新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4575514.d.html</link>
+            <guid>2235153</guid>
+            <pubDate>Fri, 09 Jul 2021 20:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：日本本州东海岸发生5.3级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4575356.d.html</link>
+            <guid>2235152</guid>
+            <pubDate>Fri, 09 Jul 2021 20:39:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美股大类资产类ETF中，罗素2000指数ETF收涨逾2.1%，新兴市场ETF和美国布伦特原油基金（BNO）涨约1.7%，美国房地产ETF、标普500价值ETF、道指ETF、标普500ETF均涨超1.0%，恐慌指数做多ETF表现最差，收跌逾6.7%，美国国债20+年ETF以超过1.4%的跌幅紧随其后，美国国债7-10年ETF也跌0.5%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5972585.d.html</link>
@@ -556,54 +603,6 @@
             <title><![CDATA[  【汇丰通知高级管理人员做好管理层改革的准备】汇丰控股的机构改革行动进入高层，承诺将改变该集团的“层级文化”。据人力资源主管ElaineArden发布的内部备忘录，数百名经理未来几个月将看到自己的“领导层级”发生变化。汇丰现在计划从9月份开始，将4个最高级别合并为3个。“经过全面评估，我们正在创建一个更简单的领导管理体系，确保范围和责任明确，以帮助加快转型和推动增长，”汇丰在一封电子邮件声明中表示。“合同雇员福利不会因此发生变化。”汇丰正在进行全球重组，裁员数千人，并重新专注于亚洲业务，尤其是该地区的财富管理部门。]]></title>
             <guid>2235058</guid>
             <pubDate>Fri, 09 Jul 2021 15:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  台积电涨1.8%，6月销售额同比增长23%至14847亿台币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5952522.d.html</link>
-            <guid>2235057</guid>
-            <pubDate>Fri, 09 Jul 2021 15:27:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海航运指数连续第五周上涨 因海岬型船运价指数走高】波罗的海干散货运价指数周五上涨，因海岬型船运价指数走高，实现连续第五周录得上涨。波罗的海干散货运价指数涨19点或0.6%，至3300点，本周累涨0.5%。海岬型船运价指数涨86点或2.4%，报3735点，自上周以来累涨6.4%；日均获利增加712美元至30972美元。巴拿马型船运价指数跌27点或0.7%，报4101点，为连续第5个交易日录得下跌；本周累跌3.9%，为6周来首次录得下跌；日均获利减少240美元至36912美元。超灵便型船运价指数下跌6点，报2891点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4554774.d.html</link>
-            <guid>2235056</guid>
-            <pubDate>Fri, 09 Jul 2021 15:26:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  滴滴盘中再度转涨，现涨1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4554583.d.html</link>
-            <guid>2235055</guid>
-            <pubDate>Fri, 09 Jul 2021 15:23:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银日内涨1%，现报26.14美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5952200.d.html</link>
-            <guid>2235054</guid>
-            <pubDate>Fri, 09 Jul 2021 15:22:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国国务卿布林肯与巴基斯坦外长就阿富汗问题进行了交谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5952021.d.html</link>
-            <guid>2235053</guid>
-            <pubDate>Fri, 09 Jul 2021 15:20:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金站上1810美元/盎司，日内涨0.48%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4554085.d.html</link>
-            <guid>2235052</guid>
-            <pubDate>Fri, 09 Jul 2021 15:18:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  意大利新增1390例新冠肺炎确诊病例和25例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5951697.d.html</link>
-            <guid>2235051</guid>
-            <pubDate>Fri, 09 Jul 2021 15:17:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国内商品期货夜盘收盘多数上涨】国内商品期货夜盘收盘多数上涨，能源化工品表现强劲，塑料涨3.18%，燃油涨3.08%，甲醇涨2.86%，乙二醇涨2.65%，沥青涨2.6%。黑色系全线上涨，热轧卷板涨3.01%，铁矿石涨2.82%，螺纹钢涨2.61%，焦煤涨1.71%，动力煤涨1.12%，焦炭涨0.86%。农产品多数上涨，棕榈油涨3.24%，豆油涨2.18%，菜油涨1.85%，豆二涨1.62%，郑棉涨1.32%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5951657.d.html</link>
-            <guid>2235050</guid>
-            <pubDate>Fri, 09 Jul 2021 15:16:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
