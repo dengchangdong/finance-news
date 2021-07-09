@@ -4,11 +4,460 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Fri, 09 Jul 2021 09:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jul 2021 10:38:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【新强联：海通开元拟减持公司不超5%股份】新强联公告，海通开元计划6个月内以集中竞价、大宗交易方式，减持公司股份不超过901万股，占公司总股本比例5%。此外，监事张占普、李华清分别计划减持公司不超0.028%、0.005%股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5918490.d.html</link>
+            <guid>2234838</guid>
+            <pubDate>Fri, 09 Jul 2021 10:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世界黄金协会：6月净流入放缓，但全球黄金ETF仍以积极势头收官第二季度】6月份全球黄金ETF持仓变动不大，小幅流入2.9吨。北美与亚洲基金的净流入多被欧洲基金流出量所抵消。总体而言，尽管在美联储相对鹰派立场的前景下，6月下旬的金价出现明显疲软势头，但黄金ETF仍实现净流入，这表明投资者或许在利用低位金价来建立黄金多仓。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4520304.d.html</link>
+            <guid>2234837</guid>
+            <pubDate>Fri, 09 Jul 2021 10:36:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际医学：上半年预亏3.52亿元至3.62亿元】国际医学公告，预计上半年净亏损3.52亿元至3.62亿元，上年同期亏损3.44亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5918013.d.html</link>
+            <guid>2234836</guid>
+            <pubDate>Fri, 09 Jul 2021 10:34:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【开源证券：降准为低估值的价值股提供了修复的空间】开源证券策略首席分析师牟一凌表示，降准体现了政策决策者在能源转型过程中应对长期通胀中枢抬升的政策尝试。这无疑是对市场的一种利好。当下在对地产信用创造功能的抑制环境下，需要关注传统地产投融资体系中为追求稳定投资收益的资金提供回报的功能欠缺。而相对宽松的流动性环境可能加速此类资金需求回报资产的过程，这为低估值的价值股提供了修复的空间。]]></title>
+            <guid>2234835</guid>
+            <pubDate>Fri, 09 Jul 2021 10:34:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广汽集团：同意实施广汽埃安与华为(AH8车型)项目】广汽集团(601238)7月9日晚公告，经董事会审议通过，同意全资子公司广汽埃安新能源汽车有限公司与华为(AH8车型)项目的实施。根据公司与华为签署的战略合作协议，双方将联合定义、共同开发，共同打造面向未来的一系列智能汽车。该项目为双方联合开发的首款中大型智能纯电SUV车型，项目总投资7.88亿元，计划于2023年底量产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5917896.d.html</link>
+            <guid>2234834</guid>
+            <pubDate>Fri, 09 Jul 2021 10:34:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：欧盟批准意大利获得碳排放交易补偿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5917721.d.html</link>
+            <guid>2234833</guid>
+            <pubDate>Fri, 09 Jul 2021 10:33:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  闽东电力：与屏南县人民政府签署新能源产业发展合作框架协议，在屏南县管辖区域内开展分布式光伏发电项目的开发。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5917639.d.html</link>
+            <guid>2234832</guid>
+            <pubDate>Fri, 09 Jul 2021 10:32:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【晨鸣纸业：半年度净利预增287%-307%】晨鸣纸业(000488)7月9日晚间发布业绩预告，预计2021年半年度净利20亿元-21亿元，同比增长287%-307%。报告期内，造纸行业景气度提升，公司主要纸种价格同比上涨，提价效益明显；另一方面，随着木浆价格上涨，公司浆纸一体化战略所带来的成本优势突出。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5917624.d.html</link>
+            <guid>2234831</guid>
+            <pubDate>Fri, 09 Jul 2021 10:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[二十国集团财长公报草案：我们将在G20共同框架下处理符合条件的请求；私人债权人和其他官方双边债权人必须以至少同样优惠的条件提供债务待遇。]]></title>
+            <guid>2234830</guid>
+            <pubDate>Fri, 09 Jul 2021 10:31:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[二十国集团财长公报草案：我们呼吁国际货币基金组织迅速提出可行方案，让各国自愿拿出一部分已分配的特别提款权来帮助脆弱国家。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4519463.d.html</link>
+            <guid>2234829</guid>
+            <pubDate>Fri, 09 Jul 2021 10:31:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士信贷：将3B家居(BBBY.O)目标价从19美元上调至30美元，并维持中性评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5917166.d.html</link>
+            <guid>2234828</guid>
+            <pubDate>Fri, 09 Jul 2021 10:30:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【正业科技收关注函：要求说明合盛投资本次收购行为是否合法有效】正业科技收到关注函，要求说明合盛投资是否按照公司章程等相关规定严格履行了本次收购必要的内部审议决策和国资审批程序，合盛投资本次收购行为是否合法有效，是否存在法律瑕疵。要求说明实际控制人徐地华是否通过“智能云平台”项目占用上市公司资金；补充披露“智能云平台项目”的造价评估报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4519169.d.html</link>
+            <guid>2234826</guid>
+            <pubDate>Fri, 09 Jul 2021 10:29:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：提高生产率有助于英国承担债务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5916995.d.html</link>
+            <guid>2234825</guid>
+            <pubDate>Fri, 09 Jul 2021 10:28:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深南电路：筹划非公开发行股票事项】深南电路(002916)7月9日晚间公告，公司拟以非公开发行股票方式募集资金，用于公司项目建设和日常经营，此次非公开发行股票事项不会导致公司控股股东和实控人发生变化。目前，非公开发行股票方案正在筹划阶段。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4519038.d.html</link>
+            <guid>2234824</guid>
+            <pubDate>Fri, 09 Jul 2021 10:28:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[证监会核准新三板挂牌公司南京云创大数据科技股份有限公司向不特定合格投资者公开发行股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4518964.d.html</link>
+            <guid>2234823</guid>
+            <pubDate>Fri, 09 Jul 2021 10:28:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：预计经济数字化带来的生产力效益将持续。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5916866.d.html</link>
+            <guid>2234822</guid>
+            <pubDate>Fri, 09 Jul 2021 10:28:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[20国集团财长最新公报草案推动增加疫苗共享，但没有做出明确的数字承诺。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5916728.d.html</link>
+            <guid>2234821</guid>
+            <pubDate>Fri, 09 Jul 2021 10:27:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[20国集团财长最新公报草案：将继续维持经济复苏，避免过早退出任何支持措施，同时保持与央行的目标一致，包括价格稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5916678.d.html</link>
+            <guid>2234820</guid>
+            <pubDate>Fri, 09 Jul 2021 10:27:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【消息称美国数字支付服务商Stripe聘请法律顾问 为上市做准备】据报道，多位知情人士今日称，美国数字支付处理服务商Stripe已聘请一家律师事务所帮助筹备上市事宜。目前，Stripe正在考虑“直接上市”模式，而非传统的IPO。拥有11年历史的Stripe已是美国最具价值的科技初创公司，在今年3月份的一轮融资中，Stripe的估值达到约950亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4518592.d.html</link>
+            <guid>2234819</guid>
+            <pubDate>Fri, 09 Jul 2021 10:26:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：将转向数字技术以提高生产率。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4518530.d.html</link>
+            <guid>2234818</guid>
+            <pubDate>Fri, 09 Jul 2021 10:25:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华峰化学：上半年净利预增441%至486%】华峰化学公告，预计上半年归属于上市公司股东的净利润盈利36亿元–39亿元，比上年同期增长441.31%至486.42%。基本每股收益0.78元/股–0.84元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4518386.d.html</link>
+            <guid>2234817</guid>
+            <pubDate>Fri, 09 Jul 2021 10:25:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：英国生产力增长令人“失望”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5916276.d.html</link>
+            <guid>2234816</guid>
+            <pubDate>Fri, 09 Jul 2021 10:24:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华为音乐和环球音乐中国达成版权合作】华为音乐与环球音乐集团中国公司宣布达成版权合作协议，环球音乐的海量优质曲库将在华为音乐上线，这是双方首次在中国内地达成授权合作。 (界面新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5916131.d.html</link>
+            <guid>2234815</guid>
+            <pubDate>Fri, 09 Jul 2021 10:23:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[晨鸣纸业：预计上半年盈利20亿元-21亿元，同比增长287%-307%；报告期内，造纸行业景气度提升，公司主要纸种价格同比上涨。]]></title>
+            <guid>2234814</guid>
+            <pubDate>Fri, 09 Jul 2021 10:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广汽集团(02238.HK)：同意全资子公司广汽埃安新能源汽车有限公司与华为（AH8车型）项目的实施。根据本公司与华为技术有限公司签署的战略合作协议，双方将基于广汽GEP3.0底盘平台、华为CCA（计算与通信架构）构建的新一代智能汽车数字平台，搭载华为全栈智能汽车解决方案，联合定义、共同开发，共同打造面向未来的一系列智能汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4517929.d.html</link>
+            <guid>2234813</guid>
+            <pubDate>Fri, 09 Jul 2021 10:22:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行行长拉加德：更多的股权投资促进了创新。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5915272.d.html</link>
+            <guid>2234812</guid>
+            <pubDate>Fri, 09 Jul 2021 10:18:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯主权财富基金（RDIF）：卫星V新冠疫苗开发者表示，两剂疫苗之间的间隔可以延长到100天。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5915079.d.html</link>
+            <guid>2234811</guid>
+            <pubDate>Fri, 09 Jul 2021 10:17:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华熙生物赵燕：今年为透明质酸钠应用于普通食品的元年】在7月9日举行的透明质酸钠在食品领域的应用前景研讨会上，华熙生物董事长赵燕表示，“今年为透明质酸钠应用于普通食品的元年。中国人饮食追求已从吃得饱转变为吃得好，这是华熙生物一直坚持向相关部门申报将透明质酸钠为新食品原料的初衷。”我国是全球最⼤的透明质酸原料生产销售国，销量全球占比超80%，华熙⽣物占据全球近40%的原料市场份额。今年年初，国家卫健委批准将透明质酸钠作为新食品原料，添加于部分普通食品。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4517034.d.html</link>
+            <guid>2234810</guid>
+            <pubDate>Fri, 09 Jul 2021 10:16:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宏达高科：上半年净利同比预增102%-154%】宏达高科发布业绩预告，预计2021年半年度净利6900万元-8700万元，同比增长101.56%-154.14%。上半年，公司主营业务经营情况正常，来自主营业务的净利润较去年同期有所增长。此前当地政府征收了公司部分房屋及房屋所在土地，今年6月公司收到相关腾退奖励资金3938.8万元，从而增加公司净利润3347.98万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4516958.d.html</link>
+            <guid>2234809</guid>
+            <pubDate>Fri, 09 Jul 2021 10:16:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【紫光国微：间接控股股东紫光集团被申请重整】紫光国微公告，公司间接控股股东紫光集团于2021年7月9日收到北京一中院送达的通知，债权人徽商银行股份有限公司向北京一中院申请对紫光集团进行重整；截至函告日，债权人提出的重整申请是否被法院受理以及紫光集团是否进入重整程序尚存在不确定性。截至公告日，紫光集团下属的全资子公司西藏紫光春华投资有限公司持有公司32.39%股份。如紫光集团进入重整程序，重整方案将可能对公司股权结构等产生影响。紫光集团被债权人申请重整未对公司日常生产经营造成直接影响，目前公司各项生产经营活动均正常开展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5914648.d.html</link>
+            <guid>2234808</guid>
+            <pubDate>Fri, 09 Jul 2021 10:15:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑离岸人民币刚刚刺穿6.4900元关口，最新报6.4895元，日图跌0.06%；美元兑在岸人民币最新报6.4840元，日图跌0.10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4516456.d.html</link>
+            <guid>2234807</guid>
+            <pubDate>Fri, 09 Jul 2021 10:13:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞芯微业绩快报：上半年净利润同比增长184%】瑞芯微披露2021年半年度业绩快报，上半年净利润2.64亿元，同比增长184.12%；营业收入13.78亿元，同比增长104.42%；基本每股收益0.63元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4516422.d.html</link>
+            <guid>2234806</guid>
+            <pubDate>Fri, 09 Jul 2021 10:13:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度外长：对阿富汗局势感到担忧，必须看到暴力行动有所减少。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5914290.d.html</link>
+            <guid>2234805</guid>
+            <pubDate>Fri, 09 Jul 2021 10:12:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据港交所文件：昭衍新药(06127.HK)被瑞银于07月05日在场内以每股平均价125.0606港元减持12.08万股，涉资约1510.73万港元。减持后，瑞银的最新持股数目为358.91万股，持股比例由6.11%减持至5.91%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4516287.d.html</link>
+            <guid>2234804</guid>
+            <pubDate>Fri, 09 Jul 2021 10:12:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国元证券业绩快报：上半年净利润同比增长36.99%】国元证券发布业绩快报，上半年归属于母公司所有者的净利润8.46亿元，同比增长36.99%；营业收入22.75亿元，同比增长7.58%；基本每股收益0.19元，同比增长18.75%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5914090.d.html</link>
+            <guid>2234802</guid>
+            <pubDate>Fri, 09 Jul 2021 10:11:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[投行Evercore ISI：将Paypal(PYPL.O)目标价从313美元上调至370美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4516101.d.html</link>
+            <guid>2234801</guid>
+            <pubDate>Fri, 09 Jul 2021 10:11:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[机构调查显示，欧盟软小麦产量今年预计增长11%，至1.304亿吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4515788.d.html</link>
+            <guid>2234800</guid>
+            <pubDate>Fri, 09 Jul 2021 10:10:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：汤加喜福发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5913619.d.html</link>
+            <guid>2234799</guid>
+            <pubDate>Fri, 09 Jul 2021 10:09:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国联通：与江西省政府签署战略合作协议】7月8日，中国联通与江西省政府签署共同推进数字经济高质量发展战略合作协议。双方共同为全国首个工信部工业互联网创新发展工程——中国联通工业互联网暨江西省工业互联网实训基地揭牌。双方将加快在5G、工业互联网、区块链等领域的技术资源整合，创新发展工业互联网、大数据、VR、区块链等新一代信息技术，着力在产业数字化转型、数字政府、数字治理等方面打造标杆应用，助推江西数字经济高质量跨越式发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5913579.d.html</link>
+            <guid>2234798</guid>
+            <pubDate>Fri, 09 Jul 2021 10:09:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委维斯科：经济复苏需要协调的货币和财政政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5913417.d.html</link>
+            <guid>2234797</guid>
+            <pubDate>Fri, 09 Jul 2021 10:08:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[光线传媒：预计上半年盈利4.5亿元-5.3亿元，同比增长2088%-2477%；报告期内，公司参与投资、发行或协助推广并计入本报告期票房的影片总票房约为16.97亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4515431.d.html</link>
+            <guid>2234796</guid>
+            <pubDate>Fri, 09 Jul 2021 10:08:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【民和股份：6月商品代鸡苗销售收入环比下降52.13%】民和股份(002234)7月9日晚间公告，6月销售商品代鸡苗2400万只，同比下降12.41%，环比下降17.41%；销售收入6138.45万元，同比下降12.76%，环比下降52.13%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5913301.d.html</link>
+            <guid>2234795</guid>
+            <pubDate>Fri, 09 Jul 2021 10:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新宙邦：预计上半年实现净利润4.3亿元-4.5亿元，同比增长80%-90%；公司电池化学品业务产销量同比大幅增长，有机氟化学品业务以及电容化学品业务进展顺利。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4515139.d.html</link>
+            <guid>2234794</guid>
+            <pubDate>Fri, 09 Jul 2021 10:06:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【江西铜业：上半年净利同比预增301%-331%】江西铜业公告，预计上半年净利润为29.9亿元-32.14亿元，同比增长301%-331%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5913071.d.html</link>
+            <guid>2234793</guid>
+            <pubDate>Fri, 09 Jul 2021 10:06:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中兴通讯：预计上半年盈利38亿元-43亿元，同比增长104.60%-131.52%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4514829.d.html</link>
+            <guid>2234792</guid>
+            <pubDate>Fri, 09 Jul 2021 10:05:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亿利达：预计上半年盈利2400万元-3600万元，同比增长90.3%-185.45%；风机业务板块营业收入同比约1.13亿元，增幅约27.86%；新能源汽车零部件板块营业收入同比增长约1.97亿元，增幅约355.28%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4514778.d.html</link>
+            <guid>2234791</guid>
+            <pubDate>Fri, 09 Jul 2021 10:04:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【罗牛山：6月生猪销售收入环比下滑41%】罗牛山公告，6月销售生猪3.45万头，销售收入5051.53万元，环比变动分别为2.36%、-41.18%，同比变动分别为65.33%、-41.95%。1-6月，公司累计销售生猪17.75万头，同比增长224.81%；累计销售收入4.77亿元，同比增长86.73%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5912765.d.html</link>
+            <guid>2234790</guid>
+            <pubDate>Fri, 09 Jul 2021 10:04:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[京新药业：与友霖生技签署《合作协议》，就降血脂改良型复方新药在中国大陆（不含香港、澳门、台湾）进行研发、生产及商业化达成独家合作。]]></title>
+            <guid>2234789</guid>
+            <pubDate>Fri, 09 Jul 2021 10:03:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【盛通股份：子公司与商汤科技签署战略合作框架协议】盛通股份公告，全资子公司与商汤科技签署战略合作框架协议，拟在人工智能教育教学软硬件采购与销售、课程产品开发和落地、赛事运营、教材出版等方面展开合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5912428.d.html</link>
+            <guid>2234788</guid>
+            <pubDate>Fri, 09 Jul 2021 10:02:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国务院办公厅：鼓励电信企业为外贸企业开展数字化营销提供国际互联网数据专用通道；开行中欧班列专列，满足外贸新业态新模式发展运输需要。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5912387.d.html</link>
+            <guid>2234787</guid>
+            <pubDate>Fri, 09 Jul 2021 10:02:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国办：到2025年力争培育100家左右优秀海外仓企业】国务院办公厅印发关于加快发展外贸新业态新模式的意见，意见提出，培育一批优秀海外仓企业。鼓励传统外贸企业、跨境电商和物流企业等参与海外仓建设，提高海外仓数字化、智能化水平，促进中小微企业借船出海，带动国内品牌、双创产品拓展国际市场空间。支持综合运用建设—运营—移交（BOT）、结构化融资等投融资方式多元化投入海外仓建设。充分发挥驻外使领馆和经商机构作用，为海外仓企业提供前期指导服务，协助解决纠纷。到2025年，力争培育100家左右在信息化建设、智能化发展、多元化服务、本地化经营等方面表现突出的优秀海外仓企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4514308.d.html</link>
+            <guid>2234786</guid>
+            <pubDate>Fri, 09 Jul 2021 10:02:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国办：完善跨境电商发展支持政策，扎实推进跨境电子商务综合试验区建设】意见提出，在全国适用跨境电商企业对企业（B2B）直接出口、跨境电商出口海外仓监管模式，完善配套政策。便利跨境电商进出口退换货管理。优化跨境电商零售进口商品清单。稳步开展跨境电商零售进口药品试点工作。引导企业用好跨境电商零售出口增值税、消费税免税政策和所得税核定征收办法。研究制定跨境电商知识产权保护指南，引导跨境电商平台防范知识产权风险。扩大跨境电子商务综合试验区（以下简称综试区）试点范围。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4514227.d.html</link>
+            <guid>2234785</guid>
+            <pubDate>Fri, 09 Jul 2021 10:01:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国务院办公厅：加强反垄断和反不正当竞争规制，着力预防和制止外贸新业态领域垄断和不正当竞争行为，保护公平竞争，防止资本无序扩张。探索建立外贸新业态新模式企业信用评价体系，鼓励建立重要产品追溯体系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5912072.d.html</link>
+            <guid>2234784</guid>
+            <pubDate>Fri, 09 Jul 2021 10:00:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国务院办公厅发布关于加快发展外贸新业态新模式的意见：到2025年，外贸新业态新模式发展的体制机制和政策体系更为完善，营商环境更为优化，形成一批具有国际竞争力的行业龙头企业和产业集群，产业价值链水平进一步提升，对外贸和国民经济的带动作用进一步增强。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4513817.d.html</link>
+            <guid>2234782</guid>
+            <pubDate>Fri, 09 Jul 2021 09:59:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[由于感染人数上升，荷兰将重启一些病毒限制措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4513779.d.html</link>
+            <guid>2234781</guid>
+            <pubDate>Fri, 09 Jul 2021 09:59:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美指刷新日低至92.336，日内转跌0.03%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4513760.d.html</link>
+            <guid>2234780</guid>
+            <pubDate>Fri, 09 Jul 2021 09:59:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼央行：可能在明年晚些时候开始收紧周期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4513735.d.html</link>
+            <guid>2234779</guid>
+            <pubDate>Fri, 09 Jul 2021 09:58:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼央行：将确保金融业流动性充裕。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5911613.d.html</link>
+            <guid>2234778</guid>
+            <pubDate>Fri, 09 Jul 2021 09:58:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼卫生部长：将使用莫德纳疫苗作为增强剂。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5911374.d.html</link>
+            <guid>2234777</guid>
+            <pubDate>Fri, 09 Jul 2021 09:56:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世界卫生组织表示，在收集到更多数据之前，不知道是否需要新冠疫苗增强剂来维持保护措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5911267.d.html</link>
+            <guid>2234776</guid>
+            <pubDate>Fri, 09 Jul 2021 09:55:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【*ST易见：就部分前任高管涉嫌违法犯罪 向公安机关报案】*ST易见公告，公司就公司部分前任高管涉嫌违法犯罪，向公安机关报案。2021年7月8日，公司收到昆明市公安局的《受案回执》，案件已受理。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5911102.d.html</link>
+            <guid>2234775</guid>
+            <pubDate>Fri, 09 Jul 2021 09:54:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北京证监局对大公国际资信评估有限公司采取责令改正监管措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4513065.d.html</link>
+            <guid>2234774</guid>
+            <pubDate>Fri, 09 Jul 2021 09:54:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【直击2021WAIC|阿斯利康王磊：今年10月底前将在上海落成人工智能创新中心AI开放实验室】在2021世界人工智能大会上，阿斯利康全球执行副总裁、国际业务及中国总裁王磊表示，今年10月底上海国际进口博览会前，阿斯利康将落成在上海静安的人工智能创新中心AI开放实验室，这会是阿斯利康第4个全球研发中心以及全球战略合作中心。（科创板日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5910962.d.html</link>
+            <guid>2234773</guid>
+            <pubDate>Fri, 09 Jul 2021 09:53:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【管清友评降准：下半年适度放松货币、放松信用，是必要的】 如是金融研究院院长管清华表示，上半年对经济太乐观，收的有点狠了。下半年适度放松货币、放松信用，是必要的。]]></title>
+            <guid>2234772</guid>
+            <pubDate>Fri, 09 Jul 2021 09:52:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[岚图汽车官方宣布进军海外市场，将成为新能源国家队首个出海的品牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5910552.d.html</link>
+            <guid>2234771</guid>
+            <pubDate>Fri, 09 Jul 2021 09:51:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒生中国企业指数期货一度上涨1%，此前中国宣布全面降准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4512531.d.html</link>
+            <guid>2234770</guid>
+            <pubDate>Fri, 09 Jul 2021 09:51:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北方稀土：股价涨幅异常，公司目前生产经营正常。年初以来，受市场供求关系等因素影响，主要稀土产品价格呈先涨后跌走势，并于近日企稳回升；工业和信息化部正在推动《稀土管理条例》抓紧制定并尽快出台。受此影响，稀土行业上市公司股价近日持续上涨，稀土永磁板块整体涨幅较大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5910037.d.html</link>
+            <guid>2234769</guid>
+            <pubDate>Fri, 09 Jul 2021 09:49:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：拜登鼓励联邦通信委员会恢复网络中立规则。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4511900.d.html</link>
+            <guid>2234768</guid>
+            <pubDate>Fri, 09 Jul 2021 09:48:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[舜宇光学科技6月手机镜头模组出货量8,580万，同比减少27.1%，公司称主要是因为受海外疫情及国內智能手机市场需求放缓的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5909704.d.html</link>
+            <guid>2234767</guid>
+            <pubDate>Fri, 09 Jul 2021 09:47:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：欧盟就供应链反垄断规则的变化征求意见。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5909648.d.html</link>
+            <guid>2234766</guid>
+            <pubDate>Fri, 09 Jul 2021 09:46:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[越秀地产(00123.HK)：六月本公司实现合同销售（连同合营公司项目的合同销售）金额约为人民币65.40亿元，同比下降约44%，实现合同销售面积约为31.16万平方米，同比下降约39%。]]></title>
+            <guid>2234765</guid>
+            <pubDate>Fri, 09 Jul 2021 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音(BA.N)盘前涨0.69%，消息人士透露，中国民航局已经指示波音(BA.N)可以在中国展开737 Max飞行测试，意味着该客机在中国复飞再近一步。]]></title>
+            <guid>2234764</guid>
+            <pubDate>Fri, 09 Jul 2021 09:45:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时中国A50指数期货刚刚刺穿16700.00关口，最新报16701.00，日图涨1.05%]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5909109.d.html</link>
+            <guid>2234763</guid>
+            <pubDate>Fri, 09 Jul 2021 09:43:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华西证券策略首席李立峰：央行降准基本符合市场预期 对A股市场的影响趋向于中性】华西证券策略首席李立峰认为，央行选择此次降准，基本符合市场预期。市场会更看重央行后续是否会持续降准，目前我们认为后续进一步降准的可能性几乎为零 ，所以我们不认为国内货币政策转向，此次降准对A股市场的影响趋向于中性，“降准”预期落地，不需要过于夸大此次“降准”对市场风险偏好的提振作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4510622.d.html</link>
+            <guid>2234762</guid>
+            <pubDate>Fri, 09 Jul 2021 09:40:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华菱精工：持股7.21%股东薛飞拟减持不超过1.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5908492.d.html</link>
+            <guid>2234761</guid>
+            <pubDate>Fri, 09 Jul 2021 09:40:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时中国A50期货价格上涨了1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5908231.d.html</link>
+            <guid>2234759</guid>
+            <pubDate>Fri, 09 Jul 2021 09:39:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[道指期货上涨约0.6%，标普500指数期货上涨约0.4%，纳指期货上涨0.1%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4509645.d.html</link>
@@ -151,457 +600,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4506306.d.html</link>
             <guid>2234734</guid>
             <pubDate>Fri, 09 Jul 2021 09:18:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银突破26美元/盎司，日内涨0.48%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5904154.d.html</link>
-            <guid>2234733</guid>
-            <pubDate>Fri, 09 Jul 2021 09:17:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[滴滴(DIDI.N)盘前涨超5%，报11.77美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4506210.d.html</link>
-            <guid>2234732</guid>
-            <pubDate>Fri, 09 Jul 2021 09:17:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在岸人民币兑美元短线下挫40点，现报6.4890；离岸人民币兑美元短线下挫70点，现报6.4939。]]></title>
-            <guid>2234731</guid>
-            <pubDate>Fri, 09 Jul 2021 09:17:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[银行间主要利率债收益升幅收窄，10年期国开活跃券210205收益率升幅收窄至1.25bp，10年期国债活跃券210009收益率上行2.25bp。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5904037.d.html</link>
-            <guid>2234730</guid>
-            <pubDate>Fri, 09 Jul 2021 09:16:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利财长：G20集团需要推动应对气候变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4506009.d.html</link>
-            <guid>2234729</guid>
-            <pubDate>Fri, 09 Jul 2021 09:16:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国人民银行：稳健货币政策取向没有改变。2020年应对疫情时人民银行坚持实施正常货币政策，5月以后力度就逐渐转为常态，今年上半年已经基本回到疫情前的常态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4505920.d.html</link>
-            <guid>2234728</guid>
-            <pubDate>Fri, 09 Jul 2021 09:15:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富时中国A50指数期货短线拉涨，现涨0.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4505809.d.html</link>
-            <guid>2234727</guid>
-            <pubDate>Fri, 09 Jul 2021 09:15:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[央行表示，今年以来部分大宗商品价格持续上涨，一些小微企业面临成本上升等经营困难，中国坚持货币政策的稳定性、有效性，不搞大水漫灌，而是精准发力，加大对小微企业的支持力度。下一步，中国人民银行将继续实施稳健的货币政策，坚持稳字当头，保持流动性合理充裕，保持货币供应量和社会融资规模增速同名义经济增速基本匹配，搞好跨周期设计，支持中小企业、绿色发展、科技创新，为高质量发展和供给侧结构性改革营造适宜的货币金融环境。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4505772.d.html</link>
-            <guid>2234726</guid>
-            <pubDate>Fri, 09 Jul 2021 09:14:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陕西煤业：上半年净利同比预增60%-70%】陕西煤业公告，预计上半年实现净利润80亿元-85亿元，同比增幅60%-70%；报告期内煤炭市场需求旺盛、煤价上涨等因素影响，公司主要煤炭产品价格同比增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4505737.d.html</link>
-            <guid>2234725</guid>
-            <pubDate>Fri, 09 Jul 2021 09:14:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国人民银行：此次降准是货币政策回归常态后的常规操作，释放的一部分资金将被金融机构用于归还到期的中期借贷便利（MLF），还有一部分资金被金融机构用于弥补7月中下旬税期高峰带来的流动性缺口，增加金融机构的长期资金占比，银行体系流动性总量仍将保持基本稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4505616.d.html</link>
-            <guid>2234724</guid>
-            <pubDate>Fri, 09 Jul 2021 09:13:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑人民币离岸价短线抬升70点至6.4999，日内涨幅扩大到0.14%，因中国央行降准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4505580.d.html</link>
-            <guid>2234723</guid>
-            <pubDate>Fri, 09 Jul 2021 09:13:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国人民银行：此次降准为全面降准，除已执行5%存款准备金率的部分县域法人金融机构外，对其他金融机构普遍下调存款准备金率0.5个百分点，降准释放长期资金约1万亿元。不下调部分金融机构存款准备金率的主要原因是，5%的存款准备金率是目前金融机构中最低的，保持在这一低水平有利于金融机构兼顾支持实体经济和自身稳健经营。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5903412.d.html</link>
-            <guid>2234722</guid>
-            <pubDate>Fri, 09 Jul 2021 09:13:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世卫组织说：正在向阿富汗派遣包括制氧机和350万剂疫苗在内的救援飞机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5903313.d.html</link>
-            <guid>2234721</guid>
-            <pubDate>Fri, 09 Jul 2021 09:12:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国人民银行决定于2021年7月15日下调金融机构存款准备金率0.5个百分点（不含已执行5%存款准备金率的金融机构）。本次下调后，金融机构加权平均存款准备金率为8.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4505369.d.html</link>
-            <guid>2234720</guid>
-            <pubDate>Fri, 09 Jul 2021 09:12:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国人民银行决定于2021年7月15日下调金融机构存款准备金率。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5903216.d.html</link>
-            <guid>2234719</guid>
-            <pubDate>Fri, 09 Jul 2021 09:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰财政部长部长马尔琴科说：国际货币基金组织（IMF）的计划对乌克兰来说“很重要”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4505126.d.html</link>
-            <guid>2234718</guid>
-            <pubDate>Fri, 09 Jul 2021 09:11:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙法院开始调查伊比利德拉可再生能源。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4504804.d.html</link>
-            <guid>2234717</guid>
-            <pubDate>Fri, 09 Jul 2021 09:10:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼开始就爪哇-巴厘岛以外地区的限制措施进行简报。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4504699.d.html</link>
-            <guid>2234716</guid>
-            <pubDate>Fri, 09 Jul 2021 09:10:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：泰国将紧急状态延长至9月。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5902503.d.html</link>
-            <guid>2234715</guid>
-            <pubDate>Fri, 09 Jul 2021 09:09:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【招商蛇口：上半年签约销售额1769.76亿元 同比增59.85%】招商蛇口(001979)7月9日晚间公告，2021年6月，公司实现签约销售面积190.66万平方米，同比增加18.05%；实现签约销售金额443.31亿元，同比增加36.1%。2021年1-6月，公司累计实现签约销售面积770.22万平方米，同比增54.88%；累计实现签约销售金额1769.76亿元，同比增59.85%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4504624.d.html</link>
-            <guid>2234714</guid>
-            <pubDate>Fri, 09 Jul 2021 09:09:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美亚光电：预计上半年盈利2.2亿元-2.8亿元，同比增长46.87%-90.93%，公司口腔CBCT系列产品销售同比实现大幅增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4504498.d.html</link>
-            <guid>2234713</guid>
-            <pubDate>Fri, 09 Jul 2021 09:08:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国10年期国债收益率在信贷数据公布后续涨至3.03%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5902303.d.html</link>
-            <guid>2234712</guid>
-            <pubDate>Fri, 09 Jul 2021 09:08:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰财政部长马尔琴科在美国会见了国际货币基金组织官员。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5902281.d.html</link>
-            <guid>2234711</guid>
-            <pubDate>Fri, 09 Jul 2021 09:08:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【原钉钉CEO无招将离职创业，多名钉钉老将加入，创业方向为跨境出海领域】 原阿里钉钉CEO无招将离职创业，新公司名为“两氢一氧（杭州）数字科技有限公司”，创业方向为跨境出海领域，目前已经确定的投资方为元璟资本。据了解，无招团队已经与多位顶级风投机构高层有过会面。一位知情人士对 36 氪表示：“估值已经涨到了几十亿人民币，能投进去的不多。”（36氪）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4504346.d.html</link>
-            <guid>2234710</guid>
-            <pubDate>Fri, 09 Jul 2021 09:08:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[科创板上市委：苏州新锐合金工具股份有限公司、上海澳华内镜股份有限公司首发获通过。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5901901.d.html</link>
-            <guid>2234709</guid>
-            <pubDate>Fri, 09 Jul 2021 09:07:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[宏辉果蔬：因千鲜电子的经营环境发生变化，继续执行战略合作存在困难，根据战略合作协议的相关条款，公司决定终止本次战略合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5901874.d.html</link>
-            <guid>2234708</guid>
-            <pubDate>Fri, 09 Jul 2021 09:06:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国人民银行关于《银行间债券市场债券借贷业务管理办法（征求意见稿）》公开征求意见的通知。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4504052.d.html</link>
-            <guid>2234707</guid>
-            <pubDate>Fri, 09 Jul 2021 09:06:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【野村证券：欧元兑美元或跌向1.17】野村证券认为，美国的利率变动还有进一步的空间，欧元兑美元应该会随之走高，从市场的角度来看，最重要的消息是，欧洲央行已经将通胀目标从“接近但低于2%”转变为相同的2%，在中期是明确的，而且在本质上是对称的，这是一个温和的温和举动，支持了我们的观点，即欧洲央行将需要扩大其明年的应用程序，届时人民党将逐步退出鉴于欧元和美元宏观信号的冲突，仍做空欧元兑英镑的相对价值，实际利率不断走低，指向0.83；等待欧元兑美元跌破1.18至1.17，然后才会考虑减弱的价格走势，并等待宏观相关性重新发挥作用，目前市场上的风险下降似乎是头寸减少，其催化剂尚不清楚，美国利率变动还有进一步的空间，欧元兑美元应该随之走高，但需要先看看这种头寸挤压是否最终发挥作用，因为市场正处于相关性崩溃之中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5901791.d.html</link>
-            <guid>2234706</guid>
-            <pubDate>Fri, 09 Jul 2021 09:06:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[完美世界：预计上半年盈利2.3亿元-2.7亿元，同比下降81.90%–78.75%；公司调整海外游戏布局，关停部分表现不达预期的海外游戏项目，并优化相关项目人员，相关项目前期研发支出、关停过程中的充值返还、人员优化支出、与相关合作方的协议安排等事项于报告期内产生一次性亏损约2.7亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4503909.d.html</link>
-            <guid>2234705</guid>
-            <pubDate>Fri, 09 Jul 2021 09:06:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国结算发布关于减免部分登记结算业务收费的通知。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5901546.d.html</link>
-            <guid>2234704</guid>
-            <pubDate>Fri, 09 Jul 2021 09:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国央行：初步统计，6月末社会融资规模存量为301.56万亿元，同比增长11%。其中，对实体经济发放的人民币贷款余额为184.54万亿元，同比增长12.6%。]]></title>
-            <guid>2234703</guid>
-            <pubDate>Fri, 09 Jul 2021 09:04:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【聆达股份回复问询函：未来长期业绩不存在重大不确定性】聆达股份回复问询函，从行业竞争格局来看，公司不存在重大竞争不利因素，行业竞争现状不会导致公司业绩存在重大不确定性；目前行业上游硅片价格上涨在短期内将会给公司造成一定的不利影响，但随着国家相关政策的落地和上游产能的释放，光伏行业最终会回归平衡，因此，未来长期业绩不存在重大不确定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5901472.d.html</link>
-            <guid>2234702</guid>
-            <pubDate>Fri, 09 Jul 2021 09:04:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州期货交易所与大连商品交易所签署战略合作框架协议】近日，广州期货交易所股份有限公司和大连商品交易所签署战略合作框架协议。广期所与大商所的合作，有助于实现优势互补，对于支持粤港澳大湾区建设和期货市场改革发展，推动传统产业优化升级，实现绿色经济可持续发展，共享绿色经济发展成果具有重要意义。（广期所发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4503597.d.html</link>
-            <guid>2234701</guid>
-            <pubDate>Fri, 09 Jul 2021 09:04:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股区块链板块盘前走高，嘉楠科技(CAN.O)涨近4%，Marathon Patent(MARA.O)涨1.3%，Riot Blockchain(RIOT.O)涨1.07%，AMD(AMD.O)、英伟达(NVDA.O)涨0.49%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4503514.d.html</link>
-            <guid>2234700</guid>
-            <pubDate>Fri, 09 Jul 2021 09:04:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国央行：初步统计，6月末社会融资规模存量为301.56万亿元，同比增长11%。其中，对实体经济发放的人民币贷款余额为184.54万亿元，同比增长12.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5901123.d.html</link>
-            <guid>2234699</guid>
-            <pubDate>Fri, 09 Jul 2021 09:03:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国央行：初步统计，2021年上半年社会融资规模增量累计为17.74万亿元，比上年同期少3.13万亿元，比2019年同期多3.12万亿元。其中，对实体经济发放的人民币贷款增加12.94万亿元，同比多增6135亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4503285.d.html</link>
-            <guid>2234698</guid>
-            <pubDate>Fri, 09 Jul 2021 09:02:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国6月M2货币供应同比8.6%，预期8.2%，前值8.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4502911.d.html</link>
-            <guid>2234696</guid>
-            <pubDate>Fri, 09 Jul 2021 09:01:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国6月社会融资规模增量3.67万亿元，预期为28900亿元，前值为19205亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4502819.d.html</link>
-            <guid>2234695</guid>
-            <pubDate>Fri, 09 Jul 2021 09:00:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[紫光集团：债权人徽商银行以紫光集团不能清偿到期债务，资产不足以清偿全部债务且明显缺乏清偿能力，具备重整价值和重整可行性为由，向北京一中院申请对紫光集团进行破产重整。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5900276.d.html</link>
-            <guid>2234694</guid>
-            <pubDate>Fri, 09 Jul 2021 08:59:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯石油公司Rosneft：在雅库特发现新的凝析气藏，其中天然气储量超过400亿立方米，凝析油超过200万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5900095.d.html</link>
-            <guid>2234693</guid>
-            <pubDate>Fri, 09 Jul 2021 08:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  联发科6月销售额477.6亿台币，营收增长88.9％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5900050.d.html</link>
-            <guid>2234692</guid>
-            <pubDate>Fri, 09 Jul 2021 08:57:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  证监会机构部副主任任少雄表示，扩大现场检查和督查力度，对于受到现场检查或督导通知后撤回项目，应依法组织核查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5899901.d.html</link>
-            <guid>2234691</guid>
-            <pubDate>Fri, 09 Jul 2021 08:56:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【仙坛股份：6月鸡肉产品销售收入环比增长5.52%】仙坛股份(002746)7月9日晚间公告，6月实现鸡肉产品销售收入2.68亿元，销售数量2.88万吨，同比变动幅度分别为1.82%、-2.32%，环比变动幅度分别为5.52%、10.96%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4501691.d.html</link>
-            <guid>2234690</guid>
-            <pubDate>Fri, 09 Jul 2021 08:54:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  粤水电：全资子公司签订《安化县粤水电大福镇300MW林光互补光伏发电项目战略合作框架协议》，项目初步规划投资12.8638亿元。]]></title>
-            <guid>2234689</guid>
-            <pubDate>Fri, 09 Jul 2021 08:51:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【证监会：紧盯以市值管理之名合谋操纵市场的行为 从严打击】在7月9日的证监会例行新闻发布会上，证监会稽查局副局长陈捷表示，上市公司及其实控人以市值管理之名合谋操纵市场的行为，涉及主体更多，市场危害更大，证监会将此作为操纵市场的打击重点，重拳打击，2020年以来，查处此类案件15起，占操纵案件的18%，证监会将紧盯以市值管理之名合谋操纵市场的行为，加强行政执法和刑事司法的配合，全方位、立体书追责，强化执法震慑。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5898307.d.html</link>
-            <guid>2234687</guid>
-            <pubDate>Fri, 09 Jul 2021 08:48:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[皖能电力：预计上半年盈利约8200万元-1.2亿元，同比下降约76.12%-83.68%；本报告期市场煤炭价格大幅上涨，导致燃料成本大幅增加，控股与参股发电企业盈利能力下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5898275.d.html</link>
-            <guid>2234686</guid>
-            <pubDate>Fri, 09 Jul 2021 08:48:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油期货日内涨1%，现报73.67美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4500357.d.html</link>
-            <guid>2234685</guid>
-            <pubDate>Fri, 09 Jul 2021 08:48:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[工信部、网信办联合印发《IPv6流量提升三年专项行动计划（2021-2023年）》：到2021年底，移动网络IPv6流量占比超过20%，固定网络IPv6流量规模较2020年底提升20%以上。到2023年底，移动网络IPv6流量占比超过50%，固定网络IPv6流量规模达到2020年底的3倍以上。]]></title>
-            <guid>2234684</guid>
-            <pubDate>Fri, 09 Jul 2021 08:47:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国政府消息人士：泰国将实施旅游限制，关闭曼谷及附近省份的购物中心2周。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4500005.d.html</link>
-            <guid>2234683</guid>
-            <pubDate>Fri, 09 Jul 2021 08:46:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【斯莱克：研发方形电池壳 目前还处于试验阶段】斯莱克(300382)近期接受机构调研时表示，公司现在在研发方形电池壳，目前还处于试验阶段。方形壳和目前生产的易拉罐差异更大一些，所以相对圆柱壳，方形的技术要求更高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5897827.d.html</link>
-            <guid>2234682</guid>
-            <pubDate>Fri, 09 Jul 2021 08:45:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新安股份：预计上半年盈利8.3亿元-8.5亿元，调整后同比增长907%-932%；公司主营产品草甘膦、有机硅受行业供需关系影响，产品价格持续走高，与去年同期相比，公司产品价格及销量上涨明显。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5897796.d.html</link>
-            <guid>2234681</guid>
-            <pubDate>Fri, 09 Jul 2021 08:45:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【证监会：坚持“申报即担责”的原则 坚决杜绝“带病闯关”行为】证监会发布《关于注册制下督促证券公司从事投行业务归位尽责的指导意见》，《意见》指出，进一步扩大现场检查和督导面，坚持“申报即担责”的原则，对收到现场检查或督导通知后撤回的项目，证监会及交易所将依法组织核查，坚决杜绝“带病闯关”行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4499887.d.html</link>
-            <guid>2234680</guid>
-            <pubDate>Fri, 09 Jul 2021 08:45:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[证监会：经过持续严厉的打击，操纵市场内幕交易案件占比以及案件的数量较前几年均呈现出下降的态势。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4499528.d.html</link>
-            <guid>2234679</guid>
-            <pubDate>Fri, 09 Jul 2021 08:43:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【《福州都市圈发展规划》印发：大力发展新能源、智能网联汽车产业】福建省人民政府发布关于印发福州都市圈发展规划的通知。规划指出，大力发展新能源、智能网联汽车产业。支持龙头企业加快在新能源汽车、智能网联汽车、汽车服务业、汽车零部件等领域的战略布局。以汽车动力系统、汽车电子等为着力点，推动动力电池、驱动电机等关键零部件核心技术提升。推动在氢能及氢燃料电池产业的创新突破，打造福清、长乐等氢能产业基地。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5897385.d.html</link>
-            <guid>2234678</guid>
-            <pubDate>Fri, 09 Jul 2021 08:43:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【银星能源：上半年净利同比预增314%-353%】银星能源发布业绩预告，预计2021年半年度净利1.06亿元-1.16亿元，同比增长313.58%-352.59%，与去年同期相比，公司所属新能源发电企业利用小时增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4498701.d.html</link>
-            <guid>2234676</guid>
-            <pubDate>Fri, 09 Jul 2021 08:39:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国财长勒梅尔：法国提出了一个全球碳定价下限。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5896562.d.html</link>
-            <guid>2234675</guid>
-            <pubDate>Fri, 09 Jul 2021 08:39:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[孟加拉国警方9日说，当地一家工厂发生火灾，导致至少40人死亡。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5896222.d.html</link>
-            <guid>2234674</guid>
-            <pubDate>Fri, 09 Jul 2021 08:37:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[东京奥运会官员：将在7月20日退票申请结束后统计退票数量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4498306.d.html</link>
-            <guid>2234673</guid>
-            <pubDate>Fri, 09 Jul 2021 08:37:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  证监会表示，对IPO项目撤回率高的券商进行专项核查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5896137.d.html</link>
-            <guid>2234672</guid>
-            <pubDate>Fri, 09 Jul 2021 08:36:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[证监会就《期货公司子公司管理暂行办法（征求意见稿）》公开征求意见。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5896048.d.html</link>
-            <guid>2234671</guid>
-            <pubDate>Fri, 09 Jul 2021 08:36:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国黄金：预计上半年实现净利润4亿元，同比增加188.83%，公司销量大幅增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4498085.d.html</link>
-            <guid>2234670</guid>
-            <pubDate>Fri, 09 Jul 2021 08:35:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  酒鬼酒今日大跌7.88%，深股通买入1.72亿元并卖出5.14亿元，三机构合计卖出3.23亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4498068.d.html</link>
-            <guid>2234669</guid>
-            <pubDate>Fri, 09 Jul 2021 08:35:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  越秀金控：预计上半年盈利11.8亿元-12.5亿元，同比下降69%-71%；上年同期完成向中信证券出售广州证券100%股权项目确认投资收益以及收到政府补助，相关事项对上年同期净利润的影响为33.01亿元，该收益属于非经常性损益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5895740.d.html</link>
-            <guid>2234668</guid>
-            <pubDate>Fri, 09 Jul 2021 08:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：各国将采取不同的碳减排途径。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5895699.d.html</link>
-            <guid>2234667</guid>
-            <pubDate>Fri, 09 Jul 2021 08:34:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【证监会发布保荐机构归位尽责的指导意见】在7月9日的证监会例行新闻发布会上，证监会机构部副主任任少雄表示，证监会发布《关于注册制下督促证券公司从事投行业务归位尽责的指导意见》，一是建立健全工作机制，提升监管合力；二是完善制度规则，提升监管和执业的规范化水平；三是全面强化立体追责，净化市场生态，建立投行业务违规问题台帐，对投行项目撤否率高、公司债券违约率高、执业质量低、市场反映问题多的证券公司，开展专项检查；四是做实“三道防线”，强化机构内部控制；五是完善约束激励机制，促进保荐机构主动归位尽责，制定证券公司投行业务执业质量评价规则。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5895553.d.html</link>
-            <guid>2234666</guid>
-            <pubDate>Fri, 09 Jul 2021 08:33:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国公共卫生部门：最近一周新增54268例德尔塔变种确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5895469.d.html</link>
-            <guid>2234664</guid>
-            <pubDate>Fri, 09 Jul 2021 08:32:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深交所终止对中成发展创业板IPO上市审核】深交所公告，7月8日，江苏中成紧固技术发展股份有限公司申请撤回发行上市申请文件。根据相关规则，深交所决定终止对其首次公开发行股票并在创业板上市的审核。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5895327.d.html</link>
-            <guid>2234663</guid>
-            <pubDate>Fri, 09 Jul 2021 08:31:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在岸人民币兑美元7月9日16:30收盘报6.4847，较上一交易日下跌36点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5895288.d.html</link>
-            <guid>2234662</guid>
-            <pubDate>Fri, 09 Jul 2021 08:31:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【风华高科：半年度净利预增84.74%-104.4%】风华高科(000636)7月9日晚间发布业绩预告，预计2021年半年度净利4.7亿元-5.2亿元，同比增长84.74%-104.4%。 报告期，受益于电子元器件市场需求旺盛、公司前期投资成效逐步释放以及强化管控等综合因素的积极影响，公司主营产品产销同比大幅增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4497160.d.html</link>
-            <guid>2234661</guid>
-            <pubDate>Fri, 09 Jul 2021 08:30:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【益生股份：6月鸡苗销售收入同比增长51.89%】益生股份(002458)7月9日晚间公告，公司6月鸡苗销售数量3835.56万只，销售收入1.5亿元，同比变动分别为-11.11%、51.89%，环比变动分别为10.04%、-26.87%。6月鸡苗销售价格高于去年同期，公司鸡苗销售收入同比增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4496911.d.html</link>
-            <guid>2234659</guid>
-            <pubDate>Fri, 09 Jul 2021 08:29:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[证监会机构部副主任任少雄7月9日在证监会新闻发布会上表示，证监会发布《关于注册制下督促证券公司从事投行业务归位尽责的指导意见》，自公布之日起实行。（中证网）]]></title>
-            <guid>2234658</guid>
-            <pubDate>Fri, 09 Jul 2021 08:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：G20金融轨道需要更好地协调气候政策，以避免负面溢出效应和碳泄漏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5894671.d.html</link>
-            <guid>2234657</guid>
-            <pubDate>Fri, 09 Jul 2021 08:28:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳机场：6月份旅客吞吐量同比下降46%】深圳机场(000089)7月9日晚间公告，2021年6月份旅客吞吐量158.94万人次，同比下降46.27%。本年累计旅客吞吐量1870.35万人次，同比增长31.84%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4496564.d.html</link>
-            <guid>2234654</guid>
-            <pubDate>Fri, 09 Jul 2021 08:27:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【证监会：密切关注市场动态和账户联动 严肃查处市场操纵】证监会稽查局副局长陈捷表示，下一步，证监会落实“零容忍”工作方针，立足防范化解金融风险和保护投资者合法权益的监管大局，密切关注市场动态，密切关注账户联动，密切关注异常交易，依法依规严肃查处操纵市场和内幕交易等行为，持续净化市场生态，为资本市场高质量发展提供坚强法治保障。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5894411.d.html</link>
-            <guid>2234653</guid>
-            <pubDate>Fri, 09 Jul 2021 08:27:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【证监会：加大对以市值管理之名行操纵市场之实等行为的打击力度】证监会稽查局副局长陈捷表示，证监会稽查执法部门统筹推进四方面工作，一是依托交易所大数据监控技术，加强异常交易账户信息、违法线索综合分析研判，提升全链条打击的精准度。加大对以市值管理之名行操纵市场之实等违法行为的打击力度；二是坚持打幕后、打组织、打网络，通过统一指挥、集中部署、联合办案，形成集团作战密切协同的执法格局。三是完善与公安机关的线索研判、数据共享、情报导侦、协同办案等协作机制，不断加大对证券违法犯罪的打击力度。四是坚决落实新《证券法》以及《刑法》修正案（十一）相关规定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4496431.d.html</link>
-            <guid>2234652</guid>
-            <pubDate>Fri, 09 Jul 2021 08:26:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线下挫近5美元，抹去日内涨幅，现报1801.61美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4496386.d.html</link>
-            <guid>2234651</guid>
-            <pubDate>Fri, 09 Jul 2021 08:26:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
