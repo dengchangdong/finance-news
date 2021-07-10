@@ -4,11 +4,23 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 10 Jul 2021 20:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jul 2021 21:36:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【东京奥运会允许观众入内的赛场只剩三个】东京奥组委10日宣布，在福岛举行的棒球和垒球比赛以及在札幌举行的足球比赛都将禁止观众入内，这样允许观众观看的奥运会比赛只剩下场地自行车和足球两个项目，赛场只剩下三个。另外，东京奥组委表示，在札幌巨蛋体育场举行的奥运会足球比赛也将闭门举行。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4736372.d.html</link>
+            <guid>2235455</guid>
+            <pubDate>Sat, 10 Jul 2021 21:20:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥新冠肺炎死亡病例升至234907例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4735282.d.html</link>
+            <guid>2235454</guid>
+            <pubDate>Sat, 10 Jul 2021 20:51:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[墨西哥新增9581例新冠肺炎确诊病例，累计确诊2586721例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4734618.d.html</link>
@@ -592,18 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4683094.d.html</link>
             <guid>2235344</guid>
             <pubDate>Sat, 10 Jul 2021 09:27:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家计算机病毒应急处理中心监测发现18款违法移动应用】国家计算机病毒应急处理中心近期通过互联网监测，发现18款移动应用存在隐私不合规行为，违反网络安全法相关规定，涉嫌超范围采集个人隐私信息，将对它们采取通报整改等处理举措。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6079543.d.html</link>
-            <guid>2235343</guid>
-            <pubDate>Sat, 10 Jul 2021 09:20:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【印尼新一波疫情导致氧气短缺 政府正向新加坡、中国等国寻求紧急供应】新一波新冠确诊病例让印尼处于氧气短缺的境地。印尼政府正在向新加坡、中国等国寻求紧急供应。由于德尔塔变种病毒的迅速蔓延，印尼负责应对新冠大流行的政府部长卢胡特还警告说，印尼可能将面临每日新增5万例的最坏情况，未来两周将非常关键。 (环球网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6079039.d.html</link>
-            <guid>2235342</guid>
-            <pubDate>Sat, 10 Jul 2021 09:16:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
