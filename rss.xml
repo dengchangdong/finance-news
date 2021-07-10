@@ -4,11 +4,41 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 10 Jul 2021 16:57:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jul 2021 17:38:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[法国新增4696例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6122761.d.html</link>
+            <guid>2235444</guid>
+            <pubDate>Sat, 10 Jul 2021 17:29:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国新增19例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6122741.d.html</link>
+            <guid>2235443</guid>
+            <pubDate>Sat, 10 Jul 2021 17:29:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO埃隆·马斯克：SpaceX在得州的第二个猛禽发动机生产厂即将破土，工厂将专注批量生产猛禽2火箭发动机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4724401.d.html</link>
+            <guid>2235442</guid>
+            <pubDate>Sat, 10 Jul 2021 17:20:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币、以太坊短线走低，回吐此前涨幅，日内均转跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6121977.d.html</link>
+            <guid>2235441</guid>
+            <pubDate>Sat, 10 Jul 2021 17:19:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非新增21610例新冠肺炎确诊病例，累计确诊病例达2179297例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4723114.d.html</link>
+            <guid>2235440</guid>
+            <pubDate>Sat, 10 Jul 2021 17:03:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧盟经济委员真蒂洛尼：（回应是否会推迟会推迟欧盟税收计划）当务之急是推进G20税收协议。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6119429.d.html</link>
@@ -575,36 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6072995.d.html</link>
             <guid>2235332</guid>
             <pubDate>Sat, 10 Jul 2021 08:28:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿塞拜疆能源部：阿塞拜疆6月石油产量为61万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6072624.d.html</link>
-            <guid>2235331</guid>
-            <pubDate>Sat, 10 Jul 2021 08:25:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【八成以上空调散热片细菌总数超标】 据了解，中国疾控中心、上海市疾控中心等机构，曾在上海、北京、深圳等地进行家用空调调查发现：有88%的空调散热片细菌总数超标，84%的空调散热片霉菌总数超标。除此之外，空调中还藏有大量灰尘、螨虫、花粉等。特别是夏季闷热潮湿的天气，更使空调成为了各类细菌、真菌和尘螨滋生的温床。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4675308.d.html</link>
-            <guid>2235330</guid>
-            <pubDate>Sat, 10 Jul 2021 08:24:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[菲律宾卫生部：菲律宾新增新冠肺炎确诊病例5675例，累计达146.7万例 。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4675173.d.html</link>
-            <guid>2235329</guid>
-            <pubDate>Sat, 10 Jul 2021 08:23:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[菲律宾卫生部：菲律宾新增新冠肺炎死亡病例96例，累计达25816例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6072376.d.html</link>
-            <guid>2235328</guid>
-            <pubDate>Sat, 10 Jul 2021 08:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当被问及欧盟关于数字征税的计划时，德国财长肖尔茨表示，我们需要的是全球解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4674203.d.html</link>
-            <guid>2235327</guid>
-            <pubDate>Sat, 10 Jul 2021 08:16:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
