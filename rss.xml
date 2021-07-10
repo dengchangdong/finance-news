@@ -4,11 +4,23 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 10 Jul 2021 18:42:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jul 2021 19:32:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[土耳其新增新冠肺炎确诊病例5530例，累计确诊5476294例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6129145.d.html</link>
+            <guid>2235450</guid>
+            <pubDate>Sat, 10 Jul 2021 19:20:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[受最新一波新冠疫情影响，7月以来，印度尼西亚和阿富汗两国国内新冠肺炎确诊病例数激增。阿联酋当局宣布从当地时间7月11日起，暂停所有来自印度尼西亚和阿富汗的航班（前往阿联酋和开往这些国家的过境航班除外）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4730498.d.html</link>
+            <guid>2235449</guid>
+            <pubDate>Sat, 10 Jul 2021 18:56:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[赞比亚新增新冠肺炎确诊病例2384例，累计确诊174789例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6127023.d.html</link>
@@ -593,18 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4677969.d.html</link>
             <guid>2235338</guid>
             <pubDate>Sat, 10 Jul 2021 08:45:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国地学研究中心GFZ：印尼塔劳群岛发生6.2级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6074085.d.html</link>
-            <guid>2235337</guid>
-            <pubDate>Sat, 10 Jul 2021 08:36:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日本《朝日新闻》：相关人士透露，福岛县政府确定方针，在县内举行的棒球与垒球东京奥运会比赛将以无观众空场形式举办。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6073755.d.html</link>
-            <guid>2235336</guid>
-            <pubDate>Sat, 10 Jul 2021 08:34:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
