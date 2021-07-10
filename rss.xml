@@ -4,11 +4,28 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Sat, 10 Jul 2021 19:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jul 2021 20:33:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[墨西哥新增9581例新冠肺炎确诊病例，累计确诊2586721例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4734618.d.html</link>
+            <guid>2235453</guid>
+            <pubDate>Sat, 10 Jul 2021 20:33:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[希腊新增新冠肺炎确诊病例2327例，累计确诊437345例；新增死亡病例2例，累计死亡12787例。]]></title>
+            <guid>2235452</guid>
+            <pubDate>Sat, 10 Jul 2021 20:02:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯国防部：俄黑海舰队对7月10日进入黑海的希腊海军"达尼奥洛斯"号导弹艇的动向保持监控。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6130254.d.html</link>
+            <guid>2235451</guid>
+            <pubDate>Sat, 10 Jul 2021 19:45:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[土耳其新增新冠肺炎确诊病例5530例，累计确诊5476294例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6129145.d.html</link>
@@ -587,24 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6079039.d.html</link>
             <guid>2235342</guid>
             <pubDate>Sat, 10 Jul 2021 09:16:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡将于7月12日收紧对印尼的入境限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4680673.d.html</link>
-            <guid>2235341</guid>
-            <pubDate>Sat, 10 Jul 2021 09:08:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中康养健康产业投资有限公司揭牌】7月10日，中康养健康产业投资有限公司揭牌仪式暨首届中国养老产业投资与发展论坛在京举行。该公司是由中国诚通牵头发起，联合中国铁建、中国国药三家中央企业与大家保险共同打造“康养国家队”，专注于康养产业投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4679294.d.html</link>
-            <guid>2235340</guid>
-            <pubDate>Sat, 10 Jul 2021 08:58:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会主席冯德莱恩：截至本月可以给至少70％的成年人接种疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4677969.d.html</link>
-            <guid>2235338</guid>
-            <pubDate>Sat, 10 Jul 2021 08:45:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
