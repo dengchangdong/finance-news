@@ -4,11 +4,493 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Wed, 14 Jul 2021 14:32:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jul 2021 15:43:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【股市收盘】德国DAX30指数7月14日（周三）收盘下跌2.59点，跌幅0.02%，报15787.05点；英国富时100指数7月14日（周三）收盘下跌32.82点，跌幅0.46%，报7091.90点；法国CAC40指数7月14日（周三）收盘下跌0.09点，跌幅0.00%，报6558.38点；欧洲斯托克50指数7月14日（周三）收盘上涨5.25点，涨幅0.13%，报4099.81点；西班牙IBEX35指数7月14日（周三）收盘下跌37.80点，跌幅0.43%，报8657.00点；意大利富时MIB指数7月14日（周三）收盘上涨44.85点，涨幅0.18%，报25201.50点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6885142.d.html</link>
+            <guid>2239468</guid>
+            <pubDate>Wed, 14 Jul 2021 15:42:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油期货短线下挫1美元，现分别报74.05美元/桶和75.57美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5488480.d.html</link>
+            <guid>2239467</guid>
+            <pubDate>Wed, 14 Jul 2021 15:41:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【四川阿坝州汶川县附近发生4.7级左右地震】中国地震台网自动测定：07月14日23时36分在四川阿坝州汶川县附近（北纬30.97度，东经103.50度）发生4.7级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884954.d.html</link>
+            <guid>2239466</guid>
+            <pubDate>Wed, 14 Jul 2021 15:40:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：随着我们更密切地研究劳动力市场，我们将关注失业率、就业率、就业的详细构成、劳动利用率和工作时间等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884945.d.html</link>
+            <guid>2239465</guid>
+            <pubDate>Wed, 14 Jul 2021 15:40:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  富国银行CEO Scharf：富国银行的“大多数指标”取得重大进步。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884901.d.html</link>
+            <guid>2239464</guid>
+            <pubDate>Wed, 14 Jul 2021 15:40:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国新增42302例新冠肺炎确诊病例，新增49例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884868.d.html</link>
+            <guid>2239463</guid>
+            <pubDate>Wed, 14 Jul 2021 15:39:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源信息署（EIA）：美国墨西哥湾原油库存降至2020年2月以来的最低水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5488220.d.html</link>
+            <guid>2239462</guid>
+            <pubDate>Wed, 14 Jul 2021 15:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  富国银行CEO Scharf：25%的刺激资金仍在用户账户中。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884790.d.html</link>
+            <guid>2239461</guid>
+            <pubDate>Wed, 14 Jul 2021 15:38:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油期货短线下挫0.6美元，现分别报74.28美元/桶和75.83美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884766.d.html</link>
+            <guid>2239460</guid>
+            <pubDate>Wed, 14 Jul 2021 15:38:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：加拿大经济仍需要量化宽松。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884757.d.html</link>
+            <guid>2239459</guid>
+            <pubDate>Wed, 14 Jul 2021 15:38:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国7月9日当周库欣原油库存跌至2020年3月以来的最低水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884701.d.html</link>
+            <guid>2239458</guid>
+            <pubDate>Wed, 14 Jul 2021 15:37:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国汽油期货跌幅扩大，EiA报告显示汽油库存意外录得增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5487993.d.html</link>
+            <guid>2239456</guid>
+            <pubDate>Wed, 14 Jul 2021 15:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：前景实际上与4月份的预估并没有那么大的差别。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5487979.d.html</link>
+            <guid>2239455</guid>
+            <pubDate>Wed, 14 Jul 2021 15:34:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿里腾讯联手走高，京东拼多多应声下跌】腾讯ADR盘中涨2.4%，阿里股价一度涨2%，不过二者涨幅随后收窄。京东一度跌2.4%，拼多多一度跌6%，二者跌幅随后收窄。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884539.d.html</link>
+            <guid>2239454</guid>
+            <pubDate>Wed, 14 Jul 2021 15:34:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源信息署（EIA）：由于技术问题，数据公布被推迟。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5487924.d.html</link>
+            <guid>2239453</guid>
+            <pubDate>Wed, 14 Jul 2021 15:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收跌0.12%，报460.42点。德国DAX 30指数初步收跌0.03%，报15784.95点。法国股指初步收跌0.05%，英国股指初步收跌0.44%，意大利股指初步收涨0.20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884505.d.html</link>
+            <guid>2239452</guid>
+            <pubDate>Wed, 14 Jul 2021 15:33:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖119天期国债，得标利率0.050%（前次为0.050%）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884453.d.html</link>
+            <guid>2239451</guid>
+            <pubDate>Wed, 14 Jul 2021 15:32:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：前景预测和四月份的预测没有太大的不同。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884443.d.html</link>
+            <guid>2239450</guid>
+            <pubDate>Wed, 14 Jul 2021 15:32:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至7月9日当周原油出口量为2021年4月30日当周以来最高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884440.d.html</link>
+            <guid>2239449</guid>
+            <pubDate>Wed, 14 Jul 2021 15:32:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至7月9日当周EIA原油库存降幅录得2021年4月30日当周以来最大，为连续第8周录得下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884434.d.html</link>
+            <guid>2239448</guid>
+            <pubDate>Wed, 14 Jul 2021 15:32:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至7月9日当周除却战略储备的商业原油库存为2020年1月31日当周以来最低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5487807.d.html</link>
+            <guid>2239447</guid>
+            <pubDate>Wed, 14 Jul 2021 15:32:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至7月9日当周国内原油产量为2020年5月22日当周以来最高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5487803.d.html</link>
+            <guid>2239446</guid>
+            <pubDate>Wed, 14 Jul 2021 15:32:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EIA报告：美国上周原油出口增加139.7万桶/日至402.5万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5487796.d.html</link>
+            <guid>2239445</guid>
+            <pubDate>Wed, 14 Jul 2021 15:31:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EIA报告：美国原油产品四周平均供应量为2062.6万桶/日，较去年同期增加14.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5487787.d.html</link>
+            <guid>2239444</guid>
+            <pubDate>Wed, 14 Jul 2021 15:31:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EIA报告：除却战略储备的商业原油上周进口622.1万桶/日，较前一周增加34.6万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5487782.d.html</link>
+            <guid>2239443</guid>
+            <pubDate>Wed, 14 Jul 2021 15:31:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EIA报告：上周美国国内原油产量增加10万桶至1140万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5487779.d.html</link>
+            <guid>2239442</guid>
+            <pubDate>Wed, 14 Jul 2021 15:31:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EIA报告：除却战略储备的商业原油库存减少789.6万桶至4.376亿桶，减少1.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884399.d.html</link>
+            <guid>2239441</guid>
+            <pubDate>Wed, 14 Jul 2021 15:31:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EIA原油库存数据公布后，美、布两油波动不大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5487757.d.html</link>
+            <guid>2239440</guid>
+            <pubDate>Wed, 14 Jul 2021 15:31:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至7月9日当周EIA原油库存(万桶)：前值 -686.6，预期 -435.9，公布 -789.6。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5487716.d.html</link>
+            <guid>2239439</guid>
+            <pubDate>Wed, 14 Jul 2021 15:30:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【BBC一年内收到46万起投诉】近日，英国广播公司发布年度报告，报告显示，2020年至2021年，该媒体共收到462255起投诉，比前一年增加93878起，创下有纪录以来新高。（中国日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884261.d.html</link>
+            <guid>2239438</guid>
+            <pubDate>Wed, 14 Jul 2021 15:29:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股涨幅收窄，道指转跌，纳指、标普500指数涨0.05%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884254.d.html</link>
+            <guid>2239437</guid>
+            <pubDate>Wed, 14 Jul 2021 15:29:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：如果我们看到工资增长远远超过生产率，那将是一个令人担忧的问题，目前还没有看到。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5487433.d.html</link>
+            <guid>2239436</guid>
+            <pubDate>Wed, 14 Jul 2021 15:26:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  达美航空(DAL.N)转跌，现跌2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884071.d.html</link>
+            <guid>2239435</guid>
+            <pubDate>Wed, 14 Jul 2021 15:26:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：预计加拿大的经济复苏将以消费为主导，美国经济强劲将提振加拿大出口；如果加元的走势强于我们的预期，将给出口商带来更大的竞争压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6883916.d.html</link>
+            <guid>2239434</guid>
+            <pubDate>Wed, 14 Jul 2021 15:24:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泛美卫生组织（PAHO）主管：辉瑞本打算通过新冠肺炎疫苗实施计划（COVAX）向该地区提供1500万剂新冠疫苗，迄今为止已经提供了1250万剂。]]></title>
+            <guid>2239433</guid>
+            <pubDate>Wed, 14 Jul 2021 15:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：供应过剩将抑制通胀压力，预计住房市场将继续逐步放缓，房价放缓的速度甚至比预期的要快。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5487179.d.html</link>
+            <guid>2239432</guid>
+            <pubDate>Wed, 14 Jul 2021 15:23:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东京奥运会获奖运动员自己戴奖牌】据共同社，国际奥委会主席巴赫14日表示，为防控新冠疫情，在颁奖仪式上，由获奖运动员自己从托盘中拿起奖牌，自己佩戴在脖子上，不会采取握手、拥抱等祝贺方式。美联社报道，奖牌获得者和颁奖出席人员被要求佩戴口罩。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5486756.d.html</link>
+            <guid>2239430</guid>
+            <pubDate>Wed, 14 Jul 2021 15:18:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：加拿大经济仍然有很多供应过剩。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5486702.d.html</link>
+            <guid>2239429</guid>
+            <pubDate>Wed, 14 Jul 2021 15:17:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Beyond Meat(BYND.O)跌超5%，报129美元，为连续第三日下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6883304.d.html</link>
+            <guid>2239428</guid>
+            <pubDate>Wed, 14 Jul 2021 15:16:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【为防控新冠疫情 缅甸宣布全国放假9天】缅甸国家管理委员会7月14日宣布缅甸将于7月17日至25日全国放假9天，以防控第三波新冠疫情。缅甸国家管理委员会在声明中要求全体民众在公共假期期间居家防疫，非紧急情况不外出，不得出门旅行。在此期间只有涉及日常基本需求的市场、超市以及医疗机构正常开放。违反防疫规定者将被追究法律责任。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6883280.d.html</link>
+            <guid>2239427</guid>
+            <pubDate>Wed, 14 Jul 2021 15:15:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：加拿大通胀上升将是暂时的，部分原因是经济疲软。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6883254.d.html</link>
+            <guid>2239426</guid>
+            <pubDate>Wed, 14 Jul 2021 15:15:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中概股造车新势力持续走低。理想汽车跌超5%，蔚来汽车跌2.5%，小鹏汽车跌1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5486489.d.html</link>
+            <guid>2239425</guid>
+            <pubDate>Wed, 14 Jul 2021 15:13:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲央行宣布启动数字欧元项目】欧洲中央银行14日宣布启动数字欧元项目并展开相关调查研究。根据欧洲央行当天发布的新闻公告，调查研究为期2年，是数字欧元项目的初始阶段，旨在解决数字欧元设计和发行等关键问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5486468.d.html</link>
+            <guid>2239424</guid>
+            <pubDate>Wed, 14 Jul 2021 15:13:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为38，表明市场处在恐惧状态。]]></title>
+            <guid>2239423</guid>
+            <pubDate>Wed, 14 Jul 2021 15:11:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【字节进军外卖，抖音内测“心动外卖”】 据Tech星球7月14日消息，字节跳动旗下的抖音于近期成立了一个针对外卖业务的团队，并于近期在抖音App内开展了测试。目前，抖音的外卖业务名为“心动外卖”，其Slogan为“心动外卖，吃你所爱”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5486256.d.html</link>
+            <guid>2239422</guid>
+            <pubDate>Wed, 14 Jul 2021 15:10:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家电投与中国石化签署战略合作协议】7月13日，国家电投与中国石化签署战略合作协议。根据协议，双方本着“优势互补、合作共赢、共同发展”的原则，贯彻“四个革命、一个合作”能源安全新战略，落实绿色发展理念，推进能源建设，围绕中国“3060”目标，发挥各自优势，广泛开展合作，打造清洁能源合作典范。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5486172.d.html</link>
+            <guid>2239421</guid>
+            <pubDate>Wed, 14 Jul 2021 15:10:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中方发布《中国落实2030年可持续发展议程国别自愿陈述报告》】报告围绕“脱贫攻坚全面胜利，提前实现2030年议程减贫目标”、“生态文明建设稳步推进，气候行动成效显著”、“疫情防控取得重大战略成果，经济增长空间和韧性显著提升”、“粮食安全保障有力，乡村振兴开局良好”、“基础设施互联互通持续推进，可持续交通成果丰硕”等五大领域，系统阐述我国取得的重大进展、得出的具体经验和所作的世界贡献。（外交部）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5486103.d.html</link>
+            <guid>2239420</guid>
+            <pubDate>Wed, 14 Jul 2021 15:09:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港财政司司长陈茂波：香港资金流走为谣言】据香港商报网7月14日消息，香港财政司司长陈茂波在出席访谈活动时表示，“有关本港资金流出、沽空港元等消息纯属谣言，香港金融体系稳健，一旦遇上冲击亦能抵御。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5486037.d.html</link>
+            <guid>2239419</guid>
+            <pubDate>Wed, 14 Jul 2021 15:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息： 拜登将于周五参加亚太经合组织领导人线上会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5485928.d.html</link>
+            <guid>2239418</guid>
+            <pubDate>Wed, 14 Jul 2021 15:07:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：Facebook(FB.O)与Shopify(SHOP.N)的商家合作推出支付选项Facebook Pay。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6882265.d.html</link>
+            <guid>2239417</guid>
+            <pubDate>Wed, 14 Jul 2021 15:04:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：我们预计推高通胀的因素是暂时的，但其持续性和幅度尚不确定，我们将密切关注。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5485597.d.html</link>
+            <guid>2239416</guid>
+            <pubDate>Wed, 14 Jul 2021 15:04:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：Ali Holding将以每股24美元的价格收购Welbilt(WBT.N)。]]></title>
+            <guid>2239415</guid>
+            <pubDate>Wed, 14 Jul 2021 15:04:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德银汇编的彭博社对美国今明两年通胀共识预期演变的图表显示，2022年CPI预期跟随2021年的预期同样走高，这表明通胀不可能都是暂时的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5485527.d.html</link>
+            <guid>2239414</guid>
+            <pubDate>Wed, 14 Jul 2021 15:03:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：重新开放和接种疫苗增强了经济信心。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6882144.d.html</link>
+            <guid>2239413</guid>
+            <pubDate>Wed, 14 Jul 2021 15:03:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：随着我们重新开放经济，我们预计会看到一些波动；我们将继续密切关注经济复苏的进展和通胀的演变。]]></title>
+            <guid>2239412</guid>
+            <pubDate>Wed, 14 Jul 2021 15:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：管理委员会越来越相信，随着经济再次复苏，经济增长将强劲反弹，而这一次的增长将更加持久。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5485458.d.html</link>
+            <guid>2239411</guid>
+            <pubDate>Wed, 14 Jul 2021 15:03:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：加拿大经济已被证明具有令人印象深刻的韧性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6882079.d.html</link>
+            <guid>2239410</guid>
+            <pubDate>Wed, 14 Jul 2021 15:03:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【大商所、郑商所夜盘收盘 菜粕涨逾1%】大商所、郑商所夜盘收盘，互有涨跌，郑油、菜粕等涨逾1%，玉米、淀粉等小幅上涨；纯碱、PP等跌超1%，铁矿、郑煤等小幅下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6881839.d.html</link>
+            <guid>2239409</guid>
+            <pubDate>Wed, 14 Jul 2021 15:00:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果（AAPL）股价上涨2.5%，刷新盘中历史高位至149.30美元，盘中市值2.49万亿美元，该公司寻求将iPhone产量提高20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5485086.d.html</link>
+            <guid>2239408</guid>
+            <pubDate>Wed, 14 Jul 2021 14:59:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源信息署（EIA）官方网站显示，EIA数据将于北京时间晚上11:30公布。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5485053.d.html</link>
+            <guid>2239407</guid>
+            <pubDate>Wed, 14 Jul 2021 14:59:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  商业餐饮服务设备公司Welbilt(WBT.N)停牌，待刊发公告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6881647.d.html</link>
+            <guid>2239406</guid>
+            <pubDate>Wed, 14 Jul 2021 14:58:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Wheels Up(UP.N)触发熔断，熔断前跳涨36%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5484840.d.html</link>
+            <guid>2239405</guid>
+            <pubDate>Wed, 14 Jul 2021 14:55:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[九紫新能(JZXN.O)涨15.7%，报5.41美元。据悉，九紫新能宣布与“互联网+能源”产业链平台China Petrol Technology (Shenzhen) Limited签署意向书，在全国范围内共同建设电动汽车(EV)电池交换站和电池管理系统。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5484674.d.html</link>
+            <guid>2239404</guid>
+            <pubDate>Wed, 14 Jul 2021 14:53:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑日元USD/JPY跌破110，日内跌0.55%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6881099.d.html</link>
+            <guid>2239403</guid>
+            <pubDate>Wed, 14 Jul 2021 14:51:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中钢协：7月上旬钢材社会库存1166万吨，环比上升3.3%】据中国钢铁工业协会数据，7月上旬，20个城市5大品种钢材社会库存1166万吨，环比增加37万吨，上升3.3%，库存继续小幅回升；比年初增加436万吨，上升59.7%；比去年同期减少82万吨，下降6.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6881074.d.html</link>
+            <guid>2239402</guid>
+            <pubDate>Wed, 14 Jul 2021 14:50:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：联邦快递(FDX.N)推出联邦快递贸易解决方案服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5484439.d.html</link>
+            <guid>2239401</guid>
+            <pubDate>Wed, 14 Jul 2021 14:50:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆将于十分钟后召开新闻发布会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6881018.d.html</link>
+            <guid>2239400</guid>
+            <pubDate>Wed, 14 Jul 2021 14:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利新增2153例新冠肺炎确诊病例，新增23例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6880797.d.html</link>
+            <guid>2239399</guid>
+            <pubDate>Wed, 14 Jul 2021 14:47:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登将于周五参加亚太经合组织领导人的虚拟会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5484115.d.html</link>
+            <guid>2239398</guid>
+            <pubDate>Wed, 14 Jul 2021 14:47:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪：787客机的进一步延迟交付，对波音(BA.N)2021年的营运现金流是一个打击。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6880665.d.html</link>
+            <guid>2239397</guid>
+            <pubDate>Wed, 14 Jul 2021 14:46:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源信息署（EIA）在邮件里表示，EIA数据公布延迟是由数据上传延迟导致的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6880579.d.html</link>
+            <guid>2239396</guid>
+            <pubDate>Wed, 14 Jul 2021 14:45:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美银认为，在经历了惊人的上涨之后，CPI中一些关键的短期因素贡献已经达到顶峰。二手车消费价格指数今年以来的涨幅为29%，高于美国二手车行曼海姆批发价格今年以来的涨幅，曼海姆批发价格5月份的涨幅为26%，6月份回落至24%，这可能意味着CPI中二手车价贡献即将消退。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5483862.d.html</link>
+            <guid>2239395</guid>
+            <pubDate>Wed, 14 Jul 2021 14:43:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国当周EIA原油库存报告一般是在北京时间周三晚上10:30公布，除非遇上联邦假期将会延迟一日公布。今天推迟公布是多年来首次。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6880320.d.html</link>
+            <guid>2239394</guid>
+            <pubDate>Wed, 14 Jul 2021 14:41:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[提醒：美国能源信息署（EIA）原油库存周报将推迟至北京时间23:00左右发布。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5483476.d.html</link>
+            <guid>2239393</guid>
+            <pubDate>Wed, 14 Jul 2021 14:40:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美银美林全球研究：将L Brands(LB.N)目标价从90美元升至93美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6879946.d.html</link>
+            <guid>2239392</guid>
+            <pubDate>Wed, 14 Jul 2021 14:37:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团(C.N)跌0.7%，此前一度涨逾3%，花旗CFO在财报电话会议上表示将上调全年支出预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5483278.d.html</link>
+            <guid>2239391</guid>
+            <pubDate>Wed, 14 Jul 2021 14:37:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【30省份流动人口数据：广东流入最多，河南外流最多】第七次全国人口普查结果显示，我国流动人口为37582万人。与2010年相比，流动人口增长69.73%。十年来，人口流动趋势更加明显，流动人口规模进一步扩大。分省份来看，广东的流动人口超过5000万人，在全国遥遥领先，同时广东的省外流入人口也是最多的。户籍人口第一大省河南有1610万人的流出省外人口，是全国流出人口最多的省份。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6879885.d.html</link>
+            <guid>2239390</guid>
+            <pubDate>Wed, 14 Jul 2021 14:37:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[原定于今日公布的美国至7月9日当周EIA原油库存数据暂未在官网公布，原因暂不明。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5483031.d.html</link>
+            <guid>2239389</guid>
+            <pubDate>Wed, 14 Jul 2021 14:34:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯央行：尽管俄罗斯卢布走强，未来几个月的通货膨胀压力仍将居高不下。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5482961.d.html</link>
+            <guid>2239388</guid>
+            <pubDate>Wed, 14 Jul 2021 14:33:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯央行：通货膨胀尚未达到顶峰。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5482928.d.html</link>
+            <guid>2239387</guid>
+            <pubDate>Wed, 14 Jul 2021 14:33:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯央行：短期内，促通胀风险仍大于抑制通胀风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6879537.d.html</link>
+            <guid>2239386</guid>
+            <pubDate>Wed, 14 Jul 2021 14:33:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[花旗集团(C.N)CFO Mason：花旗正在信用卡营销方面加速投资。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5482847.d.html</link>
@@ -122,486 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5481608.d.html</link>
             <guid>2239367</guid>
             <pubDate>Wed, 14 Jul 2021 14:19:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议院多数党领袖舒默：预算措施的道路还很漫长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5481388.d.html</link>
-            <guid>2239366</guid>
-            <pubDate>Wed, 14 Jul 2021 14:16:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[财经网站Forexlive分析师Adam Button：加拿大央行利率决议公布后，美元兑加元USD/CAD一度跌至1.2425，但随后急速拉升，市场可能一直在寻找该行更鹰派的政策，尤其是在新西兰联储早些时候的行动之后。经济预期显示，2022年、2023年底GDP增速预期将比此前预期高出约0.75%，这并没有在更鹰派评论中有所反映。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6877887.d.html</link>
-            <guid>2239365</guid>
-            <pubDate>Wed, 14 Jul 2021 14:15:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[达美航空(DAL.N)：随着商务旅行的回归和国际市场的逐步重新开放，需求将继续改善，预计第三季度税前利润率为中等个位数水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6877861.d.html</link>
-            <guid>2239364</guid>
-            <pubDate>Wed, 14 Jul 2021 14:14:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST华英：半年度预亏1.5亿-1.7亿元】*ST华英公告，预计2021年半年度归属于上市公司股东的净亏损1.5亿元-1.7亿元，上年同期亏损34842.37万元。公司主要产品价格低迷、销售不畅，亏损严重。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5481232.d.html</link>
-            <guid>2239363</guid>
-            <pubDate>Wed, 14 Jul 2021 14:14:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西经济部长盖德斯：确信企业所得税可以降低10个百分点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6877794.d.html</link>
-            <guid>2239362</guid>
-            <pubDate>Wed, 14 Jul 2021 14:14:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：此次的经济预期中，到2022年、2023年年底的实际GDP水平将比4月份的预测高出约0.75%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5481099.d.html</link>
-            <guid>2239361</guid>
-            <pubDate>Wed, 14 Jul 2021 14:13:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小鹏汽车：联席代表于2021年7月14日交易时段后部分行使超额配股权，涉及合共12,083,300股A类普通股，占超额配股权获行使前根据全球发售初步可供认购发售股份数目约14.22%。本公司将按国际发售价每股A类普通股165.00港元配发及发行超额配发股份。超额配发股份将于2021年7月19日上午九时正开始在香港联交所主板上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6877624.d.html</link>
-            <guid>2239360</guid>
-            <pubDate>Wed, 14 Jul 2021 14:12:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【搜于特下修业绩预告：半年度预计亏损9亿元-13.5亿元】搜于特披露2021年半年度业绩预告修正公告，此前公司预计2021年上半年亏损0-1.5亿元，现修正为亏损9亿元-13.5亿元，上年同期盈利3456.38万元。公司资金流动性紧张，截止2021年6月30日公司已出现多笔债务逾期及由此导致的多宗诉讼仲裁，为偿还利息、支付供应商货款、仓储租赁费、工资等生产经营支出，公司拟对账面余额6.13亿元的原材料布类及15.82亿元的服装库存在原来基础上进一步进行大力度降价促销，快速回笼资金。由此预计增加存货跌价准备10-11.5亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6877595.d.html</link>
-            <guid>2239359</guid>
-            <pubDate>Wed, 14 Jul 2021 14:12:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在现货市场交易中，美元兑巴西雷亚尔USD/BRL跌2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6877564.d.html</link>
-            <guid>2239358</guid>
-            <pubDate>Wed, 14 Jul 2021 14:12:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行预计2021年第一季度GDP年化增长率为5.6%，4月份预测为7.0%；第二季度GDP年化增长率为2.0%，4月份预测为3.5%；第三季度GDP年化增长率为7.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6877548.d.html</link>
-            <guid>2239357</guid>
-            <pubDate>Wed, 14 Jul 2021 14:11:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团(C.N)CEO考伯特：花旗有意加速投资支出。预计今年下半年将出现贷款增长。花旗将在2022年第一季度召开投资者日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6877459.d.html</link>
-            <guid>2239356</guid>
-            <pubDate>Wed, 14 Jul 2021 14:11:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中新赛克：半年度预亏3000万-5000万元 同比盈转亏】中新赛克公告，预计2021年半年度归属于上市公司股东的净亏损3000万元-5000万元，上年同期盈利6805.15万元。报告期内，公司根据《企业会计准则》的相关规定，计提股权激励成本约6000万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6877258.d.html</link>
-            <guid>2239355</guid>
-            <pubDate>Wed, 14 Jul 2021 14:09:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：与疫情相关的下行风险已显著降低，但实现全面和包容性复苏还需要时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5480630.d.html</link>
-            <guid>2239354</guid>
-            <pubDate>Wed, 14 Jul 2021 14:09:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：在上半年低于预期后，预计加拿大第三季度经济增长应该会强劲反弹。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6877162.d.html</link>
-            <guid>2239353</guid>
-            <pubDate>Wed, 14 Jul 2021 14:09:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行预计2021年美国经济增长率为6.6%，而4月份预测为7.0%；2022年美国经济增长5.1%，4月份预测为4.1%；2023年美国经济增长1.8%，4月份预测为1.3%。]]></title>
-            <guid>2239352</guid>
-            <pubDate>Wed, 14 Jul 2021 14:08:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【奥美医疗：上半年净利预降60%-67%】奥美医疗披露2021年半年度业绩预告，预计上半年归属于上市公司股东的净利润2.32亿元—2.85亿元，比上年同期下降60.00%-67.35%。2021年以来，全球范围疫情得到有效控制，感染防护产品价量回归常态，致使公司净利润下降。剔除疫情相关产品外，公司其他业务持续健康发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5480284.d.html</link>
-            <guid>2239351</guid>
-            <pubDate>Wed, 14 Jul 2021 14:07:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行公布利率决议后，加拿大10年期国债收益率跌至1.322%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5480271.d.html</link>
-            <guid>2239350</guid>
-            <pubDate>Wed, 14 Jul 2021 14:07:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：预计经济复苏将在预期范围内变得更加广泛和自我维持；目前劳动力市场仍然很不景气。]]></title>
-            <guid>2239349</guid>
-            <pubDate>Wed, 14 Jul 2021 14:06:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：预计房地产市场活动仍将高于大流行前；供需再平衡将导致房价增长在预期范围内放缓。]]></title>
-            <guid>2239348</guid>
-            <pubDate>Wed, 14 Jul 2021 14:06:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：经济将在2023年进入需求过度的暂时时期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5480163.d.html</link>
-            <guid>2239347</guid>
-            <pubDate>Wed, 14 Jul 2021 14:06:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：通胀将在2023年因需求过度而超过央行的目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5480150.d.html</link>
-            <guid>2239346</guid>
-            <pubDate>Wed, 14 Jul 2021 14:06:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：推高通胀的因素是暂时的，但其持续性和幅度尚不确定，将受到密切监测。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5480134.d.html</link>
-            <guid>2239345</guid>
-            <pubDate>Wed, 14 Jul 2021 14:06:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：由于暂时性因素，2021年CPI将保持在3%或以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6876654.d.html</link>
-            <guid>2239344</guid>
-            <pubDate>Wed, 14 Jul 2021 14:05:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【航天彩虹：半年度净利预增93%-149%】航天彩虹披露半年度业绩预告，预计半年度归属于上市公司股东的净利润为5500万至7100万元，同比增长92.71%至148.77%。本期业绩同比增长主要是上年同期部分业务受疫情影响停工停产，同时本年光伏行业回暖,生产效能提高，相关产品毛利率同比增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5480098.d.html</link>
-            <guid>2239343</guid>
-            <pubDate>Wed, 14 Jul 2021 14:05:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：理事会认为，加拿大经济仍存在相当大的产能过剩，复苏仍需要非同寻常的货币政策支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6876613.d.html</link>
-            <guid>2239342</guid>
-            <pubDate>Wed, 14 Jul 2021 14:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：量化宽松的调整反映了经济复苏的持续进展，以及对加拿大经济前景的信心增强。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6876582.d.html</link>
-            <guid>2239341</guid>
-            <pubDate>Wed, 14 Jul 2021 14:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：加拿大快速推广疫苗接种将改善经济前景。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5480021.d.html</link>
-            <guid>2239340</guid>
-            <pubDate>Wed, 14 Jul 2021 14:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行重申对利率的前瞻性指引。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5479987.d.html</link>
-            <guid>2239339</guid>
-            <pubDate>Wed, 14 Jul 2021 14:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：加拿大2022年整体通胀预测为2.4%，4月份预测为1.9%；2023年为2.2%，4月份预测为2.3%。]]></title>
-            <guid>2239338</guid>
-            <pubDate>Wed, 14 Jul 2021 14:04:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：劳动力市场仍显疲软。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6876488.d.html</link>
-            <guid>2239337</guid>
-            <pubDate>Wed, 14 Jul 2021 14:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【迈克生物：半年度净利润预增70%-80%】迈克生物公告，预计2021年半年度实现营业收入188821.02万元-203345.72万元，同比增长30%-40%；归属于上市公司股东的净利润52747.12万元-55849.89万元，同比增长70%-80%。随着国内疫情得到有效控制，国内经济复苏，报告期内公司常规生化、免疫、临检等平台检测产品的销售快速恢复并实现较高增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6876469.d.html</link>
-            <guid>2239336</guid>
-            <pubDate>Wed, 14 Jul 2021 14:04:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股WSB热门概念板块走势分化。AMC院线(AMC.N)跌5.7%，Roblox(RBLX.N)跌2.6%；Clover Health(CLOV.O)、Express(EXPR.N)涨超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5479892.d.html</link>
-            <guid>2239335</guid>
-            <pubDate>Wed, 14 Jul 2021 14:04:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：重启经济将是一个复杂的过程。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6876411.d.html</link>
-            <guid>2239334</guid>
-            <pubDate>Wed, 14 Jul 2021 14:04:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：进一步缩减购债将取决于复苏的持久性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5479848.d.html</link>
-            <guid>2239333</guid>
-            <pubDate>Wed, 14 Jul 2021 14:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：随着临时因素的影响在2021年晚些时候和2022年消退，通胀将回落至2%左右；到2023年将暂时上升至略高于2%的水平，然后在2024年回归目标水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5479833.d.html</link>
-            <guid>2239332</guid>
-            <pubDate>Wed, 14 Jul 2021 14:03:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑加元USD/CAD较低位反弹70点，现报1.2501。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6876347.d.html</link>
-            <guid>2239331</guid>
-            <pubDate>Wed, 14 Jul 2021 14:03:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行预计2021年GDP增长6%，2022年GDP增长4.6%，2023年GDP增长3.3%。（4月的预测分别为6.5%，3.7%，3.2%）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5479794.d.html</link>
-            <guid>2239330</guid>
-            <pubDate>Wed, 14 Jul 2021 14:03:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿里巴巴、腾讯ADR齐涨超2%，消息称二者考虑互相开放生态系统。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5479735.d.html</link>
-            <guid>2239329</guid>
-            <pubDate>Wed, 14 Jul 2021 14:03:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行上调了GDP和通胀的预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5479588.d.html</link>
-            <guid>2239328</guid>
-            <pubDate>Wed, 14 Jul 2021 14:01:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：外需强劲增长和大宗商品价格上涨，应有助于出口和商业投资稳步回升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6876064.d.html</link>
-            <guid>2239327</guid>
-            <pubDate>Wed, 14 Jul 2021 14:01:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：将资产购买计划规模下调至每周20亿加元（此前为每周30亿加元）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5479532.d.html</link>
-            <guid>2239326</guid>
-            <pubDate>Wed, 14 Jul 2021 14:01:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑加元USD/CAD短线下挫逾30点，现报1.2451。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5479494.d.html</link>
-            <guid>2239325</guid>
-            <pubDate>Wed, 14 Jul 2021 14:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：预计到2022年，经济疲软将被消化，通胀将达标。（与此前预计一致）]]></title>
-            <guid>2239324</guid>
-            <pubDate>Wed, 14 Jul 2021 14:00:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行将基准利率维持在0.25%不变，符合市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5479384.d.html</link>
-            <guid>2239323</guid>
-            <pubDate>Wed, 14 Jul 2021 14:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【精酿鲜啤成盒马啤酒类目冠军 行业或迎快速发展期】据报道，原本小众的精酿啤酒今年夏天愈发受到欢迎。盒马今年推出的德式小麦白等精酿鲜啤已成为盒马整个啤酒类目中的冠军单品。近年来以工业啤酒为代表的啤酒行业整体增长放缓，而精酿啤酒市场却逆势增长。中金公司王文丹预计，各大龙头精酿啤酒产品将在未来3-5年步入放量期，2020年至2025年的精酿啤酒收入年化增长率可达30%至50%。毛利率方面，精酿啤酒产品可达70%以上，远高于啤酒行业整体约40%的水平。（上证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6875779.d.html</link>
-            <guid>2239322</guid>
-            <pubDate>Wed, 14 Jul 2021 13:59:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荣耀首款折叠屏手机有望于8月上市 下半年折叠屏手机迎来上市高峰】据供应链消息，荣耀折叠屏手机MagicX定位超级旗舰，对标华为Mate系列，将搭载骁龙888处理器，预计将于今年下半年推出，最早发布时间可能在8月，最晚可能在11月。值得注意的是，除荣耀外，三星、小米、vivo等手机大厂下半年均有推出新款折叠屏手机计划，折叠屏手机或将于下半年进入上市高峰。（怀新资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5479149.d.html</link>
-            <guid>2239321</guid>
-            <pubDate>Wed, 14 Jul 2021 13:57:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小米集团在港交所公告，发行8亿美元债券，年利率2.875%，到期时间为为2031年；发行4亿美元优先绿色债券，年利率4.1%，到期时间为2051年。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6875644.d.html</link>
-            <guid>2239320</guid>
-            <pubDate>Wed, 14 Jul 2021 13:57:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋能源部：尚未与欧佩克+就供应协议达成协议，讨论仍在继续。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6875608.d.html</link>
-            <guid>2239319</guid>
-            <pubDate>Wed, 14 Jul 2021 13:57:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线下挫6美元，现报1821.44美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5479026.d.html</link>
-            <guid>2239318</guid>
-            <pubDate>Wed, 14 Jul 2021 13:56:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委施纳贝尔：对于欧洲央行可以比预期更快达到目标感到乐观。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5478843.d.html</link>
-            <guid>2239317</guid>
-            <pubDate>Wed, 14 Jul 2021 13:54:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moderna(MRNA.O)直线拉涨，现涨超5%，续刷历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5478810.d.html</link>
-            <guid>2239316</guid>
-            <pubDate>Wed, 14 Jul 2021 13:54:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[声明显示，南非总统拉马福萨称，在暴力事件发生后，南非政府正在考虑扩大军事部署。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5478776.d.html</link>
-            <guid>2239315</guid>
-            <pubDate>Wed, 14 Jul 2021 13:53:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[eBay(EBAY.O)涨1.5%，此前公司同意出售部分其在在线广告公司Adevinta的股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6875025.d.html</link>
-            <guid>2239314</guid>
-            <pubDate>Wed, 14 Jul 2021 13:52:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委施纳贝尔：必须避免过早收紧货币政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5478475.d.html</link>
-            <guid>2239313</guid>
-            <pubDate>Wed, 14 Jul 2021 13:51:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[腾讯控股在港交所公告，根据股份奖励计划向不少于3300位奖励人士授予合共2,403,203股奖励股份。董事会须安排以本公司资源拨付新股份的认购款项48.06港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6874975.d.html</link>
-            <guid>2239312</guid>
-            <pubDate>Wed, 14 Jul 2021 13:51:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳瑞捷：上半年净利润预增45%-75%】深圳瑞捷公告，预计上半年盈利4294.6万元至5183.13万元，同比增长45%—75%。公司表示，2021 年国内新冠疫情得到控制，公司业务开展逐步恢复正常，得益于国家政策支持及良好行业机遇，各项业务服务广度和深度均有所加强，业务规模持续扩大。国盛证券研报称，作为第三方工程评估开拓者，公司有望将品牌效应辐射至基建、制造业等评估业务领域，打造新业务增长点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6874727.d.html</link>
-            <guid>2239311</guid>
-            <pubDate>Wed, 14 Jul 2021 13:49:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苹果今年新款iPhone产量有望增两成 供应链有望受益】今年9月，苹果或发布新款iPhone，并计划在新品发布至今年年底这段时间，将新款iPhone的产量从往年的约7500万部提高近20%至9000万部。新款智能手表和笔记本电脑MacBook Pro也有可能在今年亮相。业内认为，苹果产业链已经进入了备货周期，投资者需要关注苹果新机发布带来的产业链投资机遇。（中国证券网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6874662.d.html</link>
-            <guid>2239310</guid>
-            <pubDate>Wed, 14 Jul 2021 13:49:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中概股上为集团直线拉升逾50%，现报价为14.88美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5477859.d.html</link>
-            <guid>2239309</guid>
-            <pubDate>Wed, 14 Jul 2021 13:47:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委施纳贝尔：欧洲央行没有看到任何对工资的第二轮影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6874162.d.html</link>
-            <guid>2239308</guid>
-            <pubDate>Wed, 14 Jul 2021 13:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委施纳贝尔：中期通胀前景仍然低迷。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6874057.d.html</link>
-            <guid>2239307</guid>
-            <pubDate>Wed, 14 Jul 2021 13:44:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委施纳贝尔：德尔塔变异毒株对经济构成未知风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6874034.d.html</link>
-            <guid>2239306</guid>
-            <pubDate>Wed, 14 Jul 2021 13:44:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[保险公司Oxbridge Re Holdings(OXBR.O)涨超32%，保管人风险投资公司(Custodian Ventures)披露持有该公司9.9%股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6873978.d.html</link>
-            <guid>2239305</guid>
-            <pubDate>Wed, 14 Jul 2021 13:43:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国航空公司板块走高，美国航空涨逾7%，捷蓝航空涨逾2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6873944.d.html</link>
-            <guid>2239304</guid>
-            <pubDate>Wed, 14 Jul 2021 13:43:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委施纳贝尔：经济已经过了拐点，出现了强劲复苏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5477369.d.html</link>
-            <guid>2239303</guid>
-            <pubDate>Wed, 14 Jul 2021 13:42:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股拼多多跌逾5%，现报价为106.5美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5477176.d.html</link>
-            <guid>2239302</guid>
-            <pubDate>Wed, 14 Jul 2021 13:41:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲股市抹去跌幅，欧洲斯托克600指数持平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5477077.d.html</link>
-            <guid>2239301</guid>
-            <pubDate>Wed, 14 Jul 2021 13:40:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股半导体板块走高。意法半导体、高通涨超3%，美光科技涨2.3%，恩智浦半导体涨2.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5476928.d.html</link>
-            <guid>2239300</guid>
-            <pubDate>Wed, 14 Jul 2021 13:40:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[腾讯控股在港交所公告称，根据股份奖励计划发行合计240.32万股奖励股份，授予不少于3300位奖励人士。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5476833.d.html</link>
-            <guid>2239299</guid>
-            <pubDate>Wed, 14 Jul 2021 13:39:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Westwood Holdings(WHG.N)触发熔断，熔断前涨超11%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6873326.d.html</link>
-            <guid>2239298</guid>
-            <pubDate>Wed, 14 Jul 2021 13:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏电网调度用电负荷今日达1.204亿千瓦 首次突破1.2亿】今日13时20分，江苏电网调度用电负荷达到1.204亿千瓦，首次突破1.2亿，同比增长4.6%，超过14日10时45分刚创下的最高值（1.179亿千瓦），今夏第二次创历史新高，成为国家电网系统首个用电负荷连续5年突破1亿千瓦的省级电网。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5476640.d.html</link>
-            <guid>2239297</guid>
-            <pubDate>Wed, 14 Jul 2021 13:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[搜狐(SOHU.O)跌4.2%，昨日收涨超27%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5476537.d.html</link>
-            <guid>2239296</guid>
-            <pubDate>Wed, 14 Jul 2021 13:36:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Velodyne涨近4%，此前宣布与英伟达视频分析平台Metropolis合作，提供智能基础设施解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5476490.d.html</link>
-            <guid>2239295</guid>
-            <pubDate>Wed, 14 Jul 2021 13:35:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股大型科技股普涨。苹果涨2%，微软涨0.5%，亚马逊涨0.4%，谷歌A涨1.1%，特斯拉涨0.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6872994.d.html</link>
-            <guid>2239294</guid>
-            <pubDate>Wed, 14 Jul 2021 13:35:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数涨0.53%，续刷历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5476348.d.html</link>
-            <guid>2239293</guid>
-            <pubDate>Wed, 14 Jul 2021 13:34:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果(AAPL.O)涨超2%，续刷历史新高；此前获摩根大通上调目标价，加入分析师关注名单。]]></title>
-            <guid>2239292</guid>
-            <pubDate>Wed, 14 Jul 2021 13:34:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团(C.N)涨2.6%，第二季度营收和净利润均好于市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5476229.d.html</link>
-            <guid>2239291</guid>
-            <pubDate>Wed, 14 Jul 2021 13:33:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行(WFC.N)涨1.53%，第二季度营收和净利润均好于市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5476211.d.html</link>
-            <guid>2239290</guid>
-            <pubDate>Wed, 14 Jul 2021 13:33:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝莱德(BLK.N)跌2.6%，此前公布第二季度财报。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6872724.d.html</link>
-            <guid>2239289</guid>
-            <pubDate>Wed, 14 Jul 2021 13:33:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[达美航空(DAL.N)涨0.39%，第二季度营收和净利润均好于市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5476178.d.html</link>
-            <guid>2239288</guid>
-            <pubDate>Wed, 14 Jul 2021 13:32:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行(BAC.N)跌1.34%，第二季度营收同比下滑4%，不及市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5476149.d.html</link>
-            <guid>2239287</guid>
-            <pubDate>Wed, 14 Jul 2021 13:32:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国航空集团(AAL.O)涨近6%，预计第二季度现金流为正，这是自疫情开始以来首次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5476124.d.html</link>
-            <guid>2239286</guid>
-            <pubDate>Wed, 14 Jul 2021 13:32:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
