@@ -4,11 +4,188 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Fri, 16 Jul 2021 19:32:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jul 2021 21:37:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【世卫组织：全球新冠肺炎确诊病例超1.8865亿例】根据世卫组织最新实时统计数据，截至欧洲中部夏令时间7月16日19时21分（北京时间7月17日1时21分），全球累计新冠肺炎确诊病例188655968例，累计死亡病例4067517例。16日全球新冠肺炎确诊病例新增491468例，死亡病例新增8267例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5931255.d.html</link>
+            <guid>2242415</guid>
+            <pubDate>Fri, 16 Jul 2021 21:36:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报6.4755元，较周四纽约尾盘跌142点，盘中整体交投于6.4608-6.4828元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7327791.d.html</link>
+            <guid>2242414</guid>
+            <pubDate>Fri, 16 Jul 2021 21:33:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【EPA需重新考虑2019年制定的可再生燃料标准】美国哥伦比亚特区联邦巡回上诉法院周五裁定，美国环境保护署（EPA）必须重新审视其2019年制定的可再生燃料目标。据该法院称，环保署的报告显示，自可再生燃料标准启动以来，已有400万至780万英亩的土地被转为种植玉米和大豆。种植面积增加部分程度上导致了生物燃料产量增加，对野生动物构成威胁。根据裁决，即使美国环保署重新考虑继续执行该标准，这项裁决仍将继续生效。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5930989.d.html</link>
+            <guid>2242413</guid>
+            <pubDate>Fri, 16 Jul 2021 21:28:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西过去24小时报告新增45591例新冠肺炎确诊病例，新增1456例新冠肺炎死亡病例。]]></title>
+            <guid>2242412</guid>
+            <pubDate>Fri, 16 Jul 2021 21:28:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中金公司给予华友钴业跑赢大盘的初始评级；目标价158.10元人民币。周五收盘价为135.48。]]></title>
+            <guid>2242411</guid>
+            <pubDate>Fri, 16 Jul 2021 21:21:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据美国地质调查局（USGS），秘鲁Alianza Cristiana西侧89公里处发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7327158.d.html</link>
+            <guid>2242410</guid>
+            <pubDate>Fri, 16 Jul 2021 21:15:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西过去24小时报告新增45591例新冠肺炎确诊病例，新增1456例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5930447.d.html</link>
+            <guid>2242409</guid>
+            <pubDate>Fri, 16 Jul 2021 21:11:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：确认希腊主权评级为“ BB”，前景展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7326653.d.html</link>
+            <guid>2242408</guid>
+            <pubDate>Fri, 16 Jul 2021 21:02:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据日经新闻：日本的目标是到2030年实现可再生能源占总能源的近40%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5929897.d.html</link>
+            <guid>2242407</guid>
+            <pubDate>Fri, 16 Jul 2021 20:57:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国洪灾导致天然气管道和电力系统受损，部分地区数月内恐难恢复】 7月16日，德国公共能源网络中莱茵公司宣布，莱茵兰-普法尔茨州阿尔韦勒地区的天然气管道受洪灾破坏极为严重。公司发言人佩伦布姆表示，长达数公里天然气管道完全破损，必须重建。天然气供应需要数周甚至数月才能恢复。由于目前供应商无法抵达受灾地区，技术人员必须等到救援和清理工作结束后，才能对控制系统进行全面检查。除天然气外，灾区的电力供应网络也遭受破坏。西部电网公司表示，大雨和洪水对配电系统造成了严重破坏，许多城市和乡镇都受到停电的影响。目前尚无法预测何时能够恢复全面供电。截至目前，洪灾地区大约10个变电站受到影响，约有10万余人无法获得电力供应，部分变电站依然淹没在洪水之中。15日灾情最严重的时候，共有约20万人遭遇停电。通过采取重新启动系统、分流和应急供电等措施，部分地区现已暂时恢复电力供应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5929509.d.html</link>
+            <guid>2242406</guid>
+            <pubDate>Fri, 16 Jul 2021 20:47:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【亚太经合组织领导人声明：克服疫情影响，加速经济复苏】 亚太经合组织经济体领导人于2021年7月16日举行会议，讨论新冠肺炎疫情造成的卫生和经济危机以及应对措施。努力实现强劲、平衡、安全、可持续和包容性增长，支持创新和数字化，发展贸易和投资。我们将加速扩大疫苗生产供应，支持全球疫苗共享，鼓励疫苗生产技术按照双方同意条款自愿转让。我们必须确保卫生系统覆盖所有人群，具备抵御当前和未来冲击的韧性。我们欢迎亚太经合组织为抗击疫情持续作出的各种努力和提供的额外资源。我们致力于实现布特拉加亚愿景，即到2040年建成一个开放、活力、强韧、和平的亚太共同体，实现亚太人民和子孙后代的共同繁荣。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7325633.d.html</link>
+            <guid>2242405</guid>
+            <pubDate>Fri, 16 Jul 2021 20:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：Felicia增强为4级飓风。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5928832.d.html</link>
+            <guid>2242404</guid>
+            <pubDate>Fri, 16 Jul 2021 20:31:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黄金连续第四周上涨 但国债收益率回升令涨幅收窄】本周现货黄金累涨约0.3%，为连续第四周上涨，但随着美国国债收益率抹平了美联储主席鲍威尔鸽派言论后造成的部分跌幅，金价涨幅也有所收窄。尽管通胀处于令人不安的水平，但鲍威尔周四继续为继续支持美国经济进行辩护，重申现在减码刺激还为时过早。这导致美国国债收益率周四跌至接近2月以来的最低点附近，然后在周五出现反弹，削弱了将黄金作为替代投资品的需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7325399.d.html</link>
+            <guid>2242403</guid>
+            <pubDate>Fri, 16 Jul 2021 20:30:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【耶伦与鲍威尔周五听取了有关美国住房市场的工作汇报】美国财政部长耶伦和美联储主席鲍威尔周五在一场关于评估金融体系风险的委员会会议上听取了有关美国房地产市场的汇报。据知情人士透露，周五的会议是耶伦领导的金融稳定监督委员会（FSOC）首次就住房市场的担忧进行实质性的讨论。财政部在声明中称，FSOC听取了美国联邦住房金融署（FHFA）工作人员关于住房市场近期趋势的陈述，包括价格、销售和抵押贷款承付率等，但没有提供更多细节。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7324957.d.html</link>
+            <guid>2242402</guid>
+            <pubDate>Fri, 16 Jul 2021 20:18:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国单日新增确诊病例过万】根据法国卫生部门16日晚公布的统计数据，法国24小时新增新冠肺炎确诊病例10908例，这是自5月29日以来单日新增病例首次超过1万例。截至当天，累计确诊病例5844249例；新增医院内死亡22例，累计死亡111480例；现有住院患者6971例，其中接受重症治疗899例。最近七天病毒检测结果呈阳性的比例上升至1.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5928112.d.html</link>
+            <guid>2242401</guid>
+            <pubDate>Fri, 16 Jul 2021 20:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国金融稳定监督委员会（FSOC）还讨论了关于气候变化金融风险的命令。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5928105.d.html</link>
+            <guid>2242400</guid>
+            <pubDate>Fri, 16 Jul 2021 20:12:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国金融稳定监督委员会（FSOC）听取了关于房价和抵押贷款延期的陈述。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5928037.d.html</link>
+            <guid>2242399</guid>
+            <pubDate>Fri, 16 Jul 2021 20:11:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  莫德纳收涨10%，创3月份以来最大单日涨幅，创收盘历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7324573.d.html</link>
+            <guid>2242398</guid>
+            <pubDate>Fri, 16 Jul 2021 20:09:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：确认俄罗斯评级为“BBB-/A-3”，前景展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7324537.d.html</link>
+            <guid>2242397</guid>
+            <pubDate>Fri, 16 Jul 2021 20:09:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[本周标普500指数累跌0.97%，道指累跌0.53%，纳指累跌1.87%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5927902.d.html</link>
+            <guid>2242396</guid>
+            <pubDate>Fri, 16 Jul 2021 20:09:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白宫：对通胀问题“绝非袖手旁观”】 白宫经济顾问委员会委员Jared Bernstein表示 ，白宫正在解决与港口、住房和微芯片相关的供给侧问题，供应紧张推高了价格。政府官员会见住宅建筑行业代表，试图解决导致房价创纪录上涨的住房供应短缺问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7324522.d.html</link>
+            <guid>2242395</guid>
+            <pubDate>Fri, 16 Jul 2021 20:09:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：中国和日本持有的美国国债在5月份均有所减少。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7324133.d.html</link>
+            <guid>2242394</guid>
+            <pubDate>Fri, 16 Jul 2021 20:01:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国5月外资净买入美国公债(亿美元)公布 -934，前值 496。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7324123.d.html</link>
+            <guid>2242393</guid>
+            <pubDate>Fri, 16 Jul 2021 20:01:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国5月国际资本净流入(亿美元)公布 1053，前值 1012。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7324107.d.html</link>
+            <guid>2242392</guid>
+            <pubDate>Fri, 16 Jul 2021 20:01:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国5月长期资本净流入(亿美元)公布 -302，前值 1007。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5927497.d.html</link>
+            <guid>2242391</guid>
+            <pubDate>Fri, 16 Jul 2021 20:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股三大股指集体收跌，道指初步收跌约300点；钢铁、银行、油气板块齐挫。]]></title>
+            <guid>2242390</guid>
+            <pubDate>Fri, 16 Jul 2021 20:00:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月13日当周，美元投机性净空头押注降至40.6亿美元，创2020年3月以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5927046.d.html</link>
+            <guid>2242389</guid>
+            <pubDate>Fri, 16 Jul 2021 19:53:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道指尾盘跌幅扩大至逾300点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7323384.d.html</link>
+            <guid>2242388</guid>
+            <pubDate>Fri, 16 Jul 2021 19:47:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月13日当周，投机者将CBOT美国10年期国债期货合约25593手净空头持仓转为55987手净多头持仓。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5926086.d.html</link>
+            <guid>2242387</guid>
+            <pubDate>Fri, 16 Jul 2021 19:36:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月13日当周，WTI原油期货投机性净多头头寸增加10661手至394574手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7322635.d.html</link>
+            <guid>2242386</guid>
+            <pubDate>Fri, 16 Jul 2021 19:33:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月13日当周，COMEX铜期货投机性净多头头寸减少2090手至30416手。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5925866.d.html</link>
@@ -424,185 +601,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5905190.d.html</link>
             <guid>2242315</guid>
             <pubDate>Fri, 16 Jul 2021 15:02:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  大商所、郑商所夜盘收盘，多数品种上涨，玻璃涨超3%，菜粕、棕榈等涨超2%，豆一、豆油等涨逾1%，PTA、郑醇等小幅上涨；仅淀粉、玉米等少数品种小幅下跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7301671.d.html</link>
-            <guid>2242314</guid>
-            <pubDate>Fri, 16 Jul 2021 15:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货铂金日内跌3%至1104美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5905012.d.html</link>
-            <guid>2242313</guid>
-            <pubDate>Fri, 16 Jul 2021 15:00:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场分析：疫情再度抬头 油价势创3月以来最大单周跌幅】随着美股走低和美指走强，油价在周五下跌，WTI原油期货本周目前跌约5.5%，近期的变种病毒对全球燃料消费的前景也造成威胁。因新冠病例的增加，英国、新加坡和美国洛杉矶等地都考虑采取新的限制措施。与此同时，阿联酋和沙特僵局的化解预计也会使得原油供应增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5904986.d.html</link>
-            <guid>2242312</guid>
-            <pubDate>Fri, 16 Jul 2021 15:00:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【日本央行推出绿色融资方案应对气候变化】日本央行16日宣布，为促进日本金融机构在应对气候变化领域的投融资，将实施一项绿色融资方案。根据方案，该行将向金融机构提供零利率贷款，支持其向企业发放绿色贷款或投资绿色债券。方案拟于今年内开始实施，直至2030财年末。日本央行当天还宣布，为应对新冠疫情、达成2%的通胀目标，将继续维持超宽松货币政策，将短期利率维持在负0.1%的水平，并通过购买长期国债，使长期利率维持在零左右，同时通过购买资产维护金融市场稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7301342.d.html</link>
-            <guid>2242311</guid>
-            <pubDate>Fri, 16 Jul 2021 14:58:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【斯里兰卡批准中国科兴新冠疫苗紧急使用】当地时间7月16日，斯里兰卡国家药品监管局宣布，批准中国北京科兴中维生物技术有限公司研发的“克尔来福”新冠灭活疫苗在该国紧急使用。科兴疫苗是继国药疫苗之后，斯里兰卡批准紧急使用的第二款中国新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5904762.d.html</link>
-            <guid>2242310</guid>
-            <pubDate>Fri, 16 Jul 2021 14:58:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利新增2898例新冠肺炎确诊病例，新增11例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7301206.d.html</link>
-            <guid>2242309</guid>
-            <pubDate>Fri, 16 Jul 2021 14:57:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科技股高处不胜寒 进一步上涨料需获得业绩支撑】纳斯达克100指数相对于标普500指数走强，随着美国科技公司陆续公布第二季度业绩，上涨空间料将有限。只有强劲的利润和业绩指引才有可能维持涨势。纳斯达克100和标普500指数的比值在5月13日触及年内低点后最高上涨6.9%，距离2月2日创下的历史高点只差3.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7301175.d.html</link>
-            <guid>2242308</guid>
-            <pubDate>Fri, 16 Jul 2021 14:56:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金日内下跌1%，至1810.89美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5904400.d.html</link>
-            <guid>2242307</guid>
-            <pubDate>Fri, 16 Jul 2021 14:54:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据英国天空新闻：英国官员认为，将很快做出关于是否将法国列入英国旅游红色名单的决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7300777.d.html</link>
-            <guid>2242306</guid>
-            <pubDate>Fri, 16 Jul 2021 14:52:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中证协对11家网下投资者采取自律措施，其中，对1家基金公司子公司、1家私募基金管理人暂停网下投资者资格三个月，对1家私募基金管理人、1家合格境外机构投资者暂停网下投资者资格一个月，对7家私募基金管理人予以警示。]]></title>
-            <guid>2242305</guid>
-            <pubDate>Fri, 16 Jul 2021 14:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南今年以来先后查处7宗典型违法房地产广告】记者16日从海南省住房和城乡建设厅召开的“关于房地产领域网络虚假宣传广告治理情况新闻通气会”上获悉，今年以来，海南各级市场监管部门先后对7宗典型违法房地产广告进行查处，共处罚286.54万元。近期该省再次进行排查，梳理出“不限购”、“不限贷”网络虚假宣传广告45条，目前正在依法依规处理。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7300111.d.html</link>
-            <guid>2242303</guid>
-            <pubDate>Fri, 16 Jul 2021 14:46:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南非股指下跌1.8％至日内低点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7299943.d.html</link>
-            <guid>2242302</guid>
-            <pubDate>Fri, 16 Jul 2021 14:44:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据美银借记卡和信用卡消费汇总数据，在强劲的6月之后，消费者踩下刹车，银行卡总消费在截至7月10日的当周放缓，较2020年同期仅增长12%，这是自新冠危机开始以来最慢的一年期增长；较2019年同期则上涨13%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5903319.d.html</link>
-            <guid>2242301</guid>
-            <pubDate>Fri, 16 Jul 2021 14:43:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银日内跌幅达2%，现报25.76美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5903134.d.html</link>
-            <guid>2242300</guid>
-            <pubDate>Fri, 16 Jul 2021 14:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：FELICIA飓风继续迅速增强，目前已升级为3级飓风。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5902502.d.html</link>
-            <guid>2242299</guid>
-            <pubDate>Fri, 16 Jul 2021 14:36:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  COMEX白银期货下跌2.0%，报25.86美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5902488.d.html</link>
-            <guid>2242298</guid>
-            <pubDate>Fri, 16 Jul 2021 14:36:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道指跌超100点，成分股陶氏化学跌超3%，雪佛龙、迪士尼、高盛、IBM、3M、波音跌超1.0%，家得宝和CRM仍然涨约0.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7298490.d.html</link>
-            <guid>2242297</guid>
-            <pubDate>Fri, 16 Jul 2021 14:30:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月密歇根大学一年期通胀预期飙升至4.8%，为2008年6月以来最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7298345.d.html</link>
-            <guid>2242296</guid>
-            <pubDate>Fri, 16 Jul 2021 14:29:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10年期国债收益率跌至日内低点1.307%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7298296.d.html</link>
-            <guid>2242295</guid>
-            <pubDate>Fri, 16 Jul 2021 14:28:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳元兑美元AUD/USD跌破0.74，为去年12月以来首次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5901625.d.html</link>
-            <guid>2242294</guid>
-            <pubDate>Fri, 16 Jul 2021 14:27:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：安哥拉9月将出口33船原油，低于8月的37船。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5901450.d.html</link>
-            <guid>2242293</guid>
-            <pubDate>Fri, 16 Jul 2021 14:25:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京东可信区块链推进计划银行业组成立】7月14日，可信区块链推进计划银行业组成立暨首次工作会在京召开，该组由中国银行业协会、中国信通院发起，联合国内多家银行业机构共同筹建，旨在围绕区块链在银行业的深入应用，通过开展区块链技术应用的研究和标准化，为银行业机构就区块链相关业务开展搭建沟通与合作的平台，为相关业务开展提供指引和参考，并降低相关风险，发挥沟通协调共建作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5901167.d.html</link>
-            <guid>2242292</guid>
-            <pubDate>Fri, 16 Jul 2021 14:23:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股部分热门中概股走低。好未来、高途跌超10%，雾芯科技跌8.7%，拼多多跌3%，爱奇艺、百度跌超2%，京东跌1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5901004.d.html</link>
-            <guid>2242291</guid>
-            <pubDate>Fri, 16 Jul 2021 14:21:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【岳阳林纸：收到湖南证监局《行政监管措施决定书》】岳阳林纸公告，公司于今日收到湖南证监局《行政监管措施决定书》，涉及控股股东违规占用资金等事项。对岳阳林纸和控股股东泰格林纸采取出具警示函措施决定，对叶蒙、李战、钟秋生、易兰锴采取监管谈话措施决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5900961.d.html</link>
-            <guid>2242290</guid>
-            <pubDate>Fri, 16 Jul 2021 14:21:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月密歇根大学消费者信心指数初值降至80.8，现况指数初值降至84.5，预期指数初值降至78.4。消费者购买情绪进一步崩溃，购房情绪为1982年以来最糟糕。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7297375.d.html</link>
-            <guid>2242289</guid>
-            <pubDate>Fri, 16 Jul 2021 14:19:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国铝业（AA）跌超5.0%，处于连续第四个交易日下跌之中，刷新6月22日以来盘中低点至32.78美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7297278.d.html</link>
-            <guid>2242288</guid>
-            <pubDate>Fri, 16 Jul 2021 14:18:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货钯金日内跌4%至2620.31美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5900609.d.html</link>
-            <guid>2242287</guid>
-            <pubDate>Fri, 16 Jul 2021 14:18:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD短线下挫25点，现报1.3786。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5900251.d.html</link>
-            <guid>2242286</guid>
-            <pubDate>Fri, 16 Jul 2021 14:13:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股全线转跌，道指跌0.1%，标普500指数跌0.09%，纳指跌0.08%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5900182.d.html</link>
-            <guid>2242285</guid>
-            <pubDate>Fri, 16 Jul 2021 14:13:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利10年期国债收益率跌至4月的新低0.696%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5900077.d.html</link>
-            <guid>2242284</guid>
-            <pubDate>Fri, 16 Jul 2021 14:11:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
