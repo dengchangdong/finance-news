@@ -4,11 +4,71 @@
         <title>新浪财经新闻</title>
         <link>https://news.dengchangdong.com/</link>
         <description>新浪最新财经新闻100条</description>
-        <lastBuildDate>Fri, 16 Jul 2021 18:44:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jul 2021 19:32:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://news.dengchangdong.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月13日当周，COMEX铜期货投机性净多头头寸减少2090手至30416手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5925866.d.html</link>
+            <guid>2242385</guid>
+            <pubDate>Fri, 16 Jul 2021 19:32:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月13日当周，COMEX白银期货投机性净多头头寸减少879手至34678手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5925863.d.html</link>
+            <guid>2242384</guid>
+            <pubDate>Fri, 16 Jul 2021 19:32:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月13日当周，COMEX黄金期货投机性净多头寸增加9986手至102989手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5925857.d.html</link>
+            <guid>2242383</guid>
+            <pubDate>Fri, 16 Jul 2021 19:32:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：以太坊联合创始人Anthony Di Iorio表示他将不再涉足加密货币领域，部分原因是出于个人安全考虑。Di Iorio拒绝透露自己持有的加密货币或净资产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5925849.d.html</link>
+            <guid>2242382</guid>
+            <pubDate>Fri, 16 Jul 2021 19:32:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国将继续把法国列入旅行隔离名单。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5925006.d.html</link>
+            <guid>2242381</guid>
+            <pubDate>Fri, 16 Jul 2021 19:17:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国与墨西哥和加拿大围绕汽车贸易跨境规则出现冲突，汽车制造商们告知美国总统拜登，这恐怕会危害到前总统特朗普撮合的美国墨西哥加拿大贸易协议（USMCA）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7321605.d.html</link>
+            <guid>2242380</guid>
+            <pubDate>Fri, 16 Jul 2021 19:16:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧佩克预计天然气凝析液在2021年和2022年将增长10万桶/日分别至平均520万桶/日和530万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5924917.d.html</link>
+            <guid>2242379</guid>
+            <pubDate>Fri, 16 Jul 2021 19:16:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收跌0.86%，报27780点，低水225点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7320652.d.html</link>
+            <guid>2242378</guid>
+            <pubDate>Fri, 16 Jul 2021 19:03:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非方面称只有在万不得已时才会宣布进入紧急状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7320116.d.html</link>
+            <guid>2242377</guid>
+            <pubDate>Fri, 16 Jul 2021 18:55:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：截至昨日，美国新冠肺炎确诊病例累计达33836677例，日前为33797400例。美国累计新冠肺炎死亡病例数升至606190例，此前一日为605905例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5922900.d.html</link>
+            <guid>2242376</guid>
+            <pubDate>Fri, 16 Jul 2021 18:48:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国共和党议员敦促拜登优先考虑数据隐私立法。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7319271.d.html</link>
@@ -543,66 +603,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5900077.d.html</link>
             <guid>2242284</guid>
             <pubDate>Fri, 16 Jul 2021 14:11:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线下挫6美元，现报1819.22美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7296705.d.html</link>
-            <guid>2242283</guid>
-            <pubDate>Fri, 16 Jul 2021 14:11:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油期货短线下挫，日内跌幅扩大至1%，现报72.63美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5900064.d.html</link>
-            <guid>2242282</guid>
-            <pubDate>Fri, 16 Jul 2021 14:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【神州信息主导制定的两项团体标准正式发布】近日，由神州信息主导制定的T/CESA 1075-2021《分布式平台联机事务处理通用技术要求》、T/CESA 1076-2021《信息化服务开放平台通用技术要求》两项团体标准通过中国电子工业标准化技术协会审批，正式对外发布。该两项标准的发布标志着神州信息在分布式平台和信息化服务开放平台领域的技术先进性得到了多方认可，进一步完善了企业数字化转型方面的标准化体系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5899810.d.html</link>
-            <guid>2242281</guid>
-            <pubDate>Fri, 16 Jul 2021 14:09:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油期货日内跌幅达1%，现报70.89美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5899786.d.html</link>
-            <guid>2242280</guid>
-            <pubDate>Fri, 16 Jul 2021 14:09:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国国债收益率延续下跌趋势，10年期国债收益率自3月底以来首次跌破-0.35%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7296248.d.html</link>
-            <guid>2242279</guid>
-            <pubDate>Fri, 16 Jul 2021 14:08:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月一年期通胀率预期录得4.8%，创2008年8月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7295632.d.html</link>
-            <guid>2242278</guid>
-            <pubDate>Fri, 16 Jul 2021 14:04:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[密歇根大学7月份消费者信心指数报80.8，预期为86.5。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7295214.d.html</link>
-            <guid>2242277</guid>
-            <pubDate>Fri, 16 Jul 2021 14:01:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【唐山港：控股股东唐港实业拟收购公司集装箱业务相关股权及资产】唐山港公告，公司于今日收到公司控股股东唐港实业发来的《唐山港口实业集团有限公司关于拟收购唐山港集团股份有限公司集装箱业务相关股权及资产的通知》。按照方案要求，唐港实业将注册成立控股子公司唐山港口集团国际集装箱发展有限公司(暂定名)，有效整合集装箱资源，涉及收购公司集装箱业务相关股权及资产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5898639.d.html</link>
-            <guid>2242276</guid>
-            <pubDate>Fri, 16 Jul 2021 14:01:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Moderna涨幅扩大至10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5898623.d.html</link>
-            <guid>2242275</guid>
-            <pubDate>Fri, 16 Jul 2021 14:00:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[   美国5月份商业库存增加0.5%，预估为0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5898559.d.html</link>
-            <guid>2242274</guid>
-            <pubDate>Fri, 16 Jul 2021 14:00:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
